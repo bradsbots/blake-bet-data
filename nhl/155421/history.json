@@ -1,0 +1,436 @@
+{
+  "sport": "nhl",
+  "slate": "155421",
+  "date": "2026-10-24",
+  "contest": {
+    "id": 197065626,
+    "label": "NHL $30K Overload [$10K to 1st]",
+    "entries": 1764
+  },
+  "generatedAt": "2026-10-25T14:41:20.978Z",
+  "winner": {
+    "rank": 1,
+    "name": "papas1175",
+    "points": 189.7,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44638209,
+        "name": "Connor McDavid",
+        "team": "EDM",
+        "pos": "C",
+        "salary": 9500,
+        "fpts": 15.8,
+        "own": 34.92
+      },
+      {
+        "slot": "C",
+        "id": 44638255,
+        "name": "Dylan Cozens",
+        "team": "OTT",
+        "pos": "C",
+        "salary": 4300,
+        "fpts": 17.8,
+        "own": 2.72
+      },
+      {
+        "slot": "W",
+        "id": 44638431,
+        "name": "Leon Draisaitl",
+        "team": "EDM",
+        "pos": "W",
+        "salary": 8900,
+        "fpts": 30.5,
+        "own": 27.09
+      },
+      {
+        "slot": "W",
+        "id": 44638505,
+        "name": "Drake Batherson",
+        "team": "OTT",
+        "pos": "W",
+        "salary": 5200,
+        "fpts": 43.6,
+        "own": 2.55
+      },
+      {
+        "slot": "W",
+        "id": 44638547,
+        "name": "Jordan Kyrou",
+        "team": "WSH",
+        "pos": "W",
+        "salary": 3600,
+        "fpts": 14.5,
+        "own": 5.56
+      },
+      {
+        "slot": "D",
+        "id": 44638917,
+        "name": "Jake Walman",
+        "team": "EDM",
+        "pos": "D",
+        "salary": 3300,
+        "fpts": 6,
+        "own": 1.42
+      },
+      {
+        "slot": "D",
+        "id": 44638977,
+        "name": "Frederic Brunet",
+        "team": "BOS",
+        "pos": "D",
+        "salary": 2700,
+        "fpts": 2.6,
+        "own": 2.16
+      },
+      {
+        "slot": "G",
+        "id": 44639211,
+        "name": "Devin Cooley",
+        "team": "CGY",
+        "pos": "G",
+        "salary": 7500,
+        "fpts": 22.1,
+        "own": 15.93
+      },
+      {
+        "slot": "UTIL",
+        "id": 44638241,
+        "name": "Dylan Strome",
+        "team": "WSH",
+        "pos": "C",
+        "salary": 5000,
+        "fpts": 36.8,
+        "own": 2.72
+      }
+    ]
+  },
+  "optimal": {
+    "points": 264.1,
+    "salary": 49700,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44638241,
+        "name": "Dylan Strome",
+        "team": "WSH",
+        "pos": "C",
+        "salary": 5000,
+        "fpts": 36.8,
+        "own": 2.72
+      },
+      {
+        "slot": "C",
+        "id": 44638319,
+        "name": "Berkly Catton",
+        "team": "SEA",
+        "pos": "C",
+        "salary": 2700,
+        "fpts": 19,
+        "own": 0.45
+      },
+      {
+        "slot": "W",
+        "id": 44638431,
+        "name": "Leon Draisaitl",
+        "team": "EDM",
+        "pos": "W",
+        "salary": 8900,
+        "fpts": 30.5,
+        "own": 27.09
+      },
+      {
+        "slot": "W",
+        "id": 44638505,
+        "name": "Drake Batherson",
+        "team": "OTT",
+        "pos": "W",
+        "salary": 5200,
+        "fpts": 43.6,
+        "own": 2.55
+      },
+      {
+        "slot": "W",
+        "id": 44638551,
+        "name": "Joel Farabee",
+        "team": "CGY",
+        "pos": "W",
+        "salary": 3500,
+        "fpts": 27.3,
+        "own": 7.09
+      },
+      {
+        "slot": "D",
+        "id": 44638831,
+        "name": "Jakob Chychrun",
+        "team": "WSH",
+        "pos": "D",
+        "salary": 6900,
+        "fpts": 25.5,
+        "own": 2.38
+      },
+      {
+        "slot": "D",
+        "id": 44638845,
+        "name": "Jake Sanderson",
+        "team": "OTT",
+        "pos": "D",
+        "salary": 5900,
+        "fpts": 25.8,
+        "own": 3.17
+      },
+      {
+        "slot": "G",
+        "id": 44639182,
+        "name": "Pyotr Kochetkov",
+        "team": "CAR",
+        "pos": "G",
+        "salary": 8300,
+        "fpts": 26.8,
+        "own": 1.08
+      },
+      {
+        "slot": "UTIL",
+        "id": 44638567,
+        "name": "Blake Coleman",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 3300,
+        "fpts": 28.8,
+        "own": 3.8
+      }
+    ],
+    "assumedZero": 197
+  },
+  "paper": {
+    "variant": "leverage",
+    "lineup": 8,
+    "finish": 46,
+    "pctile": 97.39,
+    "points": 147,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44638211,
+        "name": "Macklin Celebrini",
+        "team": "SJS",
+        "pos": "C",
+        "salary": 8600,
+        "fpts": 7.8,
+        "own": 4.88
+      },
+      {
+        "slot": "C",
+        "id": 44638287,
+        "name": "Elias Lindholm",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 3200,
+        "fpts": 13,
+        "own": 9.58
+      },
+      {
+        "slot": "W",
+        "id": 44638431,
+        "name": "Leon Draisaitl",
+        "team": "EDM",
+        "pos": "W",
+        "salary": 8900,
+        "fpts": 30.5,
+        "own": 27.09
+      },
+      {
+        "slot": "W",
+        "id": 44638491,
+        "name": "Alexis Lafreniere",
+        "team": "NYR",
+        "pos": "W",
+        "salary": 5900,
+        "fpts": 22,
+        "own": 3.12
+      },
+      {
+        "slot": "W",
+        "id": 44638617,
+        "name": "James Hagens",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 2800,
+        "fpts": 18,
+        "own": 7.03
+      },
+      {
+        "slot": "D",
+        "id": 44638829,
+        "name": "Evan Bouchard",
+        "team": "EDM",
+        "pos": "D",
+        "salary": 8000,
+        "fpts": 21.4,
+        "own": 16.33
+      },
+      {
+        "slot": "D",
+        "id": 44638957,
+        "name": "Declan Carlile",
+        "team": "PIT",
+        "pos": "D",
+        "salary": 2900,
+        "fpts": 2.8,
+        "own": 0.28
+      },
+      {
+        "slot": "G",
+        "id": 44639219,
+        "name": "Joel Hofer",
+        "team": "STL",
+        "pos": "G",
+        "salary": 7100,
+        "fpts": 13.5,
+        "own": 19.33
+      },
+      {
+        "slot": "UTIL",
+        "id": 44638687,
+        "name": "Casey Mittelstadt",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 2500,
+        "fpts": 18,
+        "own": 2.27
+      }
+    ],
+    "money": {
+      "fee": 20,
+      "one": {
+        "won": 30,
+        "net": 10
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 320,
+        "net": -80,
+        "cashed": 8
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "EDM": 3,
+        "OTT": 2,
+        "WSH": 2,
+        "BOS": 1,
+        "CGY": 1
+      },
+      "games": {
+        "TOR@EDM": 3,
+        "BUF@WSH": 2,
+        "NYR@OTT": 2,
+        "DET@CGY": 1,
+        "SJS@BOS": 1
+      },
+      "nGames": 5,
+      "lines": {
+        "EDM f1": 2,
+        "OTT f2": 2,
+        "WSH f2": 2
+      },
+      "pp": {
+        "EDM pp1": 2,
+        "OTT pp1": 2,
+        "WSH pp1": 2
+      },
+      "goalie": {
+        "team": "CGY",
+        "opposing": 0
+      },
+      "summary": [
+        "EDM 3 · OTT 2 · WSH 2",
+        "EDM f1 ×2",
+        "OTT f2 ×2",
+        "WSH f2 ×2",
+        "EDM pp1 ×2",
+        "OTT pp1 ×2",
+        "WSH pp1 ×2",
+        "G CGY",
+        "5 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "OTT": 2,
+        "WSH": 2,
+        "CAR": 1,
+        "CGY": 1,
+        "EDM": 1,
+        "MIN": 1,
+        "SEA": 1
+      },
+      "games": {
+        "BUF@WSH": 2,
+        "MIN@SEA": 2,
+        "NYR@OTT": 2,
+        "CAR@STL": 1,
+        "DET@CGY": 1,
+        "TOR@EDM": 1
+      },
+      "nGames": 6,
+      "lines": {},
+      "pp": {
+        "OTT pp1": 2,
+        "WSH pp1": 2
+      },
+      "goalie": {
+        "team": "CAR",
+        "opposing": 0
+      },
+      "summary": [
+        "OTT 2 · WSH 2",
+        "OTT pp1 ×2",
+        "WSH pp1 ×2",
+        "G CAR",
+        "6 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "BOS": 3,
+        "EDM": 2,
+        "NYR": 1,
+        "PIT": 1,
+        "SJS": 1,
+        "STL": 1
+      },
+      "games": {
+        "SJS@BOS": 4,
+        "TOR@EDM": 2,
+        "CAR@STL": 1,
+        "NSH@PIT": 1,
+        "NYR@OTT": 1
+      },
+      "nGames": 5,
+      "lines": {
+        "BOS f3": 3
+      },
+      "pp": {
+        "BOS pp2": 2,
+        "EDM pp1": 2
+      },
+      "goalie": {
+        "team": "STL",
+        "opposing": 0
+      },
+      "summary": [
+        "BOS 3 · EDM 2",
+        "BOS f3 ×3",
+        "BOS pp2 ×2",
+        "EDM pp1 ×2",
+        "G STL",
+        "5 games"
+      ]
+    }
+  }
+}

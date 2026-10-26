@@ -1,0 +1,420 @@
+{
+  "sport": "nhl",
+  "slate": "155429",
+  "date": "2026-10-25",
+  "contest": {
+    "id": 197065864,
+    "label": "NHL $15K Overload  [$5K to 1st]",
+    "entries": 882
+  },
+  "generatedAt": "2026-10-26T08:40:34.593Z",
+  "winner": {
+    "rank": 1,
+    "name": "I_Slewfoot_U (2/26)",
+    "points": 192.8,
+    "salary": 49500,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44653584,
+        "name": "Ryan O'Reilly",
+        "team": "NSH",
+        "pos": "C",
+        "salary": 5200,
+        "fpts": 41.8,
+        "own": 8.16
+      },
+      {
+        "slot": "C",
+        "id": 44653586,
+        "name": "Roope Hintz",
+        "team": "DAL",
+        "pos": "C",
+        "salary": 5100,
+        "fpts": 13,
+        "own": 12.25
+      },
+      {
+        "slot": "W",
+        "id": 44653660,
+        "name": "Jason Robertson",
+        "team": "DAL",
+        "pos": "W",
+        "salary": 7300,
+        "fpts": 24.1,
+        "own": 14.06
+      },
+      {
+        "slot": "W",
+        "id": 44653670,
+        "name": "Steven Stamkos",
+        "team": "NSH",
+        "pos": "W",
+        "salary": 6100,
+        "fpts": 32.3,
+        "own": 6.57
+      },
+      {
+        "slot": "W",
+        "id": 44653700,
+        "name": "Tyler Seguin",
+        "team": "DAL",
+        "pos": "W",
+        "salary": 3300,
+        "fpts": 16.5,
+        "own": 7.15
+      },
+      {
+        "slot": "D",
+        "id": 44653816,
+        "name": "Roman Josi",
+        "team": "NSH",
+        "pos": "D",
+        "salary": 6300,
+        "fpts": 25.3,
+        "own": 11.68
+      },
+      {
+        "slot": "D",
+        "id": 44653894,
+        "name": "Zeev Buium",
+        "team": "VAN",
+        "pos": "D",
+        "salary": 2500,
+        "fpts": 1.5,
+        "own": 3.06
+      },
+      {
+        "slot": "G",
+        "id": 44653959,
+        "name": "Justus Annunen",
+        "team": "NSH",
+        "pos": "G",
+        "salary": 7000,
+        "fpts": 12.3,
+        "own": 11.22
+      },
+      {
+        "slot": "UTIL",
+        "id": 44653666,
+        "name": "Filip Forsberg",
+        "team": "NSH",
+        "pos": "W",
+        "salary": 6700,
+        "fpts": 26,
+        "own": 6.58
+      }
+    ]
+  },
+  "optimal": {
+    "points": 227.6,
+    "salary": 49100,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44653584,
+        "name": "Ryan O'Reilly",
+        "team": "NSH",
+        "pos": "C",
+        "salary": 5200,
+        "fpts": 41.8,
+        "own": 8.16
+      },
+      {
+        "slot": "C",
+        "id": 44653650,
+        "name": "Michael McCarron",
+        "team": "MIN",
+        "pos": "C",
+        "salary": 2500,
+        "fpts": 16.8,
+        "own": 2.6
+      },
+      {
+        "slot": "W",
+        "id": 44653660,
+        "name": "Jason Robertson",
+        "team": "DAL",
+        "pos": "W",
+        "salary": 7300,
+        "fpts": 24.1,
+        "own": 14.06
+      },
+      {
+        "slot": "W",
+        "id": 44653666,
+        "name": "Filip Forsberg",
+        "team": "NSH",
+        "pos": "W",
+        "salary": 6700,
+        "fpts": 26,
+        "own": 6.58
+      },
+      {
+        "slot": "W",
+        "id": 44653670,
+        "name": "Steven Stamkos",
+        "team": "NSH",
+        "pos": "W",
+        "salary": 6100,
+        "fpts": 32.3,
+        "own": 6.57
+      },
+      {
+        "slot": "D",
+        "id": 44653830,
+        "name": "Thomas Harley",
+        "team": "DAL",
+        "pos": "D",
+        "salary": 4300,
+        "fpts": 17.7,
+        "own": 12.92
+      },
+      {
+        "slot": "D",
+        "id": 44653816,
+        "name": "Roman Josi",
+        "team": "NSH",
+        "pos": "D",
+        "salary": 6300,
+        "fpts": 25.3,
+        "own": 11.68
+      },
+      {
+        "slot": "G",
+        "id": 44653947,
+        "name": "Jacob Fowler",
+        "team": "MTL",
+        "pos": "G",
+        "salary": 7800,
+        "fpts": 25.6,
+        "own": 7.71
+      },
+      {
+        "slot": "UTIL",
+        "id": 44653718,
+        "name": "Max Shabanov",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 2900,
+        "fpts": 18,
+        "own": 11.79
+      }
+    ],
+    "assumedZero": 60
+  },
+  "paper": {
+    "variant": "leverage",
+    "lineup": 9,
+    "finish": 58,
+    "pctile": 93.42,
+    "points": 134.7,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44653584,
+        "name": "Ryan O'Reilly",
+        "team": "NSH",
+        "pos": "C",
+        "salary": 5200,
+        "fpts": 41.8,
+        "own": 8.16
+      },
+      {
+        "slot": "C",
+        "id": 44653620,
+        "name": "Fedor Svechkov",
+        "team": "COL",
+        "pos": "C",
+        "salary": 2600,
+        "fpts": 0,
+        "own": 3.86
+      },
+      {
+        "slot": "W",
+        "id": 44653672,
+        "name": "Cole Perfetti",
+        "team": "WPG",
+        "pos": "W",
+        "salary": 5400,
+        "fpts": 6,
+        "own": 12.92
+      },
+      {
+        "slot": "W",
+        "id": 44653670,
+        "name": "Steven Stamkos",
+        "team": "NSH",
+        "pos": "W",
+        "salary": 6100,
+        "fpts": 32.3,
+        "own": 6.57
+      },
+      {
+        "slot": "W",
+        "id": 44653714,
+        "name": "Matthew Wood",
+        "team": "NSH",
+        "pos": "W",
+        "salary": 2900,
+        "fpts": 4.5,
+        "own": 5.89
+      },
+      {
+        "slot": "D",
+        "id": 44653824,
+        "name": "Neal Pionk",
+        "team": "WPG",
+        "pos": "D",
+        "salary": 4900,
+        "fpts": 5.8,
+        "own": 12.02
+      },
+      {
+        "slot": "D",
+        "id": 44653816,
+        "name": "Roman Josi",
+        "team": "NSH",
+        "pos": "D",
+        "salary": 6300,
+        "fpts": 25.3,
+        "own": 11.68
+      },
+      {
+        "slot": "G",
+        "id": 44653945,
+        "name": "Calvin Pickard",
+        "team": "MIN",
+        "pos": "G",
+        "salary": 8200,
+        "fpts": 9.5,
+        "own": 4.88
+      },
+      {
+        "slot": "UTIL",
+        "id": 44653654,
+        "name": "Matt Boldy",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 8400,
+        "fpts": 9.5,
+        "own": 33
+      }
+    ],
+    "money": {
+      "fee": 20,
+      "one": {
+        "won": 0,
+        "net": -20
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 300,
+        "net": -100,
+        "cashed": 10
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "NSH": 5,
+        "DAL": 3,
+        "VAN": 1
+      },
+      "games": {
+        "COL@NSH": 5,
+        "NYI@DAL": 3,
+        "MIN@VAN": 1
+      },
+      "nGames": 3,
+      "lines": {
+        "DAL f2": 3,
+        "NSH f1": 2
+      },
+      "pp": {
+        "NSH pp1": 4,
+        "DAL pp1": 2
+      },
+      "goalie": {
+        "team": "NSH",
+        "opposing": 0
+      },
+      "summary": [
+        "NSH 5 · DAL 3",
+        "DAL f2 ×3",
+        "NSH f1 ×2",
+        "NSH pp1 ×4",
+        "DAL pp1 ×2",
+        "G NSH",
+        "3 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "NSH": 4,
+        "DAL": 2,
+        "MIN": 2,
+        "MTL": 1
+      },
+      "games": {
+        "COL@NSH": 4,
+        "MIN@VAN": 2,
+        "NYI@DAL": 2,
+        "MTL@WPG": 1
+      },
+      "nGames": 4,
+      "lines": {
+        "NSH f1": 2
+      },
+      "pp": {
+        "NSH pp1": 4
+      },
+      "goalie": {
+        "team": "MTL",
+        "opposing": 0
+      },
+      "summary": [
+        "NSH 4 · DAL 2 · MIN 2",
+        "NSH f1 ×2",
+        "NSH pp1 ×4",
+        "G MTL",
+        "4 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "NSH": 4,
+        "MIN": 2,
+        "WPG": 2,
+        "COL": 1
+      },
+      "games": {
+        "COL@NSH": 5,
+        "MIN@VAN": 2,
+        "MTL@WPG": 2
+      },
+      "nGames": 3,
+      "lines": {
+        "NSH f1": 3
+      },
+      "pp": {
+        "NSH pp1": 3,
+        "WPG pp1": 2
+      },
+      "goalie": {
+        "team": "MIN",
+        "opposing": 0
+      },
+      "summary": [
+        "NSH 4 · MIN 2 · WPG 2",
+        "NSH f1 ×3",
+        "NSH pp1 ×3",
+        "WPG pp1 ×2",
+        "G MIN",
+        "3 games"
+      ]
+    }
+  }
+}

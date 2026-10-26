@@ -1,0 +1,411 @@
+{
+  "sport": "nfl",
+  "slate": "155198",
+  "date": "2026-10-25",
+  "contest": {
+    "id": 196905290,
+    "label": "NFL $2.5M Fantasy Football Millionaire [$1M to 1st, $100K Leaderboard Eligible]",
+    "entries": 147058
+  },
+  "generatedAt": "2026-10-26T08:40:26.322Z",
+  "winner": {
+    "rank": 1,
+    "name": "dfs_ads (15/150)",
+    "points": 225.42,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "QB",
+        "id": 44556885,
+        "name": "Jared Goff",
+        "team": "DET",
+        "pos": "QB",
+        "salary": 6800,
+        "fpts": 22.02,
+        "own": 5.48
+      },
+      {
+        "slot": "RB",
+        "id": 44556978,
+        "name": "Braelon Allen",
+        "team": "NYJ",
+        "pos": "RB",
+        "salary": 5900,
+        "fpts": 22.4,
+        "own": 19.48
+      },
+      {
+        "slot": "RB",
+        "id": 44556994,
+        "name": "Tony Pollard",
+        "team": "TEN",
+        "pos": "RB",
+        "salary": 5300,
+        "fpts": 39.5,
+        "own": 4.38
+      },
+      {
+        "slot": "WR",
+        "id": 44557188,
+        "name": "Amon-Ra St. Brown",
+        "team": "DET",
+        "pos": "WR",
+        "salary": 7800,
+        "fpts": 27.2,
+        "own": 19.24
+      },
+      {
+        "slot": "WR",
+        "id": 44557204,
+        "name": "Tee Higgins",
+        "team": "CIN",
+        "pos": "WR",
+        "salary": 6600,
+        "fpts": 29.8,
+        "own": 5.87
+      },
+      {
+        "slot": "WR",
+        "id": 44557218,
+        "name": "Jameson Williams",
+        "team": "DET",
+        "pos": "WR",
+        "salary": 5800,
+        "fpts": 26.1,
+        "own": 8.87
+      },
+      {
+        "slot": "TE",
+        "id": 44557602,
+        "name": "Colby Parkinson",
+        "team": "LAR",
+        "pos": "TE",
+        "salary": 3000,
+        "fpts": 9.8,
+        "own": 3.88
+      },
+      {
+        "slot": "FLEX",
+        "id": 44556968,
+        "name": "Ashton Jeanty",
+        "team": "LV",
+        "pos": "RB",
+        "salary": 6500,
+        "fpts": 21.6,
+        "own": 6.48
+      },
+      {
+        "slot": "DST",
+        "id": 44557818,
+        "name": "Buccaneers",
+        "team": "TB",
+        "pos": "DST",
+        "salary": 2200,
+        "fpts": 27,
+        "own": 4.62
+      }
+    ]
+  },
+  "optimal": {
+    "points": 264.68,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "QB",
+        "id": 44556884,
+        "name": "Joe Burrow",
+        "team": "CIN",
+        "pos": "QB",
+        "salary": 6900,
+        "fpts": 28.88,
+        "own": 3.56
+      },
+      {
+        "slot": "RB",
+        "id": 44556974,
+        "name": "Bucky Irving",
+        "team": "TB",
+        "pos": "RB",
+        "salary": 6100,
+        "fpts": 27,
+        "own": 14.57
+      },
+      {
+        "slot": "RB",
+        "id": 44556994,
+        "name": "Tony Pollard",
+        "team": "TEN",
+        "pos": "RB",
+        "salary": 5300,
+        "fpts": 39.5,
+        "own": 4.38
+      },
+      {
+        "slot": "WR",
+        "id": 44557200,
+        "name": "Zay Flowers",
+        "team": "BAL",
+        "pos": "WR",
+        "salary": 6900,
+        "fpts": 30.7,
+        "own": 3.98
+      },
+      {
+        "slot": "WR",
+        "id": 44557204,
+        "name": "Tee Higgins",
+        "team": "CIN",
+        "pos": "WR",
+        "salary": 6600,
+        "fpts": 29.8,
+        "own": 5.87
+      },
+      {
+        "slot": "WR",
+        "id": 44557248,
+        "name": "KC Concepcion Jr.",
+        "team": "CLE",
+        "pos": "WR",
+        "salary": 4400,
+        "fpts": 26.2,
+        "own": 5.02
+      },
+      {
+        "slot": "TE",
+        "id": 44557566,
+        "name": "Trey McBride",
+        "team": "ARI",
+        "pos": "TE",
+        "salary": 7400,
+        "fpts": 30.1,
+        "own": 1.93
+      },
+      {
+        "slot": "FLEX",
+        "id": 44557256,
+        "name": "Omar Cooper Jr.",
+        "team": "NYJ",
+        "pos": "WR",
+        "salary": 4100,
+        "fpts": 25.5,
+        "own": 5.31
+      },
+      {
+        "slot": "DST",
+        "id": 44557818,
+        "name": "Buccaneers",
+        "team": "TB",
+        "pos": "DST",
+        "salary": 2200,
+        "fpts": 27,
+        "own": 4.62
+      }
+    ],
+    "assumedZero": 185
+  },
+  "paper": {
+    "variant": "user",
+    "lineup": 31,
+    "finish": 19486,
+    "pctile": 86.71,
+    "points": 137.06,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "QB",
+        "id": 44556889,
+        "name": "Jordan Love",
+        "team": "GB",
+        "pos": "QB",
+        "salary": 6000,
+        "fpts": 17.96,
+        "own": 28.26
+      },
+      {
+        "slot": "RB",
+        "id": 44556952,
+        "name": "Jahmyr Gibbs",
+        "team": "DET",
+        "pos": "RB",
+        "salary": 9800,
+        "fpts": 21.3,
+        "own": 35.39
+      },
+      {
+        "slot": "RB",
+        "id": 44556960,
+        "name": "Christian McCaffrey",
+        "team": "SF",
+        "pos": "RB",
+        "salary": 7600,
+        "fpts": 22,
+        "own": 38.3
+      },
+      {
+        "slot": "WR",
+        "id": 44557216,
+        "name": "Matthew Golden",
+        "team": "GB",
+        "pos": "WR",
+        "salary": 6000,
+        "fpts": 9.9,
+        "own": 39.39
+      },
+      {
+        "slot": "WR",
+        "id": 44557250,
+        "name": "Chris Godwin Jr.",
+        "team": "TB",
+        "pos": "WR",
+        "salary": 4300,
+        "fpts": 6.7,
+        "own": 14.46
+      },
+      {
+        "slot": "WR",
+        "id": 44557270,
+        "name": "Jahan Dotson",
+        "team": "ATL",
+        "pos": "WR",
+        "salary": 3700,
+        "fpts": 1.6,
+        "own": 2.13
+      },
+      {
+        "slot": "TE",
+        "id": 44557568,
+        "name": "George Kittle",
+        "team": "SF",
+        "pos": "TE",
+        "salary": 5700,
+        "fpts": 15.8,
+        "own": 25.95
+      },
+      {
+        "slot": "FLEX",
+        "id": 44557576,
+        "name": "Tucker Kraft",
+        "team": "GB",
+        "pos": "TE",
+        "salary": 4700,
+        "fpts": 14.8,
+        "own": 20.51
+      },
+      {
+        "slot": "DST",
+        "id": 44557818,
+        "name": "Buccaneers",
+        "team": "TB",
+        "pos": "DST",
+        "salary": 2200,
+        "fpts": 27,
+        "own": 4.62
+      }
+    ],
+    "money": {
+      "fee": 20,
+      "one": {
+        "won": 0,
+        "net": -20
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 70,
+        "net": -330,
+        "cashed": 2
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "DET": 3,
+        "CIN": 1,
+        "LAR": 1,
+        "LV": 1,
+        "NYJ": 1,
+        "TB": 1,
+        "TEN": 1
+      },
+      "games": {
+        "GB@DET": 3,
+        "LAR@LV": 2,
+        "CIN@BAL": 1,
+        "CLE@TEN": 1,
+        "MIA@NYJ": 1,
+        "TB@CAR": 1
+      },
+      "nGames": 6,
+      "qb": {
+        "team": "DET",
+        "catchers": 2,
+        "bringBack": 0
+      },
+      "rbDst": [],
+      "summary": [
+        "QB DET + 2",
+        "DET 3",
+        "6 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "CIN": 2,
+        "TB": 2,
+        "ARI": 1,
+        "BAL": 1,
+        "CLE": 1,
+        "NYJ": 1,
+        "TEN": 1
+      },
+      "games": {
+        "CIN@BAL": 3,
+        "CLE@TEN": 2,
+        "TB@CAR": 2,
+        "DEN@ARI": 1,
+        "MIA@NYJ": 1
+      },
+      "nGames": 5,
+      "qb": {
+        "team": "CIN",
+        "catchers": 1,
+        "bringBack": 1
+      },
+      "rbDst": [
+        "TB"
+      ],
+      "summary": [
+        "QB CIN + 1 · bring-back 1",
+        "RB+DST TB",
+        "CIN 2 · TB 2",
+        "5 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "GB": 3,
+        "SF": 2,
+        "TB": 2,
+        "ATL": 1,
+        "DET": 1
+      },
+      "games": {
+        "GB@DET": 4,
+        "SF@ATL": 3,
+        "TB@CAR": 2
+      },
+      "nGames": 3,
+      "qb": {
+        "team": "GB",
+        "catchers": 2,
+        "bringBack": 1
+      },
+      "rbDst": [],
+      "summary": [
+        "QB GB + 2 · bring-back 1",
+        "GB 3 · SF 2 · TB 2",
+        "3 games"
+      ]
+    }
+  }
+}

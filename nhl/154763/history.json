@@ -1,0 +1,421 @@
+{
+  "sport": "nhl",
+  "slate": "154763",
+  "date": "2026-10-17",
+  "contest": {
+    "id": 196799958,
+    "label": "NHL $40K Kick Save [$10K to 1st] ",
+    "entries": 3137
+  },
+  "generatedAt": "2026-10-20T20:47:02.018Z",
+  "winner": {
+    "rank": 1,
+    "name": "fjbourne (80/94)",
+    "points": 190.9,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44537900,
+        "name": "Macklin Celebrini",
+        "team": "SJS",
+        "pos": "C",
+        "salary": 8400,
+        "fpts": 36.3,
+        "own": 12.53
+      },
+      {
+        "slot": "C",
+        "id": 44538004,
+        "name": "Emmitt Finnie",
+        "team": "DET",
+        "pos": "C",
+        "salary": 2800,
+        "fpts": 32.4,
+        "own": 8.45
+      },
+      {
+        "slot": "W",
+        "id": 44538100,
+        "name": "Leon Draisaitl",
+        "team": "EDM",
+        "pos": "W",
+        "salary": 8900,
+        "fpts": 15,
+        "own": 6.82
+      },
+      {
+        "slot": "W",
+        "id": 44538254,
+        "name": "Michael Brandsegg-Nygard",
+        "team": "DET",
+        "pos": "W",
+        "salary": 3100,
+        "fpts": 6.3,
+        "own": 8.26
+      },
+      {
+        "slot": "W",
+        "id": 44538334,
+        "name": "Michael Rasmussen",
+        "team": "DET",
+        "pos": "W",
+        "salary": 2600,
+        "fpts": 13.4,
+        "own": 0.67
+      },
+      {
+        "slot": "D",
+        "id": 44538558,
+        "name": "Mattias Ekholm",
+        "team": "EDM",
+        "pos": "D",
+        "salary": 3900,
+        "fpts": 7.8,
+        "own": 1.05
+      },
+      {
+        "slot": "D",
+        "id": 44538602,
+        "name": "Justin Faulk",
+        "team": "DET",
+        "pos": "D",
+        "salary": 3200,
+        "fpts": 17.1,
+        "own": 6.32
+      },
+      {
+        "slot": "G",
+        "id": 44538869,
+        "name": "Jake Oettinger",
+        "team": "DAL",
+        "pos": "G",
+        "salary": 7700,
+        "fpts": 23.3,
+        "own": 7.81
+      },
+      {
+        "slot": "UTIL",
+        "id": 44537898,
+        "name": "Connor McDavid",
+        "team": "EDM",
+        "pos": "C",
+        "salary": 9400,
+        "fpts": 39.3,
+        "own": 9.97
+      }
+    ]
+  },
+  "optimal": {
+    "points": 246.8,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44537900,
+        "name": "Macklin Celebrini",
+        "team": "SJS",
+        "pos": "C",
+        "salary": 8400,
+        "fpts": 36.3,
+        "own": 12.53
+      },
+      {
+        "slot": "C",
+        "id": 44538004,
+        "name": "Emmitt Finnie",
+        "team": "DET",
+        "pos": "C",
+        "salary": 2800,
+        "fpts": 32.4,
+        "own": 8.45
+      },
+      {
+        "slot": "W",
+        "id": 44538108,
+        "name": "Jason Robertson",
+        "team": "DAL",
+        "pos": "W",
+        "salary": 7500,
+        "fpts": 27,
+        "own": 13.07
+      },
+      {
+        "slot": "W",
+        "id": 44538224,
+        "name": "Trevor Zegras",
+        "team": "PHI",
+        "pos": "W",
+        "salary": 3400,
+        "fpts": 21.6,
+        "own": 3.44
+      },
+      {
+        "slot": "W",
+        "id": 44538290,
+        "name": "Simon Holmstrom",
+        "team": "NYI",
+        "pos": "W",
+        "salary": 2800,
+        "fpts": 20,
+        "own": 3.35
+      },
+      {
+        "slot": "D",
+        "id": 44538516,
+        "name": "Moritz Seider",
+        "team": "DET",
+        "pos": "D",
+        "salary": 6100,
+        "fpts": 21.2,
+        "own": 6.19
+      },
+      {
+        "slot": "D",
+        "id": 44538760,
+        "name": "Joel Edmundson",
+        "team": "LAK",
+        "pos": "D",
+        "salary": 2500,
+        "fpts": 18.7,
+        "own": 0.83
+      },
+      {
+        "slot": "G",
+        "id": 44538889,
+        "name": "Jet Greaves",
+        "team": "CBJ",
+        "pos": "G",
+        "salary": 7100,
+        "fpts": 30.3,
+        "own": 6.63
+      },
+      {
+        "slot": "UTIL",
+        "id": 44537898,
+        "name": "Connor McDavid",
+        "team": "EDM",
+        "pos": "C",
+        "salary": 9400,
+        "fpts": 39.3,
+        "own": 9.97
+      }
+    ],
+    "assumedZero": 173
+  },
+  "paper": {
+    "variant": "stack",
+    "lineup": 6,
+    "finish": 673,
+    "pctile": 78.58,
+    "points": 116.5,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44537900,
+        "name": "Macklin Celebrini",
+        "team": "SJS",
+        "pos": "C",
+        "salary": 8400,
+        "fpts": 36.3,
+        "own": 12.53
+      },
+      {
+        "slot": "C",
+        "id": 44537906,
+        "name": "Tage Thompson",
+        "team": "BUF",
+        "pos": "C",
+        "salary": 7800,
+        "fpts": 20.3,
+        "own": 5.07
+      },
+      {
+        "slot": "W",
+        "id": 44538150,
+        "name": "Will Smith",
+        "team": "SJS",
+        "pos": "W",
+        "salary": 5700,
+        "fpts": 11,
+        "own": 9.24
+      },
+      {
+        "slot": "W",
+        "id": 44538236,
+        "name": "Igor Chernyshov",
+        "team": "SJS",
+        "pos": "W",
+        "salary": 3300,
+        "fpts": 2.8,
+        "own": 3.47
+      },
+      {
+        "slot": "W",
+        "id": 44538326,
+        "name": "James Hagens",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 2600,
+        "fpts": 4.3,
+        "own": 0.89
+      },
+      {
+        "slot": "D",
+        "id": 44538576,
+        "name": "Vladislav Gavrikov",
+        "team": "NYR",
+        "pos": "D",
+        "salary": 3600,
+        "fpts": 5.8,
+        "own": 1.18
+      },
+      {
+        "slot": "D",
+        "id": 44538672,
+        "name": "Samuel Girard",
+        "team": "PIT",
+        "pos": "D",
+        "salary": 2800,
+        "fpts": 2.6,
+        "own": 0.54
+      },
+      {
+        "slot": "G",
+        "id": 44538875,
+        "name": "Ilya Sorokin",
+        "team": "NYI",
+        "pos": "G",
+        "salary": 7500,
+        "fpts": 22.1,
+        "own": 7.2
+      },
+      {
+        "slot": "UTIL",
+        "id": 44537902,
+        "name": "Jack Eichel",
+        "team": "VGK",
+        "pos": "C",
+        "salary": 8300,
+        "fpts": 11.3,
+        "own": 13.36
+      }
+    ],
+    "money": {
+      "fee": 15,
+      "one": {
+        "won": 0,
+        "net": -15
+      },
+      "portfolio": null
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "DET": 4,
+        "EDM": 3,
+        "DAL": 1,
+        "SJS": 1
+      },
+      "games": {
+        "SJS@DET": 5,
+        "EDM@UTA": 3,
+        "DAL@CHI": 1
+      },
+      "nGames": 3,
+      "lines": {
+        "DET f2": 2,
+        "EDM f1": 2
+      },
+      "pp": {
+        "DET pp2": 4,
+        "EDM pp1": 2
+      },
+      "goalie": {
+        "team": "DAL",
+        "opposing": 0
+      },
+      "summary": [
+        "DET 4 · EDM 3",
+        "DET f2 ×2",
+        "EDM f1 ×2",
+        "DET pp2 ×4",
+        "EDM pp1 ×2",
+        "G DAL",
+        "3 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "DET": 2,
+        "CBJ": 1,
+        "DAL": 1,
+        "EDM": 1,
+        "LAK": 1,
+        "NYI": 1,
+        "PHI": 1,
+        "SJS": 1
+      },
+      "games": {
+        "SJS@DET": 3,
+        "BOS@LAK": 1,
+        "DAL@CHI": 1,
+        "EDM@UTA": 1,
+        "NYI@TOR": 1,
+        "NYR@CBJ": 1,
+        "OTT@PHI": 1
+      },
+      "nGames": 7,
+      "lines": {},
+      "pp": {},
+      "goalie": {
+        "team": "CBJ",
+        "opposing": 0
+      },
+      "summary": [
+        "DET 2",
+        "G CBJ",
+        "7 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "SJS": 3,
+        "BOS": 1,
+        "BUF": 1,
+        "NYI": 1,
+        "NYR": 1,
+        "PIT": 1,
+        "VGK": 1
+      },
+      "games": {
+        "SJS@DET": 3,
+        "PIT@VGK": 2,
+        "BOS@LAK": 1,
+        "BUF@MTL": 1,
+        "NYI@TOR": 1,
+        "NYR@CBJ": 1
+      },
+      "nGames": 6,
+      "lines": {
+        "SJS f1": 3
+      },
+      "pp": {
+        "SJS pp1": 2
+      },
+      "goalie": {
+        "team": "NYI",
+        "opposing": 0
+      },
+      "summary": [
+        "SJS 3",
+        "SJS f1 ×3",
+        "SJS pp1 ×2",
+        "G NYI",
+        "6 games"
+      ]
+    }
+  }
+}

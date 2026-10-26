@@ -1,0 +1,278 @@
+{
+  "sport": "nhl",
+  "slate": "154742",
+  "date": "2026-10-14",
+  "contest": {
+    "id": 196706949,
+    "label": "NHL $60K Kick Save [$20K to 1st] $15",
+    "entries": 4580
+  },
+  "generatedAt": "2026-10-17T12:08:36.623Z",
+  "winner": null,
+  "optimal": {
+    "points": 178.8,
+    "salary": 40800,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44495903,
+        "name": "Alex Newhook",
+        "team": "MTL",
+        "pos": "C",
+        "salary": 3100,
+        "fpts": 15.8,
+        "own": 8.31
+      },
+      {
+        "slot": "C",
+        "id": 44495915,
+        "name": "Arttu Hyry",
+        "team": "DAL",
+        "pos": "C",
+        "salary": 2500,
+        "fpts": 13.5,
+        "own": 1.5
+      },
+      {
+        "slot": "W",
+        "id": 44495933,
+        "name": "Alex Tuch",
+        "team": "WSH",
+        "pos": "W",
+        "salary": 6800,
+        "fpts": 31.5,
+        "own": 14.19
+      },
+      {
+        "slot": "W",
+        "id": 44495955,
+        "name": "Jordan Kyrou",
+        "team": "WSH",
+        "pos": "W",
+        "salary": 3900,
+        "fpts": 18,
+        "own": 12.36
+      },
+      {
+        "slot": "W",
+        "id": 44495985,
+        "name": "Josh Anderson",
+        "team": "MTL",
+        "pos": "W",
+        "salary": 2500,
+        "fpts": 21.5,
+        "own": 5
+      },
+      {
+        "slot": "D",
+        "id": 44496003,
+        "name": "Lane Hutson",
+        "team": "MTL",
+        "pos": "D",
+        "salary": 5600,
+        "fpts": 19.3,
+        "own": 29.76
+      },
+      {
+        "slot": "D",
+        "id": 44496005,
+        "name": "Noah Dobson",
+        "team": "MTL",
+        "pos": "D",
+        "salary": 4700,
+        "fpts": 23.7,
+        "own": 17.51
+      },
+      {
+        "slot": "G",
+        "id": 44496063,
+        "name": "Casey DeSmith",
+        "team": "DAL",
+        "pos": "G",
+        "salary": 7500,
+        "fpts": 16.5,
+        "own": 25.61
+      },
+      {
+        "slot": "UTIL",
+        "id": 44496007,
+        "name": "Thomas Harley",
+        "team": "DAL",
+        "pos": "D",
+        "salary": 4200,
+        "fpts": 19,
+        "own": 15.04
+      }
+    ],
+    "assumedZero": 15
+  },
+  "paper": {
+    "variant": "stack",
+    "lineup": 5,
+    "finish": 208,
+    "pctile": 95.48,
+    "points": 107.1,
+    "salary": 49600,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44495897,
+        "name": "Dylan Strome",
+        "team": "WSH",
+        "pos": "C",
+        "salary": 4500,
+        "fpts": 2.8,
+        "own": 26.68
+      },
+      {
+        "slot": "C",
+        "id": 44495925,
+        "name": "Phillip Danault",
+        "team": "MTL",
+        "pos": "C",
+        "salary": 2500,
+        "fpts": 1.5,
+        "own": 2.42
+      },
+      {
+        "slot": "W",
+        "id": 44495927,
+        "name": "Cole Caufield",
+        "team": "MTL",
+        "pos": "W",
+        "salary": 7400,
+        "fpts": 0,
+        "own": 36.31
+      },
+      {
+        "slot": "W",
+        "id": 44495933,
+        "name": "Alex Tuch",
+        "team": "WSH",
+        "pos": "W",
+        "salary": 6800,
+        "fpts": 31.5,
+        "own": 14.19
+      },
+      {
+        "slot": "W",
+        "id": 44495939,
+        "name": "Juraj Slafkovsky",
+        "team": "MTL",
+        "pos": "W",
+        "salary": 5700,
+        "fpts": 6,
+        "own": 30.96
+      },
+      {
+        "slot": "D",
+        "id": 44496003,
+        "name": "Lane Hutson",
+        "team": "MTL",
+        "pos": "D",
+        "salary": 5600,
+        "fpts": 19.3,
+        "own": 29.76
+      },
+      {
+        "slot": "D",
+        "id": 44496007,
+        "name": "Thomas Harley",
+        "team": "DAL",
+        "pos": "D",
+        "salary": 4200,
+        "fpts": 19,
+        "own": 15.04
+      },
+      {
+        "slot": "G",
+        "id": 44496063,
+        "name": "Casey DeSmith",
+        "team": "DAL",
+        "pos": "G",
+        "salary": 7500,
+        "fpts": 16.5,
+        "own": 25.61
+      },
+      {
+        "slot": "UTIL",
+        "id": 44495941,
+        "name": "Tom Wilson",
+        "team": "WSH",
+        "pos": "W",
+        "salary": 5400,
+        "fpts": 10.5,
+        "own": 18.76
+      }
+    ]
+  },
+  "stacks": {
+    "winner": null,
+    "optimal": {
+      "teams": {
+        "MTL": 4,
+        "DAL": 3,
+        "WSH": 2
+      },
+      "games": {
+        "MTL@WSH": 6,
+        "DAL@COL": 3
+      },
+      "nGames": 2,
+      "lines": {
+        "MTL f2": 2,
+        "WSH f1": 2
+      },
+      "pp": {
+        "MTL pp2": 2,
+        "WSH pp2": 2
+      },
+      "goalie": {
+        "team": "DAL",
+        "opposing": 0
+      },
+      "summary": [
+        "MTL 4 · DAL 3 · WSH 2",
+        "MTL f2 ×2",
+        "WSH f1 ×2",
+        "MTL pp2 ×2",
+        "WSH pp2 ×2",
+        "G DAL",
+        "2 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "MTL": 4,
+        "WSH": 3,
+        "DAL": 2
+      },
+      "games": {
+        "MTL@WSH": 7,
+        "DAL@COL": 2
+      },
+      "nGames": 2,
+      "lines": {
+        "MTL f1": 2,
+        "WSH f1": 2
+      },
+      "pp": {
+        "MTL pp1": 3,
+        "WSH pp1": 2
+      },
+      "goalie": {
+        "team": "DAL",
+        "opposing": 0
+      },
+      "summary": [
+        "MTL 4 · WSH 3 · DAL 2",
+        "MTL f1 ×2",
+        "WSH f1 ×2",
+        "MTL pp1 ×3",
+        "WSH pp1 ×2",
+        "G DAL",
+        "2 games"
+      ]
+    }
+  }
+}

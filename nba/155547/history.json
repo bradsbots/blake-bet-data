@@ -1,0 +1,237 @@
+{
+  "sport": "nba",
+  "slate": "155547",
+  "date": "2026-10-23",
+  "contest": {
+    "id": 197052786,
+    "label": "NBA $300K Friday 8's [$100K to 1st]",
+    "entries": 44117
+  },
+  "generatedAt": "2026-10-24T08:40:15.946Z",
+  "winner": {
+    "rank": 1,
+    "name": "astella2004 (14/20)",
+    "points": 339.75,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44630402,
+        "name": "Jalen Suggs",
+        "team": "ORL",
+        "pos": "PG",
+        "salary": 5300,
+        "fpts": 33.5,
+        "own": 29.22
+      },
+      {
+        "slot": "SG",
+        "id": 44630348,
+        "name": "RJ Barrett",
+        "team": "TOR",
+        "pos": "SG",
+        "salary": 6200,
+        "fpts": 42.75,
+        "own": 14.59
+      },
+      {
+        "slot": "SF",
+        "id": 44630306,
+        "name": "Franz Wagner",
+        "team": "ORL",
+        "pos": "SF",
+        "salary": 7000,
+        "fpts": 32.5,
+        "own": 18.13
+      },
+      {
+        "slot": "PF",
+        "id": 44630291,
+        "name": "Scottie Barnes",
+        "team": "TOR",
+        "pos": "SF",
+        "salary": 7800,
+        "fpts": 59,
+        "own": 14.97
+      },
+      {
+        "slot": "C",
+        "id": 44630556,
+        "name": "Paul Reed",
+        "team": "DET",
+        "pos": "C",
+        "salary": 4100,
+        "fpts": 41.25,
+        "own": 4.69
+      },
+      {
+        "slot": "G",
+        "id": 44630363,
+        "name": "Dyson Daniels",
+        "team": "ATL",
+        "pos": "PG",
+        "salary": 5900,
+        "fpts": 44.25,
+        "own": 15.95
+      },
+      {
+        "slot": "F",
+        "id": 44630255,
+        "name": "Jayson Tatum",
+        "team": "BOS",
+        "pos": "SF",
+        "salary": 9200,
+        "fpts": 64.25,
+        "own": 16.04
+      },
+      {
+        "slot": "UTIL",
+        "id": 44630471,
+        "name": "Obi Toppin",
+        "team": "IND",
+        "pos": "PF",
+        "salary": 4500,
+        "fpts": 22.25,
+        "own": 14.78
+      }
+    ]
+  },
+  "optimal": {
+    "points": 381.5,
+    "salary": 49300,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44630363,
+        "name": "Dyson Daniels",
+        "team": "ATL",
+        "pos": "PG",
+        "salary": 5900,
+        "fpts": 44.25,
+        "own": 15.95
+      },
+      {
+        "slot": "SG",
+        "id": 44630410,
+        "name": "Ayo Dosunmu",
+        "team": "MIN",
+        "pos": "SG",
+        "salary": 5200,
+        "fpts": 40.75,
+        "own": 2.65
+      },
+      {
+        "slot": "SF",
+        "id": 44630291,
+        "name": "Scottie Barnes",
+        "team": "TOR",
+        "pos": "SF",
+        "salary": 7800,
+        "fpts": 59,
+        "own": 14.97
+      },
+      {
+        "slot": "PF",
+        "id": 44630420,
+        "name": "PJ Washington",
+        "team": "DAL",
+        "pos": "PF",
+        "salary": 5100,
+        "fpts": 43.75,
+        "own": 13.3
+      },
+      {
+        "slot": "C",
+        "id": 44630556,
+        "name": "Paul Reed",
+        "team": "DET",
+        "pos": "C",
+        "salary": 4100,
+        "fpts": 41.25,
+        "own": 4.69
+      },
+      {
+        "slot": "G",
+        "id": 44630348,
+        "name": "RJ Barrett",
+        "team": "TOR",
+        "pos": "SG",
+        "salary": 6200,
+        "fpts": 42.75,
+        "own": 14.59
+      },
+      {
+        "slot": "F",
+        "id": 44630372,
+        "name": "OG Anunoby",
+        "team": "NYK",
+        "pos": "PF",
+        "salary": 5800,
+        "fpts": 45.5,
+        "own": 3.36
+      },
+      {
+        "slot": "UTIL",
+        "id": 44630255,
+        "name": "Jayson Tatum",
+        "team": "BOS",
+        "pos": "SF",
+        "salary": 9200,
+        "fpts": 64.25,
+        "own": 16.04
+      }
+    ],
+    "assumedZero": 48
+  },
+  "paper": null,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "ORL": 2,
+        "TOR": 2,
+        "ATL": 1,
+        "BOS": 1,
+        "DET": 1,
+        "IND": 1
+      },
+      "games": {
+        "MIN@ORL": 2,
+        "TOR@WAS": 2,
+        "ATL@CHA": 1,
+        "DAL@IND": 1,
+        "DET@MIA": 1,
+        "NYK@BOS": 1
+      },
+      "nGames": 6,
+      "summary": [
+        "ORL 2 · TOR 2",
+        "6 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "TOR": 2,
+        "ATL": 1,
+        "BOS": 1,
+        "DAL": 1,
+        "DET": 1,
+        "MIN": 1,
+        "NYK": 1
+      },
+      "games": {
+        "NYK@BOS": 2,
+        "TOR@WAS": 2,
+        "ATL@CHA": 1,
+        "DAL@IND": 1,
+        "DET@MIA": 1,
+        "MIN@ORL": 1
+      },
+      "nGames": 6,
+      "summary": [
+        "TOR 2",
+        "6 games"
+      ]
+    },
+    "paper": null
+  }
+}

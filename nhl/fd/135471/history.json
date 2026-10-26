@@ -1,0 +1,410 @@
+{
+  "sport": "nhl",
+  "site": "fd",
+  "slate": "135471",
+  "date": "2026-10-16",
+  "contest": {
+    "id": 281125691,
+    "label": "$1K Fri NHL Breakaway ($250 to 1st)",
+    "entries": 196
+  },
+  "generatedAt": "2026-10-17T12:35:59.589Z",
+  "winner": {
+    "rank": 1,
+    "name": "homerhead007 (1/8)",
+    "points": 207.2,
+    "salary": 55000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 180295,
+        "name": "Fraser Minten",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 4800,
+        "fpts": 3.2,
+        "own": 21.94
+      },
+      {
+        "slot": "C",
+        "id": 41391,
+        "name": "Nathan MacKinnon",
+        "team": "COL",
+        "pos": "C",
+        "salary": 8600,
+        "fpts": 52.5,
+        "own": 79.59
+      },
+      {
+        "slot": "W",
+        "id": 59218,
+        "name": "David Pastrnak",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 7500,
+        "fpts": 29,
+        "own": 51.02
+      },
+      {
+        "slot": "W",
+        "id": 242081,
+        "name": "James Hagens",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 4000,
+        "fpts": 22.9,
+        "own": 4.08
+      },
+      {
+        "slot": "D",
+        "id": 103523,
+        "name": "Cale Makar",
+        "team": "COL",
+        "pos": "D",
+        "salary": 6900,
+        "fpts": 22.9,
+        "own": 64.29
+      },
+      {
+        "slot": "D",
+        "id": 166945,
+        "name": "Drew Helleson",
+        "team": "ANA",
+        "pos": "D",
+        "salary": 3100,
+        "fpts": 4.8,
+        "own": 3.06
+      },
+      {
+        "slot": "UTIL",
+        "id": 82045,
+        "name": "Martin Necas",
+        "team": "COL",
+        "pos": "W",
+        "salary": 7400,
+        "fpts": 26.1,
+        "own": 25
+      },
+      {
+        "slot": "UTIL",
+        "id": 65970,
+        "name": "Pavel Zacha",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 5000,
+        "fpts": 18.6,
+        "own": 35.71
+      },
+      {
+        "slot": "G",
+        "id": 66744,
+        "name": "Mackenzie Blackwood",
+        "team": "COL",
+        "pos": "G",
+        "salary": 7700,
+        "fpts": 27.2,
+        "own": 44.9
+      }
+    ]
+  },
+  "optimal": {
+    "points": 240.5,
+    "salary": 54600,
+    "players": [
+      {
+        "slot": "C",
+        "id": 41391,
+        "name": "Nathan MacKinnon",
+        "team": "COL",
+        "pos": "C",
+        "salary": 8600,
+        "fpts": 52.5,
+        "own": 79.59
+      },
+      {
+        "slot": "C",
+        "id": 65970,
+        "name": "Pavel Zacha",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 5000,
+        "fpts": 18.6,
+        "own": 35.71
+      },
+      {
+        "slot": "W",
+        "id": 70483,
+        "name": "Artturi Lehkonen",
+        "team": "COL",
+        "pos": "W",
+        "salary": 5800,
+        "fpts": 28.8,
+        "own": 15.82
+      },
+      {
+        "slot": "W",
+        "id": 242081,
+        "name": "James Hagens",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 4000,
+        "fpts": 22.9,
+        "own": 4.08
+      },
+      {
+        "slot": "D",
+        "id": 73909,
+        "name": "Samuel Girard",
+        "team": "PIT",
+        "pos": "D",
+        "salary": 4200,
+        "fpts": 16,
+        "own": 5.1
+      },
+      {
+        "slot": "D",
+        "id": 103523,
+        "name": "Cale Makar",
+        "team": "COL",
+        "pos": "D",
+        "salary": 6900,
+        "fpts": 22.9,
+        "own": 64.29
+      },
+      {
+        "slot": "UTIL",
+        "id": 41390,
+        "name": "Elias Lindholm",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 4900,
+        "fpts": 22.6,
+        "own": 8.67
+      },
+      {
+        "slot": "UTIL",
+        "id": 59218,
+        "name": "David Pastrnak",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 7500,
+        "fpts": 29,
+        "own": 51.02
+      },
+      {
+        "slot": "G",
+        "id": 66744,
+        "name": "Mackenzie Blackwood",
+        "team": "COL",
+        "pos": "G",
+        "salary": 7700,
+        "fpts": 27.2,
+        "own": 44.9
+      }
+    ],
+    "assumedZero": 20
+  },
+  "paper": {
+    "variant": "recommended",
+    "lineup": "recommended",
+    "finish": 71,
+    "pctile": 64.29,
+    "points": 166.4,
+    "salary": 55000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 65970,
+        "name": "Pavel Zacha",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 5000,
+        "fpts": 18.6,
+        "own": 35.71
+      },
+      {
+        "slot": "C",
+        "id": 41390,
+        "name": "Elias Lindholm",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 4900,
+        "fpts": 22.6,
+        "own": 8.67
+      },
+      {
+        "slot": "W",
+        "id": 204508,
+        "name": "Beckett Sennecke",
+        "team": "ANA",
+        "pos": "W",
+        "salary": 6600,
+        "fpts": 13.6,
+        "own": 30.61
+      },
+      {
+        "slot": "W",
+        "id": 198700,
+        "name": "Cutter Gauthier",
+        "team": "ANA",
+        "pos": "W",
+        "salary": 7300,
+        "fpts": 14.4,
+        "own": 27.55
+      },
+      {
+        "slot": "D",
+        "id": 103523,
+        "name": "Cale Makar",
+        "team": "COL",
+        "pos": "D",
+        "salary": 6900,
+        "fpts": 22.9,
+        "own": 64.29
+      },
+      {
+        "slot": "D",
+        "id": 42962,
+        "name": "Brett Kulak",
+        "team": "COL",
+        "pos": "D",
+        "salary": 3800,
+        "fpts": 6.4,
+        "own": 1.02
+      },
+      {
+        "slot": "UTIL",
+        "id": 59218,
+        "name": "David Pastrnak",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 7500,
+        "fpts": 29,
+        "own": 51.02
+      },
+      {
+        "slot": "UTIL",
+        "id": 82041,
+        "name": "Morgan Geekie",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 5300,
+        "fpts": 11.7,
+        "own": 42.35
+      },
+      {
+        "slot": "G",
+        "id": 66744,
+        "name": "Mackenzie Blackwood",
+        "team": "COL",
+        "pos": "G",
+        "salary": 7700,
+        "fpts": 27.2,
+        "own": 44.9
+      }
+    ]
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "BOS": 4,
+        "COL": 4,
+        "ANA": 1
+      },
+      "games": {
+        "BOS@ANA": 5,
+        "PIT@COL": 4
+      },
+      "nGames": 2,
+      "lines": {
+        "BOS f1": 2
+      },
+      "pp": {
+        "BOS pp1": 2,
+        "BOS pp2": 2,
+        "COL pp1": 2
+      },
+      "goalie": {
+        "team": "COL",
+        "opposing": 0
+      },
+      "summary": [
+        "BOS 4 · COL 4",
+        "BOS f1 ×2",
+        "BOS pp1 ×2",
+        "BOS pp2 ×2",
+        "COL pp1 ×2",
+        "G COL",
+        "2 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "BOS": 4,
+        "COL": 4,
+        "PIT": 1
+      },
+      "games": {
+        "PIT@COL": 5,
+        "BOS@ANA": 4
+      },
+      "nGames": 2,
+      "lines": {
+        "BOS f1": 2,
+        "BOS f3": 2,
+        "COL f1": 2
+      },
+      "pp": {
+        "BOS pp1": 3,
+        "COL pp1": 2
+      },
+      "goalie": {
+        "team": "COL",
+        "opposing": 1
+      },
+      "summary": [
+        "BOS 4 · COL 4",
+        "BOS f1 ×2",
+        "BOS f3 ×2",
+        "COL f1 ×2",
+        "BOS pp1 ×3",
+        "COL pp1 ×2",
+        "G COL · 1 skater vs G",
+        "2 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "BOS": 4,
+        "COL": 3,
+        "ANA": 2
+      },
+      "games": {
+        "BOS@ANA": 6,
+        "PIT@COL": 3
+      },
+      "nGames": 2,
+      "lines": {
+        "BOS f1": 3,
+        "ANA f2": 2
+      },
+      "pp": {
+        "BOS pp1": 4,
+        "ANA pp1": 2
+      },
+      "goalie": {
+        "team": "COL",
+        "opposing": 0
+      },
+      "summary": [
+        "BOS 4 · COL 3 · ANA 2",
+        "BOS f1 ×3",
+        "ANA f2 ×2",
+        "BOS pp1 ×4",
+        "ANA pp1 ×2",
+        "G COL",
+        "2 games"
+      ]
+    }
+  }
+}

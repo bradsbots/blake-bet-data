@@ -1,0 +1,863 @@
+{
+  "sport": "nba",
+  "slate": "155066",
+  "contestId": 196752856,
+  "label": "NBA $1K Fadeaway",
+  "importedAt": "2026-10-17T12:00:57+00:00",
+  "entries": 78,
+  "source": "dk_standings_csv",
+  "final": true,
+  "absentAsZero": true,
+  "players": {
+    "44514495": {
+      "drafted": 65.38,
+      "fpts": 33.25,
+      "slots": {
+        "PG": 57.69,
+        "G": 5.13,
+        "UTIL": 2.56
+      }
+    },
+    "44514521": {
+      "drafted": 55.13,
+      "fpts": 36.5,
+      "slots": {
+        "SG": 53.85,
+        "G": 1.28
+      }
+    },
+    "44514506": {
+      "drafted": 53.85,
+      "fpts": 14.25,
+      "slots": {
+        "SF": 37.18,
+        "F": 10.26,
+        "UTIL": 6.41
+      }
+    },
+    "44514498": {
+      "drafted": 57.69,
+      "fpts": 46.25,
+      "slots": {
+        "PF": 28.21,
+        "C": 20.51,
+        "F": 8.97
+      }
+    },
+    "44514518": {
+      "drafted": 32.05,
+      "fpts": 21.25,
+      "slots": {
+        "PF": 23.08,
+        "F": 7.69,
+        "UTIL": 1.28
+      }
+    },
+    "44514544": {
+      "drafted": 43.58,
+      "fpts": 28.25,
+      "slots": {
+        "C": 21.79,
+        "PF": 11.54,
+        "F": 7.69,
+        "UTIL": 2.56
+      }
+    },
+    "44514487": {
+      "drafted": 26.92,
+      "fpts": 42.25,
+      "slots": {
+        "SF": 19.23,
+        "F": 5.13,
+        "UTIL": 2.56
+      }
+    },
+    "44514552": {
+      "drafted": 19.23,
+      "fpts": 19.0,
+      "slots": {
+        "C": 17.95,
+        "UTIL": 1.28
+      }
+    },
+    "44514512": {
+      "drafted": 30.77,
+      "fpts": 29.75,
+      "slots": {
+        "F": 16.67,
+        "UTIL": 7.69,
+        "SF": 6.41
+      }
+    },
+    "44514533": {
+      "drafted": 17.95,
+      "fpts": 36.25,
+      "slots": {
+        "G": 16.67,
+        "UTIL": 1.28
+      }
+    },
+    "44514570": {
+      "drafted": 20.52,
+      "fpts": 19.5,
+      "slots": {
+        "G": 16.67,
+        "UTIL": 3.85
+      }
+    },
+    "44514541": {
+      "drafted": 20.51,
+      "fpts": 23.0,
+      "slots": {
+        "SF": 14.1,
+        "F": 6.41
+      }
+    },
+    "44514538": {
+      "drafted": 17.95,
+      "fpts": 33.0,
+      "slots": {
+        "G": 12.82,
+        "UTIL": 5.13
+      }
+    },
+    "44514557": {
+      "drafted": 20.51,
+      "fpts": 20.25,
+      "slots": {
+        "UTIL": 11.54,
+        "C": 8.97
+      }
+    },
+    "44514484": {
+      "drafted": 16.67,
+      "fpts": 25.25,
+      "slots": {
+        "PG": 11.54,
+        "G": 5.13
+      }
+    },
+    "44514564": {
+      "drafted": 37.18,
+      "fpts": 18.25,
+      "slots": {
+        "UTIL": 11.54,
+        "F": 10.26,
+        "SF": 8.97,
+        "PF": 6.41
+      }
+    },
+    "44514548": {
+      "drafted": 21.8,
+      "fpts": 12.75,
+      "slots": {
+        "G": 11.54,
+        "SG": 5.13,
+        "UTIL": 3.85,
+        "PG": 1.28
+      }
+    },
+    "44514554": {
+      "drafted": 23.08,
+      "fpts": 25.25,
+      "slots": {
+        "SG": 11.54,
+        "G": 7.69,
+        "UTIL": 3.85
+      }
+    },
+    "44514491": {
+      "drafted": 16.67,
+      "fpts": 34.75,
+      "slots": {
+        "C": 10.26,
+        "UTIL": 3.85,
+        "F": 2.56
+      }
+    },
+    "44514642": {
+      "drafted": 14.1,
+      "fpts": 6.5,
+      "slots": {
+        "SG": 7.69,
+        "G": 3.85,
+        "PG": 2.56
+      }
+    },
+    "44514680": {
+      "drafted": 8.97,
+      "fpts": 9.75,
+      "slots": {
+        "UTIL": 7.69,
+        "PF": 1.28
+      }
+    },
+    "44514559": {
+      "drafted": 7.69,
+      "fpts": 0.0,
+      "slots": {
+        "SF": 6.41,
+        "SG": 1.28
+      }
+    },
+    "44514529": {
+      "drafted": 11.54,
+      "fpts": 11.5,
+      "slots": {
+        "F": 5.13,
+        "UTIL": 3.85,
+        "PF": 2.56
+      }
+    },
+    "44514665": {
+      "drafted": 12.82,
+      "fpts": 12.25,
+      "slots": {
+        "PF": 5.13,
+        "C": 3.85,
+        "F": 2.56,
+        "UTIL": 1.28
+      }
+    },
+    "44514568": {
+      "drafted": 5.13,
+      "fpts": 31.5,
+      "slots": {
+        "C": 5.13
+      }
+    },
+    "44514502": {
+      "drafted": 11.54,
+      "fpts": 28.25,
+      "slots": {
+        "G": 5.13,
+        "PG": 3.85,
+        "UTIL": 2.56
+      }
+    },
+    "44514524": {
+      "drafted": 7.69,
+      "fpts": 0.0,
+      "slots": {
+        "SG": 3.85,
+        "F": 2.56,
+        "G": 1.28
+      }
+    },
+    "44514579": {
+      "drafted": 6.41,
+      "fpts": 9.75,
+      "slots": {
+        "G": 3.85,
+        "UTIL": 2.56
+      }
+    },
+    "44514659": {
+      "drafted": 6.41,
+      "fpts": 17.75,
+      "slots": {
+        "SG": 3.85,
+        "UTIL": 2.56
+      }
+    },
+    "44514656": {
+      "drafted": 2.56,
+      "fpts": 9.5,
+      "slots": {
+        "G": 2.56
+      }
+    },
+    "44514595": {
+      "drafted": 3.84,
+      "fpts": 12.25,
+      "slots": {
+        "UTIL": 2.56,
+        "SF": 1.28
+      }
+    },
+    "44514636": {
+      "drafted": 3.84,
+      "fpts": 11.75,
+      "slots": {
+        "G": 2.56,
+        "PG": 1.28
+      }
+    },
+    "44514536": {
+      "drafted": 2.56,
+      "fpts": 17.5,
+      "slots": {
+        "C": 2.56
+      }
+    },
+    "44514599": {
+      "drafted": 2.56,
+      "fpts": 6.0,
+      "slots": {
+        "SF": 2.56
+      }
+    },
+    "44514509": {
+      "drafted": 3.84,
+      "fpts": 12.5,
+      "slots": {
+        "SF": 2.56,
+        "F": 1.28
+      }
+    },
+    "44514719": {
+      "drafted": 1.28,
+      "fpts": 0.0,
+      "slots": {
+        "C": 1.28
+      }
+    },
+    "44514587": {
+      "drafted": 1.28,
+      "fpts": 3.5,
+      "slots": {
+        "F": 1.28
+      }
+    },
+    "44514631": {
+      "drafted": 1.28,
+      "fpts": 28.5,
+      "slots": {
+        "G": 1.28
+      }
+    },
+    "44514678": {
+      "drafted": 1.28,
+      "fpts": 0.0,
+      "slots": {
+        "C": 1.28
+      }
+    },
+    "44514640": {
+      "drafted": 1.28,
+      "fpts": 2.75,
+      "slots": {
+        "C": 1.28
+      }
+    },
+    "44514576": {
+      "drafted": 1.28,
+      "fpts": 24.5,
+      "slots": {
+        "SG": 1.28
+      }
+    },
+    "44514608": {
+      "drafted": 1.28,
+      "fpts": 4.25,
+      "slots": {
+        "PF": 1.28
+      }
+    },
+    "44514617": {
+      "drafted": 1.28,
+      "fpts": 9.25,
+      "slots": {
+        "UTIL": 1.28
+      }
+    },
+    "44514583": {
+      "drafted": 1.28,
+      "fpts": 14.75,
+      "slots": {
+        "G": 1.28
+      }
+    },
+    "44514702": {
+      "drafted": 1.28,
+      "fpts": 13.5,
+      "slots": {
+        "F": 1.28
+      }
+    },
+    "44514515": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514573": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514590": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514593": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514604": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514611": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514614": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514619": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514623": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514628": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514646": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514650": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514653": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514663": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514669": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514671": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514674": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514684": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514687": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514690": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514693": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514696": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514700": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514706": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514709": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514711": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514714": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514717": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514723": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514726": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514729": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514733": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514736": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514738": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514742": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44514745": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    }
+  },
+  "unmatched": [],
+  "ambiguous": [],
+  "top": [
+    {
+      "rank": 1,
+      "name": "josiemae66 (1/2)",
+      "points": 246.25
+    },
+    {
+      "rank": 2,
+      "name": "kawhisenberg (1/2)",
+      "points": 244.25
+    },
+    {
+      "rank": 2,
+      "name": "kawhisenberg (2/2)",
+      "points": 244.25
+    }
+  ],
+  "pointsQuantiles": {
+    "p50": 210.75,
+    "p90": 236.0,
+    "p99": 246.25,
+    "max": 246.25,
+    "min": 130.75
+  },
+  "winners": [
+    {
+      "rank": 1,
+      "name": "josiemae66 (1/2)",
+      "points": 246.25,
+      "players": [
+        {
+          "slot": "C",
+          "name": "Jakob Poeltl",
+          "id": "44514552",
+          "fpts": 19.0
+        },
+        {
+          "slot": "F",
+          "name": "Karl-Anthony Towns",
+          "id": "44514498",
+          "fpts": 46.25
+        },
+        {
+          "slot": "G",
+          "name": "Fred VanVleet",
+          "id": "44514538",
+          "fpts": 33.0
+        },
+        {
+          "slot": "PF",
+          "name": "Collin Murray-Boyles",
+          "id": "44514544",
+          "fpts": 28.25
+        },
+        {
+          "slot": "PG",
+          "name": "Jalen Brunson",
+          "id": "44514495",
+          "fpts": 33.25
+        },
+        {
+          "slot": "SF",
+          "name": "Jalen Williams",
+          "id": "44514512",
+          "fpts": 29.75
+        },
+        {
+          "slot": "SG",
+          "name": "RJ Barrett",
+          "id": "44514521",
+          "fpts": 36.5
+        },
+        {
+          "slot": "UTIL",
+          "name": "Aday Mara",
+          "id": "44514557",
+          "fpts": 20.25
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "kawhisenberg (1/2)",
+      "points": 244.25,
+      "players": [
+        {
+          "slot": "C",
+          "name": "Karl-Anthony Towns",
+          "id": "44514498",
+          "fpts": 46.25
+        },
+        {
+          "slot": "F",
+          "name": "Jalen Williams",
+          "id": "44514512",
+          "fpts": 29.75
+        },
+        {
+          "slot": "G",
+          "name": "Ajay Mitchell",
+          "id": "44514548",
+          "fpts": 12.75
+        },
+        {
+          "slot": "PF",
+          "name": "Collin Murray-Boyles",
+          "id": "44514544",
+          "fpts": 28.25
+        },
+        {
+          "slot": "PG",
+          "name": "Immanuel Quickley",
+          "id": "44514533",
+          "fpts": 36.25
+        },
+        {
+          "slot": "SF",
+          "name": "Scottie Barnes",
+          "id": "44514487",
+          "fpts": 42.25
+        },
+        {
+          "slot": "SG",
+          "name": "RJ Barrett",
+          "id": "44514521",
+          "fpts": 36.5
+        },
+        {
+          "slot": "UTIL",
+          "name": "Brooks Barnhizer",
+          "id": "44514595",
+          "fpts": 12.25
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "kawhisenberg (2/2)",
+      "points": 244.25,
+      "players": [
+        {
+          "slot": "C",
+          "name": "Karl-Anthony Towns",
+          "id": "44514498",
+          "fpts": 46.25
+        },
+        {
+          "slot": "F",
+          "name": "Jalen Williams",
+          "id": "44514512",
+          "fpts": 29.75
+        },
+        {
+          "slot": "G",
+          "name": "Ajay Mitchell",
+          "id": "44514548",
+          "fpts": 12.75
+        },
+        {
+          "slot": "PF",
+          "name": "Collin Murray-Boyles",
+          "id": "44514544",
+          "fpts": 28.25
+        },
+        {
+          "slot": "PG",
+          "name": "Immanuel Quickley",
+          "id": "44514533",
+          "fpts": 36.25
+        },
+        {
+          "slot": "SF",
+          "name": "Scottie Barnes",
+          "id": "44514487",
+          "fpts": 42.25
+        },
+        {
+          "slot": "SG",
+          "name": "RJ Barrett",
+          "id": "44514521",
+          "fpts": 36.5
+        },
+        {
+          "slot": "UTIL",
+          "name": "Brooks Barnhizer",
+          "id": "44514595",
+          "fpts": 12.25
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "PapiWillyG (2/2)",
+      "points": 243.0,
+      "players": [
+        {
+          "slot": "C",
+          "name": "Karl-Anthony Towns",
+          "id": "44514498",
+          "fpts": 46.25
+        },
+        {
+          "slot": "F",
+          "name": "Collin Murray-Boyles",
+          "id": "44514544",
+          "fpts": 28.25
+        },
+        {
+          "slot": "G",
+          "name": "Immanuel Quickley",
+          "id": "44514533",
+          "fpts": 36.25
+        },
+        {
+          "slot": "PF",
+          "name": "OG Anunoby",
+          "id": "44514518",
+          "fpts": 21.25
+        },
+        {
+          "slot": "PG",
+          "name": "Jalen Brunson",
+          "id": "44514495",
+          "fpts": 33.25
+        },
+        {
+          "slot": "SF",
+          "name": "Mikal Bridges",
+          "id": "44514541",
+          "fpts": 23.0
+        },
+        {
+          "slot": "SG",
+          "name": "RJ Barrett",
+          "id": "44514521",
+          "fpts": 36.5
+        },
+        {
+          "slot": "UTIL",
+          "name": "Tari Eason",
+          "id": "44514564",
+          "fpts": 18.25
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "MarquisSiD",
+      "points": 241.0,
+      "players": [
+        {
+          "slot": "C",
+          "name": "Mohamed Diawara",
+          "id": "44514665",
+          "fpts": 12.25
+        },
+        {
+          "slot": "F",
+          "name": "Karl-Anthony Towns",
+          "id": "44514498",
+          "fpts": 46.25
+        },
+        {
+          "slot": "G",
+          "name": "Immanuel Quickley",
+          "id": "44514533",
+          "fpts": 36.25
+        },
+        {
+          "slot": "PF",
+          "name": "Scottie Barnes",
+          "id": "44514487",
+          "fpts": 42.25
+        },
+        {
+          "slot": "PG",
+          "name": "Fred VanVleet",
+          "id": "44514538",
+          "fpts": 33.0
+        },
+        {
+          "slot": "SF",
+          "name": "Kawhi Leonard",
+          "id": "44514506",
+          "fpts": 14.25
+        },
+        {
+          "slot": "SG",
+          "name": "RJ Barrett",
+          "id": "44514521",
+          "fpts": 36.5
+        },
+        {
+          "slot": "UTIL",
+          "name": "Aday Mara",
+          "id": "44514557",
+          "fpts": 20.25
+        }
+      ]
+    }
+  ],
+  "winnersUnmatched": []
+}

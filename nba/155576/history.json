@@ -1,0 +1,350 @@
+{
+  "sport": "nba",
+  "slate": "155576",
+  "date": "2026-10-24",
+  "contest": {
+    "id": 197082678,
+    "label": "NBA $200K Fadeaway [$50K to 1st]",
+    "entries": 15686
+  },
+  "generatedAt": "2026-10-25T08:40:15.651Z",
+  "winner": {
+    "rank": 1,
+    "name": "Jamendola0404",
+    "points": 369.5,
+    "salary": 49700,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44635948,
+        "name": "VJ Edgecombe",
+        "team": "PHI",
+        "pos": "PG",
+        "salary": 5600,
+        "fpts": 46.25,
+        "own": 20.64
+      },
+      {
+        "slot": "SG",
+        "id": 44635924,
+        "name": "Nickeil Alexander-Walker",
+        "team": "ATL",
+        "pos": "PG",
+        "salary": 6200,
+        "fpts": 37.75,
+        "own": 10.21
+      },
+      {
+        "slot": "SF",
+        "id": 44635945,
+        "name": "Jaime Jaquez Jr.",
+        "team": "MIL",
+        "pos": "SF",
+        "salary": 5700,
+        "fpts": 37,
+        "own": 15.15
+      },
+      {
+        "slot": "PF",
+        "id": 44636197,
+        "name": "Dean Wade",
+        "team": "PHI",
+        "pos": "PF",
+        "salary": 3200,
+        "fpts": 18.5,
+        "own": 2.97
+      },
+      {
+        "slot": "C",
+        "id": 44635849,
+        "name": "Joel Embiid",
+        "team": "PHI",
+        "pos": "C",
+        "salary": 8000,
+        "fpts": 61.25,
+        "own": 33.42
+      },
+      {
+        "slot": "G",
+        "id": 44635995,
+        "name": "Reed Sheppard",
+        "team": "HOU",
+        "pos": "SG",
+        "salary": 4800,
+        "fpts": 42,
+        "own": 14.11
+      },
+      {
+        "slot": "F",
+        "id": 44635825,
+        "name": "Jalen Johnson",
+        "team": "ATL",
+        "pos": "PF",
+        "salary": 9100,
+        "fpts": 66.75,
+        "own": 6.28
+      },
+      {
+        "slot": "UTIL",
+        "id": 44635877,
+        "name": "Caleb Wilson",
+        "team": "CHI",
+        "pos": "PF",
+        "salary": 7100,
+        "fpts": 60,
+        "own": 2.08
+      }
+    ]
+  },
+  "optimal": {
+    "points": 399,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44635948,
+        "name": "VJ Edgecombe",
+        "team": "PHI",
+        "pos": "PG",
+        "salary": 5600,
+        "fpts": 46.25,
+        "own": 20.64
+      },
+      {
+        "slot": "SG",
+        "id": 44635956,
+        "name": "Kyshawn George",
+        "team": "WAS",
+        "pos": "SG",
+        "salary": 5500,
+        "fpts": 47.25,
+        "own": 11.28
+      },
+      {
+        "slot": "SF",
+        "id": 44635945,
+        "name": "Jaime Jaquez Jr.",
+        "team": "MIL",
+        "pos": "SF",
+        "salary": 5700,
+        "fpts": 37,
+        "own": 15.15
+      },
+      {
+        "slot": "PF",
+        "id": 44636102,
+        "name": "Justin Champagnie",
+        "team": "WAS",
+        "pos": "PF",
+        "salary": 4100,
+        "fpts": 38.5,
+        "own": 2.14
+      },
+      {
+        "slot": "C",
+        "id": 44635849,
+        "name": "Joel Embiid",
+        "team": "PHI",
+        "pos": "C",
+        "salary": 8000,
+        "fpts": 61.25,
+        "own": 33.42
+      },
+      {
+        "slot": "G",
+        "id": 44635995,
+        "name": "Reed Sheppard",
+        "team": "HOU",
+        "pos": "SG",
+        "salary": 4800,
+        "fpts": 42,
+        "own": 14.11
+      },
+      {
+        "slot": "F",
+        "id": 44635877,
+        "name": "Caleb Wilson",
+        "team": "CHI",
+        "pos": "PF",
+        "salary": 7100,
+        "fpts": 60,
+        "own": 2.08
+      },
+      {
+        "slot": "UTIL",
+        "id": 44635825,
+        "name": "Jalen Johnson",
+        "team": "ATL",
+        "pos": "PF",
+        "salary": 9100,
+        "fpts": 66.75,
+        "own": 6.28
+      }
+    ],
+    "assumedZero": 53
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 2791,
+    "pctile": 81.86,
+    "points": 284.75,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44635948,
+        "name": "VJ Edgecombe",
+        "team": "PHI",
+        "pos": "PG",
+        "salary": 5600,
+        "fpts": 46.25,
+        "own": 20.64
+      },
+      {
+        "slot": "SG",
+        "id": 44635928,
+        "name": "Norman Powell",
+        "team": "CHI",
+        "pos": "SG",
+        "salary": 6100,
+        "fpts": 32.5,
+        "own": 13.61
+      },
+      {
+        "slot": "SF",
+        "id": 44635998,
+        "name": "Naji Marshall",
+        "team": "DAL",
+        "pos": "SF",
+        "salary": 4800,
+        "fpts": 24,
+        "own": 74.92
+      },
+      {
+        "slot": "PF",
+        "id": 44635874,
+        "name": "Julius Randle",
+        "team": "BKN",
+        "pos": "PF",
+        "salary": 7100,
+        "fpts": 37,
+        "own": 28.15
+      },
+      {
+        "slot": "C",
+        "id": 44635849,
+        "name": "Joel Embiid",
+        "team": "PHI",
+        "pos": "C",
+        "salary": 8000,
+        "fpts": 61.25,
+        "own": 33.42
+      },
+      {
+        "slot": "G",
+        "id": 44635851,
+        "name": "Trae Young",
+        "team": "WAS",
+        "pos": "PG",
+        "salary": 7900,
+        "fpts": 44.5,
+        "own": 31.47
+      },
+      {
+        "slot": "F",
+        "id": 44635965,
+        "name": "PJ Washington",
+        "team": "DAL",
+        "pos": "PF",
+        "salary": 5300,
+        "fpts": 20,
+        "own": 36.39
+      },
+      {
+        "slot": "UTIL",
+        "id": 44635972,
+        "name": "Jalen Smith",
+        "team": "CHI",
+        "pos": "C",
+        "salary": 5200,
+        "fpts": 19.25,
+        "own": 34.79
+      }
+    ],
+    "money": {
+      "fee": 15,
+      "one": {
+        "won": 25,
+        "net": 10
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 205,
+        "net": -95,
+        "cashed": 7
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "PHI": 3,
+        "ATL": 2,
+        "CHI": 1,
+        "HOU": 1,
+        "MIL": 1
+      },
+      "games": {
+        "MIL@PHI": 4,
+        "HOU@ATL": 3,
+        "WAS@CHI": 1
+      },
+      "nGames": 3,
+      "summary": [
+        "PHI 3 · ATL 2",
+        "3 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "PHI": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "CHI": 1,
+        "HOU": 1,
+        "MIL": 1
+      },
+      "games": {
+        "MIL@PHI": 3,
+        "WAS@CHI": 3,
+        "HOU@ATL": 2
+      },
+      "nGames": 3,
+      "summary": [
+        "PHI 2 · WAS 2",
+        "3 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "CHI": 2,
+        "DAL": 2,
+        "PHI": 2,
+        "BKN": 1,
+        "WAS": 1
+      },
+      "games": {
+        "WAS@CHI": 3,
+        "MIL@PHI": 2,
+        "SAS@DAL": 2,
+        "BKN@CLE": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "CHI 2 · DAL 2 · PHI 2",
+        "4 games"
+      ]
+    }
+  }
+}

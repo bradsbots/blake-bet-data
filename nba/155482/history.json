@@ -1,0 +1,342 @@
+{
+  "sport": "nba",
+  "slate": "155482",
+  "date": "2026-10-22",
+  "contest": {
+    "id": 197024717,
+    "label": "NBA $300K Fadeaway [$100K to 1st]",
+    "entries": 18221
+  },
+  "generatedAt": "2026-10-23T08:40:14.924Z",
+  "winner": {
+    "rank": 1,
+    "name": "vdkelly005",
+    "points": 313.75,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44615415,
+        "name": "Tyrese Maxey",
+        "team": "PHI",
+        "pos": "PG",
+        "salary": 8000,
+        "fpts": 48.75,
+        "own": 36.59
+      },
+      {
+        "slot": "SG",
+        "id": 44615412,
+        "name": "Donovan Mitchell",
+        "team": "CLE",
+        "pos": "SG",
+        "salary": 8200,
+        "fpts": 55,
+        "own": 27.64
+      },
+      {
+        "slot": "SF",
+        "id": 44615436,
+        "name": "Jalen Williams",
+        "team": "OKC",
+        "pos": "SF",
+        "salary": 6400,
+        "fpts": 32.25,
+        "own": 38.44
+      },
+      {
+        "slot": "PF",
+        "id": 44615441,
+        "name": "Chet Holmgren",
+        "team": "OKC",
+        "pos": "PF",
+        "salary": 5800,
+        "fpts": 46.25,
+        "own": 51.29
+      },
+      {
+        "slot": "C",
+        "id": 44615513,
+        "name": "Jaylin Williams",
+        "team": "OKC",
+        "pos": "PF",
+        "salary": 3400,
+        "fpts": 16.75,
+        "own": 7.1
+      },
+      {
+        "slot": "G",
+        "id": 44615444,
+        "name": "VJ Edgecombe",
+        "team": "PHI",
+        "pos": "PG",
+        "salary": 5700,
+        "fpts": 34.75,
+        "own": 14.13
+      },
+      {
+        "slot": "F",
+        "id": 44615433,
+        "name": "LeBron James",
+        "team": "PHI",
+        "pos": "PF",
+        "salary": 7000,
+        "fpts": 44.5,
+        "own": 46.75
+      },
+      {
+        "slot": "UTIL",
+        "id": 44615448,
+        "name": "Aaron Gordon",
+        "team": "DEN",
+        "pos": "PF",
+        "salary": 5500,
+        "fpts": 35.5,
+        "own": 24.85
+      }
+    ]
+  },
+  "optimal": {
+    "points": 319.75,
+    "salary": 49700,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44615415,
+        "name": "Tyrese Maxey",
+        "team": "PHI",
+        "pos": "PG",
+        "salary": 8000,
+        "fpts": 48.75,
+        "own": 36.59
+      },
+      {
+        "slot": "SG",
+        "id": 44615444,
+        "name": "VJ Edgecombe",
+        "team": "PHI",
+        "pos": "PG",
+        "salary": 5700,
+        "fpts": 34.75,
+        "own": 14.13
+      },
+      {
+        "slot": "SF",
+        "id": 44615532,
+        "name": "Mario Hezonja",
+        "team": "CLE",
+        "pos": "SF",
+        "salary": 3100,
+        "fpts": 22.75,
+        "own": 2.3
+      },
+      {
+        "slot": "PF",
+        "id": 44615433,
+        "name": "LeBron James",
+        "team": "PHI",
+        "pos": "PF",
+        "salary": 7000,
+        "fpts": 44.5,
+        "own": 46.75
+      },
+      {
+        "slot": "C",
+        "id": 44615448,
+        "name": "Aaron Gordon",
+        "team": "DEN",
+        "pos": "PF",
+        "salary": 5500,
+        "fpts": 35.5,
+        "own": 24.85
+      },
+      {
+        "slot": "G",
+        "id": 44615412,
+        "name": "Donovan Mitchell",
+        "team": "CLE",
+        "pos": "SG",
+        "salary": 8200,
+        "fpts": 55,
+        "own": 27.64
+      },
+      {
+        "slot": "F",
+        "id": 44615441,
+        "name": "Chet Holmgren",
+        "team": "OKC",
+        "pos": "PF",
+        "salary": 5800,
+        "fpts": 46.25,
+        "own": 51.29
+      },
+      {
+        "slot": "UTIL",
+        "id": 44615436,
+        "name": "Jalen Williams",
+        "team": "OKC",
+        "pos": "SF",
+        "salary": 6400,
+        "fpts": 32.25,
+        "own": 38.44
+      }
+    ],
+    "assumedZero": 10
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 2086,
+    "pctile": 88.17,
+    "points": 257.25,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44615430,
+        "name": "James Harden",
+        "team": "CLE",
+        "pos": "PG",
+        "salary": 7100,
+        "fpts": 27.75,
+        "own": 38.31
+      },
+      {
+        "slot": "SG",
+        "id": 44615501,
+        "name": "Jaylon Tyson",
+        "team": "CLE",
+        "pos": "SG",
+        "salary": 3600,
+        "fpts": 18.5,
+        "own": 41.63
+      },
+      {
+        "slot": "SF",
+        "id": 44615466,
+        "name": "Cameron Johnson",
+        "team": "DEN",
+        "pos": "SF",
+        "salary": 4500,
+        "fpts": 9.5,
+        "own": 24.81
+      },
+      {
+        "slot": "PF",
+        "id": 44615433,
+        "name": "LeBron James",
+        "team": "PHI",
+        "pos": "PF",
+        "salary": 7000,
+        "fpts": 44.5,
+        "own": 46.75
+      },
+      {
+        "slot": "C",
+        "id": 44615425,
+        "name": "Joel Embiid",
+        "team": "PHI",
+        "pos": "C",
+        "salary": 7700,
+        "fpts": 34.25,
+        "own": 51.43
+      },
+      {
+        "slot": "G",
+        "id": 44615412,
+        "name": "Donovan Mitchell",
+        "team": "CLE",
+        "pos": "SG",
+        "salary": 8200,
+        "fpts": 55,
+        "own": 27.64
+      },
+      {
+        "slot": "F",
+        "id": 44615448,
+        "name": "Aaron Gordon",
+        "team": "DEN",
+        "pos": "PF",
+        "salary": 5500,
+        "fpts": 35.5,
+        "own": 24.85
+      },
+      {
+        "slot": "UTIL",
+        "id": 44615436,
+        "name": "Jalen Williams",
+        "team": "OKC",
+        "pos": "SF",
+        "salary": 6400,
+        "fpts": 32.25,
+        "own": 38.44
+      }
+    ],
+    "money": {
+      "fee": 18,
+      "one": {
+        "won": 30,
+        "net": 12
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 140,
+        "net": -220,
+        "cashed": 4
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "OKC": 3,
+        "PHI": 3,
+        "CLE": 1,
+        "DEN": 1
+      },
+      "games": {
+        "CLE@PHI": 4,
+        "DEN@OKC": 4
+      },
+      "nGames": 2,
+      "summary": [
+        "OKC 3 · PHI 3",
+        "2 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "PHI": 3,
+        "CLE": 2,
+        "OKC": 2,
+        "DEN": 1
+      },
+      "games": {
+        "CLE@PHI": 5,
+        "DEN@OKC": 3
+      },
+      "nGames": 2,
+      "summary": [
+        "PHI 3 · CLE 2 · OKC 2",
+        "2 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "CLE": 3,
+        "DEN": 2,
+        "PHI": 2,
+        "OKC": 1
+      },
+      "games": {
+        "CLE@PHI": 5,
+        "DEN@OKC": 3
+      },
+      "nGames": 2,
+      "summary": [
+        "CLE 3 · DEN 2 · PHI 2",
+        "2 games"
+      ]
+    }
+  }
+}

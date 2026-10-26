@@ -1,0 +1,424 @@
+{
+  "sport": "nhl",
+  "slate": "154747",
+  "date": "2026-10-15",
+  "contest": {
+    "id": 196727496,
+    "label": "NHL $60K Kick Save [$20K to 1st]",
+    "entries": 4705
+  },
+  "generatedAt": "2026-10-20T20:47:02.018Z",
+  "winner": {
+    "rank": 1,
+    "name": "wiseowl00 (44/64)",
+    "points": 215,
+    "salary": 49800,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44515936,
+        "name": "Joel Eriksson Ek",
+        "team": "MIN",
+        "pos": "C",
+        "salary": 5700,
+        "fpts": 14.5,
+        "own": 5.68
+      },
+      {
+        "slot": "C",
+        "id": 44515990,
+        "name": "Noah Ostlund",
+        "team": "BUF",
+        "pos": "C",
+        "salary": 3200,
+        "fpts": 11.5,
+        "own": 8.56
+      },
+      {
+        "slot": "W",
+        "id": 44516126,
+        "name": "Kirill Kaprizov",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 8100,
+        "fpts": 32,
+        "own": 7.08
+      },
+      {
+        "slot": "W",
+        "id": 44516132,
+        "name": "Matt Boldy",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 7500,
+        "fpts": 51.5,
+        "own": 7.12
+      },
+      {
+        "slot": "W",
+        "id": 44516244,
+        "name": "Zach Benson",
+        "team": "BUF",
+        "pos": "W",
+        "salary": 3600,
+        "fpts": 16,
+        "own": 9.25
+      },
+      {
+        "slot": "D",
+        "id": 44516598,
+        "name": "Neal Pionk",
+        "team": "WPG",
+        "pos": "D",
+        "salary": 4800,
+        "fpts": 28.8,
+        "own": 4.95
+      },
+      {
+        "slot": "D",
+        "id": 44516648,
+        "name": "Mattias Samuelsson",
+        "team": "BUF",
+        "pos": "D",
+        "salary": 3500,
+        "fpts": 18,
+        "own": 4.31
+      },
+      {
+        "slot": "G",
+        "id": 44516942,
+        "name": "Jesper Wallstedt",
+        "team": "MIN",
+        "pos": "G",
+        "salary": 8200,
+        "fpts": 6.7,
+        "own": 3.74
+      },
+      {
+        "slot": "UTIL",
+        "id": 44516196,
+        "name": "Jack Quinn",
+        "team": "BUF",
+        "pos": "W",
+        "salary": 5200,
+        "fpts": 36,
+        "own": 6.33
+      }
+    ]
+  },
+  "optimal": {
+    "points": 279.6,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44515998,
+        "name": "Evan Rodrigues",
+        "team": "NJD",
+        "pos": "C",
+        "salary": 3000,
+        "fpts": 17.8,
+        "own": 2.45
+      },
+      {
+        "slot": "C",
+        "id": 44515962,
+        "name": "Mason McTavish",
+        "team": "STL",
+        "pos": "C",
+        "salary": 4100,
+        "fpts": 15.8,
+        "own": 4.44
+      },
+      {
+        "slot": "W",
+        "id": 44516130,
+        "name": "Brady Tkachuk",
+        "team": "FLA",
+        "pos": "W",
+        "salary": 7700,
+        "fpts": 43.5,
+        "own": 8.86
+      },
+      {
+        "slot": "W",
+        "id": 44516170,
+        "name": "Kirill Marchenko",
+        "team": "TOR",
+        "pos": "W",
+        "salary": 5800,
+        "fpts": 36,
+        "own": 3.36
+      },
+      {
+        "slot": "W",
+        "id": 44516196,
+        "name": "Jack Quinn",
+        "team": "BUF",
+        "pos": "W",
+        "salary": 5200,
+        "fpts": 36,
+        "own": 6.33
+      },
+      {
+        "slot": "D",
+        "id": 44516608,
+        "name": "Luke Hughes",
+        "team": "NJD",
+        "pos": "D",
+        "salary": 4300,
+        "fpts": 28.8,
+        "own": 6.8
+      },
+      {
+        "slot": "D",
+        "id": 44516598,
+        "name": "Neal Pionk",
+        "team": "WPG",
+        "pos": "D",
+        "salary": 4800,
+        "fpts": 28.8,
+        "own": 4.95
+      },
+      {
+        "slot": "G",
+        "id": 44516969,
+        "name": "Alex Nedeljkovic",
+        "team": "SJS",
+        "pos": "G",
+        "salary": 7600,
+        "fpts": 21.4,
+        "own": 2.55
+      },
+      {
+        "slot": "UTIL",
+        "id": 44516132,
+        "name": "Matt Boldy",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 7500,
+        "fpts": 51.5,
+        "own": 7.12
+      }
+    ],
+    "assumedZero": 181
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 2,
+    "finish": 2634,
+    "pctile": 43.97,
+    "points": 95.2,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44516020,
+        "name": "Michael Misa",
+        "team": "SJS",
+        "pos": "C",
+        "salary": 2800,
+        "fpts": 1.5,
+        "own": 1.44
+      },
+      {
+        "slot": "C",
+        "id": 44515898,
+        "name": "Connor McDavid",
+        "team": "EDM",
+        "pos": "C",
+        "salary": 9300,
+        "fpts": 8,
+        "own": 15.24
+      },
+      {
+        "slot": "W",
+        "id": 44516228,
+        "name": "Jack Roslovic",
+        "team": "TOR",
+        "pos": "W",
+        "salary": 3900,
+        "fpts": 16.8,
+        "own": 7.44
+      },
+      {
+        "slot": "W",
+        "id": 44516124,
+        "name": "Kyle Connor",
+        "team": "WPG",
+        "pos": "W",
+        "salary": 8200,
+        "fpts": 19,
+        "own": 10.71
+      },
+      {
+        "slot": "W",
+        "id": 44516156,
+        "name": "Vasily Podkolzin",
+        "team": "EDM",
+        "pos": "W",
+        "salary": 6300,
+        "fpts": 5.6,
+        "own": 6.01
+      },
+      {
+        "slot": "D",
+        "id": 44516604,
+        "name": "Seth Jones",
+        "team": "FLA",
+        "pos": "D",
+        "salary": 4500,
+        "fpts": 20.5,
+        "own": 13.05
+      },
+      {
+        "slot": "D",
+        "id": 44516602,
+        "name": "MacKenzie Weegar",
+        "team": "UTA",
+        "pos": "D",
+        "salary": 4600,
+        "fpts": 8.2,
+        "own": 2.08
+      },
+      {
+        "slot": "G",
+        "id": 44516972,
+        "name": "Joseph Woll",
+        "team": "PHI",
+        "pos": "G",
+        "salary": 7500,
+        "fpts": 9.8,
+        "own": 11.33
+      },
+      {
+        "slot": "UTIL",
+        "id": 44516312,
+        "name": "Aydar Suniev",
+        "team": "CGY",
+        "pos": "W",
+        "salary": 2900,
+        "fpts": 5.8,
+        "own": 0.78
+      }
+    ],
+    "money": {
+      "fee": 15,
+      "one": {
+        "won": 0,
+        "net": -15
+      },
+      "portfolio": null
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "BUF": 4,
+        "MIN": 4,
+        "WPG": 1
+      },
+      "games": {
+        "BUF@TOR": 4,
+        "STL@MIN": 4,
+        "WPG@CHI": 1
+      },
+      "nGames": 3,
+      "lines": {
+        "BUF f2": 3,
+        "MIN f1": 3
+      },
+      "pp": {
+        "BUF pp1": 3,
+        "MIN pp1": 3
+      },
+      "goalie": {
+        "team": "MIN",
+        "opposing": 0
+      },
+      "summary": [
+        "BUF 4 · MIN 4",
+        "BUF f2 ×3",
+        "MIN f1 ×3",
+        "BUF pp1 ×3",
+        "MIN pp1 ×3",
+        "G MIN",
+        "3 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "NJD": 2,
+        "BUF": 1,
+        "FLA": 1,
+        "MIN": 1,
+        "SJS": 1,
+        "STL": 1,
+        "TOR": 1,
+        "WPG": 1
+      },
+      "games": {
+        "BUF@TOR": 2,
+        "NYR@NJD": 2,
+        "STL@MIN": 2,
+        "SJS@NSH": 1,
+        "VAN@FLA": 1,
+        "WPG@CHI": 1
+      },
+      "nGames": 6,
+      "lines": {},
+      "pp": {
+        "NJD pp1": 2
+      },
+      "goalie": {
+        "team": "SJS",
+        "opposing": 0
+      },
+      "summary": [
+        "NJD 2",
+        "NJD pp1 ×2",
+        "G SJS",
+        "6 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "EDM": 2,
+        "CGY": 1,
+        "FLA": 1,
+        "PHI": 1,
+        "SJS": 1,
+        "TOR": 1,
+        "UTA": 1,
+        "WPG": 1
+      },
+      "games": {
+        "UTA@EDM": 3,
+        "BUF@TOR": 1,
+        "CGY@VGK": 1,
+        "PHI@DET": 1,
+        "SJS@NSH": 1,
+        "VAN@FLA": 1,
+        "WPG@CHI": 1
+      },
+      "nGames": 7,
+      "lines": {
+        "EDM f1": 2
+      },
+      "pp": {
+        "EDM pp1": 2
+      },
+      "goalie": {
+        "team": "PHI",
+        "opposing": 0
+      },
+      "summary": [
+        "EDM 2",
+        "EDM f1 ×2",
+        "EDM pp1 ×2",
+        "G PHI",
+        "7 games"
+      ]
+    }
+  }
+}

@@ -1,0 +1,421 @@
+{
+  "sport": "nhl",
+  "slate": "154775",
+  "date": "2026-10-19",
+  "contest": {
+    "id": 196897412,
+    "label": "NHL $35K Kick Save [$10K to 1st]",
+    "entries": 2745
+  },
+  "generatedAt": "2026-10-20T20:47:02.018Z",
+  "winner": {
+    "rank": 1,
+    "name": "greenking23 (2/2)",
+    "points": 156.2,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44553366,
+        "name": "Auston Matthews",
+        "team": "TOR",
+        "pos": "C",
+        "salary": 8500,
+        "fpts": 27.3,
+        "own": 31.88
+      },
+      {
+        "slot": "C",
+        "id": 44553376,
+        "name": "Nick Schmaltz",
+        "team": "UTA",
+        "pos": "C",
+        "salary": 5800,
+        "fpts": 16.5,
+        "own": 24.74
+      },
+      {
+        "slot": "W",
+        "id": 44553452,
+        "name": "Clayton Keller",
+        "team": "UTA",
+        "pos": "W",
+        "salary": 6600,
+        "fpts": 15,
+        "own": 19.85
+      },
+      {
+        "slot": "W",
+        "id": 44553504,
+        "name": "Trevor Zegras",
+        "team": "PHI",
+        "pos": "W",
+        "salary": 3300,
+        "fpts": 23.8,
+        "own": 13.11
+      },
+      {
+        "slot": "W",
+        "id": 44553506,
+        "name": "Lawson Crouse",
+        "team": "UTA",
+        "pos": "W",
+        "salary": 3300,
+        "fpts": 6.5,
+        "own": 8.74
+      },
+      {
+        "slot": "D",
+        "id": 44553618,
+        "name": "Darren Raddysh",
+        "team": "TOR",
+        "pos": "D",
+        "salary": 5800,
+        "fpts": 18.1,
+        "own": 14.21
+      },
+      {
+        "slot": "D",
+        "id": 44553622,
+        "name": "Erik Karlsson",
+        "team": "PIT",
+        "pos": "D",
+        "salary": 5000,
+        "fpts": 21.9,
+        "own": 12.78
+      },
+      {
+        "slot": "G",
+        "id": 44553746,
+        "name": "Dylan Garand",
+        "team": "NYR",
+        "pos": "G",
+        "salary": 8000,
+        "fpts": 19.3,
+        "own": 17.49
+      },
+      {
+        "slot": "UTIL",
+        "id": 44553388,
+        "name": "Tommy Novak",
+        "team": "PIT",
+        "pos": "C",
+        "salary": 3700,
+        "fpts": 7.8,
+        "own": 3.61
+      }
+    ]
+  },
+  "optimal": {
+    "points": 192.2,
+    "salary": 41700,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44553366,
+        "name": "Auston Matthews",
+        "team": "TOR",
+        "pos": "C",
+        "salary": 8500,
+        "fpts": 27.3,
+        "own": 31.88
+      },
+      {
+        "slot": "C",
+        "id": 44553376,
+        "name": "Nick Schmaltz",
+        "team": "UTA",
+        "pos": "C",
+        "salary": 5800,
+        "fpts": 16.5,
+        "own": 24.74
+      },
+      {
+        "slot": "W",
+        "id": 44553504,
+        "name": "Trevor Zegras",
+        "team": "PHI",
+        "pos": "W",
+        "salary": 3300,
+        "fpts": 23.8,
+        "own": 13.11
+      },
+      {
+        "slot": "W",
+        "id": 44553516,
+        "name": "Matvei Michkov",
+        "team": "PHI",
+        "pos": "W",
+        "salary": 3100,
+        "fpts": 21.3,
+        "own": 11.37
+      },
+      {
+        "slot": "W",
+        "id": 44553594,
+        "name": "Oliver Bjorkstrand",
+        "team": "NYR",
+        "pos": "W",
+        "salary": 2500,
+        "fpts": 21.5,
+        "own": 0.29
+      },
+      {
+        "slot": "D",
+        "id": 44553646,
+        "name": "Sean Durzi",
+        "team": "NYR",
+        "pos": "D",
+        "salary": 3400,
+        "fpts": 18.2,
+        "own": 1.97
+      },
+      {
+        "slot": "D",
+        "id": 44553696,
+        "name": "Nick Jensen",
+        "team": "ANA",
+        "pos": "D",
+        "salary": 2500,
+        "fpts": 18.2,
+        "own": 0.18
+      },
+      {
+        "slot": "G",
+        "id": 44553752,
+        "name": "Sergei Bobrovsky",
+        "team": "TOR",
+        "pos": "G",
+        "salary": 7600,
+        "fpts": 23.5,
+        "own": 15.23
+      },
+      {
+        "slot": "UTIL",
+        "id": 44553622,
+        "name": "Erik Karlsson",
+        "team": "PIT",
+        "pos": "D",
+        "salary": 5000,
+        "fpts": 21.9,
+        "own": 12.78
+      }
+    ],
+    "assumedZero": 58
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 731,
+    "pctile": 73.33,
+    "points": 101.5,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44553366,
+        "name": "Auston Matthews",
+        "team": "TOR",
+        "pos": "C",
+        "salary": 8500,
+        "fpts": 27.3,
+        "own": 31.88
+      },
+      {
+        "slot": "C",
+        "id": 44553376,
+        "name": "Nick Schmaltz",
+        "team": "UTA",
+        "pos": "C",
+        "salary": 5800,
+        "fpts": 16.5,
+        "own": 24.74
+      },
+      {
+        "slot": "W",
+        "id": 44553450,
+        "name": "Beckett Sennecke",
+        "team": "ANA",
+        "pos": "W",
+        "salary": 6700,
+        "fpts": 6,
+        "own": 5.93
+      },
+      {
+        "slot": "W",
+        "id": 44553448,
+        "name": "William Nylander",
+        "team": "TOR",
+        "pos": "W",
+        "salary": 6800,
+        "fpts": 9.5,
+        "own": 16.21
+      },
+      {
+        "slot": "W",
+        "id": 44553482,
+        "name": "Jack Roslovic",
+        "team": "TOR",
+        "pos": "W",
+        "salary": 4300,
+        "fpts": 1.3,
+        "own": 20.73
+      },
+      {
+        "slot": "D",
+        "id": 44553620,
+        "name": "Mikhail Sergachev",
+        "team": "UTA",
+        "pos": "D",
+        "salary": 5300,
+        "fpts": 12.3,
+        "own": 26.23
+      },
+      {
+        "slot": "D",
+        "id": 44553670,
+        "name": "Declan Carlile",
+        "team": "PIT",
+        "pos": "D",
+        "salary": 2900,
+        "fpts": 12.8,
+        "own": 2.3
+      },
+      {
+        "slot": "G",
+        "id": 44553761,
+        "name": "Joseph Woll",
+        "team": "PHI",
+        "pos": "G",
+        "salary": 7000,
+        "fpts": 15.8,
+        "own": 17.49
+      },
+      {
+        "slot": "UTIL",
+        "id": 44553682,
+        "name": "Samuel Girard",
+        "team": "PIT",
+        "pos": "D",
+        "salary": 2700,
+        "fpts": 0,
+        "own": 0.11
+      }
+    ],
+    "money": {
+      "fee": 15,
+      "one": {
+        "won": 0,
+        "net": -15
+      },
+      "portfolio": null
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "UTA": 3,
+        "PIT": 2,
+        "TOR": 2,
+        "NYR": 1,
+        "PHI": 1
+      },
+      "games": {
+        "PIT@UTA": 5,
+        "SJS@TOR": 2,
+        "ANA@NYR": 1,
+        "COL@PHI": 1
+      },
+      "nGames": 4,
+      "lines": {
+        "UTA f1": 3
+      },
+      "pp": {
+        "PIT pp1": 2,
+        "TOR pp1": 2,
+        "UTA pp1": 2
+      },
+      "goalie": {
+        "team": "NYR",
+        "opposing": 0
+      },
+      "summary": [
+        "UTA 3 · PIT 2 · TOR 2",
+        "UTA f1 ×3",
+        "PIT pp1 ×2",
+        "TOR pp1 ×2",
+        "UTA pp1 ×2",
+        "G NYR",
+        "4 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "NYR": 2,
+        "PHI": 2,
+        "TOR": 2,
+        "ANA": 1,
+        "PIT": 1,
+        "UTA": 1
+      },
+      "games": {
+        "ANA@NYR": 3,
+        "COL@PHI": 2,
+        "PIT@UTA": 2,
+        "SJS@TOR": 2
+      },
+      "nGames": 4,
+      "lines": {},
+      "pp": {
+        "NYR pp2": 2,
+        "PHI pp1": 2
+      },
+      "goalie": {
+        "team": "TOR",
+        "opposing": 0
+      },
+      "summary": [
+        "NYR 2 · PHI 2 · TOR 2",
+        "NYR pp2 ×2",
+        "PHI pp1 ×2",
+        "G TOR",
+        "4 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "TOR": 3,
+        "PIT": 2,
+        "UTA": 2,
+        "ANA": 1,
+        "PHI": 1
+      },
+      "games": {
+        "PIT@UTA": 4,
+        "SJS@TOR": 3,
+        "ANA@NYR": 1,
+        "COL@PHI": 1
+      },
+      "nGames": 4,
+      "lines": {
+        "TOR f1": 3
+      },
+      "pp": {
+        "TOR pp1": 2,
+        "UTA pp1": 2
+      },
+      "goalie": {
+        "team": "PHI",
+        "opposing": 0
+      },
+      "summary": [
+        "TOR 3 · PIT 2 · UTA 2",
+        "TOR f1 ×3",
+        "TOR pp1 ×2",
+        "UTA pp1 ×2",
+        "G PHI",
+        "4 games"
+      ]
+    }
+  }
+}

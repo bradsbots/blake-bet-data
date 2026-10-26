@@ -1,0 +1,224 @@
+{
+  "sport": "nba",
+  "slate": "155066",
+  "date": "2026-10-15",
+  "contest": {
+    "id": 196752856,
+    "label": "NBA $1K Fadeaway",
+    "entries": 78
+  },
+  "generatedAt": "2026-10-17T12:08:36.623Z",
+  "winner": {
+    "rank": 1,
+    "name": "josiemae66 (1/2)",
+    "points": 246.25,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44514495,
+        "name": "Jalen Brunson",
+        "team": "NYK",
+        "pos": "PG",
+        "salary": 8300,
+        "fpts": 33.25,
+        "own": 65.38
+      },
+      {
+        "slot": "SG",
+        "id": 44514521,
+        "name": "RJ Barrett",
+        "team": "TOR",
+        "pos": "SG",
+        "salary": 6300,
+        "fpts": 36.5,
+        "own": 55.13
+      },
+      {
+        "slot": "SF",
+        "id": 44514512,
+        "name": "Jalen Williams",
+        "team": "OKC",
+        "pos": "SF",
+        "salary": 6700,
+        "fpts": 29.75,
+        "own": 30.77
+      },
+      {
+        "slot": "PF",
+        "id": 44514544,
+        "name": "Collin Murray-Boyles",
+        "team": "TOR",
+        "pos": "PF",
+        "salary": 5300,
+        "fpts": 28.25,
+        "own": 43.58
+      },
+      {
+        "slot": "C",
+        "id": 44514552,
+        "name": "Jakob Poeltl",
+        "team": "TOR",
+        "pos": "C",
+        "salary": 5100,
+        "fpts": 19,
+        "own": 19.23
+      },
+      {
+        "slot": "G",
+        "id": 44514538,
+        "name": "Fred VanVleet",
+        "team": "HOU",
+        "pos": "PG",
+        "salary": 5500,
+        "fpts": 33,
+        "own": 17.95
+      },
+      {
+        "slot": "F",
+        "id": 44514498,
+        "name": "Karl-Anthony Towns",
+        "team": "NYK",
+        "pos": "PF",
+        "salary": 7900,
+        "fpts": 46.25,
+        "own": 57.69
+      },
+      {
+        "slot": "UTIL",
+        "id": 44514557,
+        "name": "Aday Mara",
+        "team": "OKC",
+        "pos": "C",
+        "salary": 4900,
+        "fpts": 20.25,
+        "own": 20.51
+      }
+    ]
+  },
+  "optimal": {
+    "points": 284,
+    "salary": 49200,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44514533,
+        "name": "Immanuel Quickley",
+        "team": "TOR",
+        "pos": "PG",
+        "salary": 5700,
+        "fpts": 36.25,
+        "own": 17.95
+      },
+      {
+        "slot": "SG",
+        "id": 44514521,
+        "name": "RJ Barrett",
+        "team": "TOR",
+        "pos": "SG",
+        "salary": 6300,
+        "fpts": 36.5,
+        "own": 55.13
+      },
+      {
+        "slot": "SF",
+        "id": 44514487,
+        "name": "Scottie Barnes",
+        "team": "TOR",
+        "pos": "SF",
+        "salary": 8900,
+        "fpts": 42.25,
+        "own": 26.92
+      },
+      {
+        "slot": "PF",
+        "id": 44514498,
+        "name": "Karl-Anthony Towns",
+        "team": "NYK",
+        "pos": "PF",
+        "salary": 7900,
+        "fpts": 46.25,
+        "own": 57.69
+      },
+      {
+        "slot": "C",
+        "id": 44514568,
+        "name": "Andre Drummond",
+        "team": "NYK",
+        "pos": "C",
+        "salary": 4500,
+        "fpts": 31.5,
+        "own": 5.13
+      },
+      {
+        "slot": "G",
+        "id": 44514538,
+        "name": "Fred VanVleet",
+        "team": "HOU",
+        "pos": "PG",
+        "salary": 5500,
+        "fpts": 33,
+        "own": 17.95
+      },
+      {
+        "slot": "F",
+        "id": 44514631,
+        "name": "Bogdan Bogdanovic",
+        "team": "HOU",
+        "pos": "SG",
+        "salary": 3700,
+        "fpts": 28.5,
+        "own": 1.28
+      },
+      {
+        "slot": "UTIL",
+        "id": 44514512,
+        "name": "Jalen Williams",
+        "team": "OKC",
+        "pos": "SF",
+        "salary": 6700,
+        "fpts": 29.75,
+        "own": 30.77
+      }
+    ],
+    "assumedZero": 36
+  },
+  "paper": null,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "TOR": 3,
+        "NYK": 2,
+        "OKC": 2,
+        "HOU": 1
+      },
+      "games": {
+        "TOR@NYK": 5,
+        "OKC@HOU": 3
+      },
+      "nGames": 2,
+      "summary": [
+        "TOR 3 · NYK 2 · OKC 2",
+        "2 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "TOR": 3,
+        "HOU": 2,
+        "NYK": 2,
+        "OKC": 1
+      },
+      "games": {
+        "TOR@NYK": 5,
+        "OKC@HOU": 3
+      },
+      "nGames": 2,
+      "summary": [
+        "TOR 3 · HOU 2 · NYK 2",
+        "2 games"
+      ]
+    },
+    "paper": null
+  }
+}

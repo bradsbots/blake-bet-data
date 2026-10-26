@@ -1,0 +1,274 @@
+{
+  "sport": "nhl",
+  "slate": "155414",
+  "date": "2026-10-23",
+  "contest": {
+    "id": 197035741,
+    "label": "NHL $30K Kick Save [$10K to 1st]",
+    "entries": 2022
+  },
+  "generatedAt": "2026-10-24T08:40:25.117Z",
+  "winner": {
+    "rank": 1,
+    "name": "Felixxberg (43/70)",
+    "points": 184.6,
+    "salary": 49100,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44625583,
+        "name": "Nathan MacKinnon",
+        "team": "COL",
+        "pos": "C",
+        "salary": 9200,
+        "fpts": 33.8,
+        "own": 47.58
+      },
+      {
+        "slot": "C",
+        "id": 44625589,
+        "name": "Brayden Point",
+        "team": "TBL",
+        "pos": "C",
+        "salary": 5600,
+        "fpts": 14.5,
+        "own": 20.27
+      },
+      {
+        "slot": "W",
+        "id": 44625633,
+        "name": "Martin Necas",
+        "team": "COL",
+        "pos": "W",
+        "salary": 6700,
+        "fpts": 25.6,
+        "own": 15.38
+      },
+      {
+        "slot": "W",
+        "id": 44625635,
+        "name": "Jake Guentzel",
+        "team": "TBL",
+        "pos": "W",
+        "salary": 6200,
+        "fpts": 30.5,
+        "own": 21.86
+      },
+      {
+        "slot": "W",
+        "id": 44625663,
+        "name": "Gage Goncalves",
+        "team": "TBL",
+        "pos": "W",
+        "salary": 2700,
+        "fpts": 9.5,
+        "own": 2.92
+      },
+      {
+        "slot": "D",
+        "id": 44625715,
+        "name": "Mike Matheson",
+        "team": "MTL",
+        "pos": "D",
+        "salary": 3500,
+        "fpts": 14.3,
+        "own": 9.8
+      },
+      {
+        "slot": "D",
+        "id": 44625761,
+        "name": "Charle-Edouard D'Astous",
+        "team": "TBL",
+        "pos": "D",
+        "salary": 2500,
+        "fpts": 24.9,
+        "own": 11.57
+      },
+      {
+        "slot": "G",
+        "id": 44625767,
+        "name": "Jacob Fowler",
+        "team": "MTL",
+        "pos": "G",
+        "salary": 7800,
+        "fpts": 16.5,
+        "own": 25.87
+      },
+      {
+        "slot": "UTIL",
+        "id": 44625641,
+        "name": "Artturi Lehkonen",
+        "team": "COL",
+        "pos": "W",
+        "salary": 4900,
+        "fpts": 15,
+        "own": 17.91
+      }
+    ]
+  },
+  "optimal": {
+    "points": 214.6,
+    "salary": 46600,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44625617,
+        "name": "Jake Evans",
+        "team": "MTL",
+        "pos": "C",
+        "salary": 2500,
+        "fpts": 30,
+        "own": 0.4
+      },
+      {
+        "slot": "C",
+        "id": 44625583,
+        "name": "Nathan MacKinnon",
+        "team": "COL",
+        "pos": "C",
+        "salary": 9200,
+        "fpts": 33.8,
+        "own": 47.58
+      },
+      {
+        "slot": "W",
+        "id": 44625633,
+        "name": "Martin Necas",
+        "team": "COL",
+        "pos": "W",
+        "salary": 6700,
+        "fpts": 25.6,
+        "own": 15.38
+      },
+      {
+        "slot": "W",
+        "id": 44625635,
+        "name": "Jake Guentzel",
+        "team": "TBL",
+        "pos": "W",
+        "salary": 6200,
+        "fpts": 30.5,
+        "own": 21.86
+      },
+      {
+        "slot": "W",
+        "id": 44625641,
+        "name": "Artturi Lehkonen",
+        "team": "COL",
+        "pos": "W",
+        "salary": 4900,
+        "fpts": 15,
+        "own": 17.91
+      },
+      {
+        "slot": "D",
+        "id": 44625733,
+        "name": "Kaiden Guhle",
+        "team": "MTL",
+        "pos": "D",
+        "salary": 2800,
+        "fpts": 21.1,
+        "own": 2.72
+      },
+      {
+        "slot": "D",
+        "id": 44625713,
+        "name": "Devon Toews",
+        "team": "COL",
+        "pos": "D",
+        "salary": 3800,
+        "fpts": 16.5,
+        "own": 10.19
+      },
+      {
+        "slot": "G",
+        "id": 44625765,
+        "name": "MacKenzie Blackwood",
+        "team": "COL",
+        "pos": "G",
+        "salary": 8000,
+        "fpts": 17.2,
+        "own": 18.69
+      },
+      {
+        "slot": "UTIL",
+        "id": 44625761,
+        "name": "Charle-Edouard D'Astous",
+        "team": "TBL",
+        "pos": "D",
+        "salary": 2500,
+        "fpts": 24.9,
+        "own": 11.57
+      }
+    ],
+    "assumedZero": 22
+  },
+  "paper": null,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "TBL": 4,
+        "COL": 3,
+        "MTL": 2
+      },
+      "games": {
+        "TBL@COL": 7,
+        "MTL@CHI": 2
+      },
+      "nGames": 2,
+      "lines": {
+        "COL f1": 3,
+        "TBL f2": 3
+      },
+      "pp": {
+        "TBL pp1": 3,
+        "COL pp2": 2
+      },
+      "goalie": {
+        "team": "MTL",
+        "opposing": 0
+      },
+      "summary": [
+        "TBL 4 · COL 3 · MTL 2",
+        "COL f1 ×3",
+        "TBL f2 ×3",
+        "TBL pp1 ×3",
+        "COL pp2 ×2",
+        "G MTL",
+        "2 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "COL": 5,
+        "MTL": 2,
+        "TBL": 2
+      },
+      "games": {
+        "TBL@COL": 7,
+        "MTL@CHI": 2
+      },
+      "nGames": 2,
+      "lines": {
+        "COL f1": 3
+      },
+      "pp": {
+        "COL pp2": 3,
+        "TBL pp1": 2
+      },
+      "goalie": {
+        "team": "COL",
+        "opposing": 2
+      },
+      "summary": [
+        "COL 5 · MTL 2 · TBL 2",
+        "COL f1 ×3",
+        "COL pp2 ×3",
+        "TBL pp1 ×2",
+        "G COL · 2 skaters vs G",
+        "2 games"
+      ]
+    },
+    "paper": null
+  }
+}

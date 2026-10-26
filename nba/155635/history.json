@@ -1,0 +1,350 @@
+{
+  "sport": "nba",
+  "slate": "155635",
+  "date": "2026-10-25",
+  "contest": {
+    "id": 197118943,
+    "label": "NBA $150K Fadeaway [$50K to 1st]",
+    "entries": 9597
+  },
+  "generatedAt": "2026-10-26T08:40:14.776Z",
+  "winner": {
+    "rank": 1,
+    "name": "ImnotNavT (87/100)",
+    "points": 334.75,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44655194,
+        "name": "Ja'Kobe Walter",
+        "team": "TOR",
+        "pos": "PG",
+        "salary": 4100,
+        "fpts": 38,
+        "own": 10
+      },
+      {
+        "slot": "SG",
+        "id": 44655164,
+        "name": "Daniss Jenkins",
+        "team": "DET",
+        "pos": "PG",
+        "salary": 4300,
+        "fpts": 39.5,
+        "own": 22.22
+      },
+      {
+        "slot": "SF",
+        "id": 44655045,
+        "name": "Franz Wagner",
+        "team": "ORL",
+        "pos": "SF",
+        "salary": 7600,
+        "fpts": 52.75,
+        "own": 23.95
+      },
+      {
+        "slot": "PF",
+        "id": 44655022,
+        "name": "Karl-Anthony Towns",
+        "team": "NYK",
+        "pos": "PF",
+        "salary": 8300,
+        "fpts": 49,
+        "own": 23.91
+      },
+      {
+        "slot": "C",
+        "id": 44655180,
+        "name": "Paul Reed",
+        "team": "DET",
+        "pos": "C",
+        "salary": 4200,
+        "fpts": 25.5,
+        "own": 82.63
+      },
+      {
+        "slot": "G",
+        "id": 44655017,
+        "name": "Tyrese Maxey",
+        "team": "PHI",
+        "pos": "PG",
+        "salary": 8500,
+        "fpts": 49.25,
+        "own": 35.77
+      },
+      {
+        "slot": "F",
+        "id": 44655257,
+        "name": "Ronald Holland II",
+        "team": "DET",
+        "pos": "PF",
+        "salary": 3500,
+        "fpts": 25.25,
+        "own": 4.02
+      },
+      {
+        "slot": "UTIL",
+        "id": 44655011,
+        "name": "Cade Cunningham",
+        "team": "DET",
+        "pos": "PG",
+        "salary": 9500,
+        "fpts": 55.5,
+        "own": 25.32
+      }
+    ]
+  },
+  "optimal": {
+    "points": 355,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44655164,
+        "name": "Daniss Jenkins",
+        "team": "DET",
+        "pos": "PG",
+        "salary": 4300,
+        "fpts": 39.5,
+        "own": 22.22
+      },
+      {
+        "slot": "SG",
+        "id": 44655160,
+        "name": "Kris Dunn",
+        "team": "LAC",
+        "pos": "PG",
+        "salary": 4400,
+        "fpts": 42.5,
+        "own": 13.38
+      },
+      {
+        "slot": "SF",
+        "id": 44655045,
+        "name": "Franz Wagner",
+        "team": "ORL",
+        "pos": "SF",
+        "salary": 7600,
+        "fpts": 52.75,
+        "own": 23.95
+      },
+      {
+        "slot": "PF",
+        "id": 44655182,
+        "name": "Alex Caruso",
+        "team": "OKC",
+        "pos": "SF",
+        "salary": 4200,
+        "fpts": 36.25,
+        "own": 1.66
+      },
+      {
+        "slot": "C",
+        "id": 44655313,
+        "name": "Adem Bona",
+        "team": "PHI",
+        "pos": "C",
+        "salary": 3100,
+        "fpts": 30.25,
+        "own": 14.45
+      },
+      {
+        "slot": "G",
+        "id": 44655017,
+        "name": "Tyrese Maxey",
+        "team": "PHI",
+        "pos": "PG",
+        "salary": 8500,
+        "fpts": 49.25,
+        "own": 35.77
+      },
+      {
+        "slot": "F",
+        "id": 44655022,
+        "name": "Karl-Anthony Towns",
+        "team": "NYK",
+        "pos": "PF",
+        "salary": 8300,
+        "fpts": 49,
+        "own": 23.91
+      },
+      {
+        "slot": "UTIL",
+        "id": 44655011,
+        "name": "Cade Cunningham",
+        "team": "DET",
+        "pos": "PG",
+        "salary": 9500,
+        "fpts": 55.5,
+        "own": 25.32
+      }
+    ],
+    "assumedZero": 39
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 2,
+    "finish": 6,
+    "pctile": 99.95,
+    "points": 330,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44655160,
+        "name": "Kris Dunn",
+        "team": "LAC",
+        "pos": "PG",
+        "salary": 4400,
+        "fpts": 42.5,
+        "own": 13.38
+      },
+      {
+        "slot": "SG",
+        "id": 44655059,
+        "name": "Desmond Bane",
+        "team": "ORL",
+        "pos": "SG",
+        "salary": 6500,
+        "fpts": 37,
+        "own": 15.07
+      },
+      {
+        "slot": "SF",
+        "id": 44655260,
+        "name": "Terrence Shannon Jr.",
+        "team": "MIN",
+        "pos": "SG",
+        "salary": 3500,
+        "fpts": 26.5,
+        "own": 0.9
+      },
+      {
+        "slot": "PF",
+        "id": 44655022,
+        "name": "Karl-Anthony Towns",
+        "team": "NYK",
+        "pos": "PF",
+        "salary": 8300,
+        "fpts": 49,
+        "own": 23.91
+      },
+      {
+        "slot": "C",
+        "id": 44655313,
+        "name": "Adem Bona",
+        "team": "PHI",
+        "pos": "C",
+        "salary": 3100,
+        "fpts": 30.25,
+        "own": 14.45
+      },
+      {
+        "slot": "G",
+        "id": 44655029,
+        "name": "Jalen Brunson",
+        "team": "NYK",
+        "pos": "PG",
+        "salary": 8100,
+        "fpts": 42.75,
+        "own": 23.27
+      },
+      {
+        "slot": "F",
+        "id": 44655045,
+        "name": "Franz Wagner",
+        "team": "ORL",
+        "pos": "SF",
+        "salary": 7600,
+        "fpts": 52.75,
+        "own": 23.95
+      },
+      {
+        "slot": "UTIL",
+        "id": 44655017,
+        "name": "Tyrese Maxey",
+        "team": "PHI",
+        "pos": "PG",
+        "salary": 8500,
+        "fpts": 49.25,
+        "own": 35.77
+      }
+    ],
+    "money": {
+      "fee": 18,
+      "one": {
+        "won": 0,
+        "net": -18
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 410,
+        "net": 50,
+        "cashed": 11
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "DET": 4,
+        "NYK": 1,
+        "ORL": 1,
+        "PHI": 1,
+        "TOR": 1
+      },
+      "games": {
+        "DET@PHI": 5,
+        "ORL@NYK": 2,
+        "TOR@MIN": 1
+      },
+      "nGames": 3,
+      "summary": [
+        "DET 4",
+        "3 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "DET": 2,
+        "PHI": 2,
+        "LAC": 1,
+        "NYK": 1,
+        "OKC": 1,
+        "ORL": 1
+      },
+      "games": {
+        "DET@PHI": 4,
+        "LAC@OKC": 2,
+        "ORL@NYK": 2
+      },
+      "nGames": 3,
+      "summary": [
+        "DET 2 · PHI 2",
+        "3 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "NYK": 2,
+        "ORL": 2,
+        "PHI": 2,
+        "LAC": 1,
+        "MIN": 1
+      },
+      "games": {
+        "ORL@NYK": 4,
+        "DET@PHI": 2,
+        "LAC@OKC": 1,
+        "TOR@MIN": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "NYK 2 · ORL 2 · PHI 2",
+        "4 games"
+      ]
+    }
+  }
+}

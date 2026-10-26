@@ -1,0 +1,281 @@
+{
+  "sport": "nhl",
+  "slate": "154733",
+  "date": "2026-10-13",
+  "contest": {
+    "id": 196669686,
+    "label": "NHL $100K Kick Save [$25K to 1st] $15",
+    "entries": 7843
+  },
+  "generatedAt": "2026-10-17T13:09:01.836Z",
+  "winner": null,
+  "optimal": {
+    "points": 257.1,
+    "salary": 44200,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44478622,
+        "name": "Mason McTavish",
+        "team": "STL",
+        "pos": "C",
+        "salary": 4100,
+        "fpts": 38.3,
+        "own": 2.37
+      },
+      {
+        "slot": "C",
+        "id": 44478680,
+        "name": "Pius Suter",
+        "team": "STL",
+        "pos": "C",
+        "salary": 2700,
+        "fpts": 33,
+        "own": 0.01
+      },
+      {
+        "slot": "W",
+        "id": 44478962,
+        "name": "Pavel Buchnevich",
+        "team": "STL",
+        "pos": "W",
+        "salary": 3300,
+        "fpts": 24.1,
+        "own": 0.55
+      },
+      {
+        "slot": "W",
+        "id": 44478994,
+        "name": "Teuvo Teravainen",
+        "team": "CHI",
+        "pos": "W",
+        "salary": 3000,
+        "fpts": 29.5,
+        "own": 0.59
+      },
+      {
+        "slot": "W",
+        "id": 44479038,
+        "name": "Tyler Seguin",
+        "team": "DAL",
+        "pos": "W",
+        "salary": 2800,
+        "fpts": 27,
+        "own": 0.42
+      },
+      {
+        "slot": "D",
+        "id": 44479270,
+        "name": "Adam Fox",
+        "team": "NYR",
+        "pos": "D",
+        "salary": 6400,
+        "fpts": 21.7,
+        "own": 0.46
+      },
+      {
+        "slot": "D",
+        "id": 44479306,
+        "name": "MacKenzie Weegar",
+        "team": "UTA",
+        "pos": "D",
+        "salary": 4800,
+        "fpts": 21.2,
+        "own": 1.34
+      },
+      {
+        "slot": "G",
+        "id": 44479686,
+        "name": "Devon Levi",
+        "team": "EDM",
+        "pos": "G",
+        "salary": 7600,
+        "fpts": 32.8,
+        "own": 3.15
+      },
+      {
+        "slot": "UTIL",
+        "id": 44478546,
+        "name": "Connor McDavid",
+        "team": "EDM",
+        "pos": "C",
+        "salary": 9500,
+        "fpts": 29.5,
+        "own": 14.18
+      }
+    ],
+    "assumedZero": 192
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 1012,
+    "pctile": 87.05,
+    "points": 115,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44478546,
+        "name": "Connor McDavid",
+        "team": "EDM",
+        "pos": "C",
+        "salary": 9500,
+        "fpts": 29.5,
+        "own": 14.18
+      },
+      {
+        "slot": "C",
+        "id": 44478674,
+        "name": "Erik Haula",
+        "team": "LAK",
+        "pos": "C",
+        "salary": 2800,
+        "fpts": 7.3,
+        "own": 2.04
+      },
+      {
+        "slot": "W",
+        "id": 44478954,
+        "name": "Will Cuylle",
+        "team": "NYR",
+        "pos": "W",
+        "salary": 3400,
+        "fpts": 14.5,
+        "own": 0.4
+      },
+      {
+        "slot": "W",
+        "id": 44478894,
+        "name": "Jake DeBrusk",
+        "team": "VAN",
+        "pos": "W",
+        "salary": 4600,
+        "fpts": 5.6,
+        "own": 3.2
+      },
+      {
+        "slot": "W",
+        "id": 44478848,
+        "name": "Beckett Sennecke",
+        "team": "ANA",
+        "pos": "W",
+        "salary": 6000,
+        "fpts": 14.5,
+        "own": 16.31
+      },
+      {
+        "slot": "D",
+        "id": 44479296,
+        "name": "Mikhail Sergachev",
+        "team": "UTA",
+        "pos": "D",
+        "salary": 5300,
+        "fpts": 18.5,
+        "own": 13.77
+      },
+      {
+        "slot": "D",
+        "id": 44479264,
+        "name": "Evan Bouchard",
+        "team": "EDM",
+        "pos": "D",
+        "salary": 8000,
+        "fpts": 14.1,
+        "own": 8.51
+      },
+      {
+        "slot": "G",
+        "id": 44479701,
+        "name": "Joel Hofer",
+        "team": "STL",
+        "pos": "G",
+        "salary": 7300,
+        "fpts": 9.5,
+        "own": 10.99
+      },
+      {
+        "slot": "UTIL",
+        "id": 44478662,
+        "name": "Michael Misa",
+        "team": "SJS",
+        "pos": "C",
+        "salary": 3000,
+        "fpts": 1.5,
+        "own": 0.28
+      }
+    ]
+  },
+  "stacks": {
+    "winner": null,
+    "optimal": {
+      "teams": {
+        "STL": 3,
+        "EDM": 2,
+        "CHI": 1,
+        "DAL": 1,
+        "NYR": 1,
+        "UTA": 1
+      },
+      "games": {
+        "STL@OTT": 3,
+        "EDM@LAK": 2,
+        "COL@DAL": 1,
+        "PIT@CHI": 1,
+        "TBL@NYR": 1,
+        "TOR@UTA": 1
+      },
+      "nGames": 6,
+      "lines": {},
+      "pp": {
+        "STL pp2": 2
+      },
+      "goalie": {
+        "team": "EDM",
+        "opposing": 0
+      },
+      "summary": [
+        "STL 3 · EDM 2",
+        "STL pp2 ×2",
+        "G EDM",
+        "6 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "EDM": 2,
+        "ANA": 1,
+        "LAK": 1,
+        "NYR": 1,
+        "SJS": 1,
+        "STL": 1,
+        "UTA": 1,
+        "VAN": 1
+      },
+      "games": {
+        "EDM@LAK": 3,
+        "BOS@SJS": 1,
+        "CGY@ANA": 1,
+        "STL@OTT": 1,
+        "TBL@NYR": 1,
+        "TOR@UTA": 1,
+        "VAN@NYI": 1
+      },
+      "nGames": 7,
+      "lines": {},
+      "pp": {
+        "EDM pp1": 2
+      },
+      "goalie": {
+        "team": "STL",
+        "opposing": 0
+      },
+      "summary": [
+        "EDM 2",
+        "EDM pp1 ×2",
+        "G STL",
+        "7 games"
+      ]
+    }
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "sport": "nba",
+  "slate": "154575",
+  "date": "2026-10-20",
+  "contest": {
+    "id": 196456057,
+    "label": " NBA $600K Opening Tip Off [$200K to 1st, 3PT Throne Eligible]",
+    "entries": 34630
+  },
+  "generatedAt": "2026-10-21T08:40:10.275Z",
+  "winner": {
+    "rank": 1,
+    "name": "mfenn21 (3/3)",
+    "points": 336.25,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44451201,
+        "name": "Shai Gilgeous-Alexander",
+        "team": "OKC",
+        "pos": "PG",
+        "salary": 10200,
+        "fpts": 58,
+        "own": 7.52
+      },
+      {
+        "slot": "SG",
+        "id": 44451282,
+        "name": "Dylan Harper",
+        "team": "SAS",
+        "pos": "PG",
+        "salary": 5100,
+        "fpts": 33.25,
+        "own": 69.66
+      },
+      {
+        "slot": "SF",
+        "id": 44451247,
+        "name": "Josh Hart",
+        "team": "NYK",
+        "pos": "SG",
+        "salary": 6200,
+        "fpts": 31.25,
+        "own": 18.03
+      },
+      {
+        "slot": "PF",
+        "id": 44451243,
+        "name": "Paul George",
+        "team": "BOS",
+        "pos": "SF",
+        "salary": 6300,
+        "fpts": 60.75,
+        "own": 21.3
+      },
+      {
+        "slot": "C",
+        "id": 44451213,
+        "name": "Joel Embiid",
+        "team": "PHI",
+        "pos": "C",
+        "salary": 8100,
+        "fpts": 46.25,
+        "own": 13.4
+      },
+      {
+        "slot": "G",
+        "id": 44451337,
+        "name": "Jared McCain",
+        "team": "OKC",
+        "pos": "SG",
+        "salary": 4300,
+        "fpts": 29.5,
+        "own": 4.2
+      },
+      {
+        "slot": "F",
+        "id": 44451275,
+        "name": "Ausar Thompson",
+        "team": "DET",
+        "pos": "SF",
+        "salary": 5200,
+        "fpts": 34.25,
+        "own": 35.02
+      },
+      {
+        "slot": "UTIL",
+        "id": 44451311,
+        "name": "Andre Drummond",
+        "team": "NYK",
+        "pos": "C",
+        "salary": 4500,
+        "fpts": 43,
+        "own": 1.33
+      }
+    ]
+  },
+  "optimal": {
+    "points": 347,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44451210,
+        "name": "Tyrese Maxey",
+        "team": "PHI",
+        "pos": "PG",
+        "salary": 8300,
+        "fpts": 52.5,
+        "own": 6.78
+      },
+      {
+        "slot": "SG",
+        "id": 44451337,
+        "name": "Jared McCain",
+        "team": "OKC",
+        "pos": "SG",
+        "salary": 4300,
+        "fpts": 29.5,
+        "own": 4.2
+      },
+      {
+        "slot": "SF",
+        "id": 44451469,
+        "name": "Javonte Green",
+        "team": "DET",
+        "pos": "SF",
+        "salary": 3300,
+        "fpts": 26.5,
+        "own": 0.12
+      },
+      {
+        "slot": "PF",
+        "id": 44451243,
+        "name": "Paul George",
+        "team": "BOS",
+        "pos": "SF",
+        "salary": 6300,
+        "fpts": 60.75,
+        "own": 21.3
+      },
+      {
+        "slot": "C",
+        "id": 44451311,
+        "name": "Andre Drummond",
+        "team": "NYK",
+        "pos": "C",
+        "salary": 4500,
+        "fpts": 43,
+        "own": 1.33
+      },
+      {
+        "slot": "G",
+        "id": 44451201,
+        "name": "Shai Gilgeous-Alexander",
+        "team": "OKC",
+        "pos": "PG",
+        "salary": 10200,
+        "fpts": 58,
+        "own": 7.52
+      },
+      {
+        "slot": "F",
+        "id": 44451275,
+        "name": "Ausar Thompson",
+        "team": "DET",
+        "pos": "SF",
+        "salary": 5200,
+        "fpts": 34.25,
+        "own": 35.02
+      },
+      {
+        "slot": "UTIL",
+        "id": 44451218,
+        "name": "Karl-Anthony Towns",
+        "team": "NYK",
+        "pos": "PF",
+        "salary": 7800,
+        "fpts": 42.5,
+        "own": 37.83
+      }
+    ],
+    "assumedZero": 16
+  },
+  "paper": null,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "NYK": 2,
+        "OKC": 2,
+        "BOS": 1,
+        "DET": 1,
+        "PHI": 1,
+        "SAS": 1
+      },
+      "games": {
+        "OKC@SAS": 3,
+        "PHI@NYK": 3,
+        "BOS@DET": 2
+      },
+      "nGames": 3,
+      "summary": [
+        "NYK 2 · OKC 2",
+        "3 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "DET": 2,
+        "NYK": 2,
+        "OKC": 2,
+        "BOS": 1,
+        "PHI": 1
+      },
+      "games": {
+        "BOS@DET": 3,
+        "PHI@NYK": 3,
+        "OKC@SAS": 2
+      },
+      "nGames": 3,
+      "summary": [
+        "DET 2 · NYK 2 · OKC 2",
+        "3 games"
+      ]
+    },
+    "paper": null
+  }
+}

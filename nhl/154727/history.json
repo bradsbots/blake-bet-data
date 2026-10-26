@@ -1,0 +1,271 @@
+{
+  "sport": "nhl",
+  "slate": "154727",
+  "date": "2026-10-12",
+  "contest": {
+    "id": 196646975,
+    "label": "NHL $25K Kick Save $15",
+    "entries": 1960
+  },
+  "generatedAt": "2026-10-17T12:08:36.623Z",
+  "winner": null,
+  "optimal": {
+    "points": 151,
+    "salary": 41900,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44473218,
+        "name": "Tim Stuetzle",
+        "team": "OTT",
+        "pos": "C",
+        "salary": 6100,
+        "fpts": 17.6,
+        "own": 31.22
+      },
+      {
+        "slot": "C",
+        "id": 44473248,
+        "name": "Stephen Halliday",
+        "team": "OTT",
+        "pos": "C",
+        "salary": 2500,
+        "fpts": 18.4,
+        "own": 0.66
+      },
+      {
+        "slot": "W",
+        "id": 44473278,
+        "name": "Arseny Gritsyuk",
+        "team": "NJD",
+        "pos": "W",
+        "salary": 3500,
+        "fpts": 11.5,
+        "own": 5.51
+      },
+      {
+        "slot": "W",
+        "id": 44473252,
+        "name": "Matt Boldy",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 7900,
+        "fpts": 13,
+        "own": 37.6
+      },
+      {
+        "slot": "W",
+        "id": 44473280,
+        "name": "Max Shabanov",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 3400,
+        "fpts": 14.3,
+        "own": 12.65
+      },
+      {
+        "slot": "D",
+        "id": 44473334,
+        "name": "Thomas Chabot",
+        "team": "OTT",
+        "pos": "D",
+        "salary": 5600,
+        "fpts": 17.5,
+        "own": 42.76
+      },
+      {
+        "slot": "D",
+        "id": 44473360,
+        "name": "Tyler Kleven",
+        "team": "OTT",
+        "pos": "D",
+        "salary": 2800,
+        "fpts": 19.7,
+        "own": 14.6
+      },
+      {
+        "slot": "G",
+        "id": 44473404,
+        "name": "Linus Ullmark",
+        "team": "OTT",
+        "pos": "G",
+        "salary": 7400,
+        "fpts": 22.8,
+        "own": 35.46
+      },
+      {
+        "slot": "UTIL",
+        "id": 44473362,
+        "name": "Olli Maatta",
+        "team": "MIN",
+        "pos": "D",
+        "salary": 2700,
+        "fpts": 16.2,
+        "own": 1.48
+      }
+    ],
+    "assumedZero": 22
+  },
+  "paper": {
+    "variant": null,
+    "lineup": 2,
+    "finish": 720,
+    "pctile": 63.06,
+    "points": 94,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44473224,
+        "name": "Dylan Cozens",
+        "team": "OTT",
+        "pos": "C",
+        "salary": 4600,
+        "fpts": 7.8,
+        "own": 23.22
+      },
+      {
+        "slot": "C",
+        "id": 44473214,
+        "name": "Jack Eichel",
+        "team": "VGK",
+        "pos": "C",
+        "salary": 8000,
+        "fpts": 4.3,
+        "own": 32.5
+      },
+      {
+        "slot": "W",
+        "id": 44473252,
+        "name": "Matt Boldy",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 7900,
+        "fpts": 13,
+        "own": 37.6
+      },
+      {
+        "slot": "W",
+        "id": 44473270,
+        "name": "Blake Coleman",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 4400,
+        "fpts": 8.4,
+        "own": 12.3
+      },
+      {
+        "slot": "W",
+        "id": 44473280,
+        "name": "Max Shabanov",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 3400,
+        "fpts": 14.3,
+        "own": 12.65
+      },
+      {
+        "slot": "D",
+        "id": 44473330,
+        "name": "Quinn Hughes",
+        "team": "MIN",
+        "pos": "D",
+        "salary": 6600,
+        "fpts": 14.3,
+        "own": 33.47
+      },
+      {
+        "slot": "D",
+        "id": 44473336,
+        "name": "Shea Theodore",
+        "team": "VGK",
+        "pos": "D",
+        "salary": 5000,
+        "fpts": 2.8,
+        "own": 8.52
+      },
+      {
+        "slot": "G",
+        "id": 44473404,
+        "name": "Linus Ullmark",
+        "team": "OTT",
+        "pos": "G",
+        "salary": 7400,
+        "fpts": 22.8,
+        "own": 35.46
+      },
+      {
+        "slot": "UTIL",
+        "id": 44473294,
+        "name": "Bobby Brink",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 2700,
+        "fpts": 6.3,
+        "own": 4.74
+      }
+    ]
+  },
+  "stacks": {
+    "winner": null,
+    "optimal": {
+      "teams": {
+        "OTT": 5,
+        "MIN": 3,
+        "NJD": 1
+      },
+      "games": {
+        "OTT@NJD": 6,
+        "VGK@MIN": 3
+      },
+      "nGames": 2,
+      "lines": {},
+      "pp": {
+        "MIN pp1": 2,
+        "OTT pp1": 2
+      },
+      "goalie": {
+        "team": "OTT",
+        "opposing": 1
+      },
+      "summary": [
+        "OTT 5 · MIN 3",
+        "MIN pp1 ×2",
+        "OTT pp1 ×2",
+        "G OTT · 1 skater vs G",
+        "2 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "MIN": 5,
+        "OTT": 2,
+        "VGK": 2
+      },
+      "games": {
+        "VGK@MIN": 7,
+        "OTT@NJD": 2
+      },
+      "nGames": 2,
+      "lines": {
+        "MIN f2": 2
+      },
+      "pp": {
+        "MIN pp1": 3,
+        "MIN pp2": 2
+      },
+      "goalie": {
+        "team": "OTT",
+        "opposing": 0
+      },
+      "summary": [
+        "MIN 5 · OTT 2 · VGK 2",
+        "MIN f2 ×2",
+        "MIN pp1 ×3",
+        "MIN pp2 ×2",
+        "G OTT",
+        "2 games"
+      ]
+    }
+  }
+}

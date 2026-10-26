@@ -1,0 +1,144 @@
+{
+  "sport": "nfl",
+  "slate": "154468",
+  "date": "2026-10-11",
+  "contest": {
+    "id": 196403752,
+    "label": "NFL $2.75M Millionaire $20",
+    "entries": 161557
+  },
+  "generatedAt": "2026-10-17T12:08:36.623Z",
+  "winner": null,
+  "optimal": {
+    "points": 284.76,
+    "salary": 49600,
+    "players": [
+      {
+        "slot": "QB",
+        "id": 44391827,
+        "name": "Drake Maye",
+        "team": "NE",
+        "pos": "QB",
+        "salary": 6300,
+        "fpts": 42.46,
+        "own": 4.26
+      },
+      {
+        "slot": "RB",
+        "id": 44391906,
+        "name": "Jaylen Warren",
+        "team": "PIT",
+        "pos": "RB",
+        "salary": 6700,
+        "fpts": 39.8,
+        "own": 17.93
+      },
+      {
+        "slot": "RB",
+        "id": 44391896,
+        "name": "Jahmyr Gibbs",
+        "team": "DET",
+        "pos": "RB",
+        "salary": 9800,
+        "fpts": 40.7,
+        "own": 26.62
+      },
+      {
+        "slot": "WR",
+        "id": 44392184,
+        "name": "Christian Watson",
+        "team": "GB",
+        "pos": "WR",
+        "salary": 6400,
+        "fpts": 35.3,
+        "own": 9.33
+      },
+      {
+        "slot": "WR",
+        "id": 44392186,
+        "name": "Malik Nabers",
+        "team": "NYG",
+        "pos": "WR",
+        "salary": 6300,
+        "fpts": 32.1,
+        "own": 8.78
+      },
+      {
+        "slot": "WR",
+        "id": 44392290,
+        "name": "DeMario Douglas",
+        "team": "NE",
+        "pos": "WR",
+        "salary": 3500,
+        "fpts": 22.5,
+        "own": 1.25
+      },
+      {
+        "slot": "TE",
+        "id": 44392608,
+        "name": "Isaiah Likely",
+        "team": "NYG",
+        "pos": "TE",
+        "salary": 4300,
+        "fpts": 32.4,
+        "own": 11.85
+      },
+      {
+        "slot": "FLEX",
+        "id": 44392614,
+        "name": "Pat Freiermuth",
+        "team": "PIT",
+        "pos": "TE",
+        "salary": 3900,
+        "fpts": 21.5,
+        "own": 0.91
+      },
+      {
+        "slot": "DST",
+        "id": 44392869,
+        "name": "49ers",
+        "team": "SF",
+        "pos": "DST",
+        "salary": 2400,
+        "fpts": 18,
+        "own": 1.82
+      }
+    ],
+    "assumedZero": 215
+  },
+  "paper": null,
+  "stacks": {
+    "winner": null,
+    "optimal": {
+      "teams": {
+        "NE": 2,
+        "NYG": 2,
+        "PIT": 2,
+        "DET": 1,
+        "GB": 1,
+        "SF": 1
+      },
+      "games": {
+        "IND@PIT": 2,
+        "LV@NE": 2,
+        "NYG@WAS": 2,
+        "CHI@GB": 1,
+        "DET@ARI": 1,
+        "SF@SEA": 1
+      },
+      "nGames": 6,
+      "qb": {
+        "team": "NE",
+        "catchers": 1,
+        "bringBack": 0
+      },
+      "rbDst": [],
+      "summary": [
+        "QB NE + 1",
+        "NE 2 · NYG 2 · PIT 2",
+        "6 games"
+      ]
+    },
+    "paper": null
+  }
+}

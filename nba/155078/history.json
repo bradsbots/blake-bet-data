@@ -1,0 +1,239 @@
+{
+  "sport": "nba",
+  "slate": "155078",
+  "date": "2026-10-21",
+  "contest": {
+    "id": 196986782,
+    "label": "NBA $400K Zone Special [$100K to 1st]",
+    "entries": 95124
+  },
+  "generatedAt": "2026-10-22T08:40:12.438Z",
+  "winner": {
+    "rank": 1,
+    "name": "sabercat_superfan (131/150)",
+    "points": 393.75,
+    "salary": 49800,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44598657,
+        "name": "Trae Young",
+        "team": "WAS",
+        "pos": "PG",
+        "salary": 7800,
+        "fpts": 44.5,
+        "own": 10.11
+      },
+      {
+        "slot": "SG",
+        "id": 44598624,
+        "name": "Anthony Edwards",
+        "team": "MIN",
+        "pos": "SG",
+        "salary": 8800,
+        "fpts": 72,
+        "own": 5.13
+      },
+      {
+        "slot": "SF",
+        "id": 44598680,
+        "name": "Kawhi Leonard",
+        "team": "TOR",
+        "pos": "SF",
+        "salary": 7400,
+        "fpts": 44.5,
+        "own": 25.99
+      },
+      {
+        "slot": "PF",
+        "id": 44598669,
+        "name": "Anthony Davis",
+        "team": "WAS",
+        "pos": "PF",
+        "salary": 7600,
+        "fpts": 61.5,
+        "own": 41.29
+      },
+      {
+        "slot": "C",
+        "id": 44599039,
+        "name": "Moussa Diabate",
+        "team": "CHA",
+        "pos": "C",
+        "salary": 4800,
+        "fpts": 39.5,
+        "own": 3.32
+      },
+      {
+        "slot": "G",
+        "id": 44598814,
+        "name": "Ty Jerome",
+        "team": "MEM",
+        "pos": "PG",
+        "salary": 6100,
+        "fpts": 66.75,
+        "own": 41.56
+      },
+      {
+        "slot": "F",
+        "id": 44599314,
+        "name": "Obi Toppin",
+        "team": "IND",
+        "pos": "PF",
+        "salary": 3600,
+        "fpts": 31.25,
+        "own": 14.35
+      },
+      {
+        "slot": "UTIL",
+        "id": 44599291,
+        "name": "Kris Dunn",
+        "team": "LAC",
+        "pos": "PG",
+        "salary": 3700,
+        "fpts": 33.75,
+        "own": 12.05
+      }
+    ]
+  },
+  "optimal": {
+    "points": 419.5,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44598824,
+        "name": "Immanuel Quickley",
+        "team": "TOR",
+        "pos": "PG",
+        "salary": 6000,
+        "fpts": 44.5,
+        "own": 6
+      },
+      {
+        "slot": "SG",
+        "id": 44598624,
+        "name": "Anthony Edwards",
+        "team": "MIN",
+        "pos": "SG",
+        "salary": 8800,
+        "fpts": 72,
+        "own": 5.13
+      },
+      {
+        "slot": "SF",
+        "id": 44599148,
+        "name": "Grayson Allen",
+        "team": "CHA",
+        "pos": "SG",
+        "salary": 4300,
+        "fpts": 31.25,
+        "own": 29.76
+      },
+      {
+        "slot": "PF",
+        "id": 44598669,
+        "name": "Anthony Davis",
+        "team": "WAS",
+        "pos": "PF",
+        "salary": 7600,
+        "fpts": 61.5,
+        "own": 41.29
+      },
+      {
+        "slot": "C",
+        "id": 44599039,
+        "name": "Moussa Diabate",
+        "team": "CHA",
+        "pos": "C",
+        "salary": 4800,
+        "fpts": 39.5,
+        "own": 3.32
+      },
+      {
+        "slot": "G",
+        "id": 44598814,
+        "name": "Ty Jerome",
+        "team": "MEM",
+        "pos": "PG",
+        "salary": 6100,
+        "fpts": 66.75,
+        "own": 41.56
+      },
+      {
+        "slot": "F",
+        "id": 44598704,
+        "name": "Julius Randle",
+        "team": "BKN",
+        "pos": "PF",
+        "salary": 7100,
+        "fpts": 55,
+        "own": 5.07
+      },
+      {
+        "slot": "UTIL",
+        "id": 44598969,
+        "name": "Yves Missi",
+        "team": "NOP",
+        "pos": "C",
+        "salary": 5200,
+        "fpts": 49,
+        "own": 0.41
+      }
+    ],
+    "assumedZero": 46
+  },
+  "paper": null,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "WAS": 2,
+        "CHA": 1,
+        "IND": 1,
+        "LAC": 1,
+        "MEM": 1,
+        "MIN": 1,
+        "TOR": 1
+      },
+      "games": {
+        "MIL@WAS": 2,
+        "CHA@BKN": 1,
+        "CHI@TOR": 1,
+        "IND@NOP": 1,
+        "MIN@MIA": 1,
+        "SAC@LAC": 1,
+        "UTA@MEM": 1
+      },
+      "nGames": 7,
+      "summary": [
+        "WAS 2",
+        "7 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "CHA": 2,
+        "BKN": 1,
+        "MEM": 1,
+        "MIN": 1,
+        "NOP": 1,
+        "TOR": 1,
+        "WAS": 1
+      },
+      "games": {
+        "CHA@BKN": 3,
+        "CHI@TOR": 1,
+        "IND@NOP": 1,
+        "MIL@WAS": 1,
+        "MIN@MIA": 1,
+        "UTA@MEM": 1
+      },
+      "nGames": 6,
+      "summary": [
+        "CHA 2",
+        "6 games"
+      ]
+    },
+    "paper": null
+  }
+}

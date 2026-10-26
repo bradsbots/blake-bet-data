@@ -1,0 +1,127 @@
+{
+  "sport": "nba",
+  "slate": "155063",
+  "date": "2026-10-14",
+  "contest": {
+    "id": 196717297,
+    "label": "NBA $6K Fadeaway [$2K to 1st] $15",
+    "entries": 470
+  },
+  "generatedAt": "2026-10-17T12:08:36.623Z",
+  "winner": null,
+  "optimal": {
+    "points": 313.5,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44500688,
+        "name": "Jamaree Bouyea",
+        "team": "PHX",
+        "pos": "PG",
+        "salary": 4200,
+        "fpts": 33.5,
+        "own": 15.53
+      },
+      {
+        "slot": "SG",
+        "id": 44500564,
+        "name": "Brayden Burries",
+        "team": "MIL",
+        "pos": "SG",
+        "salary": 4600,
+        "fpts": 39.75,
+        "own": 44.26
+      },
+      {
+        "slot": "SF",
+        "id": 44500736,
+        "name": "Ousmane Dieng",
+        "team": "MIL",
+        "pos": "SF",
+        "salary": 4000,
+        "fpts": 32.25,
+        "own": 35.32
+      },
+      {
+        "slot": "PF",
+        "id": 44500286,
+        "name": "Jayson Tatum",
+        "team": "BOS",
+        "pos": "PF",
+        "salary": 8900,
+        "fpts": 42,
+        "own": 26.38
+      },
+      {
+        "slot": "C",
+        "id": 44500632,
+        "name": "Leonard Miller",
+        "team": "CHI",
+        "pos": "PF",
+        "salary": 4400,
+        "fpts": 32.75,
+        "own": 7.67
+      },
+      {
+        "slot": "G",
+        "id": 44500424,
+        "name": "Jeremiah Fears",
+        "team": "NOP",
+        "pos": "PG",
+        "salary": 5500,
+        "fpts": 33.25,
+        "own": 16.17
+      },
+      {
+        "slot": "F",
+        "id": 44500280,
+        "name": "Giannis Antetokounmpo",
+        "team": "MIA",
+        "pos": "PF",
+        "salary": 9100,
+        "fpts": 59.75,
+        "own": 50.22
+      },
+      {
+        "slot": "UTIL",
+        "id": 44500278,
+        "name": "Victor Wembanyama",
+        "team": "SAS",
+        "pos": "C",
+        "salary": 9200,
+        "fpts": 40.25,
+        "own": 44.26
+      }
+    ],
+    "assumedZero": 144
+  },
+  "paper": null,
+  "stacks": {
+    "winner": null,
+    "optimal": {
+      "teams": {
+        "MIL": 2,
+        "BOS": 1,
+        "CHI": 1,
+        "MIA": 1,
+        "NOP": 1,
+        "PHX": 1,
+        "SAS": 1
+      },
+      "games": {
+        "CHI@MIL": 3,
+        "PHX@SAS": 2,
+        "BKN@MIA": 1,
+        "CHA@BOS": 1,
+        "NOP@DAL": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "MIL 2",
+        "5 games"
+      ]
+    },
+    "paper": null
+  }
+}

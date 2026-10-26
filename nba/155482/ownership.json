@@ -1,0 +1,891 @@
+{
+  "sport": "nba",
+  "slate": "155482",
+  "contestId": 197024717,
+  "label": "NBA $300K Fadeaway [$100K to 1st]",
+  "importedAt": "2026-10-23T08:40:10+00:00",
+  "entries": 18221,
+  "source": "dk_standings_csv",
+  "final": true,
+  "absentAsZero": true,
+  "players": {
+    "44615425": {
+      "drafted": 51.43,
+      "fpts": 34.25,
+      "slots": {
+        "C": 47.47,
+        "UTIL": 3.96
+      }
+    },
+    "44615433": {
+      "drafted": 46.75,
+      "fpts": 44.5,
+      "slots": {
+        "PF": 37.98,
+        "F": 7.47,
+        "UTIL": 1.3
+      }
+    },
+    "44615430": {
+      "drafted": 38.31,
+      "fpts": 27.75,
+      "slots": {
+        "PG": 27.98,
+        "G": 9.23,
+        "UTIL": 1.1
+      }
+    },
+    "44615415": {
+      "drafted": 36.59,
+      "fpts": 48.75,
+      "slots": {
+        "PG": 27.19,
+        "G": 8.29,
+        "UTIL": 1.11
+      }
+    },
+    "44615407": {
+      "drafted": 51.56,
+      "fpts": 32.75,
+      "slots": {
+        "C": 26.68,
+        "UTIL": 24.88
+      }
+    },
+    "44615459": {
+      "drafted": 50.74,
+      "fpts": 15.75,
+      "slots": {
+        "SF": 26.45,
+        "PF": 17.96,
+        "F": 5.24,
+        "UTIL": 1.09
+      }
+    },
+    "44615441": {
+      "drafted": 51.29,
+      "fpts": 46.25,
+      "slots": {
+        "F": 23.04,
+        "PF": 21.01,
+        "UTIL": 7.24
+      }
+    },
+    "44615412": {
+      "drafted": 27.64,
+      "fpts": 55.0,
+      "slots": {
+        "SG": 21.06,
+        "G": 5.43,
+        "UTIL": 1.15
+      }
+    },
+    "44615501": {
+      "drafted": 41.63,
+      "fpts": 18.5,
+      "slots": {
+        "SG": 20.38,
+        "SF": 11.71,
+        "G": 5.08,
+        "F": 3.67,
+        "UTIL": 0.79
+      }
+    },
+    "44615427": {
+      "drafted": 25.86,
+      "fpts": 37.5,
+      "slots": {
+        "SF": 20.15,
+        "F": 4.8,
+        "UTIL": 0.91
+      }
+    },
+    "44615436": {
+      "drafted": 38.44,
+      "fpts": 32.25,
+      "slots": {
+        "SF": 16.44,
+        "F": 16.12,
+        "UTIL": 5.88
+      }
+    },
+    "44615457": {
+      "drafted": 23.87,
+      "fpts": 17.5,
+      "slots": {
+        "UTIL": 14.19,
+        "C": 9.68
+      }
+    },
+    "44615409": {
+      "drafted": 28.02,
+      "fpts": 27.5,
+      "slots": {
+        "PG": 13.54,
+        "G": 10.31,
+        "UTIL": 4.17
+      }
+    },
+    "44615493": {
+      "drafted": 25.92,
+      "fpts": 4.5,
+      "slots": {
+        "SG": 11.5,
+        "G": 10.97,
+        "UTIL": 3.45
+      }
+    },
+    "44615506": {
+      "drafted": 27.67,
+      "fpts": 5.25,
+      "slots": {
+        "SG": 11.31,
+        "PG": 10.26,
+        "G": 4.28,
+        "UTIL": 1.82
+      }
+    },
+    "44615466": {
+      "drafted": 24.81,
+      "fpts": 9.5,
+      "slots": {
+        "F": 10.83,
+        "SF": 10.37,
+        "UTIL": 3.61
+      }
+    },
+    "44615463": {
+      "drafted": 17.74,
+      "fpts": 17.5,
+      "slots": {
+        "G": 9.13,
+        "SG": 6.46,
+        "UTIL": 2.15
+      }
+    },
+    "44615422": {
+      "drafted": 19.5,
+      "fpts": 22.0,
+      "slots": {
+        "G": 9.08,
+        "PG": 8.14,
+        "UTIL": 2.28
+      }
+    },
+    "44615448": {
+      "drafted": 24.85,
+      "fpts": 35.5,
+      "slots": {
+        "F": 9.04,
+        "PF": 8.31,
+        "C": 4.02,
+        "UTIL": 3.48
+      }
+    },
+    "44615469": {
+      "drafted": 24.07,
+      "fpts": 22.5,
+      "slots": {
+        "G": 9.0,
+        "SG": 6.56,
+        "PG": 5.96,
+        "UTIL": 2.55
+      }
+    },
+    "44615479": {
+      "drafted": 22.99,
+      "fpts": 21.25,
+      "slots": {
+        "G": 8.15,
+        "SG": 5.25,
+        "F": 4.42,
+        "SF": 3.41,
+        "UTIL": 1.76
+      }
+    },
+    "44615418": {
+      "drafted": 14.7,
+      "fpts": 31.0,
+      "slots": {
+        "PF": 8.04,
+        "C": 3.7,
+        "F": 2.58,
+        "UTIL": 0.38
+      }
+    },
+    "44615444": {
+      "drafted": 14.13,
+      "fpts": 34.75,
+      "slots": {
+        "SG": 6.14,
+        "PG": 5.13,
+        "G": 2.2,
+        "UTIL": 0.66
+      }
+    },
+    "44615496": {
+      "drafted": 11.79,
+      "fpts": 16.75,
+      "slots": {
+        "SG": 5.01,
+        "SF": 3.24,
+        "G": 1.97,
+        "F": 1.28,
+        "UTIL": 0.29
+      }
+    },
+    "44615439": {
+      "drafted": 5.39,
+      "fpts": 26.25,
+      "slots": {
+        "C": 4.28,
+        "UTIL": 1.11
+      }
+    },
+    "44615452": {
+      "drafted": 16.11,
+      "fpts": 13.0,
+      "slots": {
+        "G": 3.92,
+        "SG": 3.89,
+        "F": 3.46,
+        "SF": 3.36,
+        "UTIL": 1.48
+      }
+    },
+    "44615513": {
+      "drafted": 7.1,
+      "fpts": 16.75,
+      "slots": {
+        "F": 2.62,
+        "PF": 2.35,
+        "UTIL": 1.37,
+        "C": 0.76
+      }
+    },
+    "44615536": {
+      "drafted": 3.13,
+      "fpts": 9.25,
+      "slots": {
+        "UTIL": 1.9,
+        "C": 1.23
+      }
+    },
+    "44615473": {
+      "drafted": 5.2,
+      "fpts": 24.0,
+      "slots": {
+        "F": 1.73,
+        "PF": 1.54,
+        "SF": 1.34,
+        "UTIL": 0.59
+      }
+    },
+    "44615488": {
+      "drafted": 4.47,
+      "fpts": 11.75,
+      "slots": {
+        "SG": 1.14,
+        "SF": 1.08,
+        "F": 0.98,
+        "G": 0.82,
+        "UTIL": 0.45
+      }
+    },
+    "44615532": {
+      "drafted": 2.3,
+      "fpts": 22.75,
+      "slots": {
+        "PF": 0.94,
+        "SF": 0.86,
+        "F": 0.42,
+        "UTIL": 0.08
+      }
+    },
+    "44615559": {
+      "drafted": 1.09,
+      "fpts": 4.0,
+      "slots": {
+        "G": 0.61,
+        "UTIL": 0.27,
+        "PG": 0.21
+      }
+    },
+    "44615477": {
+      "drafted": 0.94,
+      "fpts": 6.25,
+      "slots": {
+        "UTIL": 0.57,
+        "C": 0.37
+      }
+    },
+    "44615584": {
+      "drafted": 0.71,
+      "fpts": 5.25,
+      "slots": {
+        "PG": 0.46,
+        "G": 0.21,
+        "UTIL": 0.04
+      }
+    },
+    "44615527": {
+      "drafted": 0.66,
+      "fpts": 6.0,
+      "slots": {
+        "C": 0.36,
+        "UTIL": 0.3
+      }
+    },
+    "44615545": {
+      "drafted": 0.43,
+      "fpts": 0.0,
+      "slots": {
+        "C": 0.31,
+        "UTIL": 0.12
+      }
+    },
+    "44615484": {
+      "drafted": 0.81,
+      "fpts": 18.5,
+      "slots": {
+        "F": 0.31,
+        "PF": 0.26,
+        "UTIL": 0.16,
+        "C": 0.08
+      }
+    },
+    "44615565": {
+      "drafted": 0.56,
+      "fpts": 6.25,
+      "slots": {
+        "F": 0.29,
+        "PF": 0.13,
+        "SF": 0.12,
+        "UTIL": 0.02
+      }
+    },
+    "44615517": {
+      "drafted": 0.62,
+      "fpts": 0.0,
+      "slots": {
+        "F": 0.29,
+        "SF": 0.24,
+        "UTIL": 0.09
+      }
+    },
+    "44615520": {
+      "drafted": 0.28,
+      "fpts": 0.0,
+      "slots": {
+        "PF": 0.25,
+        "F": 0.02,
+        "UTIL": 0.01
+      }
+    },
+    "44615607": {
+      "drafted": 0.26,
+      "fpts": 8.25,
+      "slots": {
+        "G": 0.16,
+        "PG": 0.07,
+        "UTIL": 0.03
+      }
+    },
+    "44615538": {
+      "drafted": 0.23,
+      "fpts": 0.0,
+      "slots": {
+        "F": 0.14,
+        "UTIL": 0.07,
+        "PF": 0.02
+      }
+    },
+    "44615552": {
+      "drafted": 0.16,
+      "fpts": 0.0,
+      "slots": {
+        "SG": 0.13,
+        "UTIL": 0.02,
+        "G": 0.01
+      }
+    },
+    "44615628": {
+      "drafted": 0.26,
+      "fpts": 12.0,
+      "slots": {
+        "F": 0.11,
+        "SF": 0.07,
+        "PF": 0.06,
+        "UTIL": 0.02
+      }
+    },
+    "44615571": {
+      "drafted": 0.1,
+      "fpts": 0.0,
+      "slots": {
+        "PF": 0.05,
+        "F": 0.03,
+        "SF": 0.02
+      }
+    },
+    "44615577": {
+      "drafted": 0.11,
+      "fpts": 0.0,
+      "slots": {
+        "SG": 0.04,
+        "G": 0.04,
+        "UTIL": 0.02,
+        "PG": 0.01
+      }
+    },
+    "44615562": {
+      "drafted": 0.06,
+      "fpts": 3.25,
+      "slots": {
+        "SF": 0.04,
+        "F": 0.02
+      }
+    },
+    "44615547": {
+      "drafted": 0.13,
+      "fpts": 0.0,
+      "slots": {
+        "G": 0.04,
+        "SG": 0.03,
+        "SF": 0.03,
+        "F": 0.02,
+        "UTIL": 0.01
+      }
+    },
+    "44615523": {
+      "drafted": 0.04,
+      "fpts": 0.0,
+      "slots": {
+        "UTIL": 0.02,
+        "SG": 0.01,
+        "PG": 0.01
+      }
+    },
+    "44615591": {
+      "drafted": 0.04,
+      "fpts": 0.0,
+      "slots": {
+        "PF": 0.02,
+        "SF": 0.01,
+        "F": 0.01
+      }
+    },
+    "44615555": {
+      "drafted": 0.03,
+      "fpts": 0.0,
+      "slots": {
+        "SG": 0.02,
+        "PG": 0.01
+      }
+    },
+    "44615617": {
+      "drafted": 0.02,
+      "fpts": 1.5,
+      "slots": {
+        "PF": 0.01,
+        "SF": 0.01
+      }
+    },
+    "44615587": {
+      "drafted": 0.01,
+      "fpts": 0.0,
+      "slots": {
+        "UTIL": 0.01
+      }
+    },
+    "44615595": {
+      "drafted": 0.01,
+      "fpts": 0.0,
+      "slots": {
+        "F": 0.01
+      }
+    },
+    "44615600": {
+      "drafted": 0.01,
+      "fpts": 0.0,
+      "slots": {
+        "C": 0.01
+      }
+    },
+    "44615612": {
+      "drafted": 0.01,
+      "fpts": 0.0,
+      "slots": {
+        "SG": 0.01
+      }
+    },
+    "44615575": {
+      "drafted": 0.01,
+      "fpts": 0.0,
+      "slots": {
+        "C": 0.01
+      }
+    },
+    "44615581": {
+      "drafted": 0.01,
+      "fpts": 0.0,
+      "slots": {
+        "PF": 0.01
+      }
+    },
+    "44615510": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44615529": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44615541": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44615569": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44615598": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44615602": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44615604": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44615610": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44615621": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44615626": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    }
+  },
+  "unmatched": [],
+  "ambiguous": [],
+  "top": [
+    {
+      "rank": 1,
+      "name": "vdkelly005",
+      "points": 313.75
+    },
+    {
+      "rank": 1,
+      "name": "landrynsons",
+      "points": 313.75
+    },
+    {
+      "rank": 3,
+      "name": "rdog (24/50)",
+      "points": 310.0
+    }
+  ],
+  "pointsQuantiles": {
+    "p50": 224.75,
+    "p90": 259.75,
+    "p99": 283.5,
+    "max": 313.75,
+    "min": 0.0
+  },
+  "winners": [
+    {
+      "rank": 1,
+      "name": "vdkelly005",
+      "points": 313.75,
+      "players": [
+        {
+          "slot": "C",
+          "name": "Jaylin Williams",
+          "id": "44615513",
+          "fpts": 16.75
+        },
+        {
+          "slot": "F",
+          "name": "LeBron James",
+          "id": "44615433",
+          "fpts": 44.5
+        },
+        {
+          "slot": "G",
+          "name": "VJ Edgecombe",
+          "id": "44615444",
+          "fpts": 34.75
+        },
+        {
+          "slot": "PF",
+          "name": "Chet Holmgren",
+          "id": "44615441",
+          "fpts": 46.25
+        },
+        {
+          "slot": "PG",
+          "name": "Tyrese Maxey",
+          "id": "44615415",
+          "fpts": 48.75
+        },
+        {
+          "slot": "SF",
+          "name": "Jalen Williams",
+          "id": "44615436",
+          "fpts": 32.25
+        },
+        {
+          "slot": "SG",
+          "name": "Donovan Mitchell",
+          "id": "44615412",
+          "fpts": 55.0
+        },
+        {
+          "slot": "UTIL",
+          "name": "Aaron Gordon",
+          "id": "44615448",
+          "fpts": 35.5
+        }
+      ]
+    },
+    {
+      "rank": 1,
+      "name": "landrynsons",
+      "points": 313.75,
+      "players": [
+        {
+          "slot": "C",
+          "name": "Aaron Gordon",
+          "id": "44615448",
+          "fpts": 35.5
+        },
+        {
+          "slot": "F",
+          "name": "LeBron James",
+          "id": "44615433",
+          "fpts": 44.5
+        },
+        {
+          "slot": "G",
+          "name": "VJ Edgecombe",
+          "id": "44615444",
+          "fpts": 34.75
+        },
+        {
+          "slot": "PF",
+          "name": "Chet Holmgren",
+          "id": "44615441",
+          "fpts": 46.25
+        },
+        {
+          "slot": "PG",
+          "name": "Tyrese Maxey",
+          "id": "44615415",
+          "fpts": 48.75
+        },
+        {
+          "slot": "SF",
+          "name": "Jalen Williams",
+          "id": "44615436",
+          "fpts": 32.25
+        },
+        {
+          "slot": "SG",
+          "name": "Donovan Mitchell",
+          "id": "44615412",
+          "fpts": 55.0
+        },
+        {
+          "slot": "UTIL",
+          "name": "Jaylin Williams",
+          "id": "44615513",
+          "fpts": 16.75
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "rdog (24/50)",
+      "points": 310.0,
+      "players": [
+        {
+          "slot": "C",
+          "name": "Aaron Gordon",
+          "id": "44615448",
+          "fpts": 35.5
+        },
+        {
+          "slot": "F",
+          "name": "Chet Holmgren",
+          "id": "44615441",
+          "fpts": 46.25
+        },
+        {
+          "slot": "G",
+          "name": "Jaylon Tyson",
+          "id": "44615501",
+          "fpts": 18.5
+        },
+        {
+          "slot": "PF",
+          "name": "LeBron James",
+          "id": "44615433",
+          "fpts": 44.5
+        },
+        {
+          "slot": "PG",
+          "name": "Tyrese Maxey",
+          "id": "44615415",
+          "fpts": 48.75
+        },
+        {
+          "slot": "SF",
+          "name": "Jaylen Brown",
+          "id": "44615427",
+          "fpts": 37.5
+        },
+        {
+          "slot": "SG",
+          "name": "Donovan Mitchell",
+          "id": "44615412",
+          "fpts": 55.0
+        },
+        {
+          "slot": "UTIL",
+          "name": "Alex Caruso",
+          "id": "44615473",
+          "fpts": 24.0
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "Swidb (34/150)",
+      "points": 307.25,
+      "players": [
+        {
+          "slot": "C",
+          "name": "Aaron Gordon",
+          "id": "44615448",
+          "fpts": 35.5
+        },
+        {
+          "slot": "F",
+          "name": "Jaylon Tyson",
+          "id": "44615501",
+          "fpts": 18.5
+        },
+        {
+          "slot": "G",
+          "name": "Cason Wallace",
+          "id": "44615479",
+          "fpts": 21.25
+        },
+        {
+          "slot": "PF",
+          "name": "LeBron James",
+          "id": "44615433",
+          "fpts": 44.5
+        },
+        {
+          "slot": "PG",
+          "name": "Tyrese Maxey",
+          "id": "44615415",
+          "fpts": 48.75
+        },
+        {
+          "slot": "SF",
+          "name": "Jaylen Brown",
+          "id": "44615427",
+          "fpts": 37.5
+        },
+        {
+          "slot": "SG",
+          "name": "Donovan Mitchell",
+          "id": "44615412",
+          "fpts": 55.0
+        },
+        {
+          "slot": "UTIL",
+          "name": "Chet Holmgren",
+          "id": "44615441",
+          "fpts": 46.25
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "DirtyDozer",
+      "points": 307.25,
+      "players": [
+        {
+          "slot": "C",
+          "name": "Aaron Gordon",
+          "id": "44615448",
+          "fpts": 35.5
+        },
+        {
+          "slot": "F",
+          "name": "LeBron James",
+          "id": "44615433",
+          "fpts": 44.5
+        },
+        {
+          "slot": "G",
+          "name": "Cason Wallace",
+          "id": "44615479",
+          "fpts": 21.25
+        },
+        {
+          "slot": "PF",
+          "name": "Chet Holmgren",
+          "id": "44615441",
+          "fpts": 46.25
+        },
+        {
+          "slot": "PG",
+          "name": "Tyrese Maxey",
+          "id": "44615415",
+          "fpts": 48.75
+        },
+        {
+          "slot": "SF",
+          "name": "Jaylen Brown",
+          "id": "44615427",
+          "fpts": 37.5
+        },
+        {
+          "slot": "SG",
+          "name": "Donovan Mitchell",
+          "id": "44615412",
+          "fpts": 55.0
+        },
+        {
+          "slot": "UTIL",
+          "name": "Jaylon Tyson",
+          "id": "44615501",
+          "fpts": 18.5
+        }
+      ]
+    }
+  ],
+  "winnersUnmatched": []
+}

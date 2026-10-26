@@ -1,0 +1,273 @@
+{
+  "sport": "nhl",
+  "slate": "154770",
+  "date": "2026-10-18",
+  "contest": {
+    "id": 196801208,
+    "label": "NHL $20K Overload [$5K to 1st]",
+    "entries": 1103
+  },
+  "generatedAt": "2026-10-19T09:43:19.269Z",
+  "winner": {
+    "rank": 1,
+    "name": "DFS_HofbrauKing (4/35)",
+    "points": 129.3,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44552050,
+        "name": "Adam Fantilli",
+        "team": "CBJ",
+        "pos": "C",
+        "salary": 5800,
+        "fpts": 14.1,
+        "own": 22.12
+      },
+      {
+        "slot": "C",
+        "id": 44552052,
+        "name": "Joel Eriksson Ek",
+        "team": "MIN",
+        "pos": "C",
+        "salary": 5700,
+        "fpts": 8,
+        "own": 48.14
+      },
+      {
+        "slot": "W",
+        "id": 44552092,
+        "name": "Kirill Kaprizov",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 8000,
+        "fpts": 19,
+        "own": 63.65
+      },
+      {
+        "slot": "W",
+        "id": 44552094,
+        "name": "Matt Boldy",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 7500,
+        "fpts": 12,
+        "own": 60.75
+      },
+      {
+        "slot": "W",
+        "id": 44552130,
+        "name": "Yegor Sharangovich",
+        "team": "CGY",
+        "pos": "W",
+        "salary": 2800,
+        "fpts": 20.5,
+        "own": 4.8
+      },
+      {
+        "slot": "D",
+        "id": 44552170,
+        "name": "Quinn Hughes",
+        "team": "MIN",
+        "pos": "D",
+        "salary": 6500,
+        "fpts": 5.8,
+        "own": 60.29
+      },
+      {
+        "slot": "D",
+        "id": 44552218,
+        "name": "Jake Middleton",
+        "team": "CGY",
+        "pos": "D",
+        "salary": 2500,
+        "fpts": 9.1,
+        "own": 4.89
+      },
+      {
+        "slot": "G",
+        "id": 44552246,
+        "name": "Devin Cooley",
+        "team": "CGY",
+        "pos": "G",
+        "salary": 7100,
+        "fpts": 22.8,
+        "own": 18.04
+      },
+      {
+        "slot": "UTIL",
+        "id": 44552056,
+        "name": "Morgan Frost",
+        "team": "CGY",
+        "pos": "C",
+        "salary": 4100,
+        "fpts": 18,
+        "own": 11.6
+      }
+    ]
+  },
+  "optimal": {
+    "points": 153.3,
+    "salary": 45500,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44552068,
+        "name": "Danila Yurov",
+        "team": "MIN",
+        "pos": "C",
+        "salary": 2600,
+        "fpts": 14.5,
+        "own": 7.34
+      },
+      {
+        "slot": "C",
+        "id": 44552056,
+        "name": "Morgan Frost",
+        "team": "CGY",
+        "pos": "C",
+        "salary": 4100,
+        "fpts": 18,
+        "own": 11.6
+      },
+      {
+        "slot": "W",
+        "id": 44552092,
+        "name": "Kirill Kaprizov",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 8000,
+        "fpts": 19,
+        "own": 63.65
+      },
+      {
+        "slot": "W",
+        "id": 44552094,
+        "name": "Matt Boldy",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 7500,
+        "fpts": 12,
+        "own": 60.75
+      },
+      {
+        "slot": "W",
+        "id": 44552130,
+        "name": "Yegor Sharangovich",
+        "team": "CGY",
+        "pos": "W",
+        "salary": 2800,
+        "fpts": 20.5,
+        "own": 4.8
+      },
+      {
+        "slot": "D",
+        "id": 44552168,
+        "name": "Zach Werenski",
+        "team": "CBJ",
+        "pos": "D",
+        "salary": 8200,
+        "fpts": 10.8,
+        "own": 30.83
+      },
+      {
+        "slot": "D",
+        "id": 44552200,
+        "name": "Jalen Chatfield",
+        "team": "CAR",
+        "pos": "D",
+        "salary": 2700,
+        "fpts": 19.9,
+        "own": 3.45
+      },
+      {
+        "slot": "G",
+        "id": 44552246,
+        "name": "Devin Cooley",
+        "team": "CGY",
+        "pos": "G",
+        "salary": 7100,
+        "fpts": 22.8,
+        "own": 18.04
+      },
+      {
+        "slot": "UTIL",
+        "id": 44552084,
+        "name": "Jesperi Kotkaniemi",
+        "team": "CAR",
+        "pos": "C",
+        "salary": 2500,
+        "fpts": 15.8,
+        "own": 5.98
+      }
+    ],
+    "assumedZero": 26
+  },
+  "paper": null,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "CGY": 4,
+        "MIN": 4,
+        "CBJ": 1
+      },
+      "games": {
+        "CBJ@MIN": 5,
+        "CAR@CGY": 4
+      },
+      "nGames": 2,
+      "lines": {
+        "MIN f1": 3,
+        "CGY f2": 2
+      },
+      "pp": {
+        "MIN pp1": 4
+      },
+      "goalie": {
+        "team": "CGY",
+        "opposing": 0
+      },
+      "summary": [
+        "CGY 4 · MIN 4",
+        "MIN f1 ×3",
+        "CGY f2 ×2",
+        "MIN pp1 ×4",
+        "G CGY",
+        "2 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "CGY": 3,
+        "MIN": 3,
+        "CAR": 2,
+        "CBJ": 1
+      },
+      "games": {
+        "CAR@CGY": 5,
+        "CBJ@MIN": 4
+      },
+      "nGames": 2,
+      "lines": {
+        "CGY f2": 2,
+        "MIN f1": 2
+      },
+      "pp": {
+        "MIN pp1": 2
+      },
+      "goalie": {
+        "team": "CGY",
+        "opposing": 2
+      },
+      "summary": [
+        "CGY 3 · MIN 3 · CAR 2",
+        "CGY f2 ×2",
+        "MIN f1 ×2",
+        "MIN pp1 ×2",
+        "G CGY · 2 skaters vs G",
+        "2 games"
+      ]
+    },
+    "paper": null
+  }
+}

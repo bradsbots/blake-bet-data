@@ -1,0 +1,417 @@
+{
+  "sport": "nhl",
+  "slate": "154755",
+  "date": "2026-10-16",
+  "contest": {
+    "id": 196766167,
+    "label": "NHL $60K Kick Save [$20K to 1st]",
+    "entries": 4507
+  },
+  "generatedAt": "2026-10-20T20:47:02.018Z",
+  "winner": {
+    "rank": 1,
+    "name": "tommienation1 (29/100)",
+    "points": 179.2,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44529355,
+        "name": "Nathan MacKinnon",
+        "team": "COL",
+        "pos": "C",
+        "salary": 9000,
+        "fpts": 44.3,
+        "own": 62.22
+      },
+      {
+        "slot": "C",
+        "id": 44529373,
+        "name": "Elias Lindholm",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 3100,
+        "fpts": 15,
+        "own": 18.17
+      },
+      {
+        "slot": "W",
+        "id": 44529399,
+        "name": "Martin Necas",
+        "team": "COL",
+        "pos": "W",
+        "salary": 7000,
+        "fpts": 19.5,
+        "own": 23.08
+      },
+      {
+        "slot": "W",
+        "id": 44529409,
+        "name": "Bryan Rust",
+        "team": "PIT",
+        "pos": "W",
+        "salary": 5500,
+        "fpts": 12.8,
+        "own": 16.51
+      },
+      {
+        "slot": "W",
+        "id": 44529413,
+        "name": "Artturi Lehkonen",
+        "team": "COL",
+        "pos": "W",
+        "salary": 5000,
+        "fpts": 21.5,
+        "own": 15.42
+      },
+      {
+        "slot": "D",
+        "id": 44529473,
+        "name": "Cale Makar",
+        "team": "COL",
+        "pos": "D",
+        "salary": 7500,
+        "fpts": 15.6,
+        "own": 39.85
+      },
+      {
+        "slot": "D",
+        "id": 44529513,
+        "name": "Frederic Brunet",
+        "team": "BOS",
+        "pos": "D",
+        "salary": 2600,
+        "fpts": 18.4,
+        "own": 3.24
+      },
+      {
+        "slot": "G",
+        "id": 44529544,
+        "name": "Michael DiPietro",
+        "team": "BOS",
+        "pos": "G",
+        "salary": 7500,
+        "fpts": 16.5,
+        "own": 31.6
+      },
+      {
+        "slot": "UTIL",
+        "id": 44529435,
+        "name": "James Hagens",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 2800,
+        "fpts": 15.6,
+        "own": 9.18
+      }
+    ]
+  },
+  "optimal": {
+    "points": 189.3,
+    "salary": 48400,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44529355,
+        "name": "Nathan MacKinnon",
+        "team": "COL",
+        "pos": "C",
+        "salary": 9000,
+        "fpts": 44.3,
+        "own": 62.22
+      },
+      {
+        "slot": "C",
+        "id": 44529373,
+        "name": "Elias Lindholm",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 3100,
+        "fpts": 15,
+        "own": 18.17
+      },
+      {
+        "slot": "W",
+        "id": 44529399,
+        "name": "Martin Necas",
+        "team": "COL",
+        "pos": "W",
+        "salary": 7000,
+        "fpts": 19.5,
+        "own": 23.08
+      },
+      {
+        "slot": "W",
+        "id": 44529413,
+        "name": "Artturi Lehkonen",
+        "team": "COL",
+        "pos": "W",
+        "salary": 5000,
+        "fpts": 21.5,
+        "own": 15.42
+      },
+      {
+        "slot": "W",
+        "id": 44529397,
+        "name": "David Pastrnak",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 7800,
+        "fpts": 20.8,
+        "own": 37.29
+      },
+      {
+        "slot": "D",
+        "id": 44529501,
+        "name": "Samuel Girard",
+        "team": "PIT",
+        "pos": "D",
+        "salary": 2900,
+        "fpts": 14.9,
+        "own": 2.82
+      },
+      {
+        "slot": "D",
+        "id": 44529513,
+        "name": "Frederic Brunet",
+        "team": "BOS",
+        "pos": "D",
+        "salary": 2600,
+        "fpts": 18.4,
+        "own": 3.24
+      },
+      {
+        "slot": "G",
+        "id": 44529539,
+        "name": "MacKenzie Blackwood",
+        "team": "COL",
+        "pos": "G",
+        "salary": 8200,
+        "fpts": 19.3,
+        "own": 29.29
+      },
+      {
+        "slot": "UTIL",
+        "id": 44529435,
+        "name": "James Hagens",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 2800,
+        "fpts": 15.6,
+        "own": 9.18
+      }
+    ],
+    "assumedZero": 16
+  },
+  "paper": {
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 30,
+    "pctile": 99.36,
+    "points": 156.7,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44529355,
+        "name": "Nathan MacKinnon",
+        "team": "COL",
+        "pos": "C",
+        "salary": 9000,
+        "fpts": 44.3,
+        "own": 62.22
+      },
+      {
+        "slot": "C",
+        "id": 44529375,
+        "name": "Fraser Minten",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 3000,
+        "fpts": 3,
+        "own": 24.63
+      },
+      {
+        "slot": "W",
+        "id": 44529411,
+        "name": "Nazem Kadri",
+        "team": "COL",
+        "pos": "W",
+        "salary": 5200,
+        "fpts": 11,
+        "own": 28.47
+      },
+      {
+        "slot": "W",
+        "id": 44529413,
+        "name": "Artturi Lehkonen",
+        "team": "COL",
+        "pos": "W",
+        "salary": 5000,
+        "fpts": 21.5,
+        "own": 15.42
+      },
+      {
+        "slot": "W",
+        "id": 44529397,
+        "name": "David Pastrnak",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 7800,
+        "fpts": 20.8,
+        "own": 37.29
+      },
+      {
+        "slot": "D",
+        "id": 44529503,
+        "name": "Brett Kulak",
+        "team": "COL",
+        "pos": "D",
+        "salary": 2800,
+        "fpts": 8.4,
+        "own": 3.82
+      },
+      {
+        "slot": "D",
+        "id": 44529513,
+        "name": "Frederic Brunet",
+        "team": "BOS",
+        "pos": "D",
+        "salary": 2600,
+        "fpts": 18.4,
+        "own": 3.24
+      },
+      {
+        "slot": "G",
+        "id": 44529539,
+        "name": "MacKenzie Blackwood",
+        "team": "COL",
+        "pos": "G",
+        "salary": 8200,
+        "fpts": 19.3,
+        "own": 29.29
+      },
+      {
+        "slot": "UTIL",
+        "id": 44529401,
+        "name": "Beckett Sennecke",
+        "team": "ANA",
+        "pos": "W",
+        "salary": 6400,
+        "fpts": 10,
+        "own": 25.98
+      }
+    ],
+    "money": {
+      "fee": 15,
+      "one": {
+        "won": 25,
+        "net": 10
+      },
+      "portfolio": null
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "BOS": 4,
+        "COL": 4,
+        "PIT": 1
+      },
+      "games": {
+        "PIT@COL": 5,
+        "BOS@ANA": 4
+      },
+      "nGames": 2,
+      "lines": {
+        "COL f1": 3,
+        "BOS f3": 2
+      },
+      "pp": {
+        "BOS pp2": 2,
+        "COL pp1": 2,
+        "COL pp2": 2
+      },
+      "goalie": {
+        "team": "BOS",
+        "opposing": 0
+      },
+      "summary": [
+        "BOS 4 · COL 4",
+        "COL f1 ×3",
+        "BOS f3 ×2",
+        "BOS pp2 ×2",
+        "COL pp1 ×2",
+        "COL pp2 ×2",
+        "G BOS",
+        "2 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "BOS": 4,
+        "COL": 4,
+        "PIT": 1
+      },
+      "games": {
+        "PIT@COL": 5,
+        "BOS@ANA": 4
+      },
+      "nGames": 2,
+      "lines": {
+        "COL f1": 3,
+        "BOS f3": 2
+      },
+      "pp": {
+        "BOS pp1": 2,
+        "BOS pp2": 2,
+        "COL pp2": 2
+      },
+      "goalie": {
+        "team": "COL",
+        "opposing": 1
+      },
+      "summary": [
+        "BOS 4 · COL 4",
+        "COL f1 ×3",
+        "BOS f3 ×2",
+        "BOS pp1 ×2",
+        "BOS pp2 ×2",
+        "COL pp2 ×2",
+        "G COL · 1 skater vs G",
+        "2 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "COL": 5,
+        "BOS": 3,
+        "ANA": 1
+      },
+      "games": {
+        "PIT@COL": 5,
+        "BOS@ANA": 4
+      },
+      "nGames": 2,
+      "lines": {
+        "COL f1": 2
+      },
+      "pp": {
+        "BOS pp2": 2,
+        "COL pp1": 2
+      },
+      "goalie": {
+        "team": "COL",
+        "opposing": 0
+      },
+      "summary": [
+        "COL 5 · BOS 3",
+        "COL f1 ×2",
+        "BOS pp2 ×2",
+        "COL pp1 ×2",
+        "G COL",
+        "2 games"
+      ]
+    }
+  }
+}

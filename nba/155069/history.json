@@ -1,0 +1,236 @@
+{
+  "sport": "nba",
+  "slate": "155069",
+  "date": "2026-10-16",
+  "contest": {
+    "id": 196773222,
+    "label": "NBA $6K Fadeaway [$2K to 1st]",
+    "entries": 470
+  },
+  "generatedAt": "2026-10-17T12:08:36.623Z",
+  "winner": {
+    "rank": 1,
+    "name": "dbran4",
+    "points": 291.5,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44520521,
+        "name": "Zyon Pullin",
+        "team": "MIN",
+        "pos": "PG",
+        "salary": 4000,
+        "fpts": 34.75,
+        "own": 30.43
+      },
+      {
+        "slot": "SG",
+        "id": 44519860,
+        "name": "Tyler Herro",
+        "team": "MIL",
+        "pos": "SG",
+        "salary": 6100,
+        "fpts": 36.25,
+        "own": 1.06
+      },
+      {
+        "slot": "SF",
+        "id": 44520856,
+        "name": "Terrence Shannon Jr.",
+        "team": "MIN",
+        "pos": "SG",
+        "salary": 3500,
+        "fpts": 11,
+        "own": 27.66
+      },
+      {
+        "slot": "PF",
+        "id": 44520169,
+        "name": "Bobby Portis",
+        "team": "MIA",
+        "pos": "PF",
+        "salary": 4900,
+        "fpts": 24.75,
+        "own": 9.15
+      },
+      {
+        "slot": "C",
+        "id": 44519809,
+        "name": "Joel Embiid",
+        "team": "PHI",
+        "pos": "C",
+        "salary": 6900,
+        "fpts": 47.5,
+        "own": 3.83
+      },
+      {
+        "slot": "G",
+        "id": 44519748,
+        "name": "Cooper Flagg",
+        "team": "DAL",
+        "pos": "PG",
+        "salary": 8800,
+        "fpts": 54.5,
+        "own": 34.04
+      },
+      {
+        "slot": "F",
+        "id": 44519753,
+        "name": "Jalen Johnson",
+        "team": "ATL",
+        "pos": "PF",
+        "salary": 8700,
+        "fpts": 47,
+        "own": 18.08
+      },
+      {
+        "slot": "UTIL",
+        "id": 44519806,
+        "name": "Anthony Davis",
+        "team": "WAS",
+        "pos": "PF",
+        "salary": 7000,
+        "fpts": 35.75,
+        "own": 12.77
+      }
+    ]
+  },
+  "optimal": {
+    "points": 340.25,
+    "salary": 49800,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44520521,
+        "name": "Zyon Pullin",
+        "team": "MIN",
+        "pos": "PG",
+        "salary": 4000,
+        "fpts": 34.75,
+        "own": 30.43
+      },
+      {
+        "slot": "SG",
+        "id": 44520637,
+        "name": "Malachi Smith",
+        "team": "TOR",
+        "pos": "PG",
+        "salary": 3800,
+        "fpts": 40.25,
+        "own": 0.21
+      },
+      {
+        "slot": "SF",
+        "id": 44519784,
+        "name": "Jaylen Brown",
+        "team": "PHI",
+        "pos": "SF",
+        "salary": 7700,
+        "fpts": 40,
+        "own": 9.57
+      },
+      {
+        "slot": "PF",
+        "id": 44519753,
+        "name": "Jalen Johnson",
+        "team": "ATL",
+        "pos": "PF",
+        "salary": 8700,
+        "fpts": 47,
+        "own": 18.08
+      },
+      {
+        "slot": "C",
+        "id": 44519809,
+        "name": "Joel Embiid",
+        "team": "PHI",
+        "pos": "C",
+        "salary": 6900,
+        "fpts": 47.5,
+        "own": 3.83
+      },
+      {
+        "slot": "G",
+        "id": 44519924,
+        "name": "Nickeil Alexander-Walker",
+        "team": "ATL",
+        "pos": "PG",
+        "salary": 5500,
+        "fpts": 38.25,
+        "own": 4.67
+      },
+      {
+        "slot": "F",
+        "id": 44519748,
+        "name": "Cooper Flagg",
+        "team": "DAL",
+        "pos": "PG",
+        "salary": 8800,
+        "fpts": 54.5,
+        "own": 34.04
+      },
+      {
+        "slot": "UTIL",
+        "id": 44520385,
+        "name": "Hannes Steinbach",
+        "team": "CHA",
+        "pos": "C",
+        "salary": 4400,
+        "fpts": 38,
+        "own": 0.21
+      }
+    ],
+    "assumedZero": 284
+  },
+  "paper": null,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "MIN": 2,
+        "ATL": 1,
+        "DAL": 1,
+        "MIA": 1,
+        "MIL": 1,
+        "PHI": 1,
+        "WAS": 1
+      },
+      "games": {
+        "ATL@DAL": 2,
+        "MIN@CHI": 2,
+        "BOS@PHI": 1,
+        "MIA@ORL": 1,
+        "MIL@IND": 1,
+        "WAS@NOP": 1
+      },
+      "nGames": 6,
+      "summary": [
+        "MIN 2",
+        "6 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "ATL": 2,
+        "PHI": 2,
+        "CHA": 1,
+        "DAL": 1,
+        "MIN": 1,
+        "TOR": 1
+      },
+      "games": {
+        "ATL@DAL": 3,
+        "BOS@PHI": 2,
+        "CHA@MEM": 1,
+        "MIN@CHI": 1,
+        "TOR@DET": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "ATL 2 · PHI 2",
+        "5 games"
+      ]
+    },
+    "paper": null
+  }
+}

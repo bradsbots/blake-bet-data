@@ -1,0 +1,413 @@
+{
+  "sport": "nfl",
+  "slate": "154941",
+  "date": "2026-10-18",
+  "contest": {
+    "id": 196653900,
+    "label": "NFL $2.75M Fantasy Football Millionaire [$1M to 1st, $100K Leaderboard Eligible]",
+    "entries": 158904
+  },
+  "generatedAt": "2026-10-22T23:30:15.960Z",
+  "winner": {
+    "rank": 1,
+    "name": "CMACXIMUS (2/17)",
+    "points": 210.5,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "QB",
+        "id": 44475684,
+        "name": "Michael Penix Jr.",
+        "team": "ATL",
+        "pos": "QB",
+        "salary": 5000,
+        "fpts": 24.1,
+        "own": 4.89
+      },
+      {
+        "slot": "RB",
+        "id": 44475750,
+        "name": "D'Andre Swift",
+        "team": "CHI",
+        "pos": "RB",
+        "salary": 6700,
+        "fpts": 23,
+        "own": 10.11
+      },
+      {
+        "slot": "RB",
+        "id": 44475756,
+        "name": "Chuba Hubbard",
+        "team": "CAR",
+        "pos": "RB",
+        "salary": 6300,
+        "fpts": 22.1,
+        "own": 18.23
+      },
+      {
+        "slot": "WR",
+        "id": 44475990,
+        "name": "Malik Nabers",
+        "team": "NYG",
+        "pos": "WR",
+        "salary": 6500,
+        "fpts": 31.5,
+        "own": 24.02
+      },
+      {
+        "slot": "WR",
+        "id": 44476034,
+        "name": "Xavier Worthy",
+        "team": "KC",
+        "pos": "WR",
+        "salary": 4600,
+        "fpts": 14.3,
+        "own": 21.26
+      },
+      {
+        "slot": "WR",
+        "id": 44476058,
+        "name": "Germie Bernard",
+        "team": "PIT",
+        "pos": "WR",
+        "salary": 4000,
+        "fpts": 25.7,
+        "own": 21.15
+      },
+      {
+        "slot": "TE",
+        "id": 44476358,
+        "name": "Isaiah Likely",
+        "team": "NYG",
+        "pos": "TE",
+        "salary": 4800,
+        "fpts": 23.9,
+        "own": 35.12
+      },
+      {
+        "slot": "FLEX",
+        "id": 44475738,
+        "name": "Kenneth Walker III",
+        "team": "KC",
+        "pos": "RB",
+        "salary": 8500,
+        "fpts": 30.9,
+        "own": 23.24
+      },
+      {
+        "slot": "DST",
+        "id": 44476587,
+        "name": "Chiefs",
+        "team": "KC",
+        "pos": "DST",
+        "salary": 3600,
+        "fpts": 15,
+        "own": 5.93
+      }
+    ]
+  },
+  "optimal": {
+    "points": 236.26,
+    "salary": 47600,
+    "players": [
+      {
+        "slot": "QB",
+        "id": 44475677,
+        "name": "Tyler Shough",
+        "team": "NO",
+        "pos": "QB",
+        "salary": 5600,
+        "fpts": 26.96,
+        "own": 5.03
+      },
+      {
+        "slot": "RB",
+        "id": 44475738,
+        "name": "Kenneth Walker III",
+        "team": "KC",
+        "pos": "RB",
+        "salary": 8500,
+        "fpts": 30.9,
+        "own": 23.24
+      },
+      {
+        "slot": "RB",
+        "id": 44475744,
+        "name": "James Cook III",
+        "team": "BUF",
+        "pos": "RB",
+        "salary": 7400,
+        "fpts": 24.3,
+        "own": 17.66
+      },
+      {
+        "slot": "WR",
+        "id": 44475990,
+        "name": "Malik Nabers",
+        "team": "NYG",
+        "pos": "WR",
+        "salary": 6500,
+        "fpts": 31.5,
+        "own": 24.02
+      },
+      {
+        "slot": "WR",
+        "id": 44476058,
+        "name": "Germie Bernard",
+        "team": "PIT",
+        "pos": "WR",
+        "salary": 4000,
+        "fpts": 25.7,
+        "own": 21.15
+      },
+      {
+        "slot": "WR",
+        "id": 44476064,
+        "name": "Omar Cooper Jr.",
+        "team": "NYJ",
+        "pos": "WR",
+        "salary": 3800,
+        "fpts": 25.3,
+        "own": 0.25
+      },
+      {
+        "slot": "TE",
+        "id": 44476358,
+        "name": "Isaiah Likely",
+        "team": "NYG",
+        "pos": "TE",
+        "salary": 4800,
+        "fpts": 23.9,
+        "own": 35.12
+      },
+      {
+        "slot": "FLEX",
+        "id": 44476032,
+        "name": "Tre Tucker",
+        "team": "LV",
+        "pos": "WR",
+        "salary": 4700,
+        "fpts": 26.7,
+        "own": 12.59
+      },
+      {
+        "slot": "DST",
+        "id": 44476602,
+        "name": "Titans",
+        "team": "TEN",
+        "pos": "DST",
+        "salary": 2300,
+        "fpts": 21,
+        "own": 2.4
+      }
+    ],
+    "assumedZero": 187
+  },
+  "paper": {
+    "variant": "user",
+    "lineup": 11,
+    "finish": 3418,
+    "pctile": 97.85,
+    "points": 166.82,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "QB",
+        "id": 44475679,
+        "name": "Kirk Cousins",
+        "team": "LV",
+        "pos": "QB",
+        "salary": 5400,
+        "fpts": 22.52,
+        "own": 9.85
+      },
+      {
+        "slot": "RB",
+        "id": 44475744,
+        "name": "James Cook III",
+        "team": "BUF",
+        "pos": "RB",
+        "salary": 7400,
+        "fpts": 24.3,
+        "own": 17.66
+      },
+      {
+        "slot": "RB",
+        "id": 44475784,
+        "name": "Dameon Pierce",
+        "team": "PHI",
+        "pos": "RB",
+        "salary": 5100,
+        "fpts": 15,
+        "own": 8.81
+      },
+      {
+        "slot": "WR",
+        "id": 44475990,
+        "name": "Malik Nabers",
+        "team": "NYG",
+        "pos": "WR",
+        "salary": 6500,
+        "fpts": 31.5,
+        "own": 24.02
+      },
+      {
+        "slot": "WR",
+        "id": 44476034,
+        "name": "Xavier Worthy",
+        "team": "KC",
+        "pos": "WR",
+        "salary": 4600,
+        "fpts": 14.3,
+        "own": 21.26
+      },
+      {
+        "slot": "WR",
+        "id": 44476044,
+        "name": "Keenan Allen",
+        "team": "IND",
+        "pos": "WR",
+        "salary": 4300,
+        "fpts": 16.2,
+        "own": 11.86
+      },
+      {
+        "slot": "TE",
+        "id": 44476348,
+        "name": "Brock Bowers",
+        "team": "LV",
+        "pos": "TE",
+        "salary": 7500,
+        "fpts": 11,
+        "own": 19.44
+      },
+      {
+        "slot": "FLEX",
+        "id": 44475750,
+        "name": "D'Andre Swift",
+        "team": "CHI",
+        "pos": "RB",
+        "salary": 6700,
+        "fpts": 23,
+        "own": 10.11
+      },
+      {
+        "slot": "DST",
+        "id": 44476600,
+        "name": "Browns",
+        "team": "CLE",
+        "pos": "DST",
+        "salary": 2500,
+        "fpts": 9,
+        "own": 8.17
+      }
+    ],
+    "money": {
+      "fee": 20,
+      "one": {
+        "won": 0,
+        "net": -20
+      },
+      "portfolio": null
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "KC": 3,
+        "NYG": 2,
+        "ATL": 1,
+        "CAR": 1,
+        "CHI": 1,
+        "PIT": 1
+      },
+      "games": {
+        "LAC@KC": 3,
+        "CHI@ATL": 2,
+        "NO@NYG": 2,
+        "CAR@PHI": 1,
+        "PIT@TB": 1
+      },
+      "nGames": 5,
+      "qb": {
+        "team": "ATL",
+        "catchers": 0,
+        "bringBack": 1
+      },
+      "rbDst": [
+        "KC"
+      ],
+      "summary": [
+        "QB ATL · bring-back 1",
+        "RB+DST KC",
+        "KC 3 · NYG 2",
+        "5 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "NYG": 2,
+        "BUF": 1,
+        "KC": 1,
+        "LV": 1,
+        "NO": 1,
+        "NYJ": 1,
+        "PIT": 1,
+        "TEN": 1
+      },
+      "games": {
+        "NO@NYG": 3,
+        "BUF@LV": 2,
+        "LAC@KC": 1,
+        "NYJ@NE": 1,
+        "PIT@TB": 1,
+        "TEN@IND": 1
+      },
+      "nGames": 6,
+      "qb": {
+        "team": "NO",
+        "catchers": 0,
+        "bringBack": 2
+      },
+      "rbDst": [],
+      "summary": [
+        "QB NO · bring-back 2",
+        "NYG 2",
+        "6 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "LV": 2,
+        "BUF": 1,
+        "CHI": 1,
+        "CLE": 1,
+        "IND": 1,
+        "KC": 1,
+        "NYG": 1,
+        "PHI": 1
+      },
+      "games": {
+        "BUF@LV": 3,
+        "BAL@CLE": 1,
+        "CAR@PHI": 1,
+        "CHI@ATL": 1,
+        "LAC@KC": 1,
+        "NO@NYG": 1,
+        "TEN@IND": 1
+      },
+      "nGames": 7,
+      "qb": {
+        "team": "LV",
+        "catchers": 1,
+        "bringBack": 1
+      },
+      "rbDst": [],
+      "summary": [
+        "QB LV + 1 · bring-back 1",
+        "LV 2",
+        "7 games"
+      ]
+    }
+  }
+}

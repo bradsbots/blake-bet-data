@@ -1,0 +1,232 @@
+{
+  "sport": "nba",
+  "slate": "154934",
+  "date": "2026-10-13",
+  "contest": {
+    "id": 196683457,
+    "label": "NBA $6K Fadeaway [$2K to 1st]",
+    "entries": 470
+  },
+  "generatedAt": "2026-10-17T12:08:36.623Z",
+  "winner": {
+    "rank": 1,
+    "name": "gators070 (3/3)",
+    "points": 267.25,
+    "salary": 49300,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44479720,
+        "name": "Shai Gilgeous-Alexander",
+        "team": "OKC",
+        "pos": "PG",
+        "salary": 9200,
+        "fpts": 28,
+        "own": 19.36
+      },
+      {
+        "slot": "SG",
+        "id": 44480101,
+        "name": "Miles McBride",
+        "team": "NYK",
+        "pos": "PG",
+        "salary": 4000,
+        "fpts": 19.25,
+        "own": 40
+      },
+      {
+        "slot": "SF",
+        "id": 44479805,
+        "name": "Yaxel Lendeborg",
+        "team": "GSW",
+        "pos": "SF",
+        "salary": 6300,
+        "fpts": 33.25,
+        "own": 68.29
+      },
+      {
+        "slot": "PF",
+        "id": 44480231,
+        "name": "Mohamed Diawara",
+        "team": "NYK",
+        "pos": "PF",
+        "salary": 3400,
+        "fpts": 21.75,
+        "own": 16.16
+      },
+      {
+        "slot": "C",
+        "id": 44480007,
+        "name": "Jonathan Mogbo",
+        "team": "SAC",
+        "pos": "C",
+        "salary": 4500,
+        "fpts": 38.5,
+        "own": 13.62
+      },
+      {
+        "slot": "G",
+        "id": 44479750,
+        "name": "Austin Reaves",
+        "team": "LAL",
+        "pos": "PG",
+        "salary": 8200,
+        "fpts": 42,
+        "own": 60.21
+      },
+      {
+        "slot": "F",
+        "id": 44479888,
+        "name": "Precious Achiuwa",
+        "team": "SAC",
+        "pos": "PF",
+        "salary": 5300,
+        "fpts": 36.75,
+        "own": 44.68
+      },
+      {
+        "slot": "UTIL",
+        "id": 44479743,
+        "name": "Deni Avdija",
+        "team": "POR",
+        "pos": "PF",
+        "salary": 8400,
+        "fpts": 47.75,
+        "own": 17.03
+      }
+    ]
+  },
+  "optimal": {
+    "points": 304,
+    "salary": 49800,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44479825,
+        "name": "Brandin Podziemski",
+        "team": "GSW",
+        "pos": "PG",
+        "salary": 6000,
+        "fpts": 29.25,
+        "own": 13.61
+      },
+      {
+        "slot": "SG",
+        "id": 44480322,
+        "name": "Tristen Newton",
+        "team": "SAC",
+        "pos": "SG",
+        "salary": 3000,
+        "fpts": 24.5,
+        "own": 0.64
+      },
+      {
+        "slot": "SF",
+        "id": 44479784,
+        "name": "Franz Wagner",
+        "team": "ORL",
+        "pos": "SF",
+        "salary": 7000,
+        "fpts": 41,
+        "own": 6.38
+      },
+      {
+        "slot": "PF",
+        "id": 44479888,
+        "name": "Precious Achiuwa",
+        "team": "SAC",
+        "pos": "PF",
+        "salary": 5300,
+        "fpts": 36.75,
+        "own": 44.68
+      },
+      {
+        "slot": "C",
+        "id": 44479772,
+        "name": "Ivica Zubac",
+        "team": "IND",
+        "pos": "C",
+        "salary": 7400,
+        "fpts": 44.25,
+        "own": 1.06
+      },
+      {
+        "slot": "G",
+        "id": 44479750,
+        "name": "Austin Reaves",
+        "team": "LAL",
+        "pos": "PG",
+        "salary": 8200,
+        "fpts": 42,
+        "own": 60.21
+      },
+      {
+        "slot": "F",
+        "id": 44479743,
+        "name": "Deni Avdija",
+        "team": "POR",
+        "pos": "PF",
+        "salary": 8400,
+        "fpts": 47.75,
+        "own": 17.03
+      },
+      {
+        "slot": "UTIL",
+        "id": 44480007,
+        "name": "Jonathan Mogbo",
+        "team": "SAC",
+        "pos": "C",
+        "salary": 4500,
+        "fpts": 38.5,
+        "own": 13.62
+      }
+    ],
+    "assumedZero": 98
+  },
+  "paper": null,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "NYK": 2,
+        "SAC": 2,
+        "GSW": 1,
+        "LAL": 1,
+        "OKC": 1,
+        "POR": 1
+      },
+      "games": {
+        "POR@SAC": 3,
+        "GSW@LAL": 2,
+        "NYK@TOR": 2,
+        "IND@OKC": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "NYK 2 · SAC 2",
+        "4 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "SAC": 3,
+        "GSW": 1,
+        "IND": 1,
+        "LAL": 1,
+        "ORL": 1,
+        "POR": 1
+      },
+      "games": {
+        "POR@SAC": 4,
+        "GSW@LAL": 2,
+        "CLE@ORL": 1,
+        "IND@OKC": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "SAC 3",
+        "4 games"
+      ]
+    },
+    "paper": null
+  }
+}
