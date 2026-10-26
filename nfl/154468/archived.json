@@ -1,0 +1,27 @@
+{
+ "archivedAt": "2026-10-26T13:00:38+00:00",
+ "days": 3,
+ "bytes": 232398,
+ "removed": [
+  {
+   "path": "snapshots/20261010T193900Z.json",
+   "bytes": 56239
+  },
+  {
+   "path": "snapshots/20261011T141838Z.json",
+   "bytes": 56251
+  },
+  {
+   "path": "snapshots/20261011T153819Z.json",
+   "bytes": 60012
+  },
+  {
+   "path": "snapshots/20261011T163813Z.json",
+   "bytes": 59542
+  },
+  {
+   "path": "timeline.json",
+   "bytes": 354
+  }
+ ]
+}
