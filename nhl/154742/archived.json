@@ -1,0 +1,115 @@
+{
+ "archivedAt": "2026-10-26T13:00:57+00:00",
+ "days": 3,
+ "bytes": 366625,
+ "removed": [
+  {
+   "path": "snapshots/20261013T130012Z.json",
+   "bytes": 7882
+  },
+  {
+   "path": "snapshots/20261013T140010Z.json",
+   "bytes": 8632
+  },
+  {
+   "path": "snapshots/20261013T150012Z.json",
+   "bytes": 9056
+  },
+  {
+   "path": "snapshots/20261013T160020Z.json",
+   "bytes": 9056
+  },
+  {
+   "path": "snapshots/20261013T170012Z.json",
+   "bytes": 8670
+  },
+  {
+   "path": "snapshots/20261013T180010Z.json",
+   "bytes": 8679
+  },
+  {
+   "path": "snapshots/20261013T190009Z.json",
+   "bytes": 9006
+  },
+  {
+   "path": "snapshots/20261013T200012Z.json",
+   "bytes": 9005
+  },
+  {
+   "path": "snapshots/20261013T210014Z.json",
+   "bytes": 9516
+  },
+  {
+   "path": "snapshots/20261013T220056Z.json",
+   "bytes": 9387
+  },
+  {
+   "path": "snapshots/20261013T230008Z.json",
+   "bytes": 9561
+  },
+  {
+   "path": "snapshots/20261014T000005Z.json",
+   "bytes": 15078
+  },
+  {
+   "path": "snapshots/20261014T010006Z.json",
+   "bytes": 15073
+  },
+  {
+   "path": "snapshots/20261014T020006Z.json",
+   "bytes": 15026
+  },
+  {
+   "path": "snapshots/20261014T030004Z.json",
+   "bytes": 14823
+  },
+  {
+   "path": "snapshots/20261014T130006Z.json",
+   "bytes": 14823
+  },
+  {
+   "path": "snapshots/20261014T140009Z.json",
+   "bytes": 18634
+  },
+  {
+   "path": "snapshots/20261014T150008Z.json",
+   "bytes": 18632
+  },
+  {
+   "path": "snapshots/20261014T160005Z.json",
+   "bytes": 18631
+  },
+  {
+   "path": "snapshots/20261014T170004Z.json",
+   "bytes": 18630
+  },
+  {
+   "path": "snapshots/20261014T180009Z.json",
+   "bytes": 18630
+  },
+  {
+   "path": "snapshots/20261014T190004Z.json",
+   "bytes": 19381
+  },
+  {
+   "path": "snapshots/20261014T200003Z.json",
+   "bytes": 19459
+  },
+  {
+   "path": "snapshots/20261014T210009Z.json",
+   "bytes": 19454
+  },
+  {
+   "path": "snapshots/20261014T220004Z.json",
+   "bytes": 19951
+  },
+  {
+   "path": "snapshots/20261014T230006Z.json",
+   "bytes": 19947
+  },
+  {
+   "path": "timeline.json",
+   "bytes": 2003
+  }
+ ]
+}

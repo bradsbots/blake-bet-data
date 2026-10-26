@@ -1,0 +1,111 @@
+{
+ "archivedAt": "2026-10-26T13:00:57+00:00",
+ "days": 3,
+ "bytes": 1135585,
+ "removed": [
+  {
+   "path": "snapshots/20261016T130004Z.json",
+   "bytes": 7695
+  },
+  {
+   "path": "snapshots/20261016T140010Z.json",
+   "bytes": 9086
+  },
+  {
+   "path": "snapshots/20261016T150008Z.json",
+   "bytes": 9415
+  },
+  {
+   "path": "snapshots/20261016T160008Z.json",
+   "bytes": 9415
+  },
+  {
+   "path": "snapshots/20261016T170004Z.json",
+   "bytes": 9412
+  },
+  {
+   "path": "snapshots/20261016T180008Z.json",
+   "bytes": 9416
+  },
+  {
+   "path": "snapshots/20261016T190005Z.json",
+   "bytes": 9413
+  },
+  {
+   "path": "snapshots/20261016T200004Z.json",
+   "bytes": 9412
+  },
+  {
+   "path": "snapshots/20261016T210009Z.json",
+   "bytes": 9908
+  },
+  {
+   "path": "snapshots/20261016T220033Z.json",
+   "bytes": 9921
+  },
+  {
+   "path": "snapshots/20261016T230004Z.json",
+   "bytes": 9913
+  },
+  {
+   "path": "snapshots/20261017T000004Z.json",
+   "bytes": 9972
+  },
+  {
+   "path": "snapshots/20261017T010004Z.json",
+   "bytes": 9984
+  },
+  {
+   "path": "snapshots/20261017T020007Z.json",
+   "bytes": 61858
+  },
+  {
+   "path": "snapshots/20261017T030008Z.json",
+   "bytes": 61858
+  },
+  {
+   "path": "snapshots/20261017T130008Z.json",
+   "bytes": 61871
+  },
+  {
+   "path": "snapshots/20261017T140008Z.json",
+   "bytes": 85536
+  },
+  {
+   "path": "snapshots/20261017T150008Z.json",
+   "bytes": 91450
+  },
+  {
+   "path": "snapshots/20261017T160008Z.json",
+   "bytes": 91590
+  },
+  {
+   "path": "snapshots/20261017T170008Z.json",
+   "bytes": 91583
+  },
+  {
+   "path": "snapshots/20261017T180007Z.json",
+   "bytes": 90613
+  },
+  {
+   "path": "snapshots/20261017T190012Z.json",
+   "bytes": 90411
+  },
+  {
+   "path": "snapshots/20261017T200012Z.json",
+   "bytes": 93352
+  },
+  {
+   "path": "snapshots/20261017T210008Z.json",
+   "bytes": 95207
+  },
+  {
+   "path": "snapshots/20261017T220034Z.json",
+   "bytes": 95356
+  },
+  {
+   "path": "timeline.json",
+   "bytes": 1938
+  }
+ ]
+}
