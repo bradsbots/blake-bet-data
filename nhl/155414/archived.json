@@ -1,0 +1,111 @@
+{
+ "archivedAt": "2026-10-27T00:00:17+00:00",
+ "days": 3,
+ "bytes": 242797,
+ "removed": [
+  {
+   "path": "snapshots/20261022T130032Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261022T140047Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261022T150049Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261022T160016Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261022T170045Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261022T180046Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261022T190050Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261022T200012Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261022T210049Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261022T220052Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261022T230012Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261023T000005Z.json",
+   "bytes": 14391
+  },
+  {
+   "path": "snapshots/20261023T010005Z.json",
+   "bytes": 14391
+  },
+  {
+   "path": "snapshots/20261023T020005Z.json",
+   "bytes": 14391
+  },
+  {
+   "path": "snapshots/20261023T030004Z.json",
+   "bytes": 14388
+  },
+  {
+   "path": "snapshots/20261023T130005Z.json",
+   "bytes": 17320
+  },
+  {
+   "path": "snapshots/20261023T140049Z.json",
+   "bytes": 17320
+  },
+  {
+   "path": "snapshots/20261023T150040Z.json",
+   "bytes": 17338
+  },
+  {
+   "path": "snapshots/20261023T160056Z.json",
+   "bytes": 17337
+  },
+  {
+   "path": "snapshots/20261023T170042Z.json",
+   "bytes": 17337
+  },
+  {
+   "path": "snapshots/20261023T180042Z.json",
+   "bytes": 17336
+  },
+  {
+   "path": "snapshots/20261023T190052Z.json",
+   "bytes": 17880
+  },
+  {
+   "path": "snapshots/20261023T210041Z.json",
+   "bytes": 20657
+  },
+  {
+   "path": "snapshots/20261023T220125Z.json",
+   "bytes": 20074
+  },
+  {
+   "path": "snapshots/20261023T230004Z.json",
+   "bytes": 20073
+  },
+  {
+   "path": "timeline.json",
+   "bytes": 1915
+  }
+ ]
+}
