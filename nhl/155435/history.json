@@ -1,0 +1,415 @@
+{
+  "sport": "nhl",
+  "slate": "155435",
+  "date": "2026-10-26",
+  "contest": {
+    "id": 197143944,
+    "label": "NHL $30K Overload [$10K to 1st]",
+    "entries": 1764
+  },
+  "generatedAt": "2026-10-27T08:40:27.767Z",
+  "winner": {
+    "rank": 1,
+    "name": "cdumit (27/30)",
+    "points": 153.3,
+    "salary": 49800,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44658277,
+        "name": "Dylan Larkin",
+        "team": "DET",
+        "pos": "C",
+        "salary": 6200,
+        "fpts": 14.5,
+        "own": 16.5
+      },
+      {
+        "slot": "C",
+        "id": 44658287,
+        "name": "Alex Laferriere",
+        "team": "LAK",
+        "pos": "C",
+        "salary": 4400,
+        "fpts": 13,
+        "own": 21.03
+      },
+      {
+        "slot": "W",
+        "id": 44658351,
+        "name": "Alex DeBrincat",
+        "team": "DET",
+        "pos": "W",
+        "salary": 7700,
+        "fpts": 8,
+        "own": 14.8
+      },
+      {
+        "slot": "W",
+        "id": 44658357,
+        "name": "Adrian Kempe",
+        "team": "LAK",
+        "pos": "W",
+        "salary": 6500,
+        "fpts": 14.8,
+        "own": 14.63
+      },
+      {
+        "slot": "W",
+        "id": 44658395,
+        "name": "Matvei Gridin",
+        "team": "CGY",
+        "pos": "W",
+        "salary": 3200,
+        "fpts": 36.8,
+        "own": 17.4
+      },
+      {
+        "slot": "D",
+        "id": 44658479,
+        "name": "Brandt Clarke",
+        "team": "LAK",
+        "pos": "D",
+        "salary": 5600,
+        "fpts": 18.2,
+        "own": 13.32
+      },
+      {
+        "slot": "D",
+        "id": 44658527,
+        "name": "Yan Kuznetsov",
+        "team": "CGY",
+        "pos": "D",
+        "salary": 2500,
+        "fpts": 6.3,
+        "own": 0.62
+      },
+      {
+        "slot": "G",
+        "id": 44658585,
+        "name": "Devin Cooley",
+        "team": "CGY",
+        "pos": "G",
+        "salary": 7400,
+        "fpts": 22.2,
+        "own": 22.34
+      },
+      {
+        "slot": "UTIL",
+        "id": 44658361,
+        "name": "Viktor Arvidsson",
+        "team": "DET",
+        "pos": "W",
+        "salary": 6300,
+        "fpts": 19.5,
+        "own": 7.88
+      }
+    ]
+  },
+  "optimal": {
+    "points": 197.7,
+    "salary": 42600,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44658281,
+        "name": "J.T. Miller",
+        "team": "NYR",
+        "pos": "C",
+        "salary": 5000,
+        "fpts": 21.8,
+        "own": 7.76
+      },
+      {
+        "slot": "C",
+        "id": 44658327,
+        "name": "Colton Dach",
+        "team": "EDM",
+        "pos": "C",
+        "salary": 2500,
+        "fpts": 17.8,
+        "own": 0.4
+      },
+      {
+        "slot": "W",
+        "id": 44658353,
+        "name": "Artemi Panarin",
+        "team": "LAK",
+        "pos": "W",
+        "salary": 7000,
+        "fpts": 18,
+        "own": 15.65
+      },
+      {
+        "slot": "W",
+        "id": 44658395,
+        "name": "Matvei Gridin",
+        "team": "CGY",
+        "pos": "W",
+        "salary": 3200,
+        "fpts": 36.8,
+        "own": 17.4
+      },
+      {
+        "slot": "W",
+        "id": 44658361,
+        "name": "Viktor Arvidsson",
+        "team": "DET",
+        "pos": "W",
+        "salary": 6300,
+        "fpts": 19.5,
+        "own": 7.88
+      },
+      {
+        "slot": "D",
+        "id": 44658479,
+        "name": "Brandt Clarke",
+        "team": "LAK",
+        "pos": "D",
+        "salary": 5600,
+        "fpts": 18.2,
+        "own": 13.32
+      },
+      {
+        "slot": "D",
+        "id": 44658499,
+        "name": "Drew Doughty",
+        "team": "LAK",
+        "pos": "D",
+        "salary": 3100,
+        "fpts": 25.6,
+        "own": 0.97
+      },
+      {
+        "slot": "G",
+        "id": 44658585,
+        "name": "Devin Cooley",
+        "team": "CGY",
+        "pos": "G",
+        "salary": 7400,
+        "fpts": 22.2,
+        "own": 22.34
+      },
+      {
+        "slot": "UTIL",
+        "id": 44658531,
+        "name": "Joel Edmundson",
+        "team": "LAK",
+        "pos": "D",
+        "salary": 2500,
+        "fpts": 17.8,
+        "own": 1.76
+      }
+    ],
+    "assumedZero": 49
+  },
+  "paper": {
+    "variant": "stack",
+    "lineup": 6,
+    "finish": 83,
+    "pctile": 95.35,
+    "points": 128.8,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44658287,
+        "name": "Alex Laferriere",
+        "team": "LAK",
+        "pos": "C",
+        "salary": 4400,
+        "fpts": 13,
+        "own": 21.03
+      },
+      {
+        "slot": "C",
+        "id": 44658283,
+        "name": "Ryan Nugent-Hopkins",
+        "team": "EDM",
+        "pos": "C",
+        "salary": 4700,
+        "fpts": 15.5,
+        "own": 19.73
+      },
+      {
+        "slot": "W",
+        "id": 44658353,
+        "name": "Artemi Panarin",
+        "team": "LAK",
+        "pos": "W",
+        "salary": 7000,
+        "fpts": 18,
+        "own": 15.65
+      },
+      {
+        "slot": "W",
+        "id": 44658357,
+        "name": "Adrian Kempe",
+        "team": "LAK",
+        "pos": "W",
+        "salary": 6500,
+        "fpts": 14.8,
+        "own": 14.63
+      },
+      {
+        "slot": "W",
+        "id": 44658391,
+        "name": "Will Cuylle",
+        "team": "NYR",
+        "pos": "W",
+        "salary": 3400,
+        "fpts": 6,
+        "own": 5.27
+      },
+      {
+        "slot": "D",
+        "id": 44658477,
+        "name": "Adam Fox",
+        "team": "NYR",
+        "pos": "D",
+        "salary": 5900,
+        "fpts": 17.1,
+        "own": 10.89
+      },
+      {
+        "slot": "D",
+        "id": 44658479,
+        "name": "Brandt Clarke",
+        "team": "LAK",
+        "pos": "D",
+        "salary": 5600,
+        "fpts": 18.2,
+        "own": 13.32
+      },
+      {
+        "slot": "G",
+        "id": 44658575,
+        "name": "Tristan Jarry",
+        "team": "EDM",
+        "pos": "G",
+        "salary": 8400,
+        "fpts": 9.7,
+        "own": 14.34
+      },
+      {
+        "slot": "UTIL",
+        "id": 44658379,
+        "name": "Joel Farabee",
+        "team": "CGY",
+        "pos": "W",
+        "salary": 4000,
+        "fpts": 16.5,
+        "own": 22.95
+      }
+    ],
+    "money": {
+      "fee": 20,
+      "one": {
+        "won": 0,
+        "net": -20
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 30,
+        "net": -370,
+        "cashed": 1
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "CGY": 3,
+        "DET": 3,
+        "LAK": 3
+      },
+      "games": {
+        "DET@EDM": 3,
+        "LAK@NYR": 3,
+        "TOR@CGY": 3
+      },
+      "nGames": 3,
+      "lines": {
+        "DET f1": 2,
+        "LAK f1": 2
+      },
+      "pp": {
+        "DET pp1": 3,
+        "LAK pp1": 2
+      },
+      "goalie": {
+        "team": "CGY",
+        "opposing": 0
+      },
+      "summary": [
+        "CGY 3 · DET 3 · LAK 3",
+        "DET f1 ×2",
+        "LAK f1 ×2",
+        "DET pp1 ×3",
+        "LAK pp1 ×2",
+        "G CGY",
+        "3 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "LAK": 4,
+        "CGY": 2,
+        "DET": 1,
+        "EDM": 1,
+        "NYR": 1
+      },
+      "games": {
+        "LAK@NYR": 5,
+        "DET@EDM": 2,
+        "TOR@CGY": 2
+      },
+      "nGames": 3,
+      "lines": {},
+      "pp": {
+        "LAK pp2": 2
+      },
+      "goalie": {
+        "team": "CGY",
+        "opposing": 0
+      },
+      "summary": [
+        "LAK 4 · CGY 2",
+        "LAK pp2 ×2",
+        "G CGY",
+        "3 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "LAK": 4,
+        "EDM": 2,
+        "NYR": 2,
+        "CGY": 1
+      },
+      "games": {
+        "LAK@NYR": 6,
+        "DET@EDM": 2,
+        "TOR@CGY": 1
+      },
+      "nGames": 3,
+      "lines": {
+        "LAK f1": 3
+      },
+      "pp": {
+        "LAK pp1": 3
+      },
+      "goalie": {
+        "team": "EDM",
+        "opposing": 0
+      },
+      "summary": [
+        "LAK 4 · EDM 2 · NYR 2",
+        "LAK f1 ×3",
+        "LAK pp1 ×3",
+        "G EDM",
+        "3 games"
+      ]
+    }
+  }
+}
