@@ -1,0 +1,352 @@
+{
+  "sport": "nba",
+  "slate": "155647",
+  "date": "2026-10-26",
+  "contest": {
+    "id": 197177737,
+    "label": "NBA $200K Fadeaway [$50K to 1st]",
+    "entries": 15686
+  },
+  "generatedAt": "2026-10-27T08:40:15.524Z",
+  "winner": {
+    "rank": 1,
+    "name": "sutogame (1/2)",
+    "points": 376.75,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44659810,
+        "name": "Ajay Mitchell",
+        "team": "OKC",
+        "pos": "PG",
+        "salary": 4600,
+        "fpts": 42,
+        "own": 64.81
+      },
+      {
+        "slot": "SG",
+        "id": 44659605,
+        "name": "Tyler Herro",
+        "team": "MIL",
+        "pos": "SG",
+        "salary": 6900,
+        "fpts": 52,
+        "own": 23.98
+      },
+      {
+        "slot": "SF",
+        "id": 44659579,
+        "name": "Brandon Miller",
+        "team": "CHA",
+        "pos": "SF",
+        "salary": 7700,
+        "fpts": 59.5,
+        "own": 21.36
+      },
+      {
+        "slot": "PF",
+        "id": 44659526,
+        "name": "Giannis Antetokounmpo",
+        "team": "MIA",
+        "pos": "PF",
+        "salary": 9900,
+        "fpts": 68,
+        "own": 53.26
+      },
+      {
+        "slot": "C",
+        "id": 44659773,
+        "name": "Isaiah Hartenstein",
+        "team": "OKC",
+        "pos": "C",
+        "salary": 4900,
+        "fpts": 36.75,
+        "own": 32.08
+      },
+      {
+        "slot": "G",
+        "id": 44659927,
+        "name": "Jared McCain",
+        "team": "OKC",
+        "pos": "SG",
+        "salary": 4000,
+        "fpts": 32.75,
+        "own": 23.56
+      },
+      {
+        "slot": "F",
+        "id": 44659984,
+        "name": "Jaylin Williams",
+        "team": "OKC",
+        "pos": "PF",
+        "salary": 3600,
+        "fpts": 20.5,
+        "own": 36.61
+      },
+      {
+        "slot": "UTIL",
+        "id": 44659557,
+        "name": "Alperen Sengun",
+        "team": "HOU",
+        "pos": "PF",
+        "salary": 8400,
+        "fpts": 65.25,
+        "own": 9.8
+      }
+    ]
+  },
+  "optimal": {
+    "points": 400,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44659810,
+        "name": "Ajay Mitchell",
+        "team": "OKC",
+        "pos": "PG",
+        "salary": 4600,
+        "fpts": 42,
+        "own": 64.81
+      },
+      {
+        "slot": "SG",
+        "id": 44659539,
+        "name": "Anthony Edwards",
+        "team": "MIN",
+        "pos": "SG",
+        "salary": 9300,
+        "fpts": 66.5,
+        "own": 1.43
+      },
+      {
+        "slot": "SF",
+        "id": 44659996,
+        "name": "Terrence Shannon Jr.",
+        "team": "MIN",
+        "pos": "SG",
+        "salary": 3500,
+        "fpts": 29.5,
+        "own": 1.61
+      },
+      {
+        "slot": "PF",
+        "id": 44659557,
+        "name": "Alperen Sengun",
+        "team": "HOU",
+        "pos": "PF",
+        "salary": 8400,
+        "fpts": 65.25,
+        "own": 9.8
+      },
+      {
+        "slot": "C",
+        "id": 44659714,
+        "name": "Moussa Diabate",
+        "team": "CHA",
+        "pos": "C",
+        "salary": 5400,
+        "fpts": 45.75,
+        "own": 2.19
+      },
+      {
+        "slot": "G",
+        "id": 44659605,
+        "name": "Tyler Herro",
+        "team": "MIL",
+        "pos": "SG",
+        "salary": 6900,
+        "fpts": 52,
+        "own": 23.98
+      },
+      {
+        "slot": "F",
+        "id": 44659542,
+        "name": "Cooper Flagg",
+        "team": "DAL",
+        "pos": "PG",
+        "salary": 8800,
+        "fpts": 69,
+        "own": 6.04
+      },
+      {
+        "slot": "UTIL",
+        "id": 44660076,
+        "name": "Aday Mara",
+        "team": "OKC",
+        "pos": "C",
+        "salary": 3100,
+        "fpts": 30,
+        "own": 5.74
+      }
+    ],
+    "assumedZero": 88
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 3,
+    "finish": 6877,
+    "pctile": 55.73,
+    "points": 289,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44659716,
+        "name": "Davion Mitchell",
+        "team": "MIA",
+        "pos": "PG",
+        "salary": 5400,
+        "fpts": 29,
+        "own": 11.77
+      },
+      {
+        "slot": "SG",
+        "id": 44659783,
+        "name": "Max Christie",
+        "team": "DAL",
+        "pos": "SG",
+        "salary": 4800,
+        "fpts": 22.25,
+        "own": 0.63
+      },
+      {
+        "slot": "SF",
+        "id": 44659882,
+        "name": "Pelle Larsson",
+        "team": "MIA",
+        "pos": "SG",
+        "salary": 4100,
+        "fpts": 24.5,
+        "own": 8.2
+      },
+      {
+        "slot": "PF",
+        "id": 44659557,
+        "name": "Alperen Sengun",
+        "team": "HOU",
+        "pos": "PF",
+        "salary": 8400,
+        "fpts": 65.25,
+        "own": 9.8
+      },
+      {
+        "slot": "C",
+        "id": 44659574,
+        "name": "Bam Adebayo",
+        "team": "MIA",
+        "pos": "C",
+        "salary": 7900,
+        "fpts": 30,
+        "own": 7.36
+      },
+      {
+        "slot": "G",
+        "id": 44659615,
+        "name": "Kyrie Irving",
+        "team": "DAL",
+        "pos": "PG",
+        "salary": 6800,
+        "fpts": 38.5,
+        "own": 6.85
+      },
+      {
+        "slot": "F",
+        "id": 44659588,
+        "name": "Kevin Durant",
+        "team": "HOU",
+        "pos": "SF",
+        "salary": 7400,
+        "fpts": 46.25,
+        "own": 13.23
+      },
+      {
+        "slot": "UTIL",
+        "id": 44659736,
+        "name": "CJ McCollum",
+        "team": "ATL",
+        "pos": "PG",
+        "salary": 5200,
+        "fpts": 33.25,
+        "own": 3.53
+      }
+    ],
+    "money": {
+      "fee": 15,
+      "one": {
+        "won": 0,
+        "net": -15
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 224.35,
+        "net": -75.65,
+        "cashed": 6
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "OKC": 4,
+        "CHA": 1,
+        "HOU": 1,
+        "MIA": 1,
+        "MIL": 1
+      },
+      "games": {
+        "PHX@OKC": 4,
+        "ATL@HOU": 1,
+        "DAL@MIA": 1,
+        "IND@MIL": 1,
+        "WAS@CHA": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "OKC 4",
+        "5 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "MIN": 2,
+        "OKC": 2,
+        "CHA": 1,
+        "DAL": 1,
+        "HOU": 1,
+        "MIL": 1
+      },
+      "games": {
+        "MIN@CLE": 2,
+        "PHX@OKC": 2,
+        "ATL@HOU": 1,
+        "DAL@MIA": 1,
+        "IND@MIL": 1,
+        "WAS@CHA": 1
+      },
+      "nGames": 6,
+      "summary": [
+        "MIN 2 · OKC 2",
+        "6 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "MIA": 3,
+        "DAL": 2,
+        "HOU": 2,
+        "ATL": 1
+      },
+      "games": {
+        "DAL@MIA": 5,
+        "ATL@HOU": 3
+      },
+      "nGames": 2,
+      "summary": [
+        "MIA 3 · DAL 2 · HOU 2",
+        "2 games"
+      ]
+    }
+  }
+}
