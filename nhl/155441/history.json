@@ -1,0 +1,428 @@
+{
+  "sport": "nhl",
+  "slate": "155441",
+  "date": "2026-10-27",
+  "contest": {
+    "id": 197191950,
+    "label": "NHL $60K Overload [$20K to 1st]",
+    "entries": 3529
+  },
+  "generatedAt": "2026-10-28T08:40:31.379Z",
+  "winner": {
+    "rank": 1,
+    "name": "Swamper92 (5/7)",
+    "points": 172.4,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44665925,
+        "name": "Sam Reinhart",
+        "team": "FLA",
+        "pos": "C",
+        "salary": 6900,
+        "fpts": 11.5,
+        "own": 2.13
+      },
+      {
+        "slot": "C",
+        "id": 44666055,
+        "name": "Barrett Hayton",
+        "team": "UTA",
+        "pos": "C",
+        "salary": 2700,
+        "fpts": 5.8,
+        "own": 1.7
+      },
+      {
+        "slot": "W",
+        "id": 44666161,
+        "name": "Brady Tkachuk",
+        "team": "FLA",
+        "pos": "W",
+        "salary": 7700,
+        "fpts": 23,
+        "own": 4.31
+      },
+      {
+        "slot": "W",
+        "id": 44666171,
+        "name": "Matthew Tkachuk",
+        "team": "FLA",
+        "pos": "W",
+        "salary": 7200,
+        "fpts": 24.5,
+        "own": 3.79
+      },
+      {
+        "slot": "W",
+        "id": 44666197,
+        "name": "Carter Verhaeghe",
+        "team": "FLA",
+        "pos": "W",
+        "salary": 6300,
+        "fpts": 21.5,
+        "own": 1.08
+      },
+      {
+        "slot": "D",
+        "id": 44666633,
+        "name": "Seth Jones",
+        "team": "FLA",
+        "pos": "D",
+        "salary": 4800,
+        "fpts": 22.5,
+        "own": 4.65
+      },
+      {
+        "slot": "D",
+        "id": 44666667,
+        "name": "Philip Broberg",
+        "team": "STL",
+        "pos": "D",
+        "salary": 3700,
+        "fpts": 13.3,
+        "own": 6.44
+      },
+      {
+        "slot": "G",
+        "id": 44666988,
+        "name": "Akira Schmid",
+        "team": "FLA",
+        "pos": "G",
+        "salary": 8000,
+        "fpts": 19.3,
+        "own": 1.13
+      },
+      {
+        "slot": "UTIL",
+        "id": 44666391,
+        "name": "Jonathan Lekkerimaki",
+        "team": "VAN",
+        "pos": "W",
+        "salary": 2700,
+        "fpts": 31,
+        "own": 0.71
+      }
+    ]
+  },
+  "optimal": {
+    "points": 259.1,
+    "salary": 47700,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44665917,
+        "name": "Jack Hughes",
+        "team": "NJD",
+        "pos": "C",
+        "salary": 8500,
+        "fpts": 25.5,
+        "own": 1.05
+      },
+      {
+        "slot": "C",
+        "id": 44666031,
+        "name": "Alexander Kerfoot",
+        "team": "NSH",
+        "pos": "C",
+        "salary": 2900,
+        "fpts": 21.2,
+        "own": 0.68
+      },
+      {
+        "slot": "W",
+        "id": 44666253,
+        "name": "Kent Johnson",
+        "team": "CBJ",
+        "pos": "W",
+        "salary": 4300,
+        "fpts": 29.3,
+        "own": 2.84
+      },
+      {
+        "slot": "W",
+        "id": 44666171,
+        "name": "Matthew Tkachuk",
+        "team": "FLA",
+        "pos": "W",
+        "salary": 7200,
+        "fpts": 24.5,
+        "own": 3.79
+      },
+      {
+        "slot": "W",
+        "id": 44666265,
+        "name": "Brock Boeser",
+        "team": "VAN",
+        "pos": "W",
+        "salary": 4000,
+        "fpts": 33.5,
+        "own": 8.27
+      },
+      {
+        "slot": "D",
+        "id": 44666633,
+        "name": "Seth Jones",
+        "team": "FLA",
+        "pos": "D",
+        "salary": 4800,
+        "fpts": 22.5,
+        "own": 4.65
+      },
+      {
+        "slot": "D",
+        "id": 44666617,
+        "name": "Jackson LaCombe",
+        "team": "ANA",
+        "pos": "D",
+        "salary": 5400,
+        "fpts": 26.4,
+        "own": 14.53
+      },
+      {
+        "slot": "G",
+        "id": 44666991,
+        "name": "Jacob Fowler",
+        "team": "MTL",
+        "pos": "G",
+        "salary": 7900,
+        "fpts": 45.2,
+        "own": 2.49
+      },
+      {
+        "slot": "UTIL",
+        "id": 44666391,
+        "name": "Jonathan Lekkerimaki",
+        "team": "VAN",
+        "pos": "W",
+        "salary": 2700,
+        "fpts": 31,
+        "own": 0.71
+      }
+    ],
+    "assumedZero": 218
+  },
+  "paper": {
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 1082,
+    "pctile": 69.25,
+    "points": 94.5,
+    "salary": 49800,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44665953,
+        "name": "Ryan O'Reilly",
+        "team": "NSH",
+        "pos": "C",
+        "salary": 5400,
+        "fpts": 16.9,
+        "own": 7
+      },
+      {
+        "slot": "C",
+        "id": 44666103,
+        "name": "Mark Jankowski",
+        "team": "CAR",
+        "pos": "C",
+        "salary": 2500,
+        "fpts": 0,
+        "own": 0.6
+      },
+      {
+        "slot": "W",
+        "id": 44666193,
+        "name": "Steven Stamkos",
+        "team": "NSH",
+        "pos": "W",
+        "salary": 6400,
+        "fpts": 6.5,
+        "own": 5.5
+      },
+      {
+        "slot": "W",
+        "id": 44666351,
+        "name": "James Hagens",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 2900,
+        "fpts": 1.5,
+        "own": 1.19
+      },
+      {
+        "slot": "W",
+        "id": 44666151,
+        "name": "Kirill Kaprizov",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 8700,
+        "fpts": 20.8,
+        "own": 9.77
+      },
+      {
+        "slot": "D",
+        "id": 44666693,
+        "name": "Denton Mateychuk",
+        "team": "CBJ",
+        "pos": "D",
+        "salary": 3300,
+        "fpts": 11.3,
+        "own": 1.5
+      },
+      {
+        "slot": "D",
+        "id": 44666633,
+        "name": "Seth Jones",
+        "team": "FLA",
+        "pos": "D",
+        "salary": 4800,
+        "fpts": 22.5,
+        "own": 4.65
+      },
+      {
+        "slot": "G",
+        "id": 44667023,
+        "name": "Juuse Saros",
+        "team": "NSH",
+        "pos": "G",
+        "salary": 7000,
+        "fpts": 9,
+        "own": 20.77
+      },
+      {
+        "slot": "UTIL",
+        "id": 44665915,
+        "name": "Macklin Celebrini",
+        "team": "SJS",
+        "pos": "C",
+        "salary": 8800,
+        "fpts": 6,
+        "own": 21.09
+      }
+    ],
+    "money": {
+      "fee": 20,
+      "one": {
+        "won": 0,
+        "net": -20
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 0,
+        "net": -400,
+        "cashed": 0
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "FLA": 6,
+        "STL": 1,
+        "UTA": 1,
+        "VAN": 1
+      },
+      "games": {
+        "FLA@WPG": 6,
+        "MIN@UTA": 1,
+        "MTL@STL": 1,
+        "VAN@ANA": 1
+      },
+      "nGames": 4,
+      "lines": {
+        "FLA f1": 2,
+        "FLA f2": 2
+      },
+      "pp": {
+        "FLA pp1": 5
+      },
+      "goalie": {
+        "team": "FLA",
+        "opposing": 0
+      },
+      "summary": [
+        "FLA 6",
+        "FLA f1 ×2",
+        "FLA f2 ×2",
+        "FLA pp1 ×5",
+        "G FLA",
+        "4 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "FLA": 2,
+        "VAN": 2,
+        "ANA": 1,
+        "CBJ": 1,
+        "MTL": 1,
+        "NJD": 1,
+        "NSH": 1
+      },
+      "games": {
+        "VAN@ANA": 3,
+        "FLA@WPG": 2,
+        "CBJ@PHI": 1,
+        "MTL@STL": 1,
+        "NJD@DAL": 1,
+        "NYI@NSH": 1
+      },
+      "nGames": 6,
+      "lines": {},
+      "pp": {
+        "FLA pp1": 2,
+        "VAN pp1": 2
+      },
+      "goalie": {
+        "team": "MTL",
+        "opposing": 0
+      },
+      "summary": [
+        "FLA 2 · VAN 2",
+        "FLA pp1 ×2",
+        "VAN pp1 ×2",
+        "G MTL",
+        "6 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "NSH": 3,
+        "BOS": 1,
+        "CAR": 1,
+        "CBJ": 1,
+        "FLA": 1,
+        "MIN": 1,
+        "SJS": 1
+      },
+      "games": {
+        "NYI@NSH": 3,
+        "BOS@CAR": 2,
+        "BUF@SJS": 1,
+        "CBJ@PHI": 1,
+        "FLA@WPG": 1,
+        "MIN@UTA": 1
+      },
+      "nGames": 6,
+      "lines": {
+        "NSH f1": 2
+      },
+      "pp": {
+        "NSH pp1": 2
+      },
+      "goalie": {
+        "team": "NSH",
+        "opposing": 0
+      },
+      "summary": [
+        "NSH 3",
+        "NSH f1 ×2",
+        "NSH pp1 ×2",
+        "G NSH",
+        "6 games"
+      ]
+    }
+  }
+}
