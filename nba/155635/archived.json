@@ -1,0 +1,71 @@
+{
+ "archivedAt": "2026-10-28T23:00:30+00:00",
+ "days": 3,
+ "bytes": 177038,
+ "removed": [
+  {
+   "path": "snapshots/20261025T140051Z.json",
+   "bytes": 9623
+  },
+  {
+   "path": "snapshots/20261025T150004Z.json",
+   "bytes": 9623
+  },
+  {
+   "path": "snapshots/20261025T160005Z.json",
+   "bytes": 10728
+  },
+  {
+   "path": "snapshots/20261025T170019Z.json",
+   "bytes": 11678
+  },
+  {
+   "path": "snapshots/20261025T180016Z.json",
+   "bytes": 11679
+  },
+  {
+   "path": "snapshots/20261025T190004Z.json",
+   "bytes": 11679
+  },
+  {
+   "path": "snapshots/20261025T200004Z.json",
+   "bytes": 11674
+  },
+  {
+   "path": "snapshots/20261025T210022Z.json",
+   "bytes": 11678
+  },
+  {
+   "path": "snapshots/20261025T211512Z.json",
+   "bytes": 11866
+  },
+  {
+   "path": "snapshots/20261025T213017Z.json",
+   "bytes": 12799
+  },
+  {
+   "path": "snapshots/20261025T214503Z.json",
+   "bytes": 12800
+  },
+  {
+   "path": "snapshots/20261025T220004Z.json",
+   "bytes": 12799
+  },
+  {
+   "path": "snapshots/20261025T221519Z.json",
+   "bytes": 12741
+  },
+  {
+   "path": "snapshots/20261025T223016Z.json",
+   "bytes": 12281
+  },
+  {
+   "path": "snapshots/20261025T224504Z.json",
+   "bytes": 12234
+  },
+  {
+   "path": "timeline.json",
+   "bytes": 1156
+  }
+ ]
+}
