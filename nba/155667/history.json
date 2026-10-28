@@ -1,0 +1,355 @@
+{
+  "sport": "nba",
+  "slate": "155667",
+  "date": "2026-10-27",
+  "contest": {
+    "id": 197206404,
+    "label": "NBA $333K Fadeaway [$100K to 1st]",
+    "entries": 26117
+  },
+  "generatedAt": "2026-10-28T08:40:14.013Z",
+  "winner": {
+    "rank": 1,
+    "name": "ImnotNavT (77/150)",
+    "points": 334,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44670089,
+        "name": "Dylan Harper",
+        "team": "SAS",
+        "pos": "PG",
+        "salary": 6200,
+        "fpts": 33,
+        "own": 28.69
+      },
+      {
+        "slot": "SG",
+        "id": 44670066,
+        "name": "Paul George",
+        "team": "BOS",
+        "pos": "SG",
+        "salary": 6700,
+        "fpts": 42.25,
+        "own": 18.97
+      },
+      {
+        "slot": "SF",
+        "id": 44670051,
+        "name": "Michael Porter Jr.",
+        "team": "BKN",
+        "pos": "SF",
+        "salary": 7100,
+        "fpts": 52,
+        "own": 12.28
+      },
+      {
+        "slot": "PF",
+        "id": 44670027,
+        "name": "Jayson Tatum",
+        "team": "BOS",
+        "pos": "SF",
+        "salary": 9500,
+        "fpts": 61.25,
+        "own": 20.82
+      },
+      {
+        "slot": "C",
+        "id": 44670125,
+        "name": "Paul Reed",
+        "team": "DET",
+        "pos": "C",
+        "salary": 5200,
+        "fpts": 43.25,
+        "own": 59.79
+      },
+      {
+        "slot": "G",
+        "id": 44670239,
+        "name": "Ziaire Williams",
+        "team": "LAL",
+        "pos": "SG",
+        "salary": 3900,
+        "fpts": 24,
+        "own": 29.93
+      },
+      {
+        "slot": "F",
+        "id": 44670048,
+        "name": "Julius Randle",
+        "team": "BKN",
+        "pos": "PF",
+        "salary": 7200,
+        "fpts": 42.75,
+        "own": 14.03
+      },
+      {
+        "slot": "UTIL",
+        "id": 44670214,
+        "name": "Robert Williams",
+        "team": "POR",
+        "pos": "PF",
+        "salary": 4100,
+        "fpts": 35.5,
+        "own": 6.89
+      }
+    ]
+  },
+  "optimal": {
+    "points": 349.5,
+    "salary": 49300,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44670017,
+        "name": "Luka Doncic",
+        "team": "LAL",
+        "pos": "PG",
+        "salary": 11300,
+        "fpts": 64.75,
+        "own": 26.59
+      },
+      {
+        "slot": "SG",
+        "id": 44670066,
+        "name": "Paul George",
+        "team": "BOS",
+        "pos": "SG",
+        "salary": 6700,
+        "fpts": 42.25,
+        "own": 18.97
+      },
+      {
+        "slot": "SF",
+        "id": 44670051,
+        "name": "Michael Porter Jr.",
+        "team": "BKN",
+        "pos": "SF",
+        "salary": 7100,
+        "fpts": 52,
+        "own": 12.28
+      },
+      {
+        "slot": "PF",
+        "id": 44670167,
+        "name": "Julian Champagnie",
+        "team": "SAS",
+        "pos": "PF",
+        "salary": 4700,
+        "fpts": 37.75,
+        "own": 7.85
+      },
+      {
+        "slot": "C",
+        "id": 44670125,
+        "name": "Paul Reed",
+        "team": "DET",
+        "pos": "C",
+        "salary": 5200,
+        "fpts": 43.25,
+        "own": 59.79
+      },
+      {
+        "slot": "G",
+        "id": 44670145,
+        "name": "Jrue Holiday",
+        "team": "POR",
+        "pos": "SG",
+        "salary": 5000,
+        "fpts": 34,
+        "own": 12
+      },
+      {
+        "slot": "F",
+        "id": 44670131,
+        "name": "De'Andre Hunter",
+        "team": "SAC",
+        "pos": "SF",
+        "salary": 5200,
+        "fpts": 40,
+        "own": 0.81
+      },
+      {
+        "slot": "UTIL",
+        "id": 44670214,
+        "name": "Robert Williams",
+        "team": "POR",
+        "pos": "PF",
+        "salary": 4100,
+        "fpts": 35.5,
+        "own": 6.89
+      }
+    ],
+    "assumedZero": 35
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 15365,
+    "pctile": 40.71,
+    "points": 246.75,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44670089,
+        "name": "Dylan Harper",
+        "team": "SAS",
+        "pos": "PG",
+        "salary": 6200,
+        "fpts": 33,
+        "own": 28.69
+      },
+      {
+        "slot": "SG",
+        "id": 44670104,
+        "name": "Payton Pritchard",
+        "team": "BOS",
+        "pos": "PG",
+        "salary": 5900,
+        "fpts": 16,
+        "own": 14.71
+      },
+      {
+        "slot": "SF",
+        "id": 44670093,
+        "name": "Josh Hart",
+        "team": "NYK",
+        "pos": "SG",
+        "salary": 6100,
+        "fpts": 26.5,
+        "own": 20.28
+      },
+      {
+        "slot": "PF",
+        "id": 44670048,
+        "name": "Julius Randle",
+        "team": "BKN",
+        "pos": "PF",
+        "salary": 7200,
+        "fpts": 42.75,
+        "own": 14.03
+      },
+      {
+        "slot": "C",
+        "id": 44670125,
+        "name": "Paul Reed",
+        "team": "DET",
+        "pos": "C",
+        "salary": 5200,
+        "fpts": 43.25,
+        "own": 59.79
+      },
+      {
+        "slot": "G",
+        "id": 44670054,
+        "name": "Stephon Castle",
+        "team": "SAS",
+        "pos": "SG",
+        "salary": 7000,
+        "fpts": 30.75,
+        "own": 18.9
+      },
+      {
+        "slot": "F",
+        "id": 44670108,
+        "name": "John Collins",
+        "team": "DET",
+        "pos": "PF",
+        "salary": 5800,
+        "fpts": 20.25,
+        "own": 24.99
+      },
+      {
+        "slot": "UTIL",
+        "id": 44670071,
+        "name": "Damian Lillard",
+        "team": "POR",
+        "pos": "PG",
+        "salary": 6600,
+        "fpts": 34.25,
+        "own": 37.36
+      }
+    ],
+    "money": {
+      "fee": 15,
+      "one": {
+        "won": 0,
+        "net": -15
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 80,
+        "net": -220,
+        "cashed": 3
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "BKN": 2,
+        "BOS": 2,
+        "DET": 1,
+        "LAL": 1,
+        "POR": 1,
+        "SAS": 1
+      },
+      "games": {
+        "BKN@BOS": 4,
+        "POR@LAL": 2,
+        "DET@NYK": 1,
+        "SAC@SAS": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "BKN 2 · BOS 2",
+        "4 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "POR": 2,
+        "BKN": 1,
+        "BOS": 1,
+        "DET": 1,
+        "LAL": 1,
+        "SAC": 1,
+        "SAS": 1
+      },
+      "games": {
+        "POR@LAL": 3,
+        "BKN@BOS": 2,
+        "SAC@SAS": 2,
+        "DET@NYK": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "POR 2",
+        "4 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "DET": 2,
+        "SAS": 2,
+        "BKN": 1,
+        "BOS": 1,
+        "NYK": 1,
+        "POR": 1
+      },
+      "games": {
+        "DET@NYK": 3,
+        "BKN@BOS": 2,
+        "SAC@SAS": 2,
+        "POR@LAL": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "DET 2 · SAS 2",
+        "4 games"
+      ]
+    }
+  }
+}

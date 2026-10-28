@@ -1,6 +1,22 @@
 [
   {
     "sport": "nba",
+    "slate": "155667",
+    "date": "2026-10-27",
+    "label": "NBA $333K Fadeaway [$100K to 1st]",
+    "contestId": 197206404,
+    "entries": 26117,
+    "winnerPoints": 334,
+    "optimalPoints": 349.5,
+    "paperPoints": 246.75,
+    "paperPctile": 40.71,
+    "paperNet1": -15,
+    "portfolioNet": -220,
+    "portfolioCashed": 3,
+    "portfolioN": 20
+  },
+  {
+    "sport": "nba",
     "slate": "155647",
     "date": "2026-10-26",
     "label": "NBA $200K Fadeaway [$50K to 1st]",
