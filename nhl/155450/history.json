@@ -1,0 +1,426 @@
+{
+  "sport": "nhl",
+  "slate": "155450",
+  "date": "2026-10-28",
+  "contest": {
+    "id": 197235195,
+    "label": "NHL $30K Overload [$10K to 1st]",
+    "entries": 1764
+  },
+  "generatedAt": "2026-10-29T08:40:26.981Z",
+  "winner": {
+    "rank": 1,
+    "name": "AJTruth33 (5/52)",
+    "points": 198.9,
+    "salary": 49200,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44686760,
+        "name": "Auston Matthews",
+        "team": "TOR",
+        "pos": "C",
+        "salary": 8600,
+        "fpts": 27.5,
+        "own": 29.31
+      },
+      {
+        "slot": "C",
+        "id": 44686768,
+        "name": "Dylan Strome",
+        "team": "WSH",
+        "pos": "C",
+        "salary": 5200,
+        "fpts": 22.3,
+        "own": 14.97
+      },
+      {
+        "slot": "W",
+        "id": 44686854,
+        "name": "Alex Tuch",
+        "team": "WSH",
+        "pos": "W",
+        "salary": 6400,
+        "fpts": 27.5,
+        "own": 12.02
+      },
+      {
+        "slot": "W",
+        "id": 44686910,
+        "name": "Jordan Kyrou",
+        "team": "WSH",
+        "pos": "W",
+        "salary": 3700,
+        "fpts": 22.8,
+        "own": 25.62
+      },
+      {
+        "slot": "W",
+        "id": 44686920,
+        "name": "Gavin McKenna",
+        "team": "TOR",
+        "pos": "W",
+        "salary": 3300,
+        "fpts": 29.5,
+        "own": 28.8
+      },
+      {
+        "slot": "D",
+        "id": 44687018,
+        "name": "Jakob Chychrun",
+        "team": "WSH",
+        "pos": "D",
+        "salary": 6600,
+        "fpts": 13.4,
+        "own": 14.57
+      },
+      {
+        "slot": "D",
+        "id": 44687088,
+        "name": "Ryker Evans",
+        "team": "SEA",
+        "pos": "D",
+        "salary": 2700,
+        "fpts": 14.1,
+        "own": 5.05
+      },
+      {
+        "slot": "G",
+        "id": 44687153,
+        "name": "Tristan Jarry",
+        "team": "EDM",
+        "pos": "G",
+        "salary": 8200,
+        "fpts": 26.8,
+        "own": 5.78
+      },
+      {
+        "slot": "UTIL",
+        "id": 44686888,
+        "name": "Jack Roslovic",
+        "team": "TOR",
+        "pos": "W",
+        "salary": 4500,
+        "fpts": 15,
+        "own": 22
+      }
+    ]
+  },
+  "optimal": {
+    "points": 219,
+    "salary": 43700,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44686768,
+        "name": "Dylan Strome",
+        "team": "WSH",
+        "pos": "C",
+        "salary": 5200,
+        "fpts": 22.3,
+        "own": 14.97
+      },
+      {
+        "slot": "C",
+        "id": 44686760,
+        "name": "Auston Matthews",
+        "team": "TOR",
+        "pos": "C",
+        "salary": 8600,
+        "fpts": 27.5,
+        "own": 29.31
+      },
+      {
+        "slot": "W",
+        "id": 44686854,
+        "name": "Alex Tuch",
+        "team": "WSH",
+        "pos": "W",
+        "salary": 6400,
+        "fpts": 27.5,
+        "own": 12.02
+      },
+      {
+        "slot": "W",
+        "id": 44686910,
+        "name": "Jordan Kyrou",
+        "team": "WSH",
+        "pos": "W",
+        "salary": 3700,
+        "fpts": 22.8,
+        "own": 25.62
+      },
+      {
+        "slot": "W",
+        "id": 44686946,
+        "name": "Connor Brown",
+        "team": "NJD",
+        "pos": "W",
+        "salary": 2600,
+        "fpts": 22,
+        "own": 0.17
+      },
+      {
+        "slot": "D",
+        "id": 44687066,
+        "name": "Brent Burns",
+        "team": "COL",
+        "pos": "D",
+        "salary": 3100,
+        "fpts": 24.2,
+        "own": 1.02
+      },
+      {
+        "slot": "D",
+        "id": 44687094,
+        "name": "Troy Stecher",
+        "team": "TOR",
+        "pos": "D",
+        "salary": 2600,
+        "fpts": 16.4,
+        "own": 3.57
+      },
+      {
+        "slot": "G",
+        "id": 44687153,
+        "name": "Tristan Jarry",
+        "team": "EDM",
+        "pos": "G",
+        "salary": 8200,
+        "fpts": 26.8,
+        "own": 5.78
+      },
+      {
+        "slot": "UTIL",
+        "id": 44686920,
+        "name": "Gavin McKenna",
+        "team": "TOR",
+        "pos": "W",
+        "salary": 3300,
+        "fpts": 29.5,
+        "own": 28.8
+      }
+    ],
+    "assumedZero": 60
+  },
+  "paper": {
+    "variant": "stack",
+    "lineup": 6,
+    "finish": 98,
+    "pctile": 94.5,
+    "points": 137.5,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44686768,
+        "name": "Dylan Strome",
+        "team": "WSH",
+        "pos": "C",
+        "salary": 5200,
+        "fpts": 22.3,
+        "own": 14.97
+      },
+      {
+        "slot": "C",
+        "id": 44686798,
+        "name": "Berkly Catton",
+        "team": "SEA",
+        "pos": "C",
+        "salary": 2800,
+        "fpts": 10,
+        "own": 8.33
+      },
+      {
+        "slot": "W",
+        "id": 44686854,
+        "name": "Alex Tuch",
+        "team": "WSH",
+        "pos": "W",
+        "salary": 6400,
+        "fpts": 27.5,
+        "own": 12.02
+      },
+      {
+        "slot": "W",
+        "id": 44686870,
+        "name": "Trevor Zegras",
+        "team": "PHI",
+        "pos": "W",
+        "salary": 5400,
+        "fpts": 13.6,
+        "own": 3.28
+      },
+      {
+        "slot": "W",
+        "id": 44686910,
+        "name": "Jordan Kyrou",
+        "team": "WSH",
+        "pos": "W",
+        "salary": 3700,
+        "fpts": 22.8,
+        "own": 25.62
+      },
+      {
+        "slot": "D",
+        "id": 44687018,
+        "name": "Jakob Chychrun",
+        "team": "WSH",
+        "pos": "D",
+        "salary": 6600,
+        "fpts": 13.4,
+        "own": 14.57
+      },
+      {
+        "slot": "D",
+        "id": 44687014,
+        "name": "Evan Bouchard",
+        "team": "EDM",
+        "pos": "D",
+        "salary": 8300,
+        "fpts": 13.6,
+        "own": 17.69
+      },
+      {
+        "slot": "G",
+        "id": 44687164,
+        "name": "Jake Allen",
+        "team": "NJD",
+        "pos": "G",
+        "salary": 7300,
+        "fpts": 12.8,
+        "own": 12.93
+      },
+      {
+        "slot": "UTIL",
+        "id": 44686892,
+        "name": "Arseny Gritsyuk",
+        "team": "NJD",
+        "pos": "W",
+        "salary": 4300,
+        "fpts": 1.5,
+        "own": 4.59
+      }
+    ],
+    "money": {
+      "fee": 20,
+      "one": {
+        "won": 0,
+        "net": -20
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 0,
+        "net": -400,
+        "cashed": 0
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "WSH": 4,
+        "TOR": 3,
+        "EDM": 1,
+        "SEA": 1
+      },
+      "games": {
+        "PHI@WSH": 4,
+        "TOR@SEA": 4,
+        "CGY@EDM": 1
+      },
+      "nGames": 3,
+      "lines": {
+        "TOR f1": 3,
+        "WSH f2": 3
+      },
+      "pp": {
+        "TOR pp1": 3,
+        "WSH pp1": 3
+      },
+      "goalie": {
+        "team": "EDM",
+        "opposing": 0
+      },
+      "summary": [
+        "WSH 4 · TOR 3",
+        "TOR f1 ×3",
+        "WSH f2 ×3",
+        "TOR pp1 ×3",
+        "WSH pp1 ×3",
+        "G EDM",
+        "3 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "TOR": 3,
+        "WSH": 3,
+        "COL": 1,
+        "EDM": 1,
+        "NJD": 1
+      },
+      "games": {
+        "PHI@WSH": 3,
+        "TOR@SEA": 3,
+        "NJD@COL": 2,
+        "CGY@EDM": 1
+      },
+      "nGames": 4,
+      "lines": {
+        "WSH f2": 3,
+        "TOR f1": 2
+      },
+      "pp": {
+        "TOR pp1": 2,
+        "WSH pp1": 2
+      },
+      "goalie": {
+        "team": "EDM",
+        "opposing": 0
+      },
+      "summary": [
+        "TOR 3 · WSH 3",
+        "WSH f2 ×3",
+        "TOR f1 ×2",
+        "TOR pp1 ×2",
+        "WSH pp1 ×2",
+        "G EDM",
+        "4 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "WSH": 4,
+        "NJD": 2,
+        "EDM": 1,
+        "PHI": 1,
+        "SEA": 1
+      },
+      "games": {
+        "PHI@WSH": 5,
+        "NJD@COL": 2,
+        "CGY@EDM": 1,
+        "TOR@SEA": 1
+      },
+      "nGames": 4,
+      "lines": {
+        "WSH f2": 3
+      },
+      "pp": {
+        "WSH pp1": 3
+      },
+      "goalie": {
+        "team": "NJD",
+        "opposing": 0
+      },
+      "summary": [
+        "WSH 4 · NJD 2",
+        "WSH f2 ×3",
+        "WSH pp1 ×3",
+        "G NJD",
+        "4 games"
+      ]
+    }
+  }
+}
