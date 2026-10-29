@@ -7,7 +7,7 @@
     "label": "NBA $150K Fadeaway [$50K to 1st]",
     "entries": 9597
   },
-  "generatedAt": "2026-10-26T08:40:14.776Z",
+  "generatedAt": "2026-10-29T15:51:41.566Z",
   "winner": {
     "rank": 1,
     "name": "ImnotNavT (87/100)",
@@ -185,91 +185,91 @@
   },
   "paper": {
     "variant": "defaults",
-    "lineup": 2,
-    "finish": 6,
-    "pctile": 99.95,
-    "points": 330,
+    "lineup": 1,
+    "finish": 5139,
+    "pctile": 45.9,
+    "points": 245.25,
     "salary": 50000,
     "players": [
       {
         "slot": "PG",
-        "id": 44655160,
-        "name": "Kris Dunn",
-        "team": "LAC",
+        "id": 44655088,
+        "name": "Jalen Suggs",
+        "team": "ORL",
         "pos": "PG",
-        "salary": 4400,
-        "fpts": 42.5,
-        "own": 13.38
+        "salary": 5800,
+        "fpts": 24.5,
+        "own": 33.22
       },
       {
         "slot": "SG",
-        "id": 44655059,
-        "name": "Desmond Bane",
-        "team": "ORL",
+        "id": 44655119,
+        "name": "Ayo Dosunmu",
+        "team": "MIN",
         "pos": "SG",
-        "salary": 6500,
-        "fpts": 37,
-        "own": 15.07
+        "salary": 5000,
+        "fpts": 15.25,
+        "own": 18.3
       },
       {
         "slot": "SF",
-        "id": 44655260,
-        "name": "Terrence Shannon Jr.",
-        "team": "MIN",
-        "pos": "SG",
-        "salary": 3500,
-        "fpts": 26.5,
-        "own": 0.9
+        "id": 44655035,
+        "name": "Jaylen Brown",
+        "team": "PHI",
+        "pos": "SF",
+        "salary": 7900,
+        "fpts": 29.5,
+        "own": 39.39
       },
       {
         "slot": "PF",
-        "id": 44655022,
-        "name": "Karl-Anthony Towns",
+        "id": 44655091,
+        "name": "OG Anunoby",
         "team": "NYK",
         "pos": "PF",
-        "salary": 8300,
-        "fpts": 49,
-        "own": 23.91
+        "salary": 5700,
+        "fpts": 29.25,
+        "own": 24.37
       },
       {
         "slot": "C",
-        "id": 44655313,
-        "name": "Adem Bona",
-        "team": "PHI",
+        "id": 44655180,
+        "name": "Paul Reed",
+        "team": "DET",
         "pos": "C",
-        "salary": 3100,
-        "fpts": 30.25,
-        "own": 14.45
+        "salary": 4200,
+        "fpts": 25.5,
+        "own": 82.63
       },
       {
         "slot": "G",
-        "id": 44655029,
-        "name": "Jalen Brunson",
-        "team": "NYK",
+        "id": 44655011,
+        "name": "Cade Cunningham",
+        "team": "DET",
         "pos": "PG",
-        "salary": 8100,
-        "fpts": 42.75,
-        "own": 23.27
+        "salary": 9500,
+        "fpts": 55.5,
+        "own": 25.32
       },
       {
         "slot": "F",
-        "id": 44655045,
-        "name": "Franz Wagner",
-        "team": "ORL",
-        "pos": "SF",
-        "salary": 7600,
-        "fpts": 52.75,
-        "own": 23.95
+        "id": 44655128,
+        "name": "John Collins",
+        "team": "DET",
+        "pos": "PF",
+        "salary": 4800,
+        "fpts": 35.25,
+        "own": 37.27
       },
       {
         "slot": "UTIL",
-        "id": 44655017,
-        "name": "Tyrese Maxey",
+        "id": 44655048,
+        "name": "LeBron James",
         "team": "PHI",
-        "pos": "PG",
-        "salary": 8500,
-        "fpts": 49.25,
-        "own": 35.77
+        "pos": "PF",
+        "salary": 7100,
+        "fpts": 30.5,
+        "own": 43.13
       }
     ],
     "money": {
@@ -328,22 +328,21 @@
     },
     "paper": {
       "teams": {
-        "NYK": 2,
-        "ORL": 2,
+        "DET": 3,
         "PHI": 2,
-        "LAC": 1,
-        "MIN": 1
+        "MIN": 1,
+        "NYK": 1,
+        "ORL": 1
       },
       "games": {
-        "ORL@NYK": 4,
-        "DET@PHI": 2,
-        "LAC@OKC": 1,
+        "DET@PHI": 5,
+        "ORL@NYK": 2,
         "TOR@MIN": 1
       },
-      "nGames": 4,
+      "nGames": 3,
       "summary": [
-        "NYK 2 · ORL 2 · PHI 2",
-        "4 games"
+        "DET 3 · PHI 2",
+        "3 games"
       ]
     }
   }

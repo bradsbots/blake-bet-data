@@ -7,7 +7,7 @@
     "label": "NBA $333K Zone Special [$100K to 1st]",
     "entries": 79270
   },
-  "generatedAt": "2026-10-29T08:40:16.445Z",
+  "generatedAt": "2026-10-29T15:51:41.566Z",
   "winner": {
     "rank": 1,
     "name": "phd_aggie (118/150)",
@@ -185,91 +185,91 @@
   },
   "paper": {
     "variant": "defaults",
-    "lineup": 2,
-    "finish": 14212,
-    "pctile": 81.78,
-    "points": 282.5,
+    "lineup": 1,
+    "finish": 31209,
+    "pctile": 60.26,
+    "points": 266.75,
     "salary": 50000,
     "players": [
       {
         "slot": "PG",
-        "id": 44688921,
-        "name": "Fred VanVleet",
-        "team": "HOU",
+        "id": 44688895,
+        "name": "Andrew Nembhard",
+        "team": "IND",
         "pos": "PG",
-        "salary": 5500,
-        "fpts": 43.5,
-        "own": 11.86
+        "salary": 5800,
+        "fpts": 42.75,
+        "own": 30.92
       },
       {
         "slot": "SG",
-        "id": 44688829,
-        "name": "Josh Hart",
-        "team": "NYK",
-        "pos": "SG",
-        "salary": 6300,
-        "fpts": 17.5,
-        "own": 4.92
+        "id": 44688950,
+        "name": "CJ McCollum",
+        "team": "ATL",
+        "pos": "PG",
+        "salary": 5300,
+        "fpts": 17,
+        "own": 19.63
       },
       {
         "slot": "SF",
-        "id": 44689037,
-        "name": "Tari Eason",
-        "team": "HOU",
+        "id": 44688992,
+        "name": "Peyton Watson",
+        "team": "CLE",
         "pos": "SF",
-        "salary": 4600,
-        "fpts": 24.75,
-        "own": 39.37
+        "salary": 5000,
+        "fpts": 34,
+        "own": 17.74
       },
       {
         "slot": "PF",
-        "id": 44688758,
-        "name": "LeBron James",
-        "team": "PHI",
+        "id": 44688975,
+        "name": "Jonathan Kuminga",
+        "team": "MIN",
         "pos": "PF",
-        "salary": 7400,
-        "fpts": 42.75,
-        "own": 4.36
+        "salary": 5100,
+        "fpts": 36.75,
+        "own": 18.64
       },
       {
         "slot": "C",
-        "id": 44689375,
-        "name": "Clint Capela",
-        "team": "HOU",
+        "id": 44688704,
+        "name": "Joel Embiid",
+        "team": "PHI",
         "pos": "C",
-        "salary": 3100,
-        "fpts": 32,
-        "own": 29.33
+        "salary": 8400,
+        "fpts": 39.25,
+        "own": 14.49
       },
       {
         "slot": "G",
-        "id": 44688780,
-        "name": "Amen Thompson",
-        "team": "HOU",
-        "pos": "PG",
-        "salary": 7000,
-        "fpts": 34,
-        "own": 27.19
+        "id": 44688966,
+        "name": "Ayo Dosunmu",
+        "team": "MIN",
+        "pos": "SG",
+        "salary": 5200,
+        "fpts": 36.25,
+        "own": 42.22
       },
       {
         "slot": "F",
-        "id": 44688666,
-        "name": "Giannis Antetokounmpo",
-        "team": "MIA",
-        "pos": "PF",
-        "salary": 10200,
-        "fpts": 55.5,
-        "own": 31.71
+        "id": 44688749,
+        "name": "Kevin Durant",
+        "team": "HOU",
+        "pos": "SF",
+        "salary": 7500,
+        "fpts": 35.75,
+        "own": 23.89
       },
       {
         "slot": "UTIL",
-        "id": 44688883,
-        "name": "OG Anunoby",
-        "team": "NYK",
-        "pos": "PF",
-        "salary": 5900,
-        "fpts": 32.5,
-        "own": 14.1
+        "id": 44688740,
+        "name": "LaMelo Ball",
+        "team": "MIN",
+        "pos": "PG",
+        "salary": 7700,
+        "fpts": 25,
+        "own": 29.22
       }
     ],
     "money": {
@@ -337,21 +337,24 @@
     },
     "paper": {
       "teams": {
-        "HOU": 4,
-        "NYK": 2,
-        "MIA": 1,
+        "MIN": 3,
+        "ATL": 1,
+        "CLE": 1,
+        "HOU": 1,
+        "IND": 1,
         "PHI": 1
       },
       "games": {
-        "HOU@MIL": 4,
-        "NYK@CHI": 2,
+        "GSW@MIN": 3,
+        "PHI@IND": 2,
+        "HOU@MIL": 1,
         "MIA@ATL": 1,
-        "PHI@IND": 1
+        "WAS@CLE": 1
       },
-      "nGames": 4,
+      "nGames": 5,
       "summary": [
-        "HOU 4 · NYK 2",
-        "4 games"
+        "MIN 3",
+        "5 games"
       ]
     }
   }

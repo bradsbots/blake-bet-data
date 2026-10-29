@@ -7,7 +7,7 @@
     "label": "NHL $100K Kick Save [$25K to 1st] $15",
     "entries": 7843
   },
-  "generatedAt": "2026-10-17T13:09:01.836Z",
+  "generatedAt": "2026-10-29T15:51:41.566Z",
   "winner": null,
   "optimal": {
     "points": 257.1,
@@ -204,7 +204,8 @@
         "fpts": 1.5,
         "own": 0.28
       }
-    ]
+    ],
+    "money": null
   },
   "stacks": {
     "winner": null,

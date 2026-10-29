@@ -7,7 +7,7 @@
     "label": "NHL $15K Overload  [$5K to 1st]",
     "entries": 882
   },
-  "generatedAt": "2026-10-26T08:40:34.593Z",
+  "generatedAt": "2026-10-29T15:51:41.566Z",
   "winner": {
     "rank": 1,
     "name": "I_Slewfoot_U (2/26)",
@@ -204,22 +204,22 @@
     "assumedZero": 60
   },
   "paper": {
-    "variant": "leverage",
-    "lineup": 9,
-    "finish": 58,
-    "pctile": 93.42,
-    "points": 134.7,
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 720,
+    "pctile": 18.37,
+    "points": 67.9,
     "salary": 50000,
     "players": [
       {
         "slot": "C",
-        "id": 44653584,
-        "name": "Ryan O'Reilly",
-        "team": "NSH",
+        "id": 44653570,
+        "name": "Nathan MacKinnon",
+        "team": "COL",
         "pos": "C",
-        "salary": 5200,
-        "fpts": 41.8,
-        "own": 8.16
+        "salary": 9300,
+        "fpts": 8,
+        "own": 36.84
       },
       {
         "slot": "C",
@@ -233,73 +233,73 @@
       },
       {
         "slot": "W",
-        "id": 44653672,
-        "name": "Cole Perfetti",
+        "id": 44653656,
+        "name": "Kyle Connor",
         "team": "WPG",
         "pos": "W",
-        "salary": 5400,
-        "fpts": 6,
-        "own": 12.92
+        "salary": 7800,
+        "fpts": 10.5,
+        "own": 17.24
       },
       {
         "slot": "W",
-        "id": 44653670,
-        "name": "Steven Stamkos",
-        "team": "NSH",
+        "id": 44653676,
+        "name": "Artturi Lehkonen",
+        "team": "COL",
         "pos": "W",
-        "salary": 6100,
-        "fpts": 32.3,
-        "own": 6.57
+        "salary": 5100,
+        "fpts": 20.3,
+        "own": 15.87
       },
       {
         "slot": "W",
-        "id": 44653714,
-        "name": "Matthew Wood",
+        "id": 44653716,
+        "name": "Adam Edstrom",
         "team": "NSH",
         "pos": "W",
         "salary": 2900,
-        "fpts": 4.5,
-        "own": 5.89
+        "fpts": 0,
+        "own": 0.34
       },
       {
         "slot": "D",
-        "id": 44653824,
-        "name": "Neal Pionk",
-        "team": "WPG",
+        "id": 44653864,
+        "name": "Brett Kulak",
+        "team": "COL",
         "pos": "D",
-        "salary": 4900,
-        "fpts": 5.8,
-        "own": 12.02
+        "salary": 2800,
+        "fpts": 8.4,
+        "own": 3.06
       },
       {
         "slot": "D",
-        "id": 44653816,
-        "name": "Roman Josi",
-        "team": "NSH",
+        "id": 44653836,
+        "name": "Jared Spurgeon",
+        "team": "MIN",
         "pos": "D",
-        "salary": 6300,
-        "fpts": 25.3,
-        "own": 11.68
+        "salary": 3800,
+        "fpts": 2.8,
+        "own": 9.75
       },
       {
         "slot": "G",
-        "id": 44653945,
-        "name": "Calvin Pickard",
-        "team": "MIN",
+        "id": 44653956,
+        "name": "Ilya Sorokin",
+        "team": "NYI",
         "pos": "G",
-        "salary": 8200,
-        "fpts": 9.5,
-        "own": 4.88
+        "salary": 7100,
+        "fpts": 1.4,
+        "own": 16.44
       },
       {
         "slot": "UTIL",
-        "id": 44653654,
-        "name": "Matt Boldy",
+        "id": 44653652,
+        "name": "Kirill Kaprizov",
         "team": "MIN",
         "pos": "W",
-        "salary": 8400,
-        "fpts": 9.5,
-        "own": 33
+        "salary": 8600,
+        "fpts": 16.5,
+        "own": 37.87
       }
     ],
     "money": {
@@ -385,35 +385,32 @@
     },
     "paper": {
       "teams": {
-        "NSH": 4,
+        "COL": 4,
         "MIN": 2,
-        "WPG": 2,
-        "COL": 1
+        "NSH": 1,
+        "NYI": 1,
+        "WPG": 1
       },
       "games": {
         "COL@NSH": 5,
         "MIN@VAN": 2,
-        "MTL@WPG": 2
+        "MTL@WPG": 1,
+        "NYI@DAL": 1
       },
-      "nGames": 3,
+      "nGames": 4,
       "lines": {
-        "NSH f1": 3
+        "COL f1": 2
       },
-      "pp": {
-        "NSH pp1": 3,
-        "WPG pp1": 2
-      },
+      "pp": {},
       "goalie": {
-        "team": "MIN",
+        "team": "NYI",
         "opposing": 0
       },
       "summary": [
-        "NSH 4 · MIN 2 · WPG 2",
-        "NSH f1 ×3",
-        "NSH pp1 ×3",
-        "WPG pp1 ×2",
-        "G MIN",
-        "3 games"
+        "COL 4 · MIN 2",
+        "COL f1 ×2",
+        "G NYI",
+        "4 games"
       ]
     }
   }

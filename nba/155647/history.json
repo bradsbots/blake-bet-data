@@ -7,7 +7,7 @@
     "label": "NBA $200K Fadeaway [$50K to 1st]",
     "entries": 15686
   },
-  "generatedAt": "2026-10-27T08:40:15.524Z",
+  "generatedAt": "2026-10-29T15:51:41.566Z",
   "winner": {
     "rank": 1,
     "name": "sutogame (1/2)",
@@ -185,91 +185,91 @@
   },
   "paper": {
     "variant": "defaults",
-    "lineup": 3,
-    "finish": 6877,
-    "pctile": 55.73,
-    "points": 289,
+    "lineup": 1,
+    "finish": 11317,
+    "pctile": 27.63,
+    "points": 265.25,
     "salary": 50000,
     "players": [
       {
         "slot": "PG",
-        "id": 44659716,
-        "name": "Davion Mitchell",
-        "team": "MIA",
+        "id": 44659703,
+        "name": "Dennis Schroder",
+        "team": "CHA",
         "pos": "PG",
-        "salary": 5400,
-        "fpts": 29,
-        "own": 11.77
+        "salary": 5600,
+        "fpts": 20,
+        "own": 19.05
       },
       {
         "slot": "SG",
-        "id": 44659783,
-        "name": "Max Christie",
-        "team": "DAL",
-        "pos": "SG",
-        "salary": 4800,
-        "fpts": 22.25,
-        "own": 0.63
+        "id": 44659810,
+        "name": "Ajay Mitchell",
+        "team": "OKC",
+        "pos": "PG",
+        "salary": 4600,
+        "fpts": 42,
+        "own": 64.81
       },
       {
         "slot": "SF",
-        "id": 44659882,
-        "name": "Pelle Larsson",
-        "team": "MIA",
-        "pos": "SG",
-        "salary": 4100,
-        "fpts": 24.5,
-        "own": 8.2
+        "id": 44659677,
+        "name": "Jaime Jaquez Jr.",
+        "team": "MIL",
+        "pos": "SF",
+        "salary": 5900,
+        "fpts": 17.5,
+        "own": 16.89
       },
       {
         "slot": "PF",
-        "id": 44659557,
-        "name": "Alperen Sengun",
-        "team": "HOU",
+        "id": 44659526,
+        "name": "Giannis Antetokounmpo",
+        "team": "MIA",
         "pos": "PF",
-        "salary": 8400,
-        "fpts": 65.25,
-        "own": 9.8
+        "salary": 9900,
+        "fpts": 68,
+        "own": 53.26
       },
       {
         "slot": "C",
-        "id": 44659574,
-        "name": "Bam Adebayo",
-        "team": "MIA",
-        "pos": "C",
-        "salary": 7900,
-        "fpts": 30,
-        "own": 7.36
+        "id": 44659984,
+        "name": "Jaylin Williams",
+        "team": "OKC",
+        "pos": "PF",
+        "salary": 3600,
+        "fpts": 20.5,
+        "own": 36.61
       },
       {
         "slot": "G",
-        "id": 44659615,
-        "name": "Kyrie Irving",
-        "team": "DAL",
+        "id": 44659682,
+        "name": "Andrew Nembhard",
+        "team": "IND",
         "pos": "PG",
-        "salary": 6800,
-        "fpts": 38.5,
-        "own": 6.85
+        "salary": 5900,
+        "fpts": 0,
+        "own": 0.04
       },
       {
         "slot": "F",
-        "id": 44659588,
-        "name": "Kevin Durant",
-        "team": "HOU",
-        "pos": "SF",
-        "salary": 7400,
-        "fpts": 46.25,
-        "own": 13.23
+        "id": 44659582,
+        "name": "Pascal Siakam",
+        "team": "IND",
+        "pos": "PF",
+        "salary": 7600,
+        "fpts": 45.25,
+        "own": 15.52
       },
       {
         "slot": "UTIL",
-        "id": 44659736,
-        "name": "CJ McCollum",
-        "team": "ATL",
-        "pos": "PG",
-        "salary": 5200,
-        "fpts": 33.25,
-        "own": 3.53
+        "id": 44659605,
+        "name": "Tyler Herro",
+        "team": "MIL",
+        "pos": "SG",
+        "salary": 6900,
+        "fpts": 52,
+        "own": 23.98
       }
     ],
     "money": {
@@ -333,19 +333,22 @@
     },
     "paper": {
       "teams": {
-        "MIA": 3,
-        "DAL": 2,
-        "HOU": 2,
-        "ATL": 1
+        "IND": 2,
+        "MIL": 2,
+        "OKC": 2,
+        "CHA": 1,
+        "MIA": 1
       },
       "games": {
-        "DAL@MIA": 5,
-        "ATL@HOU": 3
+        "IND@MIL": 4,
+        "PHX@OKC": 2,
+        "DAL@MIA": 1,
+        "WAS@CHA": 1
       },
-      "nGames": 2,
+      "nGames": 4,
       "summary": [
-        "MIA 3 · DAL 2 · HOU 2",
-        "2 games"
+        "IND 2 · MIL 2 · OKC 2",
+        "4 games"
       ]
     }
   }

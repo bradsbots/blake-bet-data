@@ -7,7 +7,7 @@
     "label": "NFL $2.5M Fantasy Football Millionaire [$1M to 1st, $100K Leaderboard Eligible]",
     "entries": 147058
   },
-  "generatedAt": "2026-10-26T08:40:26.322Z",
+  "generatedAt": "2026-10-29T15:51:41.566Z",
   "winner": {
     "rank": 1,
     "name": "dfs_ads (15/150)",
@@ -204,11 +204,11 @@
     "assumedZero": 185
   },
   "paper": {
-    "variant": "user",
-    "lineup": 31,
-    "finish": 19486,
-    "pctile": 86.71,
-    "points": 137.06,
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 53419,
+    "pctile": 63.64,
+    "points": 120.36,
     "salary": 50000,
     "players": [
       {
@@ -223,16 +223,6 @@
       },
       {
         "slot": "RB",
-        "id": 44556952,
-        "name": "Jahmyr Gibbs",
-        "team": "DET",
-        "pos": "RB",
-        "salary": 9800,
-        "fpts": 21.3,
-        "own": 35.39
-      },
-      {
-        "slot": "RB",
         "id": 44556960,
         "name": "Christian McCaffrey",
         "team": "SF",
@@ -240,6 +230,36 @@
         "salary": 7600,
         "fpts": 22,
         "own": 38.3
+      },
+      {
+        "slot": "RB",
+        "id": 44556962,
+        "name": "Kyren Williams",
+        "team": "LAR",
+        "pos": "RB",
+        "salary": 7000,
+        "fpts": 19.1,
+        "own": 18.48
+      },
+      {
+        "slot": "WR",
+        "id": 44557502,
+        "name": "Ted Hurst III",
+        "team": "TB",
+        "pos": "WR",
+        "salary": 3000,
+        "fpts": 0,
+        "own": 19.13
+      },
+      {
+        "slot": "WR",
+        "id": 44557184,
+        "name": "Puka Nacua",
+        "team": "LAR",
+        "pos": "WR",
+        "salary": 8400,
+        "fpts": 21.8,
+        "own": 9.15
       },
       {
         "slot": "WR",
@@ -250,26 +270,6 @@
         "salary": 6000,
         "fpts": 9.9,
         "own": 39.39
-      },
-      {
-        "slot": "WR",
-        "id": 44557250,
-        "name": "Chris Godwin Jr.",
-        "team": "TB",
-        "pos": "WR",
-        "salary": 4300,
-        "fpts": 6.7,
-        "own": 14.46
-      },
-      {
-        "slot": "WR",
-        "id": 44557270,
-        "name": "Jahan Dotson",
-        "team": "ATL",
-        "pos": "WR",
-        "salary": 3700,
-        "fpts": 1.6,
-        "own": 2.13
       },
       {
         "slot": "TE",
@@ -283,23 +283,23 @@
       },
       {
         "slot": "FLEX",
-        "id": 44557576,
-        "name": "Tucker Kraft",
-        "team": "GB",
+        "id": 44557602,
+        "name": "Colby Parkinson",
+        "team": "LAR",
         "pos": "TE",
-        "salary": 4700,
-        "fpts": 14.8,
-        "own": 20.51
+        "salary": 3000,
+        "fpts": 9.8,
+        "own": 3.88
       },
       {
         "slot": "DST",
-        "id": 44557818,
-        "name": "Buccaneers",
-        "team": "TB",
+        "id": 44557804,
+        "name": "Broncos",
+        "team": "DEN",
         "pos": "DST",
-        "salary": 2200,
-        "fpts": 27,
-        "own": 4.62
+        "salary": 3300,
+        "fpts": 4,
+        "own": 3.11
       }
     ],
     "money": {
@@ -383,28 +383,30 @@
     },
     "paper": {
       "teams": {
-        "GB": 3,
+        "LAR": 3,
+        "GB": 2,
         "SF": 2,
-        "TB": 2,
-        "ATL": 1,
-        "DET": 1
+        "DEN": 1,
+        "TB": 1
       },
       "games": {
-        "GB@DET": 4,
-        "SF@ATL": 3,
-        "TB@CAR": 2
+        "LAR@LV": 3,
+        "GB@DET": 2,
+        "SF@ATL": 2,
+        "DEN@ARI": 1,
+        "TB@CAR": 1
       },
-      "nGames": 3,
+      "nGames": 5,
       "qb": {
         "team": "GB",
-        "catchers": 2,
-        "bringBack": 1
+        "catchers": 1,
+        "bringBack": 0
       },
       "rbDst": [],
       "summary": [
-        "QB GB + 2 · bring-back 1",
-        "GB 3 · SF 2 · TB 2",
-        "3 games"
+        "QB GB + 1",
+        "LAR 3 · GB 2 · SF 2",
+        "5 games"
       ]
     }
   }

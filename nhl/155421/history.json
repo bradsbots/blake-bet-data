@@ -7,7 +7,7 @@
     "label": "NHL $30K Overload [$10K to 1st]",
     "entries": 1764
   },
-  "generatedAt": "2026-10-25T14:41:20.978Z",
+  "generatedAt": "2026-10-29T15:51:41.566Z",
   "winner": {
     "rank": 1,
     "name": "papas1175",
@@ -204,32 +204,32 @@
     "assumedZero": 197
   },
   "paper": {
-    "variant": "leverage",
-    "lineup": 8,
-    "finish": 46,
-    "pctile": 97.39,
-    "points": 147,
-    "salary": 49900,
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 304,
+    "pctile": 82.77,
+    "points": 118.8,
+    "salary": 50000,
     "players": [
       {
         "slot": "C",
-        "id": 44638211,
-        "name": "Macklin Celebrini",
-        "team": "SJS",
+        "id": 44638209,
+        "name": "Connor McDavid",
+        "team": "EDM",
         "pos": "C",
-        "salary": 8600,
-        "fpts": 7.8,
-        "own": 4.88
+        "salary": 9500,
+        "fpts": 15.8,
+        "own": 34.92
       },
       {
         "slot": "C",
-        "id": 44638287,
-        "name": "Elias Lindholm",
-        "team": "BOS",
+        "id": 44638259,
+        "name": "Mason McTavish",
+        "team": "STL",
         "pos": "C",
-        "salary": 3200,
-        "fpts": 13,
-        "own": 9.58
+        "salary": 4100,
+        "fpts": 0,
+        "own": 3
       },
       {
         "slot": "W",
@@ -243,16 +243,6 @@
       },
       {
         "slot": "W",
-        "id": 44638491,
-        "name": "Alexis Lafreniere",
-        "team": "NYR",
-        "pos": "W",
-        "salary": 5900,
-        "fpts": 22,
-        "own": 3.12
-      },
-      {
-        "slot": "W",
         "id": 44638617,
         "name": "James Hagens",
         "team": "BOS",
@@ -260,6 +250,16 @@
         "salary": 2800,
         "fpts": 18,
         "own": 7.03
+      },
+      {
+        "slot": "W",
+        "id": 44638561,
+        "name": "Aydar Suniev",
+        "team": "CGY",
+        "pos": "W",
+        "salary": 3300,
+        "fpts": 1.3,
+        "own": 1.81
       },
       {
         "slot": "D",
@@ -273,33 +273,33 @@
       },
       {
         "slot": "D",
-        "id": 44638957,
-        "name": "Declan Carlile",
-        "team": "PIT",
+        "id": 44638907,
+        "name": "Vladislav Gavrikov",
+        "team": "NYR",
         "pos": "D",
-        "salary": 2900,
-        "fpts": 2.8,
-        "own": 0.28
+        "salary": 3400,
+        "fpts": 9.7,
+        "own": 1.64
       },
       {
         "slot": "G",
-        "id": 44639219,
-        "name": "Joel Hofer",
-        "team": "STL",
+        "id": 44639211,
+        "name": "Devin Cooley",
+        "team": "CGY",
         "pos": "G",
-        "salary": 7100,
-        "fpts": 13.5,
-        "own": 19.33
+        "salary": 7500,
+        "fpts": 22.1,
+        "own": 15.93
       },
       {
         "slot": "UTIL",
-        "id": 44638687,
-        "name": "Casey Mittelstadt",
-        "team": "BOS",
-        "pos": "W",
+        "id": 44638371,
+        "name": "Mark Jankowski",
+        "team": "CAR",
+        "pos": "C",
         "salary": 2500,
-        "fpts": 18,
-        "own": 2.27
+        "fpts": null,
+        "own": 0
       }
     ],
     "money": {
@@ -397,38 +397,36 @@
     },
     "paper": {
       "teams": {
-        "BOS": 3,
-        "EDM": 2,
+        "EDM": 3,
+        "CGY": 2,
+        "BOS": 1,
+        "CAR": 1,
         "NYR": 1,
-        "PIT": 1,
-        "SJS": 1,
         "STL": 1
       },
       "games": {
-        "SJS@BOS": 4,
-        "TOR@EDM": 2,
-        "CAR@STL": 1,
-        "NSH@PIT": 1,
-        "NYR@OTT": 1
+        "TOR@EDM": 3,
+        "CAR@STL": 2,
+        "DET@CGY": 2,
+        "NYR@OTT": 1,
+        "SJS@BOS": 1
       },
       "nGames": 5,
       "lines": {
-        "BOS f3": 3
+        "EDM f1": 2
       },
       "pp": {
-        "BOS pp2": 2,
-        "EDM pp1": 2
+        "EDM pp1": 3
       },
       "goalie": {
-        "team": "STL",
+        "team": "CGY",
         "opposing": 0
       },
       "summary": [
-        "BOS 3 · EDM 2",
-        "BOS f3 ×3",
-        "BOS pp2 ×2",
-        "EDM pp1 ×2",
-        "G STL",
+        "EDM 3 · CGY 2",
+        "EDM f1 ×2",
+        "EDM pp1 ×3",
+        "G CGY",
         "5 games"
       ]
     }

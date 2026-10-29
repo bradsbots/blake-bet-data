@@ -7,7 +7,7 @@
     "label": "NHL $60K Overload [$20K to 1st]",
     "entries": 3368
   },
-  "generatedAt": "2026-10-21T08:40:18.923Z",
+  "generatedAt": "2026-10-29T15:51:41.566Z",
   "winner": {
     "rank": 1,
     "name": "kashisking11",
@@ -204,23 +204,13 @@
     "assumedZero": 201
   },
   "paper": {
-    "variant": "stack",
-    "lineup": 5,
-    "finish": 587,
-    "pctile": 82.6,
-    "points": 119.6,
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 1547,
+    "pctile": 53.95,
+    "points": 100.8,
     "salary": 50000,
     "players": [
-      {
-        "slot": "C",
-        "id": 44558888,
-        "name": "Auston Matthews",
-        "team": "TOR",
-        "pos": "C",
-        "salary": 8500,
-        "fpts": 19.3,
-        "own": 4.51
-      },
       {
         "slot": "C",
         "id": 44558946,
@@ -232,14 +222,14 @@
         "own": 9.26
       },
       {
-        "slot": "W",
-        "id": 44559226,
-        "name": "Jack Roslovic",
-        "team": "TOR",
-        "pos": "W",
-        "salary": 4500,
-        "fpts": 25.8,
-        "own": 3.27
+        "slot": "C",
+        "id": 44558976,
+        "name": "Fraser Minten",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 3200,
+        "fpts": 4.5,
+        "own": 2.68
       },
       {
         "slot": "W",
@@ -253,33 +243,43 @@
       },
       {
         "slot": "W",
-        "id": 44559132,
-        "name": "Brandon Hagel",
-        "team": "TBL",
-        "pos": "W",
-        "salary": 7900,
-        "fpts": 13,
-        "own": 2.73
-      },
-      {
-        "slot": "D",
-        "id": 44559574,
-        "name": "Lane Hutson",
-        "team": "MTL",
-        "pos": "D",
-        "salary": 5600,
-        "fpts": 14.9,
-        "own": 18.32
-      },
-      {
-        "slot": "D",
-        "id": 44559594,
-        "name": "Dougie Hamilton",
+        "id": 44559432,
+        "name": "Connor Brown",
         "team": "NJD",
+        "pos": "W",
+        "salary": 2500,
+        "fpts": 6.3,
+        "own": 0.03
+      },
+      {
+        "slot": "W",
+        "id": 44559130,
+        "name": "Kirill Kaprizov",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 8200,
+        "fpts": 18,
+        "own": 7.07
+      },
+      {
+        "slot": "D",
+        "id": 44559644,
+        "name": "Damon Severson",
+        "team": "CBJ",
         "pos": "D",
-        "salary": 4500,
-        "fpts": 14.9,
-        "own": 2.41
+        "salary": 3400,
+        "fpts": 1.5,
+        "own": 2.17
+      },
+      {
+        "slot": "D",
+        "id": 44559552,
+        "name": "Evan Bouchard",
+        "team": "EDM",
+        "pos": "D",
+        "salary": 7700,
+        "fpts": 18,
+        "own": 12.86
       },
       {
         "slot": "G",
@@ -293,13 +293,13 @@
       },
       {
         "slot": "UTIL",
-        "id": 44558976,
-        "name": "Fraser Minten",
-        "team": "BOS",
+        "id": 44558884,
+        "name": "Connor McDavid",
+        "team": "EDM",
         "pos": "C",
-        "salary": 3200,
-        "fpts": 4.5,
-        "own": 2.68
+        "salary": 9200,
+        "fpts": 25.3,
+        "own": 18.02
       }
     ],
     "money": {
@@ -392,40 +392,37 @@
     },
     "paper": {
       "teams": {
-        "TOR": 3,
+        "EDM": 2,
         "BOS": 1,
-        "MTL": 1,
+        "CBJ": 1,
+        "MIN": 1,
         "NJD": 1,
         "STL": 1,
-        "TBL": 1,
+        "TOR": 1,
         "WSH": 1
       },
       "games": {
-        "TOR@CBJ": 3,
+        "MIN@EDM": 3,
+        "TOR@CBJ": 2,
         "BOS@DAL": 1,
         "COL@NJD": 1,
         "LAK@WSH": 1,
-        "SJS@MTL": 1,
-        "TBL@VGK": 1,
         "WPG@STL": 1
       },
-      "nGames": 7,
-      "lines": {
-        "TOR f1": 3
-      },
+      "nGames": 6,
+      "lines": {},
       "pp": {
-        "TOR pp2": 2
+        "EDM pp1": 2
       },
       "goalie": {
         "team": "WSH",
         "opposing": 0
       },
       "summary": [
-        "TOR 3",
-        "TOR f1 ×3",
-        "TOR pp2 ×2",
+        "EDM 2",
+        "EDM pp1 ×2",
         "G WSH",
-        "7 games"
+        "6 games"
       ]
     }
   }

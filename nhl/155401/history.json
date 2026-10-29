@@ -7,7 +7,7 @@
     "label": "NHL $30K Kick Save [$10K to 1st]",
     "entries": 2352
   },
-  "generatedAt": "2026-10-22T08:40:20.975Z",
+  "generatedAt": "2026-10-29T15:51:41.566Z",
   "winner": {
     "rank": 1,
     "name": "OneDropKing (53/70)",
@@ -205,101 +205,101 @@
   },
   "paper": {
     "variant": "defaults",
-    "lineup": 2,
-    "finish": 737,
-    "pctile": 68.45,
-    "points": 80.4,
-    "salary": 49500,
+    "lineup": 1,
+    "finish": 1028,
+    "pctile": 56.16,
+    "points": 75.2,
+    "salary": 49200,
     "players": [
       {
         "slot": "C",
-        "id": 44576023,
-        "name": "Sam Reinhart",
-        "team": "FLA",
+        "id": 44576025,
+        "name": "Tim Stuetzle",
+        "team": "OTT",
         "pos": "C",
-        "salary": 7000,
-        "fpts": 0,
-        "own": 30.62
+        "salary": 6800,
+        "fpts": 16.3,
+        "own": 40.6
       },
       {
         "slot": "C",
-        "id": 44576061,
-        "name": "Ridly Greig",
-        "team": "OTT",
+        "id": 44576037,
+        "name": "Noah Ostlund",
+        "team": "BUF",
         "pos": "C",
-        "salary": 2500,
-        "fpts": 1.5,
-        "own": 5.27
+        "salary": 3500,
+        "fpts": 9.5,
+        "own": 24.7
       },
       {
         "slot": "W",
-        "id": 44576065,
-        "name": "Brady Tkachuk",
-        "team": "FLA",
+        "id": 44576067,
+        "name": "Tage Thompson",
+        "team": "BUF",
         "pos": "W",
-        "salary": 7700,
-        "fpts": 13,
-        "own": 43.75
+        "salary": 7600,
+        "fpts": 4.5,
+        "own": 55.74
       },
       {
         "slot": "W",
-        "id": 44576069,
-        "name": "Matthew Tkachuk",
-        "team": "FLA",
+        "id": 44576073,
+        "name": "Jack Quinn",
+        "team": "BUF",
         "pos": "W",
-        "salary": 7500,
-        "fpts": 8,
-        "own": 29.34
+        "salary": 5500,
+        "fpts": 11,
+        "own": 32.66
       },
       {
         "slot": "W",
-        "id": 44576087,
-        "name": "Matvei Michkov",
-        "team": "PHI",
-        "pos": "W",
-        "salary": 4100,
-        "fpts": 8,
-        "own": 25.21
-      },
-      {
-        "slot": "D",
-        "id": 44576157,
-        "name": "Jake Sanderson",
+        "id": 44576101,
+        "name": "Claude Giroux",
         "team": "OTT",
-        "pos": "D",
-        "salary": 6200,
-        "fpts": 17.3,
-        "own": 43.84
+        "pos": "W",
+        "salary": 3000,
+        "fpts": 11.5,
+        "own": 10.59
       },
       {
         "slot": "D",
-        "id": 44576165,
-        "name": "Travis Sanheim",
-        "team": "PHI",
+        "id": 44576155,
+        "name": "Rasmus Dahlin",
+        "team": "BUF",
         "pos": "D",
-        "salary": 4400,
-        "fpts": 1.5,
-        "own": 14.16
+        "salary": 6400,
+        "fpts": 6,
+        "own": 51.14
+      },
+      {
+        "slot": "D",
+        "id": 44576161,
+        "name": "Seth Jones",
+        "team": "FLA",
+        "pos": "D",
+        "salary": 5000,
+        "fpts": 10.8,
+        "own": 24.45
       },
       {
         "slot": "G",
-        "id": 44576234,
-        "name": "Dan Vladar",
-        "team": "PHI",
+        "id": 44576227,
+        "name": "Ukko-Pekka Luukkonen",
+        "team": "BUF",
         "pos": "G",
-        "salary": 7200,
-        "fpts": 21.4,
-        "own": 19.05
+        "salary": 8200,
+        "fpts": 5.6,
+        "own": 31.76
       },
       {
         "slot": "UTIL",
-        "id": 44576189,
-        "name": "Tyler Kleven",
+        "id": 44576183,
+        "name": "Artem Zub",
         "team": "OTT",
         "pos": "D",
-        "salary": 2900,
-        "fpts": 9.7,
-        "own": 3.7
+        "salary": 3200,
+        "fpts": 0,
+        "own": 9.01
       }
     ],
     "money": {
@@ -376,30 +376,32 @@
     },
     "paper": {
       "teams": {
-        "FLA": 3,
+        "BUF": 5,
         "OTT": 3,
-        "PHI": 3
+        "FLA": 1
       },
       "games": {
-        "FLA@OTT": 6,
-        "PHI@BUF": 3
+        "PHI@BUF": 5,
+        "FLA@OTT": 4
       },
       "nGames": 2,
       "lines": {
-        "FLA f1": 2
+        "BUF f2": 2,
+        "OTT f1": 2
       },
       "pp": {
-        "FLA pp1": 3
+        "BUF pp1": 4
       },
       "goalie": {
-        "team": "PHI",
+        "team": "BUF",
         "opposing": 0
       },
       "summary": [
-        "FLA 3 · OTT 3 · PHI 3",
-        "FLA f1 ×2",
-        "FLA pp1 ×3",
-        "G PHI",
+        "BUF 5 · OTT 3",
+        "BUF f2 ×2",
+        "OTT f1 ×2",
+        "BUF pp1 ×4",
+        "G BUF",
         "2 games"
       ]
     }

@@ -7,7 +7,7 @@
     "label": "NFL $2.75M Fantasy Football Millionaire [$1M to 1st, $100K Leaderboard Eligible]",
     "entries": 158904
   },
-  "generatedAt": "2026-10-22T23:30:15.960Z",
+  "generatedAt": "2026-10-29T15:51:41.566Z",
   "winner": {
     "rank": 1,
     "name": "CMACXIMUS (2/17)",
@@ -204,102 +204,102 @@
     "assumedZero": 187
   },
   "paper": {
-    "variant": "user",
-    "lineup": 11,
-    "finish": 3418,
-    "pctile": 97.85,
-    "points": 166.82,
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 39521,
+    "pctile": 75.1,
+    "points": 138.68,
     "salary": 50000,
     "players": [
       {
         "slot": "QB",
-        "id": 44475679,
-        "name": "Kirk Cousins",
-        "team": "LV",
+        "id": 44475672,
+        "name": "Matthew Stafford",
+        "team": "LAR",
         "pos": "QB",
-        "salary": 5400,
-        "fpts": 22.52,
-        "own": 9.85
+        "salary": 6400,
+        "fpts": 16.88,
+        "own": 16.1
       },
       {
         "slot": "RB",
-        "id": 44475744,
-        "name": "James Cook III",
-        "team": "BUF",
+        "id": 44475756,
+        "name": "Chuba Hubbard",
+        "team": "CAR",
         "pos": "RB",
-        "salary": 7400,
-        "fpts": 24.3,
-        "own": 17.66
+        "salary": 6300,
+        "fpts": 22.1,
+        "own": 18.23
       },
       {
         "slot": "RB",
-        "id": 44475784,
-        "name": "Dameon Pierce",
-        "team": "PHI",
+        "id": 44475748,
+        "name": "Kyren Williams",
+        "team": "LAR",
         "pos": "RB",
-        "salary": 5100,
-        "fpts": 15,
-        "own": 8.81
+        "salary": 6800,
+        "fpts": 9.7,
+        "own": 25.12
       },
       {
         "slot": "WR",
-        "id": 44475990,
-        "name": "Malik Nabers",
-        "team": "NYG",
+        "id": 44475980,
+        "name": "Drake London",
+        "team": "ATL",
         "pos": "WR",
-        "salary": 6500,
-        "fpts": 31.5,
-        "own": 24.02
+        "salary": 7000,
+        "fpts": 12.2,
+        "own": 27.06
       },
       {
         "slot": "WR",
-        "id": 44476034,
-        "name": "Xavier Worthy",
-        "team": "KC",
+        "id": 44476058,
+        "name": "Germie Bernard",
+        "team": "PIT",
         "pos": "WR",
-        "salary": 4600,
-        "fpts": 14.3,
-        "own": 21.26
+        "salary": 4000,
+        "fpts": 25.7,
+        "own": 21.15
       },
       {
         "slot": "WR",
-        "id": 44476044,
-        "name": "Keenan Allen",
-        "team": "IND",
+        "id": 44475972,
+        "name": "Puka Nacua",
+        "team": "LAR",
         "pos": "WR",
-        "salary": 4300,
-        "fpts": 16.2,
-        "own": 11.86
+        "salary": 8100,
+        "fpts": 14,
+        "own": 41.66
       },
       {
         "slot": "TE",
-        "id": 44476348,
-        "name": "Brock Bowers",
-        "team": "LV",
+        "id": 44476358,
+        "name": "Isaiah Likely",
+        "team": "NYG",
         "pos": "TE",
-        "salary": 7500,
-        "fpts": 11,
-        "own": 19.44
+        "salary": 4800,
+        "fpts": 23.9,
+        "own": 35.12
       },
       {
         "slot": "FLEX",
-        "id": 44475750,
-        "name": "D'Andre Swift",
-        "team": "CHI",
-        "pos": "RB",
-        "salary": 6700,
-        "fpts": 23,
-        "own": 10.11
+        "id": 44476382,
+        "name": "Tyler Higbee",
+        "team": "LAR",
+        "pos": "TE",
+        "salary": 3400,
+        "fpts": 5.2,
+        "own": 14.85
       },
       {
         "slot": "DST",
-        "id": 44476600,
-        "name": "Browns",
-        "team": "CLE",
+        "id": 44476591,
+        "name": "Ravens",
+        "team": "BAL",
         "pos": "DST",
-        "salary": 2500,
+        "salary": 3200,
         "fpts": 9,
-        "own": 8.17
+        "own": 4.94
       }
     ],
     "money": {
@@ -378,35 +378,32 @@
     },
     "paper": {
       "teams": {
-        "LV": 2,
-        "BUF": 1,
-        "CHI": 1,
-        "CLE": 1,
-        "IND": 1,
-        "KC": 1,
+        "LAR": 4,
+        "ATL": 1,
+        "BAL": 1,
+        "CAR": 1,
         "NYG": 1,
-        "PHI": 1
+        "PIT": 1
       },
       "games": {
-        "BUF@LV": 3,
+        "ARI@LAR": 4,
         "BAL@CLE": 1,
         "CAR@PHI": 1,
         "CHI@ATL": 1,
-        "LAC@KC": 1,
         "NO@NYG": 1,
-        "TEN@IND": 1
+        "PIT@TB": 1
       },
-      "nGames": 7,
+      "nGames": 6,
       "qb": {
-        "team": "LV",
-        "catchers": 1,
-        "bringBack": 1
+        "team": "LAR",
+        "catchers": 2,
+        "bringBack": 0
       },
       "rbDst": [],
       "summary": [
-        "QB LV + 1 · bring-back 1",
-        "LV 2",
-        "7 games"
+        "QB LAR + 2",
+        "LAR 4",
+        "6 games"
       ]
     }
   }

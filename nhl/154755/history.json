@@ -7,7 +7,7 @@
     "label": "NHL $60K Kick Save [$20K to 1st]",
     "entries": 4507
   },
-  "generatedAt": "2026-10-20T20:47:02.018Z",
+  "generatedAt": "2026-10-29T15:51:41.566Z",
   "winner": {
     "rank": 1,
     "name": "tommienation1 (29/100)",
@@ -204,11 +204,11 @@
     "assumedZero": 16
   },
   "paper": {
-    "variant": "stack",
-    "lineup": 4,
-    "finish": 30,
-    "pctile": 99.36,
-    "points": 156.7,
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 845,
+    "pctile": 81.18,
+    "points": 129.8,
     "salary": 50000,
     "players": [
       {
@@ -223,33 +223,23 @@
       },
       {
         "slot": "C",
-        "id": 44529375,
-        "name": "Fraser Minten",
-        "team": "BOS",
+        "id": 44529357,
+        "name": "Leo Carlsson",
+        "team": "ANA",
         "pos": "C",
-        "salary": 3000,
-        "fpts": 3,
-        "own": 24.63
+        "salary": 6900,
+        "fpts": 2.8,
+        "own": 23.74
       },
       {
         "slot": "W",
-        "id": 44529411,
-        "name": "Nazem Kadri",
+        "id": 44529427,
+        "name": "Jaden Schwartz",
         "team": "COL",
         "pos": "W",
-        "salary": 5200,
-        "fpts": 11,
-        "own": 28.47
-      },
-      {
-        "slot": "W",
-        "id": 44529413,
-        "name": "Artturi Lehkonen",
-        "team": "COL",
-        "pos": "W",
-        "salary": 5000,
-        "fpts": 21.5,
-        "own": 15.42
+        "salary": 3300,
+        "fpts": 2.8,
+        "own": 18.97
       },
       {
         "slot": "W",
@@ -260,6 +250,16 @@
         "salary": 7800,
         "fpts": 20.8,
         "own": 37.29
+      },
+      {
+        "slot": "W",
+        "id": 44529401,
+        "name": "Beckett Sennecke",
+        "team": "ANA",
+        "pos": "W",
+        "salary": 6400,
+        "fpts": 10,
+        "own": 25.98
       },
       {
         "slot": "D",
@@ -293,13 +293,13 @@
       },
       {
         "slot": "UTIL",
-        "id": 44529401,
-        "name": "Beckett Sennecke",
-        "team": "ANA",
-        "pos": "W",
-        "salary": 6400,
-        "fpts": 10,
-        "own": 25.98
+        "id": 44529375,
+        "name": "Fraser Minten",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 3000,
+        "fpts": 3,
+        "own": 24.63
       }
     ],
     "money": {
@@ -384,19 +384,18 @@
     },
     "paper": {
       "teams": {
-        "COL": 5,
+        "COL": 4,
         "BOS": 3,
-        "ANA": 1
+        "ANA": 2
       },
       "games": {
-        "PIT@COL": 5,
-        "BOS@ANA": 4
+        "BOS@ANA": 5,
+        "PIT@COL": 4
       },
       "nGames": 2,
-      "lines": {
-        "COL f1": 2
-      },
+      "lines": {},
       "pp": {
+        "ANA pp1": 2,
         "BOS pp2": 2,
         "COL pp1": 2
       },
@@ -405,8 +404,8 @@
         "opposing": 0
       },
       "summary": [
-        "COL 5 · BOS 3",
-        "COL f1 ×2",
+        "COL 4 · BOS 3 · ANA 2",
+        "ANA pp1 ×2",
         "BOS pp2 ×2",
         "COL pp1 ×2",
         "G COL",
