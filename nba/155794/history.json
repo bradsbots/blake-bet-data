@@ -1,0 +1,358 @@
+{
+  "sport": "nba",
+  "slate": "155794",
+  "date": "2026-10-28",
+  "contest": {
+    "id": 197238850,
+    "label": "NBA $333K Zone Special [$100K to 1st]",
+    "entries": 79270
+  },
+  "generatedAt": "2026-10-29T08:40:16.445Z",
+  "winner": {
+    "rank": 1,
+    "name": "phd_aggie (118/150)",
+    "points": 360.75,
+    "salary": 49800,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44688719,
+        "name": "Jalen Brunson",
+        "team": "NYK",
+        "pos": "PG",
+        "salary": 8100,
+        "fpts": 55.75,
+        "own": 8.01
+      },
+      {
+        "slot": "SG",
+        "id": 44688895,
+        "name": "Andrew Nembhard",
+        "team": "IND",
+        "pos": "PG",
+        "salary": 5800,
+        "fpts": 42.75,
+        "own": 30.92
+      },
+      {
+        "slot": "SF",
+        "id": 44688706,
+        "name": "Scottie Barnes",
+        "team": "TOR",
+        "pos": "SF",
+        "salary": 8300,
+        "fpts": 50.5,
+        "own": 10.81
+      },
+      {
+        "slot": "PF",
+        "id": 44688841,
+        "name": "Aaron Gordon",
+        "team": "DEN",
+        "pos": "PF",
+        "salary": 6200,
+        "fpts": 37.75,
+        "own": 0.59
+      },
+      {
+        "slot": "C",
+        "id": 44689375,
+        "name": "Clint Capela",
+        "team": "HOU",
+        "pos": "C",
+        "salary": 3100,
+        "fpts": 32,
+        "own": 29.33
+      },
+      {
+        "slot": "G",
+        "id": 44688722,
+        "name": "Stephen Curry",
+        "team": "GSW",
+        "pos": "PG",
+        "salary": 8000,
+        "fpts": 69,
+        "own": 1.43
+      },
+      {
+        "slot": "F",
+        "id": 44688975,
+        "name": "Jonathan Kuminga",
+        "team": "MIN",
+        "pos": "PF",
+        "salary": 5100,
+        "fpts": 36.75,
+        "own": 18.64
+      },
+      {
+        "slot": "UTIL",
+        "id": 44688966,
+        "name": "Ayo Dosunmu",
+        "team": "MIN",
+        "pos": "SG",
+        "salary": 5200,
+        "fpts": 36.25,
+        "own": 42.22
+      }
+    ]
+  },
+  "optimal": {
+    "points": 394.75,
+    "salary": 49700,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44689268,
+        "name": "Kingston Flemings",
+        "team": "ATL",
+        "pos": "PG",
+        "salary": 3500,
+        "fpts": 41.25,
+        "own": 0.21
+      },
+      {
+        "slot": "SG",
+        "id": 44688777,
+        "name": "RJ Barrett",
+        "team": "TOR",
+        "pos": "SG",
+        "salary": 7100,
+        "fpts": 48.75,
+        "own": 4.65
+      },
+      {
+        "slot": "SF",
+        "id": 44689093,
+        "name": "Pelle Larsson",
+        "team": "MIA",
+        "pos": "SG",
+        "salary": 4300,
+        "fpts": 38.5,
+        "own": 6.5
+      },
+      {
+        "slot": "PF",
+        "id": 44688706,
+        "name": "Scottie Barnes",
+        "team": "TOR",
+        "pos": "SF",
+        "salary": 8300,
+        "fpts": 50.5,
+        "own": 10.81
+      },
+      {
+        "slot": "C",
+        "id": 44688961,
+        "name": "Jalen Smith",
+        "team": "CHI",
+        "pos": "C",
+        "salary": 5200,
+        "fpts": 47.25,
+        "own": 0.71
+      },
+      {
+        "slot": "G",
+        "id": 44688921,
+        "name": "Fred VanVleet",
+        "team": "HOU",
+        "pos": "PG",
+        "salary": 5500,
+        "fpts": 43.5,
+        "own": 11.86
+      },
+      {
+        "slot": "F",
+        "id": 44688728,
+        "name": "Brandon Miller",
+        "team": "CHA",
+        "pos": "SF",
+        "salary": 7800,
+        "fpts": 56,
+        "own": 4.96
+      },
+      {
+        "slot": "UTIL",
+        "id": 44688722,
+        "name": "Stephen Curry",
+        "team": "GSW",
+        "pos": "PG",
+        "salary": 8000,
+        "fpts": 69,
+        "own": 1.43
+      }
+    ],
+    "assumedZero": 56
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 2,
+    "finish": 14212,
+    "pctile": 81.78,
+    "points": 282.5,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44688921,
+        "name": "Fred VanVleet",
+        "team": "HOU",
+        "pos": "PG",
+        "salary": 5500,
+        "fpts": 43.5,
+        "own": 11.86
+      },
+      {
+        "slot": "SG",
+        "id": 44688829,
+        "name": "Josh Hart",
+        "team": "NYK",
+        "pos": "SG",
+        "salary": 6300,
+        "fpts": 17.5,
+        "own": 4.92
+      },
+      {
+        "slot": "SF",
+        "id": 44689037,
+        "name": "Tari Eason",
+        "team": "HOU",
+        "pos": "SF",
+        "salary": 4600,
+        "fpts": 24.75,
+        "own": 39.37
+      },
+      {
+        "slot": "PF",
+        "id": 44688758,
+        "name": "LeBron James",
+        "team": "PHI",
+        "pos": "PF",
+        "salary": 7400,
+        "fpts": 42.75,
+        "own": 4.36
+      },
+      {
+        "slot": "C",
+        "id": 44689375,
+        "name": "Clint Capela",
+        "team": "HOU",
+        "pos": "C",
+        "salary": 3100,
+        "fpts": 32,
+        "own": 29.33
+      },
+      {
+        "slot": "G",
+        "id": 44688780,
+        "name": "Amen Thompson",
+        "team": "HOU",
+        "pos": "PG",
+        "salary": 7000,
+        "fpts": 34,
+        "own": 27.19
+      },
+      {
+        "slot": "F",
+        "id": 44688666,
+        "name": "Giannis Antetokounmpo",
+        "team": "MIA",
+        "pos": "PF",
+        "salary": 10200,
+        "fpts": 55.5,
+        "own": 31.71
+      },
+      {
+        "slot": "UTIL",
+        "id": 44688883,
+        "name": "OG Anunoby",
+        "team": "NYK",
+        "pos": "PF",
+        "salary": 5900,
+        "fpts": 32.5,
+        "own": 14.1
+      }
+    ],
+    "money": {
+      "fee": 5,
+      "one": {
+        "won": 0,
+        "net": -5
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 85,
+        "net": -15,
+        "cashed": 8
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "MIN": 2,
+        "DEN": 1,
+        "GSW": 1,
+        "HOU": 1,
+        "IND": 1,
+        "NYK": 1,
+        "TOR": 1
+      },
+      "games": {
+        "GSW@MIN": 3,
+        "DEN@NOP": 1,
+        "HOU@MIL": 1,
+        "NYK@CHI": 1,
+        "ORL@TOR": 1,
+        "PHI@IND": 1
+      },
+      "nGames": 6,
+      "summary": [
+        "MIN 2",
+        "6 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "TOR": 2,
+        "ATL": 1,
+        "CHA": 1,
+        "CHI": 1,
+        "GSW": 1,
+        "HOU": 1,
+        "MIA": 1
+      },
+      "games": {
+        "MIA@ATL": 2,
+        "ORL@TOR": 2,
+        "CHA@DET": 1,
+        "GSW@MIN": 1,
+        "HOU@MIL": 1,
+        "NYK@CHI": 1
+      },
+      "nGames": 6,
+      "summary": [
+        "TOR 2",
+        "6 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "HOU": 4,
+        "NYK": 2,
+        "MIA": 1,
+        "PHI": 1
+      },
+      "games": {
+        "HOU@MIL": 4,
+        "NYK@CHI": 2,
+        "MIA@ATL": 1,
+        "PHI@IND": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "HOU 4 · NYK 2",
+        "4 games"
+      ]
+    }
+  }
+}
