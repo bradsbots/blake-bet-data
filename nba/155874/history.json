@@ -1,0 +1,347 @@
+{
+  "sport": "nba",
+  "slate": "155874",
+  "date": "2026-10-29",
+  "contest": {
+    "id": 197274322,
+    "label": "NBA $200K Fadeaway [$50K to 1st]",
+    "entries": 15659
+  },
+  "generatedAt": "2026-10-30T08:40:14.633Z",
+  "winner": {
+    "rank": 1,
+    "name": "saheb747",
+    "points": 392,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44701535,
+        "name": "Jeremiah Fears",
+        "team": "NOP",
+        "pos": "PG",
+        "salary": 5000,
+        "fpts": 65,
+        "own": 57.61
+      },
+      {
+        "slot": "SG",
+        "id": 44701539,
+        "name": "Aaron Wiggins",
+        "team": "ATL",
+        "pos": "SG",
+        "salary": 4900,
+        "fpts": 36.75,
+        "own": 12.09
+      },
+      {
+        "slot": "SF",
+        "id": 44701471,
+        "name": "Zach LaVine",
+        "team": "SAC",
+        "pos": "SG",
+        "salary": 6600,
+        "fpts": 40.25,
+        "own": 36.87
+      },
+      {
+        "slot": "PF",
+        "id": 44701445,
+        "name": "Zion Williamson",
+        "team": "NOP",
+        "pos": "PF",
+        "salary": 7500,
+        "fpts": 43,
+        "own": 14.85
+      },
+      {
+        "slot": "C",
+        "id": 44701514,
+        "name": "Onyeka Okongwu",
+        "team": "ATL",
+        "pos": "C",
+        "salary": 5600,
+        "fpts": 54,
+        "own": 22.14
+      },
+      {
+        "slot": "G",
+        "id": 44701459,
+        "name": "Darius Acuff Jr.",
+        "team": "SAC",
+        "pos": "PG",
+        "salary": 7100,
+        "fpts": 62.5,
+        "own": 35.84
+      },
+      {
+        "slot": "F",
+        "id": 44701456,
+        "name": "Cameron Boozer",
+        "team": "MEM",
+        "pos": "PF",
+        "salary": 7200,
+        "fpts": 56.5,
+        "own": 29.15
+      },
+      {
+        "slot": "UTIL",
+        "id": 44701492,
+        "name": "Donovan Clingan",
+        "team": "POR",
+        "pos": "C",
+        "salary": 6100,
+        "fpts": 34,
+        "own": 35.38
+      }
+    ]
+  },
+  "optimal": {
+    "points": 408.5,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44701535,
+        "name": "Jeremiah Fears",
+        "team": "NOP",
+        "pos": "PG",
+        "salary": 5000,
+        "fpts": 65,
+        "own": 57.61
+      },
+      {
+        "slot": "SG",
+        "id": 44701539,
+        "name": "Aaron Wiggins",
+        "team": "ATL",
+        "pos": "SG",
+        "salary": 4900,
+        "fpts": 36.75,
+        "own": 12.09
+      },
+      {
+        "slot": "SF",
+        "id": 44701471,
+        "name": "Zach LaVine",
+        "team": "SAC",
+        "pos": "SG",
+        "salary": 6600,
+        "fpts": 40.25,
+        "own": 36.87
+      },
+      {
+        "slot": "PF",
+        "id": 44701504,
+        "name": "Precious Achiuwa",
+        "team": "SAC",
+        "pos": "PF",
+        "salary": 5800,
+        "fpts": 45.75,
+        "own": 6.45
+      },
+      {
+        "slot": "C",
+        "id": 44701514,
+        "name": "Onyeka Okongwu",
+        "team": "ATL",
+        "pos": "C",
+        "salary": 5600,
+        "fpts": 54,
+        "own": 22.14
+      },
+      {
+        "slot": "G",
+        "id": 44701459,
+        "name": "Darius Acuff Jr.",
+        "team": "SAC",
+        "pos": "PG",
+        "salary": 7100,
+        "fpts": 62.5,
+        "own": 35.84
+      },
+      {
+        "slot": "F",
+        "id": 44701456,
+        "name": "Cameron Boozer",
+        "team": "MEM",
+        "pos": "PF",
+        "salary": 7200,
+        "fpts": 56.5,
+        "own": 29.15
+      },
+      {
+        "slot": "UTIL",
+        "id": 44701439,
+        "name": "Deni Avdija",
+        "team": "POR",
+        "pos": "PF",
+        "salary": 7800,
+        "fpts": 47.75,
+        "own": 43.19
+      }
+    ],
+    "assumedZero": 25
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 12775,
+    "pctile": 18.23,
+    "points": 232,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44701476,
+        "name": "Dyson Daniels",
+        "team": "ATL",
+        "pos": "PG",
+        "salary": 6500,
+        "fpts": 21,
+        "own": 10.56
+      },
+      {
+        "slot": "SG",
+        "id": 44701530,
+        "name": "Jrue Holiday",
+        "team": "POR",
+        "pos": "SG",
+        "salary": 5100,
+        "fpts": 21.5,
+        "own": 31.83
+      },
+      {
+        "slot": "SF",
+        "id": 44701471,
+        "name": "Zach LaVine",
+        "team": "SAC",
+        "pos": "SG",
+        "salary": 6600,
+        "fpts": 40.25,
+        "own": 36.87
+      },
+      {
+        "slot": "PF",
+        "id": 44701519,
+        "name": "Peyton Watson",
+        "team": "CLE",
+        "pos": "SF",
+        "salary": 5500,
+        "fpts": 16.5,
+        "own": 30.57
+      },
+      {
+        "slot": "C",
+        "id": 44701498,
+        "name": "Jarrett Allen",
+        "team": "CLE",
+        "pos": "C",
+        "salary": 6000,
+        "fpts": 29.5,
+        "own": 16.2
+      },
+      {
+        "slot": "G",
+        "id": 44701481,
+        "name": "Ja Morant",
+        "team": "POR",
+        "pos": "PG",
+        "salary": 6400,
+        "fpts": 21.5,
+        "own": 35.11
+      },
+      {
+        "slot": "F",
+        "id": 44701439,
+        "name": "Deni Avdija",
+        "team": "POR",
+        "pos": "PF",
+        "salary": 7800,
+        "fpts": 47.75,
+        "own": 43.19
+      },
+      {
+        "slot": "UTIL",
+        "id": 44701492,
+        "name": "Donovan Clingan",
+        "team": "POR",
+        "pos": "C",
+        "salary": 6100,
+        "fpts": 34,
+        "own": 35.38
+      }
+    ],
+    "money": {
+      "fee": 15,
+      "one": {
+        "won": 0,
+        "net": -15
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 165,
+        "net": -135,
+        "cashed": 6
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "ATL": 2,
+        "NOP": 2,
+        "SAC": 2,
+        "MEM": 1,
+        "POR": 1
+      },
+      "games": {
+        "SAC@NOP": 4,
+        "CLE@ATL": 2,
+        "MEM@POR": 2
+      },
+      "nGames": 3,
+      "summary": [
+        "ATL 2 · NOP 2 · SAC 2",
+        "3 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "SAC": 3,
+        "ATL": 2,
+        "MEM": 1,
+        "NOP": 1,
+        "POR": 1
+      },
+      "games": {
+        "SAC@NOP": 4,
+        "CLE@ATL": 2,
+        "MEM@POR": 2
+      },
+      "nGames": 3,
+      "summary": [
+        "SAC 3 · ATL 2",
+        "3 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "POR": 4,
+        "CLE": 2,
+        "ATL": 1,
+        "SAC": 1
+      },
+      "games": {
+        "MEM@POR": 4,
+        "CLE@ATL": 3,
+        "SAC@NOP": 1
+      },
+      "nGames": 3,
+      "summary": [
+        "POR 4 · CLE 2",
+        "3 games"
+      ]
+    }
+  }
+}
