@@ -1,0 +1,429 @@
+{
+  "sport": "nhl",
+  "slate": "155816",
+  "date": "2026-10-29",
+  "contest": {
+    "id": 197248598,
+    "label": "NHL $40K Overload [$10K to 1st]",
+    "entries": 2352
+  },
+  "generatedAt": "2026-10-30T08:40:24.420Z",
+  "winner": {
+    "rank": 1,
+    "name": "pujolsjunkie (43/50)",
+    "points": 218.8,
+    "salary": 49600,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44703033,
+        "name": "Tage Thompson",
+        "team": "BUF",
+        "pos": "C",
+        "salary": 7900,
+        "fpts": 47.5,
+        "own": 10.8
+      },
+      {
+        "slot": "C",
+        "id": 44703099,
+        "name": "Noah Ostlund",
+        "team": "BUF",
+        "pos": "C",
+        "salary": 3700,
+        "fpts": 19,
+        "own": 4.59
+      },
+      {
+        "slot": "W",
+        "id": 44703279,
+        "name": "Alex DeBrincat",
+        "team": "DET",
+        "pos": "W",
+        "salary": 7800,
+        "fpts": 16,
+        "own": 10.97
+      },
+      {
+        "slot": "W",
+        "id": 44703307,
+        "name": "Viktor Arvidsson",
+        "team": "DET",
+        "pos": "W",
+        "salary": 6300,
+        "fpts": 48.5,
+        "own": 8.21
+      },
+      {
+        "slot": "W",
+        "id": 44703661,
+        "name": "Peyton Krebs",
+        "team": "BUF",
+        "pos": "W",
+        "salary": 2500,
+        "fpts": 19.5,
+        "own": 1.2
+      },
+      {
+        "slot": "D",
+        "id": 44703717,
+        "name": "Rasmus Dahlin",
+        "team": "BUF",
+        "pos": "D",
+        "salary": 6500,
+        "fpts": 16,
+        "own": 11.26
+      },
+      {
+        "slot": "D",
+        "id": 44703929,
+        "name": "Brandon Carlo",
+        "team": "STL",
+        "pos": "D",
+        "salary": 2500,
+        "fpts": 9.9,
+        "own": 0.51
+      },
+      {
+        "slot": "G",
+        "id": 44704109,
+        "name": "John Gibson",
+        "team": "DET",
+        "pos": "G",
+        "salary": 8100,
+        "fpts": 15.1,
+        "own": 0.85
+      },
+      {
+        "slot": "UTIL",
+        "id": 44703365,
+        "name": "Zach Benson",
+        "team": "BUF",
+        "pos": "W",
+        "salary": 4300,
+        "fpts": 27.3,
+        "own": 10.17
+      }
+    ]
+  },
+  "optimal": {
+    "points": 313.3,
+    "salary": 48200,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44703033,
+        "name": "Tage Thompson",
+        "team": "BUF",
+        "pos": "C",
+        "salary": 7900,
+        "fpts": 47.5,
+        "own": 10.8
+      },
+      {
+        "slot": "C",
+        "id": 44703085,
+        "name": "Dylan Cozens",
+        "team": "OTT",
+        "pos": "C",
+        "salary": 4200,
+        "fpts": 28,
+        "own": 2.9
+      },
+      {
+        "slot": "W",
+        "id": 44703353,
+        "name": "Logan Cooley",
+        "team": "UTA",
+        "pos": "W",
+        "salary": 4600,
+        "fpts": 43.3,
+        "own": 4.89
+      },
+      {
+        "slot": "W",
+        "id": 44703615,
+        "name": "Pontus Holmberg",
+        "team": "TBL",
+        "pos": "W",
+        "salary": 2500,
+        "fpts": 29.3,
+        "own": 0.6
+      },
+      {
+        "slot": "W",
+        "id": 44703307,
+        "name": "Viktor Arvidsson",
+        "team": "DET",
+        "pos": "W",
+        "salary": 6300,
+        "fpts": 48.5,
+        "own": 8.21
+      },
+      {
+        "slot": "D",
+        "id": 44703711,
+        "name": "Matthew Schaefer",
+        "team": "NYI",
+        "pos": "D",
+        "salary": 7000,
+        "fpts": 39.6,
+        "own": 3.53
+      },
+      {
+        "slot": "D",
+        "id": 44703775,
+        "name": "Philip Broberg",
+        "team": "STL",
+        "pos": "D",
+        "salary": 3800,
+        "fpts": 25.6,
+        "own": 6.33
+      },
+      {
+        "slot": "G",
+        "id": 44704127,
+        "name": "Joel Hofer",
+        "team": "STL",
+        "pos": "G",
+        "salary": 7600,
+        "fpts": 24.2,
+        "own": 4.17
+      },
+      {
+        "slot": "UTIL",
+        "id": 44703365,
+        "name": "Zach Benson",
+        "team": "BUF",
+        "pos": "W",
+        "salary": 4300,
+        "fpts": 27.3,
+        "own": 10.17
+      }
+    ],
+    "assumedZero": 230
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 1457,
+    "pctile": 38.01,
+    "points": 89.9,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44703063,
+        "name": "Ryan O'Reilly",
+        "team": "NSH",
+        "pos": "C",
+        "salary": 5500,
+        "fpts": 5,
+        "own": 8.04
+      },
+      {
+        "slot": "C",
+        "id": 44703089,
+        "name": "Mason McTavish",
+        "team": "STL",
+        "pos": "C",
+        "salary": 4100,
+        "fpts": 11.8,
+        "own": 3.23
+      },
+      {
+        "slot": "W",
+        "id": 44703285,
+        "name": "Brandon Hagel",
+        "team": "TBL",
+        "pos": "W",
+        "salary": 7300,
+        "fpts": 33.3,
+        "own": 8.51
+      },
+      {
+        "slot": "W",
+        "id": 44703267,
+        "name": "Kirill Kaprizov",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 8800,
+        "fpts": 9.5,
+        "own": 13.09
+      },
+      {
+        "slot": "W",
+        "id": 44703445,
+        "name": "James Hagens",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 3000,
+        "fpts": 11.5,
+        "own": 0.85
+      },
+      {
+        "slot": "D",
+        "id": 44703745,
+        "name": "MacKenzie Weegar",
+        "team": "UTA",
+        "pos": "D",
+        "salary": 5000,
+        "fpts": 2.8,
+        "own": 3.15
+      },
+      {
+        "slot": "D",
+        "id": 44703731,
+        "name": "Brandt Clarke",
+        "team": "LAK",
+        "pos": "D",
+        "salary": 5700,
+        "fpts": 5,
+        "own": 2.63
+      },
+      {
+        "slot": "G",
+        "id": 44704141,
+        "name": "Spencer Knight",
+        "team": "CHI",
+        "pos": "G",
+        "salary": 7300,
+        "fpts": 8.4,
+        "own": 15.14
+      },
+      {
+        "slot": "UTIL",
+        "id": 44703113,
+        "name": "Fraser Minten",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 3300,
+        "fpts": 2.6,
+        "own": 1.41
+      }
+    ],
+    "money": {
+      "fee": 20,
+      "one": {
+        "won": 0,
+        "net": -20
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 60,
+        "net": -340,
+        "cashed": 2
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "BUF": 5,
+        "DET": 3,
+        "STL": 1
+      },
+      "games": {
+        "BUF@ANA": 5,
+        "CHI@DET": 3,
+        "BOS@STL": 1
+      },
+      "nGames": 3,
+      "lines": {
+        "BUF f1": 3,
+        "DET f1": 2
+      },
+      "pp": {
+        "BUF pp1": 4,
+        "DET pp1": 2
+      },
+      "goalie": {
+        "team": "DET",
+        "opposing": 0
+      },
+      "summary": [
+        "BUF 5 · DET 3",
+        "BUF f1 ×3",
+        "DET f1 ×2",
+        "BUF pp1 ×4",
+        "DET pp1 ×2",
+        "G DET",
+        "3 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "BUF": 2,
+        "STL": 2,
+        "DET": 1,
+        "NYI": 1,
+        "OTT": 1,
+        "TBL": 1,
+        "UTA": 1
+      },
+      "games": {
+        "BOS@STL": 2,
+        "BUF@ANA": 2,
+        "CHI@DET": 1,
+        "NYI@MIN": 1,
+        "OTT@LAK": 1,
+        "UTA@PIT": 1,
+        "WPG@TBL": 1
+      },
+      "nGames": 7,
+      "lines": {
+        "BUF f1": 2
+      },
+      "pp": {
+        "BUF pp1": 2
+      },
+      "goalie": {
+        "team": "STL",
+        "opposing": 0
+      },
+      "summary": [
+        "BUF 2 · STL 2",
+        "BUF f1 ×2",
+        "BUF pp1 ×2",
+        "G STL",
+        "7 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "BOS": 2,
+        "CHI": 1,
+        "LAK": 1,
+        "MIN": 1,
+        "NSH": 1,
+        "STL": 1,
+        "TBL": 1,
+        "UTA": 1
+      },
+      "games": {
+        "BOS@STL": 3,
+        "CHI@DET": 1,
+        "NYI@MIN": 1,
+        "OTT@LAK": 1,
+        "UTA@PIT": 1,
+        "WPG@TBL": 1,
+        "WSH@NSH": 1
+      },
+      "nGames": 7,
+      "lines": {},
+      "pp": {
+        "BOS pp2": 2
+      },
+      "goalie": {
+        "team": "CHI",
+        "opposing": 0
+      },
+      "summary": [
+        "BOS 2",
+        "BOS pp2 ×2",
+        "G CHI",
+        "7 games"
+      ]
+    }
+  }
+}
