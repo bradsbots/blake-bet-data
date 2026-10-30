@@ -1,0 +1,104 @@
+{
+ "sport": "nfl",
+ "slates": [
+  {
+   "slate": "155198",
+   "date": "2026-10-25",
+   "label": "NFL $2.5M Fantasy Football Millionaire [$1M to 1st, $100K Leaderboard Eligible]",
+   "entries": 147058,
+   "source": "paper",
+   "model": "v0",
+   "predictedAt": "2026-10-25T15:30:03+00:00",
+   "lockAt": "2026-10-25T17:00:00+00:00",
+   "minutesBeforeLock": 90,
+   "n": 422,
+   "mae": 1.299,
+   "mae5": 5.91,
+   "spearman": 0.8084,
+   "top10": 0.5,
+   "chalk": {
+    "n": 9,
+    "caught": 6
+   },
+   "falseChalk": 1,
+   "misses": [
+    {
+     "name": "Tyler Huntley",
+     "pos": "QB",
+     "team": "BAL",
+     "pred": 23.86,
+     "actual": 2.42
+    },
+    {
+     "name": "Jordan Love",
+     "pos": "QB",
+     "team": "GB",
+     "pred": 10.28,
+     "actual": 28.26
+    },
+    {
+     "name": "Bijan Robinson",
+     "pos": "RB",
+     "team": "ATL",
+     "pred": 38.08,
+     "actual": 20.68
+    }
+   ]
+  },
+  {
+   "slate": "154941",
+   "date": "2026-10-18",
+   "label": "NFL $2.75M Fantasy Football Millionaire [$1M to 1st, $100K Leaderboard Eligible]",
+   "entries": 158904,
+   "source": "paper",
+   "model": "v0",
+   "predictedAt": "2026-10-18T16:13:13+00:00",
+   "lockAt": "2026-10-18T17:00:00+00:00",
+   "minutesBeforeLock": 47,
+   "n": 417,
+   "mae": 1.404,
+   "mae5": 5.146,
+   "spearman": 0.8688,
+   "top10": 0.4,
+   "chalk": {
+    "n": 10,
+    "caught": 2
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Puka Nacua",
+     "pos": "WR",
+     "team": "LAR",
+     "pred": 13.4,
+     "actual": 41.66
+    },
+    {
+     "name": "Isaiah Likely",
+     "pos": "TE",
+     "team": "NYG",
+     "pred": 8.61,
+     "actual": 35.12
+    },
+    {
+     "name": "Panthers",
+     "pos": "DST",
+     "team": "CAR",
+     "pred": 11.28,
+     "actual": 31.76
+    }
+   ]
+  }
+ ],
+ "recent": {
+  "slates": 2,
+  "n": 839,
+  "mae": 1.351,
+  "mae5": 5.502,
+  "chalk": {
+   "n": 19,
+   "caught": 8
+  },
+  "falseChalk": 1
+ }
+}
