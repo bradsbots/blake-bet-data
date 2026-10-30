@@ -1,0 +1,632 @@
+{
+ "sport": "nhl",
+ "slates": [
+  {
+   "slate": "155816",
+   "date": "2026-10-29",
+   "label": "NHL $40K Overload [$10K to 1st]",
+   "entries": 2352,
+   "source": "paper",
+   "model": "v0",
+   "predictedAt": "2026-10-29T21:30:02+00:00",
+   "lockAt": "2026-10-29T23:00:00+00:00",
+   "minutesBeforeLock": 90,
+   "n": 516,
+   "mae": 1.054,
+   "mae5": 3.359,
+   "spearman": 0.879,
+   "top10": 0.4,
+   "chalk": {
+    "n": 1,
+    "caught": 0
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Macklin Celebrini",
+     "pos": "C",
+     "team": "SJS",
+     "pred": 8.81,
+     "actual": 27.89
+    },
+    {
+     "name": "Jesper Wallstedt",
+     "pos": "G",
+     "team": "MIN",
+     "pred": 1.17,
+     "actual": 12.33
+    },
+    {
+     "name": "Ivar Stenberg",
+     "pos": "W",
+     "team": "SJS",
+     "pred": 6.92,
+     "actual": 16.96
+    }
+   ]
+  },
+  {
+   "slate": "155450",
+   "date": "2026-10-28",
+   "label": "NHL $30K Overload [$10K to 1st]",
+   "entries": 1764,
+   "source": "paper",
+   "model": "v0",
+   "predictedAt": "2026-10-28T22:00:02+00:00",
+   "lockAt": "2026-10-28T23:30:00+00:00",
+   "minutesBeforeLock": 90,
+   "n": 189,
+   "mae": 2.049,
+   "mae5": 4.067,
+   "spearman": 0.8832,
+   "top10": 0.6,
+   "chalk": {
+    "n": 8,
+    "caught": 6
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Jordan Kyrou",
+     "pos": "W",
+     "team": "WSH",
+     "pred": 9.92,
+     "actual": 25.62
+    },
+    {
+     "name": "Gavin McKenna",
+     "pos": "W",
+     "team": "TOR",
+     "pred": 13.3,
+     "actual": 28.8
+    },
+    {
+     "name": "Brandon Montour",
+     "pos": "D",
+     "team": "SEA",
+     "pred": 3.52,
+     "actual": 14.18
+    }
+   ]
+  },
+  {
+   "slate": "155441",
+   "date": "2026-10-27",
+   "label": "NHL $60K Overload [$20K to 1st]",
+   "entries": 3529,
+   "source": "paper",
+   "model": "v0",
+   "predictedAt": "2026-10-27T21:30:02+00:00",
+   "lockAt": "2026-10-27T23:00:00+00:00",
+   "minutesBeforeLock": 90,
+   "n": 513,
+   "mae": 1.069,
+   "mae5": 3.911,
+   "spearman": 0.9112,
+   "top10": 0.3,
+   "chalk": {
+    "n": 3,
+    "caught": 0
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Cutter Gauthier",
+     "pos": "W",
+     "team": "ANA",
+     "pred": 5.97,
+     "actual": 23.52
+    },
+    {
+     "name": "Macklin Celebrini",
+     "pos": "C",
+     "team": "SJS",
+     "pred": 7.63,
+     "actual": 21.09
+    },
+    {
+     "name": "Ivar Stenberg",
+     "pos": "W",
+     "team": "SJS",
+     "pred": 4.43,
+     "actual": 15.84
+    }
+   ]
+  },
+  {
+   "slate": "155435",
+   "date": "2026-10-26",
+   "label": "NHL $30K Overload [$10K to 1st]",
+   "entries": 1764,
+   "source": "paper",
+   "model": "v0",
+   "predictedAt": "2026-10-26T21:30:41+00:00",
+   "lockAt": "2026-10-26T23:00:00+00:00",
+   "minutesBeforeLock": 89,
+   "n": 142,
+   "mae": 2.525,
+   "mae5": 4.303,
+   "spearman": 0.8928,
+   "top10": 0.6,
+   "chalk": {
+    "n": 11,
+    "caught": 9
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Alexis Lafreniere",
+     "pos": "W",
+     "team": "NYR",
+     "pred": 27.82,
+     "actual": 12.36
+    },
+    {
+     "name": "Adam Fox",
+     "pos": "D",
+     "team": "NYR",
+     "pred": 23.68,
+     "actual": 10.89
+    },
+    {
+     "name": "Matvei Gridin",
+     "pos": "W",
+     "team": "CGY",
+     "pred": 4.87,
+     "actual": 17.4
+    }
+   ]
+  },
+  {
+   "slate": "155429",
+   "date": "2026-10-25",
+   "label": "NHL $15K Overload  [$5K to 1st]",
+   "entries": 882,
+   "source": "paper",
+   "model": "v0",
+   "predictedAt": "2026-10-25T20:30:02+00:00",
+   "lockAt": "2026-10-25T22:00:00+00:00",
+   "minutesBeforeLock": 90,
+   "n": 182,
+   "mae": 2.309,
+   "mae5": 4.904,
+   "spearman": 0.8877,
+   "top10": 0.6,
+   "chalk": {
+    "n": 8,
+    "caught": 5
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Scott Wedgewood",
+     "pos": "G",
+     "team": "COL",
+     "pred": 31.21,
+     "actual": 10.32
+    },
+    {
+     "name": "Jake Oettinger",
+     "pos": "G",
+     "team": "DAL",
+     "pred": 2.16,
+     "actual": 20.75
+    },
+    {
+     "name": "Stuart Skinner",
+     "pos": "G",
+     "team": "WPG",
+     "pred": 2.77,
+     "actual": 16.1
+    }
+   ]
+  },
+  {
+   "slate": "155421",
+   "date": "2026-10-24",
+   "label": "NHL $30K Overload [$10K to 1st]",
+   "entries": 1764,
+   "source": "paper",
+   "model": "v0",
+   "predictedAt": "2026-10-24T21:30:55+00:00",
+   "lockAt": "2026-10-24T23:00:00+00:00",
+   "minutesBeforeLock": 89,
+   "n": 451,
+   "mae": 1.136,
+   "mae5": 3.812,
+   "spearman": 0.8648,
+   "top10": 0.6,
+   "chalk": {
+    "n": 2,
+    "caught": 2
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Joel Hofer",
+     "pos": "G",
+     "team": "STL",
+     "pred": 7.83,
+     "actual": 19.33
+    },
+    {
+     "name": "Connor McDavid",
+     "pos": "C",
+     "team": "EDM",
+     "pred": 23.58,
+     "actual": 34.92
+    },
+    {
+     "name": "Leon Draisaitl",
+     "pos": "W",
+     "team": "EDM",
+     "pred": 18.9,
+     "actual": 27.09
+    }
+   ]
+  },
+  {
+   "slate": "155406",
+   "date": "2026-10-22",
+   "label": "NHL $50K Overload [$10K to 1st]",
+   "entries": 2820,
+   "source": "paper",
+   "model": "v0",
+   "predictedAt": "2026-10-22T21:47:13+00:00",
+   "lockAt": "2026-10-22T23:00:00+00:00",
+   "minutesBeforeLock": 73,
+   "n": 554,
+   "mae": 0.987,
+   "mae5": 4.052,
+   "spearman": 0.8783,
+   "top10": 0.4,
+   "chalk": {
+    "n": 2,
+    "caught": 0
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Matt Boldy",
+     "pos": "W",
+     "team": "MIN",
+     "pred": 8.74,
+     "actual": 21.03
+    },
+    {
+     "name": "Quinn Hughes",
+     "pos": "D",
+     "team": "MIN",
+     "pred": 7.51,
+     "actual": 19.19
+    },
+    {
+     "name": "Luke Hughes",
+     "pos": "D",
+     "team": "NJD",
+     "pred": 7.89,
+     "actual": 18.79
+    }
+   ]
+  },
+  {
+   "slate": "155401",
+   "date": "2026-10-21",
+   "label": "NHL $30K Kick Save [$10K to 1st]",
+   "entries": 2352,
+   "source": "paper",
+   "model": "v0",
+   "predictedAt": "2026-10-21T23:19:18+00:00",
+   "lockAt": "2026-10-21T23:30:00+00:00",
+   "minutesBeforeLock": 11,
+   "n": 93,
+   "mae": 3.637,
+   "mae5": 5.63,
+   "spearman": 0.9476,
+   "top10": 0.8,
+   "chalk": {
+    "n": 19,
+    "caught": 18
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Jake Sanderson",
+     "pos": "D",
+     "team": "OTT",
+     "pred": 26.0,
+     "actual": 43.84
+    },
+    {
+     "name": "Brady Tkachuk",
+     "pos": "W",
+     "team": "FLA",
+     "pred": 29.01,
+     "actual": 43.75
+    },
+    {
+     "name": "Jiri Kulich",
+     "pos": "C",
+     "team": "BUF",
+     "pred": 29.8,
+     "actual": 15.78
+    }
+   ]
+  },
+  {
+   "slate": "154782",
+   "date": "2026-10-20",
+   "label": "NHL $60K Overload [$20K to 1st]",
+   "entries": 3368,
+   "source": "paper",
+   "model": "v0",
+   "predictedAt": "2026-10-20T22:38:11+00:00",
+   "lockAt": "2026-10-20T23:00:00+00:00",
+   "minutesBeforeLock": 22,
+   "n": 493,
+   "mae": 1.138,
+   "mae5": 4.173,
+   "spearman": 0.8694,
+   "top10": 0.3,
+   "chalk": {
+    "n": 2,
+    "caught": 0
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Matthew Schaefer",
+     "pos": "D",
+     "team": "NYI",
+     "pred": 1.1,
+     "actual": 18.41
+    },
+    {
+     "name": "Zack Bolduc",
+     "pos": "W",
+     "team": "MTL",
+     "pred": 3.08,
+     "actual": 18.53
+    },
+    {
+     "name": "Cole Caufield",
+     "pos": "W",
+     "team": "MTL",
+     "pred": 7.44,
+     "actual": 20.73
+    }
+   ]
+  },
+  {
+   "slate": "154775",
+   "date": "2026-10-19",
+   "label": "NHL $35K Kick Save [$10K to 1st]",
+   "entries": 2745,
+   "source": "paper",
+   "model": "v0",
+   "predictedAt": "2026-10-19T21:41:50+00:00",
+   "lockAt": "2026-10-19T23:00:00+00:00",
+   "minutesBeforeLock": 78,
+   "n": 183,
+   "mae": 2.038,
+   "mae5": 3.68,
+   "spearman": 0.878,
+   "top10": 0.7,
+   "chalk": {
+    "n": 6,
+    "caught": 6
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Macklin Celebrini",
+     "pos": "C",
+     "team": "SJS",
+     "pred": 19.39,
+     "actual": 31.19
+    },
+    {
+     "name": "Alexis Lafreniere",
+     "pos": "W",
+     "team": "NYR",
+     "pred": 5.55,
+     "actual": 16.94
+    },
+    {
+     "name": "Gabe Perreault",
+     "pos": "W",
+     "team": "NYR",
+     "pred": 0.85,
+     "actual": 9.91
+    }
+   ]
+  },
+  {
+   "slate": "154763",
+   "date": "2026-10-17",
+   "label": "NHL $40K Kick Save [$10K to 1st] ",
+   "entries": 3137,
+   "source": "paper",
+   "model": "v0",
+   "predictedAt": "2026-10-17T22:38:26+00:00",
+   "lockAt": "2026-10-17T23:00:00+00:00",
+   "minutesBeforeLock": 22,
+   "n": 451,
+   "mae": 1.124,
+   "mae5": 3.01,
+   "spearman": 0.8595,
+   "top10": 0.4,
+   "chalk": {
+    "n": 0,
+    "caught": 0
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Zach Werenski",
+     "pos": "D",
+     "team": "CBJ",
+     "pred": 4.11,
+     "actual": 15.46
+    },
+    {
+     "name": "Matthew Schaefer",
+     "pos": "D",
+     "team": "NYI",
+     "pred": 0.83,
+     "actual": 12.05
+    },
+    {
+     "name": "Jason Robertson",
+     "pos": "W",
+     "team": "DAL",
+     "pred": 4.53,
+     "actual": 13.07
+    }
+   ]
+  },
+  {
+   "slate": "154755",
+   "date": "2026-10-16",
+   "label": "NHL $60K Kick Save [$20K to 1st]",
+   "entries": 4507,
+   "source": "paper",
+   "model": "v0",
+   "predictedAt": "2026-10-17T00:08:11+00:00",
+   "lockAt": "2026-10-17T01:00:00+00:00",
+   "minutesBeforeLock": 52,
+   "n": 89,
+   "mae": 3.487,
+   "mae5": 5.011,
+   "spearman": 0.8918,
+   "top10": 0.8,
+   "chalk": {
+    "n": 16,
+    "caught": 13
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Erik Karlsson",
+     "pos": "D",
+     "team": "PIT",
+     "pred": 13.69,
+     "actual": 31.1
+    },
+    {
+     "name": "Nathan MacKinnon",
+     "pos": "C",
+     "team": "COL",
+     "pred": 77.21,
+     "actual": 62.22
+    },
+    {
+     "name": "Leo Carlsson",
+     "pos": "C",
+     "team": "ANA",
+     "pred": 37.23,
+     "actual": 23.74
+    }
+   ]
+  },
+  {
+   "slate": "154747",
+   "date": "2026-10-15",
+   "label": "NHL $60K Kick Save [$20K to 1st]",
+   "entries": 4705,
+   "source": "paper",
+   "model": "v0",
+   "predictedAt": "2026-10-15T22:08:24+00:00",
+   "lockAt": "2026-10-15T23:00:00+00:00",
+   "minutesBeforeLock": 52,
+   "n": 497,
+   "mae": 1.066,
+   "mae5": 3.345,
+   "spearman": 0.868,
+   "top10": 0.5,
+   "chalk": {
+    "n": 0,
+    "caught": 0
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Nikita Kucherov",
+     "pos": "W",
+     "team": "TBL",
+     "pred": 3.35,
+     "actual": 14.13
+    },
+    {
+     "name": "Owen Power",
+     "pos": "D",
+     "team": "BUF",
+     "pred": 3.34,
+     "actual": 12.61
+    },
+    {
+     "name": "Seth Jones",
+     "pos": "D",
+     "team": "FLA",
+     "pred": 6.0,
+     "actual": 13.05
+    }
+   ]
+  },
+  {
+   "slate": "154742",
+   "date": "2026-10-14",
+   "label": "NHL $60K Kick Save [$20K to 1st] $15",
+   "entries": 4580,
+   "source": "paper",
+   "model": "v0",
+   "predictedAt": "2026-10-14T22:38:17+00:00",
+   "lockAt": "2026-10-14T23:30:00+00:00",
+   "minutesBeforeLock": 52,
+   "n": 86,
+   "mae": 4.309,
+   "mae5": 6.787,
+   "spearman": 0.902,
+   "top10": 0.6,
+   "chalk": {
+    "n": 18,
+    "caught": 14
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Dylan Strome",
+     "pos": "C",
+     "team": "WSH",
+     "pred": 51.1,
+     "actual": 26.68
+    },
+    {
+     "name": "Tom Wilson",
+     "pos": "W",
+     "team": "WSH",
+     "pred": 40.25,
+     "actual": 18.76
+    },
+    {
+     "name": "Devon Toews",
+     "pos": "D",
+     "team": "COL",
+     "pred": 43.26,
+     "actual": 23.28
+    }
+   ]
+  }
+ ],
+ "recent": {
+  "slates": 10,
+  "n": 3316,
+  "mae": 1.384,
+  "mae5": 4.118,
+  "chalk": {
+   "n": 62,
+   "caught": 46
+  },
+  "falseChalk": 0
+ }
+}
