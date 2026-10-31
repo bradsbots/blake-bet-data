@@ -1,6 +1,22 @@
 [
   {
     "sport": "nba",
+    "slate": "154398",
+    "date": "2026-10-30",
+    "label": "NBA $300K Friday 8's [$100K to 1st]",
+    "contestId": 197302353,
+    "entries": 44117,
+    "winnerPoints": 345,
+    "optimalPoints": 381.25,
+    "paperPoints": 234.25,
+    "paperPctile": 27.91,
+    "paperNet1": -8,
+    "portfolioNet": -98,
+    "portfolioCashed": 4,
+    "portfolioN": 20
+  },
+  {
+    "sport": "nba",
     "slate": "155874",
     "date": "2026-10-29",
     "label": "NBA $200K Fadeaway [$50K to 1st]",

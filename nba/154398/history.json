@@ -1,0 +1,356 @@
+{
+  "sport": "nba",
+  "slate": "154398",
+  "date": "2026-10-30",
+  "contest": {
+    "id": 197302353,
+    "label": "NBA $300K Friday 8's [$100K to 1st]",
+    "entries": 44117
+  },
+  "generatedAt": "2026-10-31T08:40:14.046Z",
+  "winner": {
+    "rank": 1,
+    "name": "jpm11 (61/150)",
+    "points": 345,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44719444,
+        "name": "Bones Hyland",
+        "team": "MIN",
+        "pos": "PG",
+        "salary": 3500,
+        "fpts": 34,
+        "own": 1.52
+      },
+      {
+        "slot": "SG",
+        "id": 44719100,
+        "name": "Ayo Dosunmu",
+        "team": "MIN",
+        "pos": "SG",
+        "salary": 5600,
+        "fpts": 28.75,
+        "own": 25.34
+      },
+      {
+        "slot": "SF",
+        "id": 44718952,
+        "name": "Franz Wagner",
+        "team": "ORL",
+        "pos": "SF",
+        "salary": 8000,
+        "fpts": 51.25,
+        "own": 5.95
+      },
+      {
+        "slot": "PF",
+        "id": 44718914,
+        "name": "Karl-Anthony Towns",
+        "team": "NYK",
+        "pos": "PF",
+        "salary": 8500,
+        "fpts": 45.5,
+        "own": 4.23
+      },
+      {
+        "slot": "C",
+        "id": 44719275,
+        "name": "Jakob Poeltl",
+        "team": "TOR",
+        "pos": "C",
+        "salary": 4300,
+        "fpts": 33.75,
+        "own": 0.61
+      },
+      {
+        "slot": "G",
+        "id": 44719111,
+        "name": "Davion Mitchell",
+        "team": "MIA",
+        "pos": "PG",
+        "salary": 5500,
+        "fpts": 42.5,
+        "own": 13.21
+      },
+      {
+        "slot": "F",
+        "id": 44718895,
+        "name": "Giannis Antetokounmpo",
+        "team": "MIA",
+        "pos": "PF",
+        "salary": 10500,
+        "fpts": 75,
+        "own": 25.06
+      },
+      {
+        "slot": "UTIL",
+        "id": 44719309,
+        "name": "Clint Capela",
+        "team": "HOU",
+        "pos": "C",
+        "salary": 4100,
+        "fpts": 34.25,
+        "own": 11.63
+      }
+    ]
+  },
+  "optimal": {
+    "points": 381.25,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44719111,
+        "name": "Davion Mitchell",
+        "team": "MIA",
+        "pos": "PG",
+        "salary": 5500,
+        "fpts": 42.5,
+        "own": 13.21
+      },
+      {
+        "slot": "SG",
+        "id": 44719444,
+        "name": "Bones Hyland",
+        "team": "MIN",
+        "pos": "PG",
+        "salary": 3500,
+        "fpts": 34,
+        "own": 1.52
+      },
+      {
+        "slot": "SF",
+        "id": 44718923,
+        "name": "Scottie Barnes",
+        "team": "TOR",
+        "pos": "SF",
+        "salary": 8400,
+        "fpts": 57.25,
+        "own": 10.03
+      },
+      {
+        "slot": "PF",
+        "id": 44719399,
+        "name": "Ronald Holland II",
+        "team": "DET",
+        "pos": "PF",
+        "salary": 3700,
+        "fpts": 34.75,
+        "own": 0.08
+      },
+      {
+        "slot": "C",
+        "id": 44719210,
+        "name": "Isaiah Jackson",
+        "team": "LAC",
+        "pos": "C",
+        "salary": 4700,
+        "fpts": 38.25,
+        "own": 1.91
+      },
+      {
+        "slot": "G",
+        "id": 44718975,
+        "name": "Kyrie Irving",
+        "team": "DAL",
+        "pos": "PG",
+        "salary": 7400,
+        "fpts": 55,
+        "own": 0.82
+      },
+      {
+        "slot": "F",
+        "id": 44719038,
+        "name": "Jaden McDaniels",
+        "team": "MIN",
+        "pos": "SF",
+        "salary": 6200,
+        "fpts": 44.5,
+        "own": 7.23
+      },
+      {
+        "slot": "UTIL",
+        "id": 44718895,
+        "name": "Giannis Antetokounmpo",
+        "team": "MIA",
+        "pos": "PF",
+        "salary": 10500,
+        "fpts": 75,
+        "own": 25.06
+      }
+    ],
+    "assumedZero": 70
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 31683,
+    "pctile": 27.91,
+    "points": 234.25,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44719121,
+        "name": "Dennis Schroder",
+        "team": "CHA",
+        "pos": "PG",
+        "salary": 5400,
+        "fpts": 28,
+        "own": 19.65
+      },
+      {
+        "slot": "SG",
+        "id": 44718988,
+        "name": "RJ Barrett",
+        "team": "TOR",
+        "pos": "SG",
+        "salary": 7000,
+        "fpts": 20.25,
+        "own": 18.41
+      },
+      {
+        "slot": "SF",
+        "id": 44718961,
+        "name": "Brandon Miller",
+        "team": "CHA",
+        "pos": "SF",
+        "salary": 7800,
+        "fpts": 35.25,
+        "own": 35.72
+      },
+      {
+        "slot": "PF",
+        "id": 44718985,
+        "name": "LeBron James",
+        "team": "PHI",
+        "pos": "PF",
+        "salary": 7200,
+        "fpts": 47.25,
+        "own": 13.15
+      },
+      {
+        "slot": "C",
+        "id": 44718970,
+        "name": "Bam Adebayo",
+        "team": "MIA",
+        "pos": "C",
+        "salary": 7500,
+        "fpts": 47.75,
+        "own": 8.27
+      },
+      {
+        "slot": "G",
+        "id": 44719262,
+        "name": "Terrence Shannon Jr.",
+        "team": "MIN",
+        "pos": "SG",
+        "salary": 4300,
+        "fpts": 18.75,
+        "own": 25.41
+      },
+      {
+        "slot": "F",
+        "id": 44719135,
+        "name": "Jonathan Kuminga",
+        "team": "MIN",
+        "pos": "PF",
+        "salary": 5200,
+        "fpts": 8.25,
+        "own": 26.92
+      },
+      {
+        "slot": "UTIL",
+        "id": 44719100,
+        "name": "Ayo Dosunmu",
+        "team": "MIN",
+        "pos": "SG",
+        "salary": 5600,
+        "fpts": 28.75,
+        "own": 25.34
+      }
+    ],
+    "money": {
+      "fee": 8,
+      "one": {
+        "won": 0,
+        "net": -8
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 62,
+        "net": -98,
+        "cashed": 4
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "MIA": 2,
+        "MIN": 2,
+        "HOU": 1,
+        "NYK": 1,
+        "ORL": 1,
+        "TOR": 1
+      },
+      "games": {
+        "IND@MIA": 2,
+        "LAC@MIN": 2,
+        "ORL@TOR": 2,
+        "HOU@DAL": 1,
+        "NYK@PHI": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "MIA 2 · MIN 2",
+        "5 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "MIA": 2,
+        "MIN": 2,
+        "DAL": 1,
+        "DET": 1,
+        "LAC": 1,
+        "TOR": 1
+      },
+      "games": {
+        "LAC@MIN": 3,
+        "IND@MIA": 2,
+        "DET@BKN": 1,
+        "HOU@DAL": 1,
+        "ORL@TOR": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "MIA 2 · MIN 2",
+        "5 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "MIN": 3,
+        "CHA": 2,
+        "MIA": 1,
+        "PHI": 1,
+        "TOR": 1
+      },
+      "games": {
+        "LAC@MIN": 3,
+        "CHA@WAS": 2,
+        "IND@MIA": 1,
+        "NYK@PHI": 1,
+        "ORL@TOR": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "MIN 3 · CHA 2",
+        "5 games"
+      ]
+    }
+  }
+}
