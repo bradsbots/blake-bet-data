@@ -2,6 +2,50 @@
  "sport": "nhl",
  "slates": [
   {
+   "slate": "155825",
+   "date": "2026-10-30",
+   "label": "NHL $30K Overload [$10K to 1st]",
+   "entries": 1764,
+   "source": "live",
+   "model": "v1",
+   "predictedAt": "2026-10-30T21:45:11+00:00",
+   "lockAt": "2026-10-30T22:00:00+00:00",
+   "minutesBeforeLock": 15,
+   "n": 137,
+   "mae": 2.597,
+   "mae5": 4.717,
+   "spearman": 0.9107,
+   "top10": 0.6,
+   "chalk": {
+    "n": 13,
+    "caught": 10
+   },
+   "falseChalk": 1,
+   "misses": [
+    {
+     "name": "Brandon Montour",
+     "pos": "D",
+     "team": "SEA",
+     "pred": 7.08,
+     "actual": 26.31
+    },
+    {
+     "name": "Joey Daccord",
+     "pos": "G",
+     "team": "SEA",
+     "pred": 20.63,
+     "actual": 3.85
+    },
+    {
+     "name": "Brady Tkachuk",
+     "pos": "W",
+     "team": "FLA",
+     "pred": 31.28,
+     "actual": 44.56
+    }
+   ]
+  },
+  {
    "slate": "155816",
    "date": "2026-10-29",
    "label": "NHL $40K Overload [$10K to 1st]",
@@ -620,13 +664,13 @@
  ],
  "recent": {
   "slates": 10,
-  "n": 3316,
-  "mae": 1.384,
-  "mae5": 4.118,
+  "n": 3270,
+  "mae": 1.398,
+  "mae5": 4.222,
   "chalk": {
-   "n": 62,
-   "caught": 46
+   "n": 69,
+   "caught": 50
   },
-  "falseChalk": 0
+  "falseChalk": 1
  }
 }
