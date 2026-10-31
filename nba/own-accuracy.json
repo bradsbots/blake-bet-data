@@ -1,0 +1,60 @@
+{
+ "sport": "nba",
+ "slates": [
+  {
+   "slate": "154398",
+   "date": "2026-10-30",
+   "label": "NBA $300K Friday 8's [$100K to 1st]",
+   "entries": 44117,
+   "source": "live",
+   "model": "v1",
+   "predictedAt": "2026-10-30T22:45:15+00:00",
+   "lockAt": "2026-10-30T23:00:00+00:00",
+   "minutesBeforeLock": 15,
+   "n": 231,
+   "mae": 2.06,
+   "mae5": 6.092,
+   "spearman": 0.9265,
+   "top10": 0.6,
+   "chalk": {
+    "n": 12,
+    "caught": 9
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Jarace Walker",
+     "pos": "ALL",
+     "team": "IND",
+     "pred": 0.7,
+     "actual": 26.01
+    },
+    {
+     "name": "Andrew Nembhard",
+     "pos": "ALL",
+     "team": "IND",
+     "pred": 5.51,
+     "actual": 25.3
+    },
+    {
+     "name": "Pelle Larsson",
+     "pos": "ALL",
+     "team": "MIA",
+     "pred": 0.76,
+     "actual": 19.42
+    }
+   ]
+  }
+ ],
+ "recent": {
+  "slates": 1,
+  "n": 231,
+  "mae": 2.06,
+  "mae5": 6.092,
+  "chalk": {
+   "n": 12,
+   "caught": 9
+  },
+  "falseChalk": 0
+ }
+}
