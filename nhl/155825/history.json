@@ -1,0 +1,415 @@
+{
+  "sport": "nhl",
+  "slate": "155825",
+  "date": "2026-10-30",
+  "contest": {
+    "id": 197283947,
+    "label": "NHL $30K Overload [$10K to 1st]",
+    "entries": 1764
+  },
+  "generatedAt": "2026-10-31T08:40:24.065Z",
+  "winner": {
+    "rank": 1,
+    "name": "souperdg (3/20)",
+    "points": 195,
+    "salary": 48600,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44715340,
+        "name": "Jack Hughes",
+        "team": "NJD",
+        "pos": "C",
+        "salary": 8000,
+        "fpts": 30.5,
+        "own": 22.68
+      },
+      {
+        "slot": "C",
+        "id": 44715360,
+        "name": "Anton Lundell",
+        "team": "FLA",
+        "pos": "C",
+        "salary": 3700,
+        "fpts": 46.5,
+        "own": 7.88
+      },
+      {
+        "slot": "W",
+        "id": 44715406,
+        "name": "Brady Tkachuk",
+        "team": "FLA",
+        "pos": "W",
+        "salary": 7700,
+        "fpts": 12,
+        "own": 44.56
+      },
+      {
+        "slot": "W",
+        "id": 44715430,
+        "name": "Matt Coronato",
+        "team": "CGY",
+        "pos": "W",
+        "salary": 5100,
+        "fpts": 28,
+        "own": 24.66
+      },
+      {
+        "slot": "W",
+        "id": 44715436,
+        "name": "Joel Farabee",
+        "team": "CGY",
+        "pos": "W",
+        "salary": 4800,
+        "fpts": 24.3,
+        "own": 23.02
+      },
+      {
+        "slot": "D",
+        "id": 44715534,
+        "name": "Seth Jones",
+        "team": "FLA",
+        "pos": "D",
+        "salary": 5000,
+        "fpts": 29.9,
+        "own": 35.43
+      },
+      {
+        "slot": "D",
+        "id": 44715566,
+        "name": "Gustav Forsling",
+        "team": "FLA",
+        "pos": "D",
+        "salary": 2900,
+        "fpts": 4.3,
+        "own": 6.75
+      },
+      {
+        "slot": "G",
+        "id": 44715631,
+        "name": "Dustin Wolf",
+        "team": "CGY",
+        "pos": "G",
+        "salary": 7300,
+        "fpts": 13,
+        "own": 16.5
+      },
+      {
+        "slot": "UTIL",
+        "id": 44715356,
+        "name": "Mikael Backlund",
+        "team": "CGY",
+        "pos": "C",
+        "salary": 4100,
+        "fpts": 6.5,
+        "own": 13.03
+      }
+    ]
+  },
+  "optimal": {
+    "points": 245.1,
+    "salary": 46600,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44715340,
+        "name": "Jack Hughes",
+        "team": "NJD",
+        "pos": "C",
+        "salary": 8000,
+        "fpts": 30.5,
+        "own": 22.68
+      },
+      {
+        "slot": "C",
+        "id": 44715360,
+        "name": "Anton Lundell",
+        "team": "FLA",
+        "pos": "C",
+        "salary": 3700,
+        "fpts": 46.5,
+        "own": 7.88
+      },
+      {
+        "slot": "W",
+        "id": 44715438,
+        "name": "Arseny Gritsyuk",
+        "team": "NJD",
+        "pos": "W",
+        "salary": 4300,
+        "fpts": 32,
+        "own": 8.56
+      },
+      {
+        "slot": "W",
+        "id": 44715430,
+        "name": "Matt Coronato",
+        "team": "CGY",
+        "pos": "W",
+        "salary": 5100,
+        "fpts": 28,
+        "own": 24.66
+      },
+      {
+        "slot": "W",
+        "id": 44715436,
+        "name": "Joel Farabee",
+        "team": "CGY",
+        "pos": "W",
+        "salary": 4800,
+        "fpts": 24.3,
+        "own": 23.02
+      },
+      {
+        "slot": "D",
+        "id": 44715556,
+        "name": "Noah Hanifin",
+        "team": "VGK",
+        "pos": "D",
+        "salary": 3200,
+        "fpts": 14.2,
+        "own": 3.79
+      },
+      {
+        "slot": "D",
+        "id": 44715534,
+        "name": "Seth Jones",
+        "team": "FLA",
+        "pos": "D",
+        "salary": 5000,
+        "fpts": 29.9,
+        "own": 35.43
+      },
+      {
+        "slot": "G",
+        "id": 44715620,
+        "name": "Akira Schmid",
+        "team": "FLA",
+        "pos": "G",
+        "salary": 8300,
+        "fpts": 14.4,
+        "own": 16.27
+      },
+      {
+        "slot": "UTIL",
+        "id": 44715440,
+        "name": "Matvei Gridin",
+        "team": "CGY",
+        "pos": "W",
+        "salary": 4200,
+        "fpts": 25.3,
+        "own": 16.89
+      }
+    ],
+    "assumedZero": 42
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 128,
+    "pctile": 92.8,
+    "points": 144.7,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44715346,
+        "name": "Nico Hischier",
+        "team": "NJD",
+        "pos": "C",
+        "salary": 6200,
+        "fpts": 1.5,
+        "own": 12.98
+      },
+      {
+        "slot": "C",
+        "id": 44715366,
+        "name": "William Karlsson",
+        "team": "VGK",
+        "pos": "C",
+        "salary": 3300,
+        "fpts": 1.5,
+        "own": 8.9
+      },
+      {
+        "slot": "W",
+        "id": 44715438,
+        "name": "Arseny Gritsyuk",
+        "team": "NJD",
+        "pos": "W",
+        "salary": 4300,
+        "fpts": 32,
+        "own": 8.56
+      },
+      {
+        "slot": "W",
+        "id": 44715406,
+        "name": "Brady Tkachuk",
+        "team": "FLA",
+        "pos": "W",
+        "salary": 7700,
+        "fpts": 12,
+        "own": 44.56
+      },
+      {
+        "slot": "W",
+        "id": 44715436,
+        "name": "Joel Farabee",
+        "team": "CGY",
+        "pos": "W",
+        "salary": 4800,
+        "fpts": 24.3,
+        "own": 23.02
+      },
+      {
+        "slot": "D",
+        "id": 44715534,
+        "name": "Seth Jones",
+        "team": "FLA",
+        "pos": "D",
+        "salary": 5000,
+        "fpts": 29.9,
+        "own": 35.43
+      },
+      {
+        "slot": "D",
+        "id": 44715540,
+        "name": "Neal Pionk",
+        "team": "WPG",
+        "pos": "D",
+        "salary": 4700,
+        "fpts": 11,
+        "own": 7.54
+      },
+      {
+        "slot": "G",
+        "id": 44715631,
+        "name": "Dustin Wolf",
+        "team": "CGY",
+        "pos": "G",
+        "salary": 7300,
+        "fpts": 13,
+        "own": 16.5
+      },
+      {
+        "slot": "UTIL",
+        "id": 44715342,
+        "name": "Sam Reinhart",
+        "team": "FLA",
+        "pos": "C",
+        "salary": 6700,
+        "fpts": 19.5,
+        "own": 30.16
+      }
+    ],
+    "money": {
+      "fee": 20,
+      "one": {
+        "won": 30,
+        "net": 10
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 300,
+        "net": -100,
+        "cashed": 10
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "CGY": 4,
+        "FLA": 4,
+        "NJD": 1
+      },
+      "games": {
+        "SEA@CGY": 4,
+        "WPG@FLA": 4,
+        "NJD@VGK": 1
+      },
+      "nGames": 3,
+      "lines": {
+        "CGY f1": 3
+      },
+      "pp": {
+        "CGY pp1": 2,
+        "FLA pp1": 2
+      },
+      "goalie": {
+        "team": "CGY",
+        "opposing": 0
+      },
+      "summary": [
+        "CGY 4 · FLA 4",
+        "CGY f1 ×3",
+        "CGY pp1 ×2",
+        "FLA pp1 ×2",
+        "G CGY",
+        "3 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "CGY": 3,
+        "FLA": 3,
+        "NJD": 2,
+        "VGK": 1
+      },
+      "games": {
+        "NJD@VGK": 3,
+        "SEA@CGY": 3,
+        "WPG@FLA": 3
+      },
+      "nGames": 3,
+      "lines": {
+        "CGY f1": 2,
+        "NJD f2": 2
+      },
+      "pp": {
+        "CGY pp1": 3
+      },
+      "goalie": {
+        "team": "FLA",
+        "opposing": 0
+      },
+      "summary": [
+        "CGY 3 · FLA 3 · NJD 2",
+        "CGY f1 ×2",
+        "NJD f2 ×2",
+        "CGY pp1 ×3",
+        "G FLA",
+        "3 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "FLA": 3,
+        "CGY": 2,
+        "NJD": 2,
+        "VGK": 1,
+        "WPG": 1
+      },
+      "games": {
+        "WPG@FLA": 4,
+        "NJD@VGK": 3,
+        "SEA@CGY": 2
+      },
+      "nGames": 3,
+      "lines": {},
+      "pp": {
+        "FLA pp1": 3
+      },
+      "goalie": {
+        "team": "CGY",
+        "opposing": 0
+      },
+      "summary": [
+        "FLA 3 · CGY 2 · NJD 2",
+        "FLA pp1 ×3",
+        "G CGY",
+        "3 games"
+      ]
+    }
+  }
+}
