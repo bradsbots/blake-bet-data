@@ -1,0 +1,1646 @@
+{
+  "sport": "nba",
+  "slate": "155966",
+  "contestId": 197327886,
+  "label": "NBA $200K Fadeaway [$50K to 1st]",
+  "importedAt": "2026-11-01T09:40:10+00:00",
+  "entries": 12629,
+  "source": "dk_standings_csv",
+  "final": true,
+  "absentAsZero": true,
+  "players": {
+    "44724291": {
+      "drafted": 46.27,
+      "fpts": 26.0,
+      "slots": {
+        "PF": 29.63,
+        "F": 8.11,
+        "C": 7.4,
+        "UTIL": 1.13
+      }
+    },
+    "44724014": {
+      "drafted": 55.86,
+      "fpts": 42.75,
+      "slots": {
+        "F": 29.37,
+        "PF": 20.45,
+        "UTIL": 6.04
+      }
+    },
+    "44724130": {
+      "drafted": 49.21,
+      "fpts": 37.75,
+      "slots": {
+        "PG": 28.39,
+        "SG": 17.07,
+        "G": 3.02,
+        "UTIL": 0.73
+      }
+    },
+    "44724093": {
+      "drafted": 29.37,
+      "fpts": 21.5,
+      "slots": {
+        "C": 26.72,
+        "UTIL": 2.65
+      }
+    },
+    "44724241": {
+      "drafted": 38.99,
+      "fpts": 24.5,
+      "slots": {
+        "C": 22.03,
+        "UTIL": 16.96
+      }
+    },
+    "44723968": {
+      "drafted": 28.37,
+      "fpts": 28.25,
+      "slots": {
+        "PF": 20.46,
+        "F": 7.02,
+        "UTIL": 0.89
+      }
+    },
+    "44724280": {
+      "drafted": 61.64,
+      "fpts": 40.25,
+      "slots": {
+        "G": 18.73,
+        "PG": 18.29,
+        "SG": 18.05,
+        "UTIL": 6.57
+      }
+    },
+    "44724072": {
+      "drafted": 22.5,
+      "fpts": 31.25,
+      "slots": {
+        "SF": 16.58,
+        "F": 2.71,
+        "PF": 2.53,
+        "UTIL": 0.68
+      }
+    },
+    "44724010": {
+      "drafted": 38.95,
+      "fpts": 54.75,
+      "slots": {
+        "PG": 13.8,
+        "SG": 11.52,
+        "G": 11.11,
+        "UTIL": 2.52
+      }
+    },
+    "44724060": {
+      "drafted": 25.32,
+      "fpts": 18.75,
+      "slots": {
+        "SF": 13.74,
+        "F": 3.9,
+        "G": 3.75,
+        "SG": 2.45,
+        "UTIL": 1.48
+      }
+    },
+    "44723963": {
+      "drafted": 26.16,
+      "fpts": 71.75,
+      "slots": {
+        "C": 13.7,
+        "UTIL": 12.46
+      }
+    },
+    "44724032": {
+      "drafted": 20.37,
+      "fpts": 11.5,
+      "slots": {
+        "SF": 12.84,
+        "SG": 2.69,
+        "F": 2.03,
+        "G": 2.01,
+        "UTIL": 0.8
+      }
+    },
+    "44724025": {
+      "drafted": 21.58,
+      "fpts": 24.75,
+      "slots": {
+        "SG": 11.77,
+        "G": 7.76,
+        "UTIL": 2.05
+      }
+    },
+    "44724080": {
+      "drafted": 18.99,
+      "fpts": 26.25,
+      "slots": {
+        "SG": 9.15,
+        "G": 8.04,
+        "UTIL": 1.8
+      }
+    },
+    "44723971": {
+      "drafted": 13.77,
+      "fpts": 43.0,
+      "slots": {
+        "C": 7.97,
+        "UTIL": 5.8
+      }
+    },
+    "44723994": {
+      "drafted": 9.88,
+      "fpts": 31.25,
+      "slots": {
+        "SF": 7.01,
+        "F": 2.01,
+        "UTIL": 0.86
+      }
+    },
+    "44724055": {
+      "drafted": 12.2,
+      "fpts": 44.75,
+      "slots": {
+        "SF": 6.91,
+        "PG": 2.2,
+        "G": 1.5,
+        "F": 1.15,
+        "UTIL": 0.44
+      }
+    },
+    "44724003": {
+      "drafted": 13.61,
+      "fpts": 33.5,
+      "slots": {
+        "PG": 6.83,
+        "G": 5.47,
+        "UTIL": 1.31
+      }
+    },
+    "44724095": {
+      "drafted": 11.95,
+      "fpts": 48.25,
+      "slots": {
+        "SF": 6.33,
+        "G": 1.89,
+        "SG": 1.83,
+        "F": 1.58,
+        "UTIL": 0.32
+      }
+    },
+    "44723979": {
+      "drafted": 14.96,
+      "fpts": 41.75,
+      "slots": {
+        "F": 6.3,
+        "C": 3.14,
+        "UTIL": 2.88,
+        "PF": 2.64
+      }
+    },
+    "44724147": {
+      "drafted": 10.72,
+      "fpts": 34.0,
+      "slots": {
+        "F": 6.17,
+        "PF": 3.4,
+        "UTIL": 1.15
+      }
+    },
+    "44724120": {
+      "drafted": 7.57,
+      "fpts": 22.5,
+      "slots": {
+        "SF": 5.46,
+        "F": 0.99,
+        "PF": 0.93,
+        "UTIL": 0.19
+      }
+    },
+    "44724114": {
+      "drafted": 13.97,
+      "fpts": 18.25,
+      "slots": {
+        "F": 5.3,
+        "PF": 4.44,
+        "C": 2.67,
+        "UTIL": 1.56
+      }
+    },
+    "44724090": {
+      "drafted": 10.42,
+      "fpts": 23.75,
+      "slots": {
+        "G": 4.81,
+        "PG": 4.72,
+        "UTIL": 0.89
+      }
+    },
+    "44724086": {
+      "drafted": 6.99,
+      "fpts": 47.25,
+      "slots": {
+        "C": 4.71,
+        "UTIL": 2.28
+      }
+    },
+    "44724045": {
+      "drafted": 8.41,
+      "fpts": 42.5,
+      "slots": {
+        "PG": 4.65,
+        "G": 3.02,
+        "UTIL": 0.74
+      }
+    },
+    "44723976": {
+      "drafted": 9.02,
+      "fpts": 24.5,
+      "slots": {
+        "SG": 4.55,
+        "G": 3.39,
+        "UTIL": 1.08
+      }
+    },
+    "44724110": {
+      "drafted": 7.85,
+      "fpts": 21.0,
+      "slots": {
+        "PG": 4.53,
+        "SG": 2.68,
+        "G": 0.5,
+        "UTIL": 0.14
+      }
+    },
+    "44723990": {
+      "drafted": 10.09,
+      "fpts": 41.25,
+      "slots": {
+        "F": 4.26,
+        "PF": 2.77,
+        "C": 2.06,
+        "UTIL": 1.0
+      }
+    },
+    "44724179": {
+      "drafted": 8.95,
+      "fpts": 11.75,
+      "slots": {
+        "SF": 4.08,
+        "F": 1.73,
+        "G": 1.39,
+        "SG": 1.17,
+        "UTIL": 0.58
+      }
+    },
+    "44724006": {
+      "drafted": 9.94,
+      "fpts": 15.25,
+      "slots": {
+        "G": 3.98,
+        "PG": 2.27,
+        "UTIL": 1.88,
+        "SG": 1.81
+      }
+    },
+    "44724000": {
+      "drafted": 5.68,
+      "fpts": 33.0,
+      "slots": {
+        "PF": 3.58,
+        "F": 1.79,
+        "UTIL": 0.31
+      }
+    },
+    "44724229": {
+      "drafted": 8.34,
+      "fpts": 39.75,
+      "slots": {
+        "G": 3.37,
+        "PG": 2.1,
+        "SG": 1.56,
+        "UTIL": 1.31
+      }
+    },
+    "44724083": {
+      "drafted": 4.56,
+      "fpts": 23.75,
+      "slots": {
+        "SF": 3.29,
+        "F": 0.98,
+        "UTIL": 0.29
+      }
+    },
+    "44724159": {
+      "drafted": 6.15,
+      "fpts": 24.75,
+      "slots": {
+        "F": 3.28,
+        "PF": 1.9,
+        "UTIL": 0.97
+      }
+    },
+    "44724028": {
+      "drafted": 6.13,
+      "fpts": 16.5,
+      "slots": {
+        "PG": 3.27,
+        "SG": 2.07,
+        "G": 0.56,
+        "UTIL": 0.23
+      }
+    },
+    "44724184": {
+      "drafted": 3.89,
+      "fpts": 19.75,
+      "slots": {
+        "SF": 2.95,
+        "PF": 0.42,
+        "F": 0.32,
+        "UTIL": 0.2
+      }
+    },
+    "44724136": {
+      "drafted": 4.46,
+      "fpts": 20.75,
+      "slots": {
+        "SF": 2.66,
+        "F": 0.94,
+        "UTIL": 0.48,
+        "PF": 0.38
+      }
+    },
+    "44724017": {
+      "drafted": 4.77,
+      "fpts": 32.25,
+      "slots": {
+        "SF": 2.65,
+        "SG": 1.48,
+        "G": 0.36,
+        "F": 0.15,
+        "UTIL": 0.13
+      }
+    },
+    "44724022": {
+      "drafted": 5.17,
+      "fpts": 12.75,
+      "slots": {
+        "SG": 2.62,
+        "G": 2.06,
+        "UTIL": 0.49
+      }
+    },
+    "44724167": {
+      "drafted": 5.43,
+      "fpts": 20.75,
+      "slots": {
+        "G": 2.47,
+        "SG": 2.1,
+        "UTIL": 0.86
+      }
+    },
+    "44723965": {
+      "drafted": 5.62,
+      "fpts": 38.0,
+      "slots": {
+        "G": 2.26,
+        "PG": 1.78,
+        "UTIL": 1.58
+      }
+    },
+    "44724192": {
+      "drafted": 3.42,
+      "fpts": 21.0,
+      "slots": {
+        "SF": 2.18,
+        "PF": 0.54,
+        "F": 0.5,
+        "UTIL": 0.2
+      }
+    },
+    "44724088": {
+      "drafted": 3.74,
+      "fpts": 23.75,
+      "slots": {
+        "UTIL": 1.98,
+        "C": 1.76
+      }
+    },
+    "44724162": {
+      "drafted": 3.88,
+      "fpts": 28.25,
+      "slots": {
+        "UTIL": 1.97,
+        "C": 1.91
+      }
+    },
+    "44724040": {
+      "drafted": 3.29,
+      "fpts": 22.5,
+      "slots": {
+        "SF": 1.89,
+        "PG": 0.89,
+        "G": 0.25,
+        "F": 0.16,
+        "UTIL": 0.1
+      }
+    },
+    "44724164": {
+      "drafted": 2.87,
+      "fpts": 8.0,
+      "slots": {
+        "SF": 1.84,
+        "F": 0.78,
+        "UTIL": 0.25
+      }
+    },
+    "44723983": {
+      "drafted": 3.88,
+      "fpts": 29.5,
+      "slots": {
+        "PG": 1.83,
+        "G": 1.54,
+        "UTIL": 0.51
+      }
+    },
+    "44724236": {
+      "drafted": 4.35,
+      "fpts": 18.0,
+      "slots": {
+        "SF": 1.65,
+        "F": 0.9,
+        "SG": 0.74,
+        "G": 0.64,
+        "UTIL": 0.42
+      }
+    },
+    "44724153": {
+      "drafted": 3.78,
+      "fpts": 18.0,
+      "slots": {
+        "SG": 1.54,
+        "G": 1.26,
+        "UTIL": 0.98
+      }
+    },
+    "44724106": {
+      "drafted": 2.85,
+      "fpts": 25.75,
+      "slots": {
+        "SF": 1.5,
+        "F": 0.61,
+        "PF": 0.58,
+        "UTIL": 0.16
+      }
+    },
+    "44724250": {
+      "drafted": 1.68,
+      "fpts": 0.0,
+      "slots": {
+        "C": 1.27,
+        "UTIL": 0.41
+      }
+    },
+    "44724273": {
+      "drafted": 1.79,
+      "fpts": 29.75,
+      "slots": {
+        "SF": 1.25,
+        "PF": 0.25,
+        "F": 0.23,
+        "UTIL": 0.06
+      }
+    },
+    "44724466": {
+      "drafted": 4.01,
+      "fpts": 16.25,
+      "slots": {
+        "PG": 1.21,
+        "SG": 1.16,
+        "G": 1.12,
+        "UTIL": 0.52
+      }
+    },
+    "44724269": {
+      "drafted": 2.1,
+      "fpts": 27.25,
+      "slots": {
+        "SF": 1.19,
+        "F": 0.34,
+        "PF": 0.32,
+        "UTIL": 0.25
+      }
+    },
+    "44724102": {
+      "drafted": 2.89,
+      "fpts": 23.25,
+      "slots": {
+        "SF": 1.13,
+        "PF": 0.78,
+        "F": 0.71,
+        "UTIL": 0.27
+      }
+    },
+    "44724284": {
+      "drafted": 3.36,
+      "fpts": 15.25,
+      "slots": {
+        "G": 1.12,
+        "PG": 0.92,
+        "SG": 0.81,
+        "UTIL": 0.51
+      }
+    },
+    "44724188": {
+      "drafted": 2.29,
+      "fpts": 11.0,
+      "slots": {
+        "F": 1.05,
+        "UTIL": 0.44,
+        "PF": 0.44,
+        "C": 0.36
+      }
+    },
+    "44724259": {
+      "drafted": 1.78,
+      "fpts": 29.75,
+      "slots": {
+        "UTIL": 0.93,
+        "C": 0.85
+      }
+    },
+    "44724048": {
+      "drafted": 2.75,
+      "fpts": 53.25,
+      "slots": {
+        "C": 0.88,
+        "PF": 0.81,
+        "F": 0.71,
+        "UTIL": 0.35
+      }
+    },
+    "44724314": {
+      "drafted": 2.22,
+      "fpts": 5.0,
+      "slots": {
+        "F": 0.88,
+        "PF": 0.59,
+        "C": 0.55,
+        "UTIL": 0.2
+      }
+    },
+    "44724252": {
+      "drafted": 1.36,
+      "fpts": 30.5,
+      "slots": {
+        "PG": 0.75,
+        "G": 0.49,
+        "UTIL": 0.12
+      }
+    },
+    "44724198": {
+      "drafted": 1.37,
+      "fpts": 9.5,
+      "slots": {
+        "SF": 0.74,
+        "F": 0.26,
+        "PF": 0.21,
+        "UTIL": 0.16
+      }
+    },
+    "44724124": {
+      "drafted": 1.77,
+      "fpts": 19.0,
+      "slots": {
+        "G": 0.66,
+        "SG": 0.46,
+        "PG": 0.4,
+        "UTIL": 0.25
+      }
+    },
+    "44723997": {
+      "drafted": 0.67,
+      "fpts": 0.0,
+      "slots": {
+        "PG": 0.57,
+        "G": 0.06,
+        "UTIL": 0.04
+      }
+    },
+    "44724128": {
+      "drafted": 0.78,
+      "fpts": 12.5,
+      "slots": {
+        "C": 0.55,
+        "UTIL": 0.23
+      }
+    },
+    "44724221": {
+      "drafted": 1.52,
+      "fpts": 24.75,
+      "slots": {
+        "SF": 0.54,
+        "F": 0.44,
+        "PF": 0.35,
+        "UTIL": 0.19
+      }
+    },
+    "44724265": {
+      "drafted": 1.21,
+      "fpts": 30.0,
+      "slots": {
+        "F": 0.53,
+        "PF": 0.27,
+        "C": 0.25,
+        "UTIL": 0.16
+      }
+    },
+    "44724065": {
+      "drafted": 1.23,
+      "fpts": 24.5,
+      "slots": {
+        "PF": 0.49,
+        "C": 0.36,
+        "F": 0.32,
+        "UTIL": 0.06
+      }
+    },
+    "44724233": {
+      "drafted": 0.83,
+      "fpts": 12.75,
+      "slots": {
+        "G": 0.45,
+        "PG": 0.23,
+        "UTIL": 0.15
+      }
+    },
+    "44724202": {
+      "drafted": 0.97,
+      "fpts": 10.75,
+      "slots": {
+        "SF": 0.42,
+        "F": 0.17,
+        "G": 0.16,
+        "SG": 0.14,
+        "UTIL": 0.08
+      }
+    },
+    "44724196": {
+      "drafted": 0.67,
+      "fpts": 7.5,
+      "slots": {
+        "C": 0.4,
+        "UTIL": 0.27
+      }
+    },
+    "44724140": {
+      "drafted": 0.67,
+      "fpts": 41.0,
+      "slots": {
+        "SF": 0.36,
+        "PF": 0.15,
+        "F": 0.13,
+        "UTIL": 0.03
+      }
+    },
+    "44724076": {
+      "drafted": 0.85,
+      "fpts": 43.0,
+      "slots": {
+        "PF": 0.36,
+        "C": 0.22,
+        "F": 0.17,
+        "UTIL": 0.1
+      }
+    },
+    "44724354": {
+      "drafted": 1.12,
+      "fpts": 7.0,
+      "slots": {
+        "SF": 0.34,
+        "F": 0.28,
+        "UTIL": 0.21,
+        "G": 0.2,
+        "SG": 0.09
+      }
+    },
+    "44724309": {
+      "drafted": 0.55,
+      "fpts": 6.25,
+      "slots": {
+        "F": 0.18,
+        "SF": 0.15,
+        "UTIL": 0.09,
+        "G": 0.08,
+        "SG": 0.05
+      }
+    },
+    "44724323": {
+      "drafted": 0.38,
+      "fpts": 13.0,
+      "slots": {
+        "F": 0.17,
+        "PF": 0.16,
+        "UTIL": 0.05
+      }
+    },
+    "44723986": {
+      "drafted": 0.27,
+      "fpts": 0.0,
+      "slots": {
+        "PG": 0.14,
+        "SG": 0.08,
+        "G": 0.05
+      }
+    },
+    "44724277": {
+      "drafted": 0.19,
+      "fpts": 22.25,
+      "slots": {
+        "SG": 0.1,
+        "G": 0.09
+      }
+    },
+    "44724301": {
+      "drafted": 0.16,
+      "fpts": 0.0,
+      "slots": {
+        "UTIL": 0.09,
+        "C": 0.07
+      }
+    },
+    "44724345": {
+      "drafted": 0.17,
+      "fpts": 18.75,
+      "slots": {
+        "SF": 0.08,
+        "F": 0.06,
+        "PF": 0.03
+      }
+    },
+    "44724174": {
+      "drafted": 0.21,
+      "fpts": 19.25,
+      "slots": {
+        "F": 0.08,
+        "UTIL": 0.06,
+        "SF": 0.05,
+        "G": 0.02
+      }
+    },
+    "44724261": {
+      "drafted": 0.09,
+      "fpts": 17.75,
+      "slots": {
+        "G": 0.06,
+        "UTIL": 0.02,
+        "SG": 0.01
+      }
+    },
+    "44724255": {
+      "drafted": 0.15,
+      "fpts": 21.75,
+      "slots": {
+        "G": 0.06,
+        "SG": 0.05,
+        "PG": 0.04
+      }
+    },
+    "44724225": {
+      "drafted": 0.04,
+      "fpts": 15.5,
+      "slots": {
+        "G": 0.03,
+        "PG": 0.01
+      }
+    },
+    "44724387": {
+      "drafted": 0.03,
+      "fpts": 0.0,
+      "slots": {
+        "UTIL": 0.02,
+        "C": 0.01
+      }
+    },
+    "44724330": {
+      "drafted": 0.03,
+      "fpts": 20.25,
+      "slots": {
+        "UTIL": 0.02,
+        "C": 0.01
+      }
+    },
+    "44724336": {
+      "drafted": 0.05,
+      "fpts": 17.0,
+      "slots": {
+        "SF": 0.02,
+        "UTIL": 0.02,
+        "F": 0.01
+      }
+    },
+    "44724307": {
+      "drafted": 0.02,
+      "fpts": 14.0,
+      "slots": {
+        "UTIL": 0.02
+      }
+    },
+    "44724118": {
+      "drafted": 0.02,
+      "fpts": 0.0,
+      "slots": {
+        "C": 0.02
+      }
+    },
+    "44724213": {
+      "drafted": 0.03,
+      "fpts": 0.0,
+      "slots": {
+        "G": 0.02,
+        "PG": 0.01
+      }
+    },
+    "44724298": {
+      "drafted": 0.02,
+      "fpts": 7.5,
+      "slots": {
+        "SF": 0.02
+      }
+    },
+    "44724359": {
+      "drafted": 0.03,
+      "fpts": 4.25,
+      "slots": {
+        "F": 0.02,
+        "SF": 0.01
+      }
+    },
+    "44724447": {
+      "drafted": 0.02,
+      "fpts": 0.0,
+      "slots": {
+        "F": 0.02
+      }
+    },
+    "44724383": {
+      "drafted": 0.03,
+      "fpts": 9.5,
+      "slots": {
+        "UTIL": 0.02,
+        "PF": 0.01
+      }
+    },
+    "44724423": {
+      "drafted": 0.03,
+      "fpts": 1.5,
+      "slots": {
+        "F": 0.02,
+        "SG": 0.01
+      }
+    },
+    "44724069": {
+      "drafted": 0.01,
+      "fpts": 0.0,
+      "slots": {
+        "PG": 0.01
+      }
+    },
+    "44724397": {
+      "drafted": 0.01,
+      "fpts": 10.0,
+      "slots": {
+        "PG": 0.01
+      }
+    },
+    "44724037": {
+      "drafted": 0.01,
+      "fpts": 0.0,
+      "slots": {
+        "UTIL": 0.01
+      }
+    },
+    "44724170": {
+      "drafted": 0.01,
+      "fpts": 0.0,
+      "slots": {
+        "PF": 0.01
+      }
+    },
+    "44724246": {
+      "drafted": 0.01,
+      "fpts": 0.0,
+      "slots": {
+        "C": 0.01
+      }
+    },
+    "44724410": {
+      "drafted": 0.01,
+      "fpts": 8.75,
+      "slots": {
+        "PF": 0.01
+      }
+    },
+    "44724341": {
+      "drafted": 0.01,
+      "fpts": 2.25,
+      "slots": {
+        "SF": 0.01
+      }
+    },
+    "44724326": {
+      "drafted": 0.01,
+      "fpts": 0.0,
+      "slots": {
+        "SF": 0.01
+      }
+    },
+    "44724393": {
+      "drafted": 0.01,
+      "fpts": 0.0,
+      "slots": {
+        "F": 0.01
+      }
+    },
+    "44724477": {
+      "drafted": 0.01,
+      "fpts": 0.0,
+      "slots": {
+        "SG": 0.01
+      }
+    },
+    "44724295": {
+      "drafted": 0.01,
+      "fpts": 25.0,
+      "slots": {
+        "PG": 0.01
+      }
+    },
+    "44724288": {
+      "drafted": 0.01,
+      "fpts": 6.75,
+      "slots": {
+        "G": 0.01
+      }
+    },
+    "44724367": {
+      "drafted": 0.01,
+      "fpts": 6.25,
+      "slots": {
+        "SF": 0.01
+      }
+    },
+    "44724507": {
+      "drafted": 0.01,
+      "fpts": 0.0,
+      "slots": {
+        "UTIL": 0.01
+      }
+    },
+    "44724321": {
+      "drafted": 0.01,
+      "fpts": 4.75,
+      "slots": {
+        "UTIL": 0.01
+      }
+    },
+    "44724454": {
+      "drafted": 0.01,
+      "fpts": 3.25,
+      "slots": {
+        "F": 0.01
+      }
+    },
+    "44724495": {
+      "drafted": 0.01,
+      "fpts": 1.5,
+      "slots": {
+        "G": 0.01
+      }
+    },
+    "44724363": {
+      "drafted": 0.01,
+      "fpts": 6.5,
+      "slots": {
+        "UTIL": 0.01
+      }
+    },
+    "44724376": {
+      "drafted": 0.01,
+      "fpts": 6.75,
+      "slots": {
+        "G": 0.01
+      }
+    },
+    "44724216": {
+      "drafted": 0.01,
+      "fpts": 0.0,
+      "slots": {
+        "G": 0.01
+      }
+    },
+    "44724461": {
+      "drafted": 0.01,
+      "fpts": 0.0,
+      "slots": {
+        "C": 0.01
+      }
+    },
+    "44724389": {
+      "drafted": 0.01,
+      "fpts": 0.0,
+      "slots": {
+        "G": 0.01
+      }
+    },
+    "44724349": {
+      "drafted": 0.01,
+      "fpts": 10.5,
+      "slots": {
+        "SG": 0.01
+      }
+    },
+    "44724318": {
+      "drafted": 0.01,
+      "fpts": 4.0,
+      "slots": {
+        "F": 0.01
+      }
+    },
+    "44723973": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724052": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724100": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724134": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724144": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724150": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724156": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724207": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724209": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724243": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724303": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724334": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724372": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724379": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724400": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724403": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724406": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724413": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724415": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724417": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724419": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724428": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724432": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724435": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724439": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724441": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724444": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724451": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724458": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724463": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724470": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724474": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724481": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724484": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724487": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724491": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724493": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724498": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724503": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724509": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724513": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724516": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724519": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724522": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724524": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724527": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724531": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724533": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724535": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724537": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724539": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724543": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724546": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    },
+    "44724548": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {}
+    }
+  },
+  "unmatched": [],
+  "ambiguous": [],
+  "top": [
+    {
+      "rank": 1,
+      "name": "AaronCosta (29/150)",
+      "points": 355.25
+    },
+    {
+      "rank": 1,
+      "name": "battlekat1",
+      "points": 355.25
+    },
+    {
+      "rank": 3,
+      "name": "lynch303 (77/150)",
+      "points": 350.75
+    }
+  ],
+  "pointsQuantiles": {
+    "p50": 258.75,
+    "p90": 299.25,
+    "p99": 330.25,
+    "max": 355.25,
+    "min": 0.0
+  },
+  "winners": [
+    {
+      "rank": 1,
+      "name": "AaronCosta (29/150)",
+      "points": 355.25,
+      "players": [
+        {
+          "slot": "C",
+          "name": "Jarrett Allen",
+          "id": "44724086",
+          "fpts": 47.25
+        },
+        {
+          "slot": "F",
+          "name": "Jonathan Kuminga",
+          "id": "44724147",
+          "fpts": 34.0
+        },
+        {
+          "slot": "G",
+          "name": "Javon Small",
+          "id": "44724466",
+          "fpts": 16.25
+        },
+        {
+          "slot": "PF",
+          "name": "Cameron Boozer",
+          "id": "44724014",
+          "fpts": 42.75
+        },
+        {
+          "slot": "PG",
+          "name": "Darius Acuff Jr.",
+          "id": "44724010",
+          "fpts": 54.75
+        },
+        {
+          "slot": "SF",
+          "name": "Ayo Dosunmu",
+          "id": "44724095",
+          "fpts": 48.25
+        },
+        {
+          "slot": "SG",
+          "name": "Cam Spencer",
+          "id": "44724280",
+          "fpts": 40.25
+        },
+        {
+          "slot": "UTIL",
+          "name": "Victor Wembanyama",
+          "id": "44723963",
+          "fpts": 71.75
+        }
+      ]
+    },
+    {
+      "rank": 1,
+      "name": "battlekat1",
+      "points": 355.25,
+      "players": [
+        {
+          "slot": "C",
+          "name": "Karlo Matkovic",
+          "id": "44724291",
+          "fpts": 26.0
+        },
+        {
+          "slot": "F",
+          "name": "Jabari Smith Jr.",
+          "id": "44724048",
+          "fpts": 53.25
+        },
+        {
+          "slot": "G",
+          "name": "Jeremiah Fears",
+          "id": "44724130",
+          "fpts": 37.75
+        },
+        {
+          "slot": "PF",
+          "name": "Alperen Sengun",
+          "id": "44723979",
+          "fpts": 41.75
+        },
+        {
+          "slot": "PG",
+          "name": "Marcus Smart",
+          "id": "44724229",
+          "fpts": 39.75
+        },
+        {
+          "slot": "SF",
+          "name": "Dylan Harper",
+          "id": "44724055",
+          "fpts": 44.75
+        },
+        {
+          "slot": "SG",
+          "name": "Cam Spencer",
+          "id": "44724280",
+          "fpts": 40.25
+        },
+        {
+          "slot": "UTIL",
+          "name": "Victor Wembanyama",
+          "id": "44723963",
+          "fpts": 71.75
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "lynch303 (77/150)",
+      "points": 350.75,
+      "players": [
+        {
+          "slot": "C",
+          "name": "Victor Wembanyama",
+          "id": "44723963",
+          "fpts": 71.75
+        },
+        {
+          "slot": "F",
+          "name": "Cameron Boozer",
+          "id": "44724014",
+          "fpts": 42.75
+        },
+        {
+          "slot": "G",
+          "name": "Cam Spencer",
+          "id": "44724280",
+          "fpts": 40.25
+        },
+        {
+          "slot": "PF",
+          "name": "Karlo Matkovic",
+          "id": "44724291",
+          "fpts": 26.0
+        },
+        {
+          "slot": "PG",
+          "name": "De'Aaron Fox",
+          "id": "44724045",
+          "fpts": 42.5
+        },
+        {
+          "slot": "SF",
+          "name": "Ayo Dosunmu",
+          "id": "44724095",
+          "fpts": 48.25
+        },
+        {
+          "slot": "SG",
+          "name": "Darius Acuff Jr.",
+          "id": "44724010",
+          "fpts": 54.75
+        },
+        {
+          "slot": "UTIL",
+          "name": "Joan Beringer",
+          "id": "44724241",
+          "fpts": 24.5
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "awen419 (15/150)",
+      "points": 350.0,
+      "players": [
+        {
+          "slot": "C",
+          "name": "Victor Wembanyama",
+          "id": "44723963",
+          "fpts": 71.75
+        },
+        {
+          "slot": "F",
+          "name": "Dylan Harper",
+          "id": "44724055",
+          "fpts": 44.75
+        },
+        {
+          "slot": "G",
+          "name": "James Harden",
+          "id": "44724003",
+          "fpts": 33.5
+        },
+        {
+          "slot": "PF",
+          "name": "Jonathan Kuminga",
+          "id": "44724147",
+          "fpts": 34.0
+        },
+        {
+          "slot": "PG",
+          "name": "Jeremiah Fears",
+          "id": "44724130",
+          "fpts": 37.75
+        },
+        {
+          "slot": "SF",
+          "name": "Ayo Dosunmu",
+          "id": "44724095",
+          "fpts": 48.25
+        },
+        {
+          "slot": "SG",
+          "name": "Cam Spencer",
+          "id": "44724280",
+          "fpts": 40.25
+        },
+        {
+          "slot": "UTIL",
+          "name": "Marcus Smart",
+          "id": "44724229",
+          "fpts": 39.75
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "omar25641 (139/150)",
+      "points": 349.0,
+      "players": [
+        {
+          "slot": "C",
+          "name": "Jarrett Allen",
+          "id": "44724086",
+          "fpts": 47.25
+        },
+        {
+          "slot": "F",
+          "name": "Kyle Kuzma",
+          "id": "44724159",
+          "fpts": 24.75
+        },
+        {
+          "slot": "G",
+          "name": "Cam Spencer",
+          "id": "44724280",
+          "fpts": 40.25
+        },
+        {
+          "slot": "PF",
+          "name": "Cameron Boozer",
+          "id": "44724014",
+          "fpts": 42.75
+        },
+        {
+          "slot": "PG",
+          "name": "Jeremiah Fears",
+          "id": "44724130",
+          "fpts": 37.75
+        },
+        {
+          "slot": "SF",
+          "name": "Gregory Jackson",
+          "id": "44724273",
+          "fpts": 29.75
+        },
+        {
+          "slot": "SG",
+          "name": "Darius Acuff Jr.",
+          "id": "44724010",
+          "fpts": 54.75
+        },
+        {
+          "slot": "UTIL",
+          "name": "Victor Wembanyama",
+          "id": "44723963",
+          "fpts": 71.75
+        }
+      ]
+    }
+  ],
+  "winnersUnmatched": []
+}

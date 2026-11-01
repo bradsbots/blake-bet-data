@@ -1,0 +1,351 @@
+{
+  "sport": "nba",
+  "slate": "155966",
+  "date": "2026-10-31",
+  "contest": {
+    "id": 197327886,
+    "label": "NBA $200K Fadeaway [$50K to 1st]",
+    "entries": 12629
+  },
+  "generatedAt": "2026-11-01T09:40:13.437Z",
+  "winner": {
+    "rank": 1,
+    "name": "AaronCosta (29/150)",
+    "points": 355.25,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44724010,
+        "name": "Darius Acuff Jr.",
+        "team": "SAC",
+        "pos": "PG",
+        "salary": 7500,
+        "fpts": 54.75,
+        "own": 38.95
+      },
+      {
+        "slot": "SG",
+        "id": 44724280,
+        "name": "Cam Spencer",
+        "team": "MEM",
+        "pos": "PG",
+        "salary": 3700,
+        "fpts": 40.25,
+        "own": 61.64
+      },
+      {
+        "slot": "SF",
+        "id": 44724095,
+        "name": "Ayo Dosunmu",
+        "team": "MIN",
+        "pos": "SG",
+        "salary": 5900,
+        "fpts": 48.25,
+        "own": 11.95
+      },
+      {
+        "slot": "PF",
+        "id": 44724014,
+        "name": "Cameron Boozer",
+        "team": "MEM",
+        "pos": "PF",
+        "salary": 7400,
+        "fpts": 42.75,
+        "own": 55.86
+      },
+      {
+        "slot": "C",
+        "id": 44724086,
+        "name": "Jarrett Allen",
+        "team": "CLE",
+        "pos": "C",
+        "salary": 6100,
+        "fpts": 47.25,
+        "own": 6.99
+      },
+      {
+        "slot": "G",
+        "id": 44724466,
+        "name": "Javon Small",
+        "team": "MEM",
+        "pos": "PG",
+        "salary": 3000,
+        "fpts": 16.25,
+        "own": 4.01
+      },
+      {
+        "slot": "F",
+        "id": 44724147,
+        "name": "Jonathan Kuminga",
+        "team": "MIN",
+        "pos": "PF",
+        "salary": 5400,
+        "fpts": 34,
+        "own": 10.72
+      },
+      {
+        "slot": "UTIL",
+        "id": 44723963,
+        "name": "Victor Wembanyama",
+        "team": "SAS",
+        "pos": "C",
+        "salary": 10900,
+        "fpts": 71.75,
+        "own": 26.16
+      }
+    ]
+  },
+  "optimal": {
+    "points": 386.75,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44724280,
+        "name": "Cam Spencer",
+        "team": "MEM",
+        "pos": "PG",
+        "salary": 3700,
+        "fpts": 40.25,
+        "own": 61.64
+      },
+      {
+        "slot": "SG",
+        "id": 44724130,
+        "name": "Jeremiah Fears",
+        "team": "NOP",
+        "pos": "PG",
+        "salary": 5600,
+        "fpts": 37.75,
+        "own": 49.21
+      },
+      {
+        "slot": "SF",
+        "id": 44724095,
+        "name": "Ayo Dosunmu",
+        "team": "MIN",
+        "pos": "SG",
+        "salary": 5900,
+        "fpts": 48.25,
+        "own": 11.95
+      },
+      {
+        "slot": "PF",
+        "id": 44724140,
+        "name": "Saddiq Bey",
+        "team": "NOP",
+        "pos": "SF",
+        "salary": 5500,
+        "fpts": 41,
+        "own": 0.67
+      },
+      {
+        "slot": "C",
+        "id": 44723963,
+        "name": "Victor Wembanyama",
+        "team": "SAS",
+        "pos": "C",
+        "salary": 10900,
+        "fpts": 71.75,
+        "own": 26.16
+      },
+      {
+        "slot": "G",
+        "id": 44724010,
+        "name": "Darius Acuff Jr.",
+        "team": "SAC",
+        "pos": "PG",
+        "salary": 7500,
+        "fpts": 54.75,
+        "own": 38.95
+      },
+      {
+        "slot": "F",
+        "id": 44724048,
+        "name": "Jabari Smith Jr.",
+        "team": "HOU",
+        "pos": "PF",
+        "salary": 6600,
+        "fpts": 53.25,
+        "own": 2.75
+      },
+      {
+        "slot": "UTIL",
+        "id": 44724229,
+        "name": "Marcus Smart",
+        "team": "HOU",
+        "pos": "PG",
+        "salary": 4200,
+        "fpts": 39.75,
+        "own": 8.34
+      }
+    ],
+    "assumedZero": 54
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 7405,
+    "pctile": 40.96,
+    "points": 251.5,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44724010,
+        "name": "Darius Acuff Jr.",
+        "team": "SAC",
+        "pos": "PG",
+        "salary": 7500,
+        "fpts": 54.75,
+        "own": 38.95
+      },
+      {
+        "slot": "SG",
+        "id": 44724025,
+        "name": "Tyler Herro",
+        "team": "MIL",
+        "pos": "SG",
+        "salary": 7000,
+        "fpts": 24.75,
+        "own": 21.58
+      },
+      {
+        "slot": "SF",
+        "id": 44724120,
+        "name": "Peyton Watson",
+        "team": "CLE",
+        "pos": "SF",
+        "salary": 5700,
+        "fpts": 22.5,
+        "own": 7.57
+      },
+      {
+        "slot": "PF",
+        "id": 44724147,
+        "name": "Jonathan Kuminga",
+        "team": "MIN",
+        "pos": "PF",
+        "salary": 5400,
+        "fpts": 34,
+        "own": 10.72
+      },
+      {
+        "slot": "C",
+        "id": 44724086,
+        "name": "Jarrett Allen",
+        "team": "CLE",
+        "pos": "C",
+        "salary": 6100,
+        "fpts": 47.25,
+        "own": 6.99
+      },
+      {
+        "slot": "G",
+        "id": 44724060,
+        "name": "Ajay Mitchell",
+        "team": "OKC",
+        "pos": "SG",
+        "salary": 6400,
+        "fpts": 18.75,
+        "own": 25.32
+      },
+      {
+        "slot": "F",
+        "id": 44724114,
+        "name": "Precious Achiuwa",
+        "team": "SAC",
+        "pos": "PF",
+        "salary": 5700,
+        "fpts": 18.25,
+        "own": 13.97
+      },
+      {
+        "slot": "UTIL",
+        "id": 44724072,
+        "name": "Jaden McDaniels",
+        "team": "MIN",
+        "pos": "SF",
+        "salary": 6200,
+        "fpts": 31.25,
+        "own": 22.5
+      }
+    ],
+    "money": {
+      "fee": 18,
+      "one": {
+        "won": 0,
+        "net": -18
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 95,
+        "net": -265,
+        "cashed": 3
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "MEM": 3,
+        "MIN": 2,
+        "CLE": 1,
+        "SAC": 1,
+        "SAS": 1
+      },
+      "games": {
+        "SAC@MEM": 4,
+        "MIN@SAS": 3,
+        "CLE@MIL": 1
+      },
+      "nGames": 3,
+      "summary": [
+        "MEM 3 · MIN 2",
+        "3 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "HOU": 2,
+        "NOP": 2,
+        "MEM": 1,
+        "MIN": 1,
+        "SAC": 1,
+        "SAS": 1
+      },
+      "games": {
+        "ATL@NOP": 2,
+        "MIN@SAS": 2,
+        "OKC@HOU": 2,
+        "SAC@MEM": 2
+      },
+      "nGames": 4,
+      "summary": [
+        "HOU 2 · NOP 2",
+        "4 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "CLE": 2,
+        "MIN": 2,
+        "SAC": 2,
+        "MIL": 1,
+        "OKC": 1
+      },
+      "games": {
+        "CLE@MIL": 3,
+        "MIN@SAS": 2,
+        "SAC@MEM": 2,
+        "OKC@HOU": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "CLE 2 · MIN 2 · SAC 2",
+        "4 games"
+      ]
+    }
+  }
+}
