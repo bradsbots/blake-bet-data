@@ -2,6 +2,50 @@
  "sport": "nba",
  "slates": [
   {
+   "slate": "155966",
+   "date": "2026-10-31",
+   "label": "NBA $200K Fadeaway [$50K to 1st]",
+   "entries": 12629,
+   "source": "live",
+   "model": "v1",
+   "predictedAt": "2026-10-31T22:45:06+00:00",
+   "lockAt": "2026-10-31T23:00:00+00:00",
+   "minutesBeforeLock": 15,
+   "n": 149,
+   "mae": 4.064,
+   "mae5": 9.635,
+   "spearman": 0.8866,
+   "top10": 0.4,
+   "chalk": {
+    "n": 13,
+    "caught": 8
+   },
+   "falseChalk": 3,
+   "misses": [
+    {
+     "name": "Cam Spencer",
+     "pos": "ALL",
+     "team": "MEM",
+     "pred": 1.9,
+     "actual": 61.64
+    },
+    {
+     "name": "Karlo Matkovic",
+     "pos": "ALL",
+     "team": "NOP",
+     "pred": 4.12,
+     "actual": 46.27
+    },
+    {
+     "name": "Joan Beringer",
+     "pos": "ALL",
+     "team": "MIN",
+     "pred": 4.96,
+     "actual": 38.99
+    }
+   ]
+  },
+  {
    "slate": "154398",
    "date": "2026-10-30",
    "label": "NBA $300K Friday 8's [$100K to 1st]",
@@ -47,14 +91,14 @@
   }
  ],
  "recent": {
-  "slates": 1,
-  "n": 231,
-  "mae": 2.06,
-  "mae5": 6.092,
+  "slates": 2,
+  "n": 380,
+  "mae": 2.846,
+  "mae5": 7.787,
   "chalk": {
-   "n": 12,
-   "caught": 9
+   "n": 25,
+   "caught": 17
   },
-  "falseChalk": 0
+  "falseChalk": 3
  }
 }
