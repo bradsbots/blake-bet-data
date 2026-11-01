@@ -1,0 +1,411 @@
+{
+  "sport": "nhl",
+  "site": "fd",
+  "slate": "136076",
+  "date": "2026-10-31",
+  "contest": {
+    "id": 281335640,
+    "label": "FD NHL 136076-281335640",
+    "entries": 2651
+  },
+  "generatedAt": "2026-11-01T15:09:15.435Z",
+  "winner": {
+    "rank": 1,
+    "name": "lmfaoyourface (57/80)",
+    "points": 254,
+    "salary": 54900,
+    "players": [
+      {
+        "slot": "C",
+        "id": 8594,
+        "name": "Sidney Crosby",
+        "team": "PIT",
+        "pos": "C",
+        "salary": 5300,
+        "fpts": 31.7,
+        "own": 26.56
+      },
+      {
+        "slot": "C",
+        "id": 41391,
+        "name": "Nathan MacKinnon",
+        "team": "COL",
+        "pos": "C",
+        "salary": 8100,
+        "fpts": 28.5,
+        "own": 52.51
+      },
+      {
+        "slot": "W",
+        "id": 15269,
+        "name": "Rickard Rakell",
+        "team": "PIT",
+        "pos": "W",
+        "salary": 5600,
+        "fpts": 23.2,
+        "own": 17.65
+      },
+      {
+        "slot": "W",
+        "id": 21927,
+        "name": "Chris Kreider",
+        "team": "MTL",
+        "pos": "W",
+        "salary": 4400,
+        "fpts": 28,
+        "own": 3.13
+      },
+      {
+        "slot": "D",
+        "id": 8551,
+        "name": "Erik Karlsson",
+        "team": "PIT",
+        "pos": "D",
+        "salary": 5500,
+        "fpts": 34.9,
+        "own": 14.71
+      },
+      {
+        "slot": "D",
+        "id": 70199,
+        "name": "Devon Toews",
+        "team": "COL",
+        "pos": "D",
+        "salary": 5200,
+        "fpts": 22.4,
+        "own": 7.47
+      },
+      {
+        "slot": "UTIL",
+        "id": 82045,
+        "name": "Martin Necas",
+        "team": "COL",
+        "pos": "W",
+        "salary": 6900,
+        "fpts": 23.7,
+        "own": 25.01
+      },
+      {
+        "slot": "UTIL",
+        "id": 103523,
+        "name": "Cale Makar",
+        "team": "COL",
+        "pos": "D",
+        "salary": 6300,
+        "fpts": 36.8,
+        "own": 43.98
+      },
+      {
+        "slot": "G",
+        "id": 38243,
+        "name": "Anthony Stolarz",
+        "team": "TOR",
+        "pos": "G",
+        "salary": 7600,
+        "fpts": 24.8,
+        "own": 12.33
+      }
+    ]
+  },
+  "optimal": {
+    "points": 280.7,
+    "salary": 54200,
+    "players": [
+      {
+        "slot": "C",
+        "id": 41391,
+        "name": "Nathan MacKinnon",
+        "team": "COL",
+        "pos": "C",
+        "salary": 8100,
+        "fpts": 28.5,
+        "own": 52.51
+      },
+      {
+        "slot": "C",
+        "id": 200579,
+        "name": "Arttu Hyry",
+        "team": "DAL",
+        "pos": "C",
+        "salary": 4600,
+        "fpts": 26.4,
+        "own": 0.26
+      },
+      {
+        "slot": "W",
+        "id": 42772,
+        "name": "Josh Anderson",
+        "team": "MTL",
+        "pos": "W",
+        "salary": 5200,
+        "fpts": 36.8,
+        "own": 1.36
+      },
+      {
+        "slot": "W",
+        "id": 70483,
+        "name": "Artturi Lehkonen",
+        "team": "COL",
+        "pos": "W",
+        "salary": 7200,
+        "fpts": 30.4,
+        "own": 10.98
+      },
+      {
+        "slot": "D",
+        "id": 8551,
+        "name": "Erik Karlsson",
+        "team": "PIT",
+        "pos": "D",
+        "salary": 5500,
+        "fpts": 34.9,
+        "own": 14.71
+      },
+      {
+        "slot": "D",
+        "id": 103523,
+        "name": "Cale Makar",
+        "team": "COL",
+        "pos": "D",
+        "salary": 6300,
+        "fpts": 36.8,
+        "own": 43.98
+      },
+      {
+        "slot": "UTIL",
+        "id": 8594,
+        "name": "Sidney Crosby",
+        "team": "PIT",
+        "pos": "C",
+        "salary": 5300,
+        "fpts": 31.7,
+        "own": 26.56
+      },
+      {
+        "slot": "UTIL",
+        "id": 21927,
+        "name": "Chris Kreider",
+        "team": "MTL",
+        "pos": "W",
+        "salary": 4400,
+        "fpts": 28,
+        "own": 3.13
+      },
+      {
+        "slot": "G",
+        "id": 103202,
+        "name": "Jake Oettinger",
+        "team": "DAL",
+        "pos": "G",
+        "salary": 7600,
+        "fpts": 27.2,
+        "own": 18.14
+      }
+    ],
+    "assumedZero": 22
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 1500,
+    "pctile": 43.19,
+    "points": 136.5,
+    "salary": 54800,
+    "players": [
+      {
+        "slot": "C",
+        "id": 41391,
+        "name": "Nathan MacKinnon",
+        "team": "COL",
+        "pos": "C",
+        "salary": 8100,
+        "fpts": 28.5,
+        "own": 52.51
+      },
+      {
+        "slot": "C",
+        "id": 70899,
+        "name": "Auston Matthews",
+        "team": "TOR",
+        "pos": "C",
+        "salary": 8000,
+        "fpts": 15.2,
+        "own": 41.19
+      },
+      {
+        "slot": "W",
+        "id": 204499,
+        "name": "Matvei Gridin",
+        "team": "CGY",
+        "pos": "W",
+        "salary": 5800,
+        "fpts": 3.2,
+        "own": 2.57
+      },
+      {
+        "slot": "W",
+        "id": 8640,
+        "name": "David Perron",
+        "team": "DAL",
+        "pos": "W",
+        "salary": 3000,
+        "fpts": 0,
+        "own": 2.07
+      },
+      {
+        "slot": "D",
+        "id": 70199,
+        "name": "Devon Toews",
+        "team": "COL",
+        "pos": "D",
+        "salary": 5200,
+        "fpts": 22.4,
+        "own": 7.47
+      },
+      {
+        "slot": "D",
+        "id": 116900,
+        "name": "Thomas Harley",
+        "team": "DAL",
+        "pos": "D",
+        "salary": 4800,
+        "fpts": 16.8,
+        "own": 5.51
+      },
+      {
+        "slot": "UTIL",
+        "id": 103203,
+        "name": "Joel Farabee",
+        "team": "CGY",
+        "pos": "W",
+        "salary": 6400,
+        "fpts": 20,
+        "own": 3.92
+      },
+      {
+        "slot": "UTIL",
+        "id": 184286,
+        "name": "Matt Coronato",
+        "team": "CGY",
+        "pos": "W",
+        "salary": 5900,
+        "fpts": 3.2,
+        "own": 4.49
+      },
+      {
+        "slot": "G",
+        "id": 103202,
+        "name": "Jake Oettinger",
+        "team": "DAL",
+        "pos": "G",
+        "salary": 7600,
+        "fpts": 27.2,
+        "own": 18.14
+      }
+    ],
+    "money": null
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "COL": 4,
+        "PIT": 3,
+        "MTL": 1,
+        "TOR": 1
+      },
+      "games": {
+        "CGY@COL": 4,
+        "PIT@MTL": 4,
+        "TOR@VAN": 1
+      },
+      "nGames": 3,
+      "lines": {
+        "COL f1": 2,
+        "PIT f1": 2
+      },
+      "pp": {
+        "COL pp1": 3,
+        "PIT pp1": 3
+      },
+      "goalie": {
+        "team": "TOR",
+        "opposing": 0
+      },
+      "summary": [
+        "COL 4 · PIT 3",
+        "COL f1 ×2",
+        "PIT f1 ×2",
+        "COL pp1 ×3",
+        "PIT pp1 ×3",
+        "G TOR",
+        "3 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "COL": 3,
+        "DAL": 2,
+        "MTL": 2,
+        "PIT": 2
+      },
+      "games": {
+        "PIT@MTL": 4,
+        "CGY@COL": 3,
+        "CBJ@DAL": 2
+      },
+      "nGames": 3,
+      "lines": {
+        "COL f1": 2,
+        "MTL f2": 2
+      },
+      "pp": {
+        "COL pp1": 2,
+        "PIT pp1": 2
+      },
+      "goalie": {
+        "team": "DAL",
+        "opposing": 0
+      },
+      "summary": [
+        "COL 3 · DAL 2 · MTL 2 · PIT 2",
+        "COL f1 ×2",
+        "MTL f2 ×2",
+        "COL pp1 ×2",
+        "PIT pp1 ×2",
+        "G DAL",
+        "3 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "CGY": 3,
+        "DAL": 3,
+        "COL": 2,
+        "TOR": 1
+      },
+      "games": {
+        "CGY@COL": 5,
+        "CBJ@DAL": 3,
+        "TOR@VAN": 1
+      },
+      "nGames": 3,
+      "lines": {
+        "CGY f1": 2
+      },
+      "pp": {
+        "CGY pp1": 3
+      },
+      "goalie": {
+        "team": "DAL",
+        "opposing": 0
+      },
+      "summary": [
+        "CGY 3 · DAL 3 · COL 2",
+        "CGY f1 ×2",
+        "CGY pp1 ×3",
+        "G DAL",
+        "3 games"
+      ]
+    }
+  }
+}
