@@ -1,0 +1,416 @@
+{
+  "sport": "nfl",
+  "slate": "153728",
+  "date": "2026-11-01",
+  "contest": {
+    "id": 197176675,
+    "label": "NFL $2.5M Fantasy Football Millionaire [$1M to 1st, $50K Crown Cash Throne Eligible]",
+    "entries": 147058
+  },
+  "generatedAt": "2026-11-02T09:40:28.659Z",
+  "winner": {
+    "rank": 1,
+    "name": "Hebrewcheetah (88/150)",
+    "points": 259.08,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "QB",
+        "id": 44664391,
+        "name": "Joe Burrow",
+        "team": "CIN",
+        "pos": "QB",
+        "salary": 7000,
+        "fpts": 45.48,
+        "own": 8.51
+      },
+      {
+        "slot": "RB",
+        "id": 44664491,
+        "name": "Braelon Allen",
+        "team": "NYJ",
+        "pos": "RB",
+        "salary": 6100,
+        "fpts": 26.3,
+        "own": 20.5
+      },
+      {
+        "slot": "RB",
+        "id": 44664495,
+        "name": "Bhayshul Tuten",
+        "team": "JAX",
+        "pos": "RB",
+        "salary": 5900,
+        "fpts": 32.9,
+        "own": 23.29
+      },
+      {
+        "slot": "WR",
+        "id": 44664723,
+        "name": "Ja'Marr Chase",
+        "team": "CIN",
+        "pos": "WR",
+        "salary": 7700,
+        "fpts": 34.1,
+        "own": 19.24
+      },
+      {
+        "slot": "WR",
+        "id": 44664731,
+        "name": "Tee Higgins",
+        "team": "CIN",
+        "pos": "WR",
+        "salary": 6700,
+        "fpts": 40.5,
+        "own": 14.21
+      },
+      {
+        "slot": "WR",
+        "id": 44664741,
+        "name": "Michael Wilson",
+        "team": "ARI",
+        "pos": "WR",
+        "salary": 6200,
+        "fpts": 29.8,
+        "own": 10.64
+      },
+      {
+        "slot": "TE",
+        "id": 44665257,
+        "name": "Gunnar Helm",
+        "team": "TEN",
+        "pos": "TE",
+        "salary": 2500,
+        "fpts": 14.6,
+        "own": 3.36
+      },
+      {
+        "slot": "FLEX",
+        "id": 44665143,
+        "name": "Harold Fannin Jr.",
+        "team": "CLE",
+        "pos": "TE",
+        "salary": 4200,
+        "fpts": 27.4,
+        "own": 1.88
+      },
+      {
+        "slot": "DST",
+        "id": 44665381,
+        "name": "Patriots",
+        "team": "NE",
+        "pos": "DST",
+        "salary": 3600,
+        "fpts": 8,
+        "own": 4.52
+      }
+    ]
+  },
+  "optimal": {
+    "points": 301.38,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "QB",
+        "id": 44664391,
+        "name": "Joe Burrow",
+        "team": "CIN",
+        "pos": "QB",
+        "salary": 7000,
+        "fpts": 45.48,
+        "own": 8.51
+      },
+      {
+        "slot": "RB",
+        "id": 44664495,
+        "name": "Bhayshul Tuten",
+        "team": "JAX",
+        "pos": "RB",
+        "salary": 5900,
+        "fpts": 32.9,
+        "own": 23.29
+      },
+      {
+        "slot": "RB",
+        "id": 44664497,
+        "name": "Tony Pollard",
+        "team": "TEN",
+        "pos": "RB",
+        "salary": 5800,
+        "fpts": 31.7,
+        "own": 3.67
+      },
+      {
+        "slot": "WR",
+        "id": 44664723,
+        "name": "Ja'Marr Chase",
+        "team": "CIN",
+        "pos": "WR",
+        "salary": 7700,
+        "fpts": 34.1,
+        "own": 19.24
+      },
+      {
+        "slot": "WR",
+        "id": 44664731,
+        "name": "Tee Higgins",
+        "team": "CIN",
+        "pos": "WR",
+        "salary": 6700,
+        "fpts": 40.5,
+        "own": 14.21
+      },
+      {
+        "slot": "WR",
+        "id": 44664803,
+        "name": "Adonai Mitchell",
+        "team": "NYJ",
+        "pos": "WR",
+        "salary": 4000,
+        "fpts": 30.2,
+        "own": 0.43
+      },
+      {
+        "slot": "TE",
+        "id": 44665143,
+        "name": "Harold Fannin Jr.",
+        "team": "CLE",
+        "pos": "TE",
+        "salary": 4200,
+        "fpts": 27.4,
+        "own": 1.88
+      },
+      {
+        "slot": "FLEX",
+        "id": 44664523,
+        "name": "Tyler Allgeier",
+        "team": "ARI",
+        "pos": "RB",
+        "salary": 4900,
+        "fpts": 39.1,
+        "own": 0.14
+      },
+      {
+        "slot": "DST",
+        "id": 44665380,
+        "name": "Jaguars",
+        "team": "JAX",
+        "pos": "DST",
+        "salary": 3700,
+        "fpts": 20,
+        "own": 6
+      }
+    ],
+    "assumedZero": 227
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 64587,
+    "pctile": 56.02,
+    "points": 123.8,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "QB",
+        "id": 44664396,
+        "name": "Dak Prescott",
+        "team": "DAL",
+        "pos": "QB",
+        "salary": 6300,
+        "fpts": 19.8,
+        "own": 15.16
+      },
+      {
+        "slot": "RB",
+        "id": 44664503,
+        "name": "Rhamondre Stevenson",
+        "team": "NE",
+        "pos": "RB",
+        "salary": 5600,
+        "fpts": 12,
+        "own": 35.95
+      },
+      {
+        "slot": "RB",
+        "id": 44664547,
+        "name": "Jonah Coleman",
+        "team": "DEN",
+        "pos": "RB",
+        "salary": 4300,
+        "fpts": 20.4,
+        "own": 17.26
+      },
+      {
+        "slot": "WR",
+        "id": 44664719,
+        "name": "CeeDee Lamb",
+        "team": "DAL",
+        "pos": "WR",
+        "salary": 8100,
+        "fpts": 12.8,
+        "own": 23.98
+      },
+      {
+        "slot": "WR",
+        "id": 44664723,
+        "name": "Ja'Marr Chase",
+        "team": "CIN",
+        "pos": "WR",
+        "salary": 7700,
+        "fpts": 34.1,
+        "own": 19.24
+      },
+      {
+        "slot": "WR",
+        "id": 44664725,
+        "name": "Zay Flowers",
+        "team": "BAL",
+        "pos": "WR",
+        "salary": 7200,
+        "fpts": 0,
+        "own": 36.99
+      },
+      {
+        "slot": "TE",
+        "id": 44665141,
+        "name": "Hunter Henry",
+        "team": "NE",
+        "pos": "TE",
+        "salary": 4300,
+        "fpts": 6,
+        "own": 20.57
+      },
+      {
+        "slot": "FLEX",
+        "id": 44664799,
+        "name": "Wan'Dale Robinson",
+        "team": "TEN",
+        "pos": "WR",
+        "salary": 4200,
+        "fpts": 16.7,
+        "own": 15.56
+      },
+      {
+        "slot": "DST",
+        "id": 44665396,
+        "name": "Broncos",
+        "team": "DEN",
+        "pos": "DST",
+        "salary": 2300,
+        "fpts": 2,
+        "own": 20.35
+      }
+    ],
+    "money": {
+      "fee": 20,
+      "one": {
+        "won": 0,
+        "net": -20
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 460,
+        "net": 60,
+        "cashed": 12
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "CIN": 3,
+        "ARI": 1,
+        "CLE": 1,
+        "JAX": 1,
+        "NE": 1,
+        "NYJ": 1,
+        "TEN": 1
+      },
+      "games": {
+        "TEN@CIN": 4,
+        "ARI@DAL": 1,
+        "CLE@PIT": 1,
+        "IND@JAX": 1,
+        "LV@NYJ": 1,
+        "NE@MIA": 1
+      },
+      "nGames": 6,
+      "qb": {
+        "team": "CIN",
+        "catchers": 2,
+        "bringBack": 1
+      },
+      "rbDst": [],
+      "summary": [
+        "QB CIN + 2 · bring-back 1",
+        "CIN 3",
+        "6 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "CIN": 3,
+        "JAX": 2,
+        "ARI": 1,
+        "CLE": 1,
+        "NYJ": 1,
+        "TEN": 1
+      },
+      "games": {
+        "TEN@CIN": 4,
+        "IND@JAX": 2,
+        "ARI@DAL": 1,
+        "CLE@PIT": 1,
+        "LV@NYJ": 1
+      },
+      "nGames": 5,
+      "qb": {
+        "team": "CIN",
+        "catchers": 2,
+        "bringBack": 1
+      },
+      "rbDst": [
+        "JAX"
+      ],
+      "summary": [
+        "QB CIN + 2 · bring-back 1",
+        "RB+DST JAX",
+        "CIN 3 · JAX 2",
+        "5 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "DAL": 2,
+        "DEN": 2,
+        "NE": 2,
+        "BAL": 1,
+        "CIN": 1,
+        "TEN": 1
+      },
+      "games": {
+        "ARI@DAL": 2,
+        "KC@DEN": 2,
+        "NE@MIA": 2,
+        "TEN@CIN": 2,
+        "BAL@BUF": 1
+      },
+      "nGames": 5,
+      "qb": {
+        "team": "DAL",
+        "catchers": 1,
+        "bringBack": 0
+      },
+      "rbDst": [
+        "DEN"
+      ],
+      "summary": [
+        "QB DAL + 1",
+        "RB+DST DEN",
+        "DAL 2 · DEN 2 · NE 2",
+        "5 games"
+      ]
+    }
+  }
+}

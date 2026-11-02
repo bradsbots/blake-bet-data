@@ -16,6 +16,22 @@
     "portfolioN": 20
   },
   {
+    "sport": "nfl",
+    "slate": "153728",
+    "date": "2026-11-01",
+    "label": "NFL $2.5M Fantasy Football Millionaire [$1M to 1st, $50K Crown Cash Throne Eligible]",
+    "contestId": 197176675,
+    "entries": 147058,
+    "winnerPoints": 259.08,
+    "optimalPoints": 301.38,
+    "paperPoints": 123.8,
+    "paperPctile": 56.02,
+    "paperNet1": -20,
+    "portfolioNet": 60,
+    "portfolioCashed": 12,
+    "portfolioN": 20
+  },
+  {
     "sport": "nba",
     "slate": "155966",
     "date": "2026-10-31",
