@@ -8,7 +8,7 @@
     "label": "FD NHL 136108-281342969",
     "entries": 1070
   },
-  "generatedAt": "2026-11-02T14:49:10.417Z",
+  "generatedAt": "2026-11-02T19:50:57.681Z",
   "winner": {
     "rank": 1,
     "name": "grantgoupil (2/12)",
@@ -204,106 +204,12 @@
     ],
     "assumedZero": 30
   },
-  "paper": {
-    "variant": "defaults",
-    "lineup": 2,
-    "finish": 1018,
-    "pctile": 4.86,
-    "points": 74.9,
-    "salary": 54900,
-    "players": [
-      {
-        "slot": "C",
-        "id": 65969,
-        "name": "Dylan Strome",
-        "team": "WSH",
-        "pos": "C",
-        "salary": 5900,
-        "fpts": 1.6,
-        "own": 12.71
-      },
-      {
-        "slot": "C",
-        "id": 73949,
-        "name": "Joel Eriksson Ek",
-        "team": "MIN",
-        "pos": "C",
-        "salary": 6500,
-        "fpts": 21.3,
-        "own": 16.54
-      },
-      {
-        "slot": "W",
-        "id": 70168,
-        "name": "Alex Tuch",
-        "team": "WSH",
-        "pos": "W",
-        "salary": 6700,
-        "fpts": 9.6,
-        "own": 9.72
-      },
-      {
-        "slot": "W",
-        "id": 148097,
-        "name": "Matt Boldy",
-        "team": "MIN",
-        "pos": "W",
-        "salary": 7200,
-        "fpts": 12.8,
-        "own": 21.96
-      },
-      {
-        "slot": "D",
-        "id": 103940,
-        "name": "Adam Fox",
-        "team": "NYR",
-        "pos": "D",
-        "salary": 6300,
-        "fpts": 6.4,
-        "own": 14.86
-      },
-      {
-        "slot": "D",
-        "id": 101277,
-        "name": "Quinn Hughes",
-        "team": "MIN",
-        "pos": "D",
-        "salary": 6800,
-        "fpts": 18.4,
-        "own": 18.88
-      },
-      {
-        "slot": "UTIL",
-        "id": 162302,
-        "name": "Tye Kartye",
-        "team": "NYR",
-        "pos": "W",
-        "salary": 4000,
-        "fpts": 0,
-        "own": 4.86
-      },
-      {
-        "slot": "UTIL",
-        "id": 82120,
-        "name": "Kailer Yamamoto",
-        "team": "UTA",
-        "pos": "W",
-        "salary": 3900,
-        "fpts": 0,
-        "own": 1.12
-      },
-      {
-        "slot": "G",
-        "id": 161891,
-        "name": "Dylan Garand",
-        "team": "NYR",
-        "pos": "G",
-        "salary": 7600,
-        "fpts": 4.8,
-        "own": 7.76
-      }
-    ],
-    "money": null
+  "paper": null,
+  "paperUnscored": {
+    "lineup": 1,
+    "missing": [
+      "Nick Jensen"
+    ]
   },
   "stacks": {
     "winner": {
@@ -372,38 +278,6 @@
         "3 games"
       ]
     },
-    "paper": {
-      "teams": {
-        "MIN": 3,
-        "NYR": 3,
-        "WSH": 2,
-        "UTA": 1
-      },
-      "games": {
-        "MIN@WSH": 5,
-        "EDM@NYR": 3,
-        "UTA@PHI": 1
-      },
-      "nGames": 3,
-      "lines": {
-        "MIN f1": 2,
-        "WSH f2": 2
-      },
-      "pp": {
-        "MIN pp1": 3
-      },
-      "goalie": {
-        "team": "NYR",
-        "opposing": 0
-      },
-      "summary": [
-        "MIN 3 · NYR 3 · WSH 2",
-        "MIN f1 ×2",
-        "WSH f2 ×2",
-        "MIN pp1 ×3",
-        "G NYR",
-        "3 games"
-      ]
-    }
+    "paper": null
   }
 }
