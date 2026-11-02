@@ -2,6 +2,50 @@
  "sport": "nba",
  "slates": [
   {
+   "slate": "156043",
+   "date": "2026-11-01",
+   "label": "NBA $80K Fadeaway [$20K to 1st]",
+   "entries": 4617,
+   "source": "live",
+   "model": "v1",
+   "predictedAt": "2026-11-01T20:00:20+00:00",
+   "lockAt": "2026-11-01T20:30:00+00:00",
+   "minutesBeforeLock": 30,
+   "n": 114,
+   "mae": 3.684,
+   "mae5": 7.648,
+   "spearman": 0.8976,
+   "top10": 0.8,
+   "chalk": {
+    "n": 17,
+    "caught": 13
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Brandon Williams",
+     "pos": "ALL",
+     "team": "GSW",
+     "pred": 50.51,
+     "actual": 25.53
+    },
+    {
+     "name": "Kris Dunn",
+     "pos": "ALL",
+     "team": "LAC",
+     "pred": 43.68,
+     "actual": 20.87
+    },
+    {
+     "name": "Julius Randle",
+     "pos": "ALL",
+     "team": "BKN",
+     "pred": 21.57,
+     "actual": 42.71
+    }
+   ]
+  },
+  {
    "slate": "155966",
    "date": "2026-10-31",
    "label": "NBA $200K Fadeaway [$50K to 1st]",
@@ -91,13 +135,13 @@
   }
  ],
  "recent": {
-  "slates": 2,
-  "n": 380,
-  "mae": 2.846,
-  "mae5": 7.787,
+  "slates": 3,
+  "n": 494,
+  "mae": 3.039,
+  "mae5": 7.748,
   "chalk": {
-   "n": 25,
-   "caught": 17
+   "n": 42,
+   "caught": 30
   },
   "falseChalk": 3
  }
