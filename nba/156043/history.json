@@ -1,0 +1,350 @@
+{
+  "sport": "nba",
+  "slate": "156043",
+  "date": "2026-11-01",
+  "contest": {
+    "id": 197358375,
+    "label": "NBA $80K Fadeaway [$20K to 1st]",
+    "entries": 4617
+  },
+  "generatedAt": "2026-11-02T09:40:13.732Z",
+  "winner": {
+    "rank": 1,
+    "name": "metalsturm",
+    "points": 339.5,
+    "salary": 49800,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44744761,
+        "name": "Luka Doncic",
+        "team": "LAL",
+        "pos": "PG",
+        "salary": 12300,
+        "fpts": 86.75,
+        "own": 19.15
+      },
+      {
+        "slot": "SG",
+        "id": 44744954,
+        "name": "Nolan Traore",
+        "team": "BKN",
+        "pos": "PG",
+        "salary": 4300,
+        "fpts": 31,
+        "own": 44.32
+      },
+      {
+        "slot": "SF",
+        "id": 44744800,
+        "name": "Yaxel Lendeborg",
+        "team": "GSW",
+        "pos": "SF",
+        "salary": 7600,
+        "fpts": 55,
+        "own": 33.64
+      },
+      {
+        "slot": "PF",
+        "id": 44744907,
+        "name": "Tristan da Silva",
+        "team": "ORL",
+        "pos": "SF",
+        "salary": 4900,
+        "fpts": 41.5,
+        "own": 2.03
+      },
+      {
+        "slot": "C",
+        "id": 44744952,
+        "name": "Neemias Queta",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 4400,
+        "fpts": 23,
+        "own": 37.38
+      },
+      {
+        "slot": "G",
+        "id": 44744879,
+        "name": "De'Anthony Melton",
+        "team": "GSW",
+        "pos": "PG",
+        "salary": 5200,
+        "fpts": 40,
+        "own": 17.24
+      },
+      {
+        "slot": "F",
+        "id": 44744804,
+        "name": "Julius Randle",
+        "team": "BKN",
+        "pos": "PF",
+        "salary": 7500,
+        "fpts": 39.25,
+        "own": 42.71
+      },
+      {
+        "slot": "UTIL",
+        "id": 44745031,
+        "name": "Moritz Wagner",
+        "team": "BKN",
+        "pos": "C",
+        "salary": 3600,
+        "fpts": 23,
+        "own": 25.97
+      }
+    ]
+  },
+  "optimal": {
+    "points": 365,
+    "salary": 49700,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44744879,
+        "name": "De'Anthony Melton",
+        "team": "GSW",
+        "pos": "PG",
+        "salary": 5200,
+        "fpts": 40,
+        "own": 17.24
+      },
+      {
+        "slot": "SG",
+        "id": 44744954,
+        "name": "Nolan Traore",
+        "team": "BKN",
+        "pos": "PG",
+        "salary": 4300,
+        "fpts": 31,
+        "own": 44.32
+      },
+      {
+        "slot": "SF",
+        "id": 44744813,
+        "name": "Paul George",
+        "team": "BOS",
+        "pos": "SG",
+        "salary": 7200,
+        "fpts": 44,
+        "own": 16.7
+      },
+      {
+        "slot": "PF",
+        "id": 44744907,
+        "name": "Tristan da Silva",
+        "team": "ORL",
+        "pos": "SF",
+        "salary": 4900,
+        "fpts": 41.5,
+        "own": 2.03
+      },
+      {
+        "slot": "C",
+        "id": 44745109,
+        "name": "Luka Garza",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 3100,
+        "fpts": 28.5,
+        "own": 7.25
+      },
+      {
+        "slot": "G",
+        "id": 44744761,
+        "name": "Luka Doncic",
+        "team": "LAL",
+        "pos": "PG",
+        "salary": 12300,
+        "fpts": 86.75,
+        "own": 19.15
+      },
+      {
+        "slot": "F",
+        "id": 44744800,
+        "name": "Yaxel Lendeborg",
+        "team": "GSW",
+        "pos": "SF",
+        "salary": 7600,
+        "fpts": 55,
+        "own": 33.64
+      },
+      {
+        "slot": "UTIL",
+        "id": 44744883,
+        "name": "Day'Ron Sharpe",
+        "team": "BKN",
+        "pos": "C",
+        "salary": 5100,
+        "fpts": 38.25,
+        "own": 14.49
+      }
+    ],
+    "assumedZero": 52
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 117,
+    "pctile": 97.42,
+    "points": 307.5,
+    "salary": 49500,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44744818,
+        "name": "Andrew Nembhard",
+        "team": "IND",
+        "pos": "PG",
+        "salary": 7100,
+        "fpts": 35.25,
+        "own": 45.84
+      },
+      {
+        "slot": "SG",
+        "id": 44744954,
+        "name": "Nolan Traore",
+        "team": "BKN",
+        "pos": "PG",
+        "salary": 4300,
+        "fpts": 31,
+        "own": 44.32
+      },
+      {
+        "slot": "SF",
+        "id": 44744807,
+        "name": "Michael Porter Jr.",
+        "team": "BKN",
+        "pos": "SF",
+        "salary": 7400,
+        "fpts": 40.25,
+        "own": 29.46
+      },
+      {
+        "slot": "PF",
+        "id": 44744800,
+        "name": "Yaxel Lendeborg",
+        "team": "GSW",
+        "pos": "SF",
+        "salary": 7600,
+        "fpts": 55,
+        "own": 33.64
+      },
+      {
+        "slot": "C",
+        "id": 44744883,
+        "name": "Day'Ron Sharpe",
+        "team": "BKN",
+        "pos": "C",
+        "salary": 5100,
+        "fpts": 38.25,
+        "own": 14.49
+      },
+      {
+        "slot": "G",
+        "id": 44744944,
+        "name": "Brandon Williams",
+        "team": "GSW",
+        "pos": "PG",
+        "salary": 4400,
+        "fpts": 27.75,
+        "own": 25.53
+      },
+      {
+        "slot": "F",
+        "id": 44744775,
+        "name": "Scottie Barnes",
+        "team": "TOR",
+        "pos": "SF",
+        "salary": 8700,
+        "fpts": 45.5,
+        "own": 37.71
+      },
+      {
+        "slot": "UTIL",
+        "id": 44744900,
+        "name": "Kris Dunn",
+        "team": "LAC",
+        "pos": "PG",
+        "salary": 4900,
+        "fpts": 34.5,
+        "own": 20.87
+      }
+    ],
+    "money": {
+      "fee": 18,
+      "one": {
+        "won": 50,
+        "net": 32
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 0,
+        "net": -360,
+        "cashed": 0
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "BKN": 3,
+        "GSW": 2,
+        "BOS": 1,
+        "LAL": 1,
+        "ORL": 1
+      },
+      "games": {
+        "BKN@IND": 3,
+        "BOS@ORL": 2,
+        "LAC@GSW": 2,
+        "TOR@LAL": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "BKN 3 · GSW 2",
+        "4 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "BKN": 2,
+        "BOS": 2,
+        "GSW": 2,
+        "LAL": 1,
+        "ORL": 1
+      },
+      "games": {
+        "BOS@ORL": 3,
+        "BKN@IND": 2,
+        "LAC@GSW": 2,
+        "TOR@LAL": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "BKN 2 · BOS 2 · GSW 2",
+        "4 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "BKN": 3,
+        "GSW": 2,
+        "IND": 1,
+        "LAC": 1,
+        "TOR": 1
+      },
+      "games": {
+        "BKN@IND": 4,
+        "LAC@GSW": 3,
+        "TOR@LAL": 1
+      },
+      "nGames": 3,
+      "summary": [
+        "BKN 3 · GSW 2",
+        "3 games"
+      ]
+    }
+  }
+}
