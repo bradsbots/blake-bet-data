@@ -2,6 +2,50 @@
  "sport": "nfl",
  "slates": [
   {
+   "slate": "153728",
+   "date": "2026-11-01",
+   "label": "NFL $2.5M Fantasy Football Millionaire [$1M to 1st, $50K Crown Cash Throne Eligible]",
+   "entries": 147058,
+   "source": "live",
+   "model": "v1",
+   "predictedAt": "2026-11-01T17:30:32+00:00",
+   "lockAt": "2026-11-01T18:00:00+00:00",
+   "minutesBeforeLock": 29,
+   "n": 466,
+   "mae": 0.772,
+   "mae5": 3.6,
+   "spearman": 0.8844,
+   "top10": 0.5,
+   "chalk": {
+    "n": 7,
+    "caught": 4
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Wan'Dale Robinson",
+     "pos": "WR",
+     "team": "TEN",
+     "pred": 28.89,
+     "actual": 15.56
+    },
+    {
+     "name": "Omar Cooper Jr.",
+     "pos": "WR",
+     "team": "NYJ",
+     "pred": 6.26,
+     "actual": 19.44
+    },
+    {
+     "name": "Rhamondre Stevenson",
+     "pos": "RB",
+     "team": "NE",
+     "pred": 23.54,
+     "actual": 35.95
+    }
+   ]
+  },
+  {
    "slate": "155198",
    "date": "2026-10-25",
    "label": "NFL $2.5M Fantasy Football Millionaire [$1M to 1st, $100K Leaderboard Eligible]",
@@ -91,13 +135,13 @@
   }
  ],
  "recent": {
-  "slates": 2,
-  "n": 839,
-  "mae": 1.351,
-  "mae5": 5.502,
+  "slates": 3,
+  "n": 1305,
+  "mae": 1.144,
+  "mae5": 4.886,
   "chalk": {
-   "n": 19,
-   "caught": 8
+   "n": 26,
+   "caught": 12
   },
   "falseChalk": 1
  }
