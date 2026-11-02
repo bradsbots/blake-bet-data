@@ -1,0 +1,1680 @@
+{
+  "sport": "nhl",
+  "site": "fd",
+  "slate": "136108",
+  "contestId": 281342969,
+  "label": "FD NHL 136108-281342969",
+  "importedAt": "2026-11-02T14:49:06+00:00",
+  "entries": 1070,
+  "source": "fd_standings_csv",
+  "final": true,
+  "absentAsZero": true,
+  "players": {
+    "136108-142019": {
+      "drafted": 48.41,
+      "fpts": 19.2,
+      "slots": {
+        "D": 48.41
+      },
+      "salary": 4100
+    },
+    "136108-64102": {
+      "drafted": 42.71,
+      "fpts": 30.1,
+      "slots": {
+        "C": 42.71
+      },
+      "salary": 8300
+    },
+    "136108-58331": {
+      "drafted": 32.24,
+      "fpts": 21.3,
+      "slots": {
+        "W": 32.24
+      },
+      "salary": 8100
+    },
+    "136108-146741": {
+      "drafted": 31.31,
+      "fpts": 13.6,
+      "slots": {
+        "W": 31.31
+      },
+      "salary": 5300
+    },
+    "136108-198700": {
+      "drafted": 28.5,
+      "fpts": 45.0,
+      "slots": {
+        "W": 28.5
+      },
+      "salary": 6500
+    },
+    "136108-113279": {
+      "drafted": 26.73,
+      "fpts": 0.0,
+      "slots": {
+        "C": 26.73
+      },
+      "salary": 5000
+    },
+    "136108-14565": {
+      "drafted": 24.86,
+      "fpts": 16.0,
+      "slots": {
+        "C": 24.86
+      },
+      "salary": 6000
+    },
+    "136108-97093": {
+      "drafted": 23.18,
+      "fpts": 3.2,
+      "slots": {
+        "G": 23.18
+      },
+      "salary": 7500
+    },
+    "136108-148097": {
+      "drafted": 21.96,
+      "fpts": 12.8,
+      "slots": {
+        "W": 21.96
+      },
+      "salary": 7200
+    },
+    "136108-135875": {
+      "drafted": 21.87,
+      "fpts": 15.2,
+      "slots": {
+        "W": 21.87
+      },
+      "salary": 8000
+    },
+    "136108-204508": {
+      "drafted": 21.5,
+      "fpts": 4.8,
+      "slots": {
+        "W": 21.5
+      },
+      "salary": 6400
+    },
+    "136108-149734": {
+      "drafted": 20.93,
+      "fpts": -8.0,
+      "slots": {
+        "G": 20.93
+      },
+      "salary": 7700
+    },
+    "136108-97129": {
+      "drafted": 19.72,
+      "fpts": 34.9,
+      "slots": {
+        "D": 19.72
+      },
+      "salary": 7300
+    },
+    "136108-101277": {
+      "drafted": 18.88,
+      "fpts": 18.4,
+      "slots": {
+        "D": 18.88
+      },
+      "salary": 6800
+    },
+    "136108-142015": {
+      "drafted": 18.41,
+      "fpts": 6.4,
+      "slots": {
+        "W": 18.41
+      },
+      "salary": 6200
+    },
+    "136108-170275": {
+      "drafted": 17.48,
+      "fpts": 28.8,
+      "slots": {
+        "G": 17.48
+      },
+      "salary": 7800
+    },
+    "136108-73949": {
+      "drafted": 16.54,
+      "fpts": 21.3,
+      "slots": {
+        "C": 16.54
+      },
+      "salary": 6500
+    },
+    "136108-73940": {
+      "drafted": 16.17,
+      "fpts": 0.0,
+      "slots": {
+        "W": 16.17
+      },
+      "salary": 5300
+    },
+    "136108-14456": {
+      "drafted": 15.89,
+      "fpts": 6.4,
+      "slots": {
+        "D": 15.89
+      },
+      "salary": 3800
+    },
+    "136108-254168": {
+      "drafted": 15.79,
+      "fpts": 1.6,
+      "slots": {
+        "W": 15.79
+      },
+      "salary": 7400
+    },
+    "136108-70905": {
+      "drafted": 15.7,
+      "fpts": 23.4,
+      "slots": {
+        "W": 15.7
+      },
+      "salary": 6900
+    },
+    "136108-15360": {
+      "drafted": 15.7,
+      "fpts": 4.8,
+      "slots": {
+        "C": 15.7
+      },
+      "salary": 5300
+    },
+    "136108-189783": {
+      "drafted": 15.33,
+      "fpts": 28.2,
+      "slots": {
+        "C": 15.33
+      },
+      "salary": 6900
+    },
+    "136108-185026": {
+      "drafted": 14.95,
+      "fpts": 14.9,
+      "slots": {
+        "D": 14.95
+      },
+      "salary": 5900
+    },
+    "136108-103940": {
+      "drafted": 14.86,
+      "fpts": 6.4,
+      "slots": {
+        "D": 14.86
+      },
+      "salary": 6300
+    },
+    "136108-23041": {
+      "drafted": 14.11,
+      "fpts": 11.7,
+      "slots": {
+        "C": 14.11
+      },
+      "salary": 5600
+    },
+    "136108-161390": {
+      "drafted": 12.71,
+      "fpts": 6.4,
+      "slots": {
+        "W": 12.71
+      },
+      "salary": 7000
+    },
+    "136108-65969": {
+      "drafted": 12.71,
+      "fpts": 1.6,
+      "slots": {
+        "C": 12.71
+      },
+      "salary": 5900
+    },
+    "136108-73889": {
+      "drafted": 12.43,
+      "fpts": 23.4,
+      "slots": {
+        "C": 12.43
+      },
+      "salary": 6800
+    },
+    "136108-190889": {
+      "drafted": 12.06,
+      "fpts": 23.7,
+      "slots": {
+        "C": 12.06
+      },
+      "salary": 6400
+    },
+    "136108-66759": {
+      "drafted": 11.78,
+      "fpts": 14.4,
+      "slots": {
+        "D": 11.78
+      },
+      "salary": 4500
+    },
+    "136108-66610": {
+      "drafted": 11.21,
+      "fpts": 15.2,
+      "slots": {
+        "G": 11.21
+      },
+      "salary": 7200
+    },
+    "136108-70907": {
+      "drafted": 10.47,
+      "fpts": 17.3,
+      "slots": {
+        "D": 10.47
+      },
+      "salary": 6500
+    },
+    "136108-128506": {
+      "drafted": 10.28,
+      "fpts": 1.6,
+      "slots": {
+        "C": 10.28
+      },
+      "salary": 5500
+    },
+    "136108-80479": {
+      "drafted": 10.09,
+      "fpts": -2.4,
+      "slots": {
+        "G": 10.09
+      },
+      "salary": 7300
+    },
+    "136108-70168": {
+      "drafted": 9.72,
+      "fpts": 9.6,
+      "slots": {
+        "W": 9.72
+      },
+      "salary": 6700
+    },
+    "136108-241524": {
+      "drafted": 9.63,
+      "fpts": 11.2,
+      "slots": {
+        "W": 9.63
+      },
+      "salary": 4000
+    },
+    "136108-70914": {
+      "drafted": 9.53,
+      "fpts": 16.0,
+      "slots": {
+        "D": 9.53
+      },
+      "salary": 6100
+    },
+    "136108-82190": {
+      "drafted": 9.35,
+      "fpts": 9.6,
+      "slots": {
+        "W": 9.35
+      },
+      "salary": 7100
+    },
+    "136108-142020": {
+      "drafted": 8.22,
+      "fpts": 25.6,
+      "slots": {
+        "D": 8.22
+      },
+      "salary": 4000
+    },
+    "136108-82002": {
+      "drafted": 8.04,
+      "fpts": 29.6,
+      "slots": {
+        "G": 8.04
+      },
+      "salary": 7400
+    },
+    "136108-161891": {
+      "drafted": 7.76,
+      "fpts": 4.8,
+      "slots": {
+        "G": 7.76
+      },
+      "salary": 7600
+    },
+    "136108-14563": {
+      "drafted": 7.76,
+      "fpts": 0.0,
+      "slots": {
+        "C": 7.76
+      },
+      "salary": 6200
+    },
+    "136108-59120": {
+      "drafted": 6.17,
+      "fpts": 26.4,
+      "slots": {
+        "C": 6.17
+      },
+      "salary": 3900
+    },
+    "136108-204199": {
+      "drafted": 5.61,
+      "fpts": 15.2,
+      "slots": {
+        "W": 5.61
+      },
+      "salary": 5800
+    },
+    "136108-23226": {
+      "drafted": 5.05,
+      "fpts": 4.8,
+      "slots": {
+        "W": 5.05
+      },
+      "salary": 5600
+    },
+    "136108-43042": {
+      "drafted": 5.05,
+      "fpts": 1.6,
+      "slots": {
+        "D": 5.05
+      },
+      "salary": 5100
+    },
+    "136108-79865": {
+      "drafted": 4.95,
+      "fpts": 3.2,
+      "slots": {
+        "D": 4.95
+      },
+      "salary": 3200
+    },
+    "136108-162302": {
+      "drafted": 4.86,
+      "fpts": 0.0,
+      "slots": {
+        "W": 4.86
+      },
+      "salary": 4000
+    },
+    "136108-152162": {
+      "drafted": 4.77,
+      "fpts": 1.6,
+      "slots": {
+        "W": 4.77
+      },
+      "salary": 6800
+    },
+    "136108-180226": {
+      "drafted": 4.49,
+      "fpts": 18.6,
+      "slots": {
+        "D": 4.49
+      },
+      "salary": 4700
+    },
+    "136108-8718": {
+      "drafted": 4.49,
+      "fpts": 4.8,
+      "slots": {
+        "W": 4.49
+      },
+      "salary": 5100
+    },
+    "136108-148186": {
+      "drafted": 4.39,
+      "fpts": 1.6,
+      "slots": {
+        "C": 4.39
+      },
+      "salary": 5700
+    },
+    "136108-15283": {
+      "drafted": 4.21,
+      "fpts": 12.8,
+      "slots": {
+        "W": 4.21
+      },
+      "salary": 5400
+    },
+    "136108-42773": {
+      "drafted": 3.74,
+      "fpts": 1.6,
+      "slots": {
+        "W": 3.74
+      },
+      "salary": 3800
+    },
+    "136108-66600": {
+      "drafted": 3.64,
+      "fpts": 9.6,
+      "slots": {
+        "W": 3.64
+      },
+      "salary": 4700
+    },
+    "136108-58686": {
+      "drafted": 3.27,
+      "fpts": 3.2,
+      "slots": {
+        "W": 3.27
+      },
+      "salary": 5200
+    },
+    "136108-21523": {
+      "drafted": 3.27,
+      "fpts": 0.0,
+      "slots": {
+        "W": 3.27
+      },
+      "salary": 4300
+    },
+    "136108-166945": {
+      "drafted": 3.18,
+      "fpts": 6.4,
+      "slots": {
+        "D": 3.18
+      },
+      "salary": 3500
+    },
+    "136108-97240": {
+      "drafted": 3.08,
+      "fpts": 4.8,
+      "slots": {
+        "W": 3.08
+      },
+      "salary": 5000
+    },
+    "136108-145544": {
+      "drafted": 3.08,
+      "fpts": 3.2,
+      "slots": {
+        "W": 3.08
+      },
+      "salary": 4100
+    },
+    "136108-59271": {
+      "drafted": 2.99,
+      "fpts": 19.2,
+      "slots": {
+        "D": 2.99
+      },
+      "salary": 4800
+    },
+    "136108-228698": {
+      "drafted": 2.99,
+      "fpts": 18.9,
+      "slots": {
+        "W": 2.99
+      },
+      "salary": 4500
+    },
+    "136108-66611": {
+      "drafted": 2.8,
+      "fpts": 1.6,
+      "slots": {
+        "W": 2.8
+      },
+      "salary": 4200
+    },
+    "136108-178302": {
+      "drafted": 2.62,
+      "fpts": 4.8,
+      "slots": {
+        "D": 2.62
+      },
+      "salary": 3100
+    },
+    "136108-23438": {
+      "drafted": 2.52,
+      "fpts": 12.8,
+      "slots": {
+        "D": 2.52
+      },
+      "salary": 4100
+    },
+    "136108-195274": {
+      "drafted": 2.43,
+      "fpts": 1.6,
+      "slots": {
+        "C": 2.43
+      },
+      "salary": 3600
+    },
+    "136108-184652": {
+      "drafted": 2.24,
+      "fpts": 37.8,
+      "slots": {
+        "W": 2.24
+      },
+      "salary": 3800
+    },
+    "136108-168107": {
+      "drafted": 2.06,
+      "fpts": 24.8,
+      "slots": {
+        "C": 2.06
+      },
+      "salary": 3400
+    },
+    "136108-203918": {
+      "drafted": 2.06,
+      "fpts": 9.6,
+      "slots": {
+        "D": 2.06
+      },
+      "salary": 5500
+    },
+    "136108-8556": {
+      "drafted": 1.96,
+      "fpts": 26.4,
+      "slots": {
+        "W": 1.96
+      },
+      "salary": 4600
+    },
+    "136108-117103": {
+      "drafted": 1.96,
+      "fpts": 13.6,
+      "slots": {
+        "W": 1.96
+      },
+      "salary": 3500
+    },
+    "136108-103445": {
+      "drafted": 1.96,
+      "fpts": 4.8,
+      "slots": {
+        "D": 1.96
+      },
+      "salary": 4900
+    },
+    "136108-113285": {
+      "drafted": 1.96,
+      "fpts": 1.6,
+      "slots": {
+        "W": 1.96
+      },
+      "salary": 4300
+    },
+    "136108-223986": {
+      "drafted": 1.87,
+      "fpts": 6.4,
+      "slots": {
+        "C": 1.87
+      },
+      "salary": 4000
+    },
+    "136108-70901": {
+      "drafted": 1.87,
+      "fpts": 4.8,
+      "slots": {
+        "C": 1.87
+      },
+      "salary": 5100
+    },
+    "136108-193704": {
+      "drafted": 1.68,
+      "fpts": 16.8,
+      "slots": {
+        "D": 1.68
+      },
+      "salary": 4400
+    },
+    "136108-228760": {
+      "drafted": 1.68,
+      "fpts": 15.7,
+      "slots": {
+        "C": 1.68
+      },
+      "salary": 4100
+    },
+    "136108-43176": {
+      "drafted": 1.59,
+      "fpts": 6.4,
+      "slots": {
+        "C": 1.59
+      },
+      "salary": 4000
+    },
+    "136108-149440": {
+      "drafted": 1.5,
+      "fpts": 1.6,
+      "slots": {
+        "W": 1.5
+      },
+      "salary": 5000
+    },
+    "136108-39238": {
+      "drafted": 1.4,
+      "fpts": 0.0,
+      "slots": {
+        "W": 1.4
+      },
+      "salary": 4700
+    },
+    "136108-169106": {
+      "drafted": 1.31,
+      "fpts": 24.5,
+      "slots": {
+        "W": 1.31
+      },
+      "salary": 4000
+    },
+    "136108-97108": {
+      "drafted": 1.31,
+      "fpts": 1.6,
+      "slots": {
+        "C": 1.31
+      },
+      "salary": 5200
+    },
+    "136108-205500": {
+      "drafted": 1.31,
+      "fpts": 1.6,
+      "slots": {
+        "D": 1.31
+      },
+      "salary": 3000
+    },
+    "136108-42795": {
+      "drafted": 1.12,
+      "fpts": 16.8,
+      "slots": {
+        "C": 1.12
+      },
+      "salary": 4400
+    },
+    "136108-135674": {
+      "drafted": 1.12,
+      "fpts": 9.6,
+      "slots": {
+        "D": 1.12
+      },
+      "salary": 4100
+    },
+    "136108-184168": {
+      "drafted": 1.12,
+      "fpts": 6.4,
+      "slots": {
+        "D": 1.12
+      },
+      "salary": 4600
+    },
+    "136108-103261": {
+      "drafted": 1.12,
+      "fpts": 3.2,
+      "slots": {
+        "D": 1.12
+      },
+      "salary": 3700
+    },
+    "136108-200500": {
+      "drafted": 1.12,
+      "fpts": 1.6,
+      "slots": {
+        "W": 1.12
+      },
+      "salary": 3400
+    },
+    "136108-82120": {
+      "drafted": 1.12,
+      "fpts": 0.0,
+      "slots": {
+        "W": 1.12
+      },
+      "salary": 3900
+    },
+    "136108-148185": {
+      "drafted": 1.03,
+      "fpts": 12.8,
+      "slots": {
+        "D": 1.03
+      },
+      "salary": 3500
+    },
+    "136108-222905": {
+      "drafted": 1.03,
+      "fpts": 6.4,
+      "slots": {
+        "W": 1.03
+      },
+      "salary": 5100
+    },
+    "136108-222903": {
+      "drafted": 1.03,
+      "fpts": 4.8,
+      "slots": {
+        "W": 1.03
+      },
+      "salary": 4900
+    },
+    "136108-39243": {
+      "drafted": 1.03,
+      "fpts": 1.6,
+      "slots": {
+        "D": 1.03
+      },
+      "salary": 3500
+    },
+    "136108-97091": {
+      "drafted": 1.03,
+      "fpts": 0.0,
+      "slots": {
+        "D": 1.03
+      },
+      "salary": 3900
+    },
+    "136108-15251": {
+      "drafted": 0.93,
+      "fpts": 1.6,
+      "slots": {
+        "W": 0.93
+      },
+      "salary": 4600
+    },
+    "136108-146132": {
+      "drafted": 0.93,
+      "fpts": 1.6,
+      "slots": {
+        "W": 0.93
+      },
+      "salary": 4400
+    },
+    "136108-42862": {
+      "drafted": 0.84,
+      "fpts": 9.6,
+      "slots": {
+        "D": 0.84
+      },
+      "salary": 3500
+    },
+    "136108-21935": {
+      "drafted": 0.75,
+      "fpts": 4.8,
+      "slots": {
+        "D": 0.75
+      },
+      "salary": 4200
+    },
+    "136108-204625": {
+      "drafted": 0.75,
+      "fpts": 1.6,
+      "slots": {
+        "W": 0.75
+      },
+      "salary": 4000
+    },
+    "136108-162250": {
+      "drafted": 0.56,
+      "fpts": 32.0,
+      "slots": {
+        "C": 0.56
+      },
+      "salary": 4600
+    },
+    "136108-228810": {
+      "drafted": 0.56,
+      "fpts": 16.8,
+      "slots": {
+        "D": 0.56
+      },
+      "salary": 3500
+    },
+    "136108-138806": {
+      "drafted": 0.56,
+      "fpts": 11.2,
+      "slots": {
+        "D": 0.56
+      },
+      "salary": 4000
+    },
+    "136108-68630": {
+      "drafted": 0.56,
+      "fpts": 6.4,
+      "slots": {
+        "D": 0.56
+      },
+      "salary": 3700
+    },
+    "136108-117092": {
+      "drafted": 0.56,
+      "fpts": 6.4,
+      "slots": {
+        "D": 0.56
+      },
+      "salary": 4000
+    },
+    "136108-199445": {
+      "drafted": 0.56,
+      "fpts": 3.2,
+      "slots": {
+        "C": 0.56
+      },
+      "salary": 4800
+    },
+    "136108-82214": {
+      "drafted": 0.56,
+      "fpts": 3.2,
+      "slots": {
+        "D": 0.56
+      },
+      "salary": 3500
+    },
+    "136108-228789": {
+      "drafted": 0.56,
+      "fpts": 1.6,
+      "slots": {
+        "C": 0.56
+      },
+      "salary": 3300
+    },
+    "136108-62923": {
+      "drafted": 0.56,
+      "fpts": 1.6,
+      "slots": {
+        "D": 0.56
+      },
+      "salary": 3500
+    },
+    "136108-97102": {
+      "drafted": 0.56,
+      "fpts": 0.0,
+      "slots": {
+        "G": 0.56
+      },
+      "salary": 7500
+    },
+    "136108-184662": {
+      "drafted": 0.56,
+      "fpts": 0.0,
+      "slots": {
+        "D": 0.56
+      },
+      "salary": 3200
+    },
+    "136108-147529": {
+      "drafted": 0.47,
+      "fpts": 12.8,
+      "slots": {
+        "D": 0.47
+      },
+      "salary": 3600
+    },
+    "136108-180301": {
+      "drafted": 0.47,
+      "fpts": 8.5,
+      "slots": {
+        "D": 0.47
+      },
+      "salary": 3100
+    },
+    "136108-73963": {
+      "drafted": 0.47,
+      "fpts": 3.2,
+      "slots": {
+        "W": 0.47
+      },
+      "salary": 4200
+    },
+    "136108-97173": {
+      "drafted": 0.47,
+      "fpts": 0.0,
+      "slots": {
+        "D": 0.47
+      },
+      "salary": 4400
+    },
+    "136108-59142": {
+      "drafted": 0.37,
+      "fpts": 15.2,
+      "slots": {
+        "W": 0.37
+      },
+      "salary": 4500
+    },
+    "136108-8169": {
+      "drafted": 0.37,
+      "fpts": 4.8,
+      "slots": {
+        "D": 0.37
+      },
+      "salary": 3200
+    },
+    "136108-152483": {
+      "drafted": 0.37,
+      "fpts": 0.0,
+      "slots": {
+        "G": 0.37
+      },
+      "salary": 7300
+    },
+    "136108-250179": {
+      "drafted": 0.28,
+      "fpts": 18.9,
+      "slots": {
+        "C": 0.28
+      },
+      "salary": 3300
+    },
+    "136108-15308": {
+      "drafted": 0.28,
+      "fpts": 8.0,
+      "slots": {
+        "C": 0.28
+      },
+      "salary": 3500
+    },
+    "136108-187035": {
+      "drafted": 0.28,
+      "fpts": 3.2,
+      "slots": {
+        "D": 0.28
+      },
+      "salary": 3600
+    },
+    "136108-228786": {
+      "drafted": 0.28,
+      "fpts": 0.0,
+      "slots": {
+        "W": 0.28
+      },
+      "salary": 3300
+    },
+    "136108-162268": {
+      "drafted": 0.19,
+      "fpts": 16.8,
+      "slots": {
+        "C": 0.19
+      },
+      "salary": 3300
+    },
+    "136108-66686": {
+      "drafted": 0.19,
+      "fpts": 9.6,
+      "slots": {
+        "W": 0.19
+      },
+      "salary": 3500
+    },
+    "136108-103262": {
+      "drafted": 0.19,
+      "fpts": 8.0,
+      "slots": {
+        "W": 0.19
+      },
+      "salary": 3100
+    },
+    "136108-97098": {
+      "drafted": 0.19,
+      "fpts": 3.2,
+      "slots": {
+        "D": 0.19
+      },
+      "salary": 3100
+    },
+    "136108-66408": {
+      "drafted": 0.19,
+      "fpts": 3.2,
+      "slots": {
+        "W": 0.19
+      },
+      "salary": 3400
+    },
+    "136108-167209": {
+      "drafted": 0.19,
+      "fpts": 1.6,
+      "slots": {
+        "W": 0.19
+      },
+      "salary": 3400
+    },
+    "136108-251204": {
+      "drafted": 0.19,
+      "fpts": 1.6,
+      "slots": {
+        "D": 0.19
+      },
+      "salary": 3200
+    },
+    "136108-68647": {
+      "drafted": 0.19,
+      "fpts": 0.0,
+      "slots": {
+        "G": 0.19
+      },
+      "salary": 7500
+    },
+    "136108-200002": {
+      "drafted": 0.09,
+      "fpts": 12.8,
+      "slots": {
+        "D": 0.09
+      },
+      "salary": 3000
+    },
+    "136108-183159": {
+      "drafted": 0.09,
+      "fpts": 11.7,
+      "slots": {
+        "C": 0.09
+      },
+      "salary": 3400
+    },
+    "136108-82191": {
+      "drafted": 0.09,
+      "fpts": 4.8,
+      "slots": {
+        "W": 0.09
+      },
+      "salary": 4600
+    },
+    "136108-58983": {
+      "drafted": 0.09,
+      "fpts": 3.2,
+      "slots": {
+        "W": 0.09
+      },
+      "salary": 3100
+    },
+    "136108-82925": {
+      "drafted": 0.09,
+      "fpts": 3.2,
+      "slots": {
+        "W": 0.09
+      },
+      "salary": 4500
+    },
+    "136108-54822": {
+      "drafted": 0.09,
+      "fpts": 1.6,
+      "slots": {
+        "C": 0.09
+      },
+      "salary": 3800
+    },
+    "136108-66716": {
+      "drafted": 0.09,
+      "fpts": 1.6,
+      "slots": {
+        "W": 0.09
+      },
+      "salary": 4900
+    },
+    "136108-15307": {
+      "drafted": 0.09,
+      "fpts": 1.6,
+      "slots": {
+        "W": 0.09
+      },
+      "salary": 3800
+    },
+    "136108-148183": {
+      "drafted": 0.09,
+      "fpts": 1.6,
+      "slots": {
+        "D": 0.09
+      },
+      "salary": 3400
+    },
+    "136108-103935": {
+      "drafted": 0.09,
+      "fpts": 1.6,
+      "slots": {
+        "W": 0.09
+      },
+      "salary": 3700
+    },
+    "136108-61549": {
+      "drafted": 0.09,
+      "fpts": 0.0,
+      "slots": {
+        "W": 0.09
+      },
+      "salary": 3500
+    },
+    "136108-12654": {
+      "drafted": 0.09,
+      "fpts": 0.0,
+      "slots": {
+        "G": 0.09
+      },
+      "salary": 7800
+    },
+    "136108-42868": {
+      "drafted": 0.09,
+      "fpts": 0.0,
+      "slots": {
+        "G": 0.09
+      },
+      "salary": 7400
+    },
+    "136108-163780": {
+      "drafted": 0.09,
+      "fpts": 0.0,
+      "slots": {
+        "D": 0.09
+      },
+      "salary": 3500
+    },
+    "136108-159805": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 7700
+    },
+    "136108-9052": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 7600
+    },
+    "136108-70509": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 7500
+    },
+    "136108-103200": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 7200
+    },
+    "136108-250345": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 4700
+    },
+    "136108-241881": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 4300
+    },
+    "136108-228950": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 4000
+    },
+    "136108-208975": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 3900
+    },
+    "136108-152973": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 3800
+    },
+    "136108-79877": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 3600
+    },
+    "136108-70927": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 3600
+    },
+    "136108-116885": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 3600
+    },
+    "136108-80443": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 3500
+    },
+    "136108-213436": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 3500
+    },
+    "136108-148220": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 3500
+    },
+    "136108-62861": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 3400
+    },
+    "136108-42833": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 3300
+    },
+    "136108-43133": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 3300
+    },
+    "136108-74155": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 3300
+    },
+    "136108-70922": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 3200
+    },
+    "136108-39710": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 3200
+    },
+    "136108-66617": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 3200
+    },
+    "136108-173424": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 3200
+    },
+    "136108-200577": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 3200
+    },
+    "136108-79885": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 3100
+    },
+    "136108-185644": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 3100
+    },
+    "136108-161885": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 3100
+    },
+    "136108-12718": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 3100
+    },
+    "136108-180186": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 3100
+    },
+    "136108-12756": {
+      "drafted": 0.0,
+      "fpts": null,
+      "slots": {},
+      "salary": 3000
+    }
+  },
+  "unmatched": [],
+  "ambiguous": [],
+  "top": [
+    {
+      "rank": 1,
+      "name": "grantgoupil (2/12)",
+      "points": 215.0
+    },
+    {
+      "rank": 2,
+      "name": "yerik09 (4/10)",
+      "points": 209.4
+    },
+    {
+      "rank": 3,
+      "name": "lowkey88 (8/19)",
+      "points": 207.5
+    }
+  ],
+  "pointsQuantiles": {
+    "p50": 124.7,
+    "p90": 167.9,
+    "p99": 198.2,
+    "max": 215.0,
+    "min": 30.9
+  },
+  "winners": [
+    {
+      "rank": 1,
+      "name": "grantgoupil (2/12)",
+      "points": 215.0,
+      "players": [
+        {
+          "slot": "C",
+          "name": "Connor McDavid",
+          "id": "136108-64102",
+          "fpts": 30.1
+        },
+        {
+          "slot": "C",
+          "name": "Noah Cates",
+          "id": "136108-168107",
+          "fpts": 24.8
+        },
+        {
+          "slot": "W",
+          "name": "Porter Martone",
+          "id": "136108-241524",
+          "fpts": 11.2
+        },
+        {
+          "slot": "W",
+          "name": "Matvei Michkov",
+          "id": "136108-204199",
+          "fpts": 15.2
+        },
+        {
+          "slot": "D",
+          "name": "Jackson LaCombe",
+          "id": "136108-185026",
+          "fpts": 14.9
+        },
+        {
+          "slot": "D",
+          "name": "Oliver Bonk",
+          "id": "136108-193704",
+          "fpts": 16.8
+        },
+        {
+          "slot": "UTIL",
+          "name": "Leo Carlsson",
+          "id": "136108-189783",
+          "fpts": 28.2
+        },
+        {
+          "slot": "UTIL",
+          "name": "Cutter Gauthier",
+          "id": "136108-198700",
+          "fpts": 45.0
+        },
+        {
+          "slot": "G",
+          "name": "Jesper Wallstedt",
+          "id": "136108-170275",
+          "fpts": 28.8
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "name": "yerik09 (4/10)",
+      "points": 209.4,
+      "players": [
+        {
+          "slot": "C",
+          "name": "Connor McDavid",
+          "id": "136108-64102",
+          "fpts": 30.1
+        },
+        {
+          "slot": "C",
+          "name": "Mikael Granlund",
+          "id": "136108-23041",
+          "fpts": 11.7
+        },
+        {
+          "slot": "W",
+          "name": "Cutter Gauthier",
+          "id": "136108-198700",
+          "fpts": 45.0
+        },
+        {
+          "slot": "W",
+          "name": "Leon Draisaitl",
+          "id": "136108-58331",
+          "fpts": 21.3
+        },
+        {
+          "slot": "D",
+          "name": "Jake Sanderson",
+          "id": "136108-142019",
+          "fpts": 19.2
+        },
+        {
+          "slot": "D",
+          "name": "Matt Roy",
+          "id": "136108-79865",
+          "fpts": 3.2
+        },
+        {
+          "slot": "UTIL",
+          "name": "Evan Bouchard",
+          "id": "136108-97129",
+          "fpts": 34.9
+        },
+        {
+          "slot": "UTIL",
+          "name": "Thomas Chabot",
+          "id": "136108-66759",
+          "fpts": 14.4
+        },
+        {
+          "slot": "G",
+          "name": "Matt Tomkins",
+          "id": "136108-82002",
+          "fpts": 29.6
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "name": "lowkey88 (8/19)",
+      "points": 207.5,
+      "players": [
+        {
+          "slot": "C",
+          "name": "Denver Barkey",
+          "id": "136108-195274",
+          "fpts": 1.6
+        },
+        {
+          "slot": "C",
+          "name": "Connor McDavid",
+          "id": "136108-64102",
+          "fpts": 30.1
+        },
+        {
+          "slot": "W",
+          "name": "Porter Martone",
+          "id": "136108-241524",
+          "fpts": 11.2
+        },
+        {
+          "slot": "W",
+          "name": "Leon Draisaitl",
+          "id": "136108-58331",
+          "fpts": 21.3
+        },
+        {
+          "slot": "D",
+          "name": "Jamie Drysdale",
+          "id": "136108-142020",
+          "fpts": 25.6
+        },
+        {
+          "slot": "D",
+          "name": "Jackson LaCombe",
+          "id": "136108-185026",
+          "fpts": 14.9
+        },
+        {
+          "slot": "UTIL",
+          "name": "Leo Carlsson",
+          "id": "136108-189783",
+          "fpts": 28.2
+        },
+        {
+          "slot": "UTIL",
+          "name": "Cutter Gauthier",
+          "id": "136108-198700",
+          "fpts": 45.0
+        },
+        {
+          "slot": "G",
+          "name": "Matt Tomkins",
+          "id": "136108-82002",
+          "fpts": 29.6
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "name": "lmfaoyourface (18/32)",
+      "points": 206.7,
+      "players": [
+        {
+          "slot": "C",
+          "name": "Christian Dvorak",
+          "id": "136108-59120",
+          "fpts": 26.4
+        },
+        {
+          "slot": "C",
+          "name": "Connor McDavid",
+          "id": "136108-64102",
+          "fpts": 30.1
+        },
+        {
+          "slot": "W",
+          "name": "Leon Draisaitl",
+          "id": "136108-58331",
+          "fpts": 21.3
+        },
+        {
+          "slot": "W",
+          "name": "Beckett Sennecke",
+          "id": "136108-204508",
+          "fpts": 4.8
+        },
+        {
+          "slot": "D",
+          "name": "Tristan Luneau",
+          "id": "136108-180226",
+          "fpts": 18.6
+        },
+        {
+          "slot": "D",
+          "name": "Jake Sanderson",
+          "id": "136108-142019",
+          "fpts": 19.2
+        },
+        {
+          "slot": "UTIL",
+          "name": "Mikael Granlund",
+          "id": "136108-23041",
+          "fpts": 11.7
+        },
+        {
+          "slot": "UTIL",
+          "name": "Cutter Gauthier",
+          "id": "136108-198700",
+          "fpts": 45.0
+        },
+        {
+          "slot": "G",
+          "name": "Matt Tomkins",
+          "id": "136108-82002",
+          "fpts": 29.6
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "uncledrew977 (24/32)",
+      "points": 206.5,
+      "players": [
+        {
+          "slot": "C",
+          "name": "Connor McDavid",
+          "id": "136108-64102",
+          "fpts": 30.1
+        },
+        {
+          "slot": "C",
+          "name": "Dylan Cozens",
+          "id": "136108-113279",
+          "fpts": 0.0
+        },
+        {
+          "slot": "W",
+          "name": "Leon Draisaitl",
+          "id": "136108-58331",
+          "fpts": 21.3
+        },
+        {
+          "slot": "W",
+          "name": "Cutter Gauthier",
+          "id": "136108-198700",
+          "fpts": 45.0
+        },
+        {
+          "slot": "D",
+          "name": "Evan Bouchard",
+          "id": "136108-97129",
+          "fpts": 34.9
+        },
+        {
+          "slot": "D",
+          "name": "Thomas Chabot",
+          "id": "136108-66759",
+          "fpts": 14.4
+        },
+        {
+          "slot": "UTIL",
+          "name": "Christian Dvorak",
+          "id": "136108-59120",
+          "fpts": 26.4
+        },
+        {
+          "slot": "UTIL",
+          "name": "Jake Sanderson",
+          "id": "136108-142019",
+          "fpts": 19.2
+        },
+        {
+          "slot": "G",
+          "name": "Dan Vladar",
+          "id": "136108-66610",
+          "fpts": 15.2
+        }
+      ]
+    }
+  ],
+  "winnersUnmatched": []
+}
