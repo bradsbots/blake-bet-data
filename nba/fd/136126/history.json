@@ -1,0 +1,253 @@
+{
+  "sport": "nba",
+  "site": "fd",
+  "slate": "136126",
+  "date": "2026-11-01",
+  "contest": {
+    "id": 281344275,
+    "label": "FD NBA 136126-281344275",
+    "entries": 5291
+  },
+  "generatedAt": "2026-11-02T14:49:17.961Z",
+  "winner": null,
+  "optimal": {
+    "points": 403.3,
+    "salary": 59800,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 84703,
+        "name": "De'Anthony Melton",
+        "team": "GSW",
+        "pos": "PG/SG",
+        "salary": 4300,
+        "fpts": 37.7,
+        "own": 39.07
+      },
+      {
+        "slot": "SG",
+        "id": 188433,
+        "name": "Brandin Podziemski",
+        "team": "GSW",
+        "pos": "SG",
+        "salary": 6000,
+        "fpts": 37.6,
+        "own": 52.84
+      },
+      {
+        "slot": "SF",
+        "id": 248956,
+        "name": "Yaxel Lendeborg",
+        "team": "GSW",
+        "pos": "PF/SF",
+        "salary": 7200,
+        "fpts": 51.8,
+        "own": 63.5
+      },
+      {
+        "slot": "PF",
+        "id": 157822,
+        "name": "Scottie Barnes",
+        "team": "TOR",
+        "pos": "PF",
+        "salary": 9100,
+        "fpts": 44.7,
+        "own": 54.38
+      },
+      {
+        "slot": "C",
+        "id": 171777,
+        "name": "Walker Kessler",
+        "team": "LAL",
+        "pos": "C",
+        "salary": 8000,
+        "fpts": 45.5,
+        "own": 19.45
+      },
+      {
+        "slot": "G/F",
+        "id": 84669,
+        "name": "Luka Doncic",
+        "team": "LAL",
+        "pos": "PG",
+        "salary": 11900,
+        "fpts": 83,
+        "own": 62.54
+      },
+      {
+        "slot": "F/C",
+        "id": 157842,
+        "name": "Charles Bassey",
+        "team": "GSW",
+        "pos": "C",
+        "salary": 3600,
+        "fpts": 27,
+        "own": 6.33
+      },
+      {
+        "slot": "UTIL",
+        "id": 23802,
+        "name": "Kris Dunn",
+        "team": "LAC",
+        "pos": "PG/SG",
+        "salary": 5000,
+        "fpts": 41.4,
+        "own": 14.89
+      },
+      {
+        "slot": "UTIL",
+        "id": 157839,
+        "name": "Day'Ron Sharpe",
+        "team": "BKN",
+        "pos": "C",
+        "salary": 4700,
+        "fpts": 34.6,
+        "own": 29.01
+      }
+    ],
+    "assumedZero": 36
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 6,
+    "pctile": 99.91,
+    "points": 390.2,
+    "salary": 60000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 163978,
+        "name": "Brandon Williams",
+        "team": "GSW",
+        "pos": "PG",
+        "salary": 4100,
+        "fpts": 27.1,
+        "own": 15.69
+      },
+      {
+        "slot": "SG",
+        "id": 171747,
+        "name": "Andrew Nembhard",
+        "team": "IND",
+        "pos": "SG/PG",
+        "salary": 6400,
+        "fpts": 32.6,
+        "own": 63.92
+      },
+      {
+        "slot": "SF",
+        "id": 84682,
+        "name": "Michael Porter",
+        "team": "BKN",
+        "pos": "SF",
+        "salary": 7300,
+        "fpts": 37.3,
+        "own": 42.32
+      },
+      {
+        "slot": "PF",
+        "id": 248956,
+        "name": "Yaxel Lendeborg",
+        "team": "GSW",
+        "pos": "PF/SF",
+        "salary": 7200,
+        "fpts": 51.8,
+        "own": 63.5
+      },
+      {
+        "slot": "C",
+        "id": 157839,
+        "name": "Day'Ron Sharpe",
+        "team": "BKN",
+        "pos": "C",
+        "salary": 4700,
+        "fpts": 34.6,
+        "own": 29.01
+      },
+      {
+        "slot": "G/F",
+        "id": 84703,
+        "name": "De'Anthony Melton",
+        "team": "GSW",
+        "pos": "PG/SG",
+        "salary": 4300,
+        "fpts": 37.7,
+        "own": 39.07
+      },
+      {
+        "slot": "F/C",
+        "id": 157822,
+        "name": "Scottie Barnes",
+        "team": "TOR",
+        "pos": "PF",
+        "salary": 9100,
+        "fpts": 44.7,
+        "own": 54.38
+      },
+      {
+        "slot": "UTIL",
+        "id": 84669,
+        "name": "Luka Doncic",
+        "team": "LAL",
+        "pos": "PG",
+        "salary": 11900,
+        "fpts": 83,
+        "own": 62.54
+      },
+      {
+        "slot": "UTIL",
+        "id": 23802,
+        "name": "Kris Dunn",
+        "team": "LAC",
+        "pos": "PG/SG",
+        "salary": 5000,
+        "fpts": 41.4,
+        "own": 14.89
+      }
+    ],
+    "money": null
+  },
+  "stacks": {
+    "winner": null,
+    "optimal": {
+      "teams": {
+        "GSW": 4,
+        "LAL": 2,
+        "BKN": 1,
+        "LAC": 1,
+        "TOR": 1
+      },
+      "games": {
+        "LAC@GSW": 5,
+        "TOR@LAL": 3,
+        "BKN@IND": 1
+      },
+      "nGames": 3,
+      "summary": [
+        "GSW 4 · LAL 2",
+        "3 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "GSW": 3,
+        "BKN": 2,
+        "IND": 1,
+        "LAC": 1,
+        "LAL": 1,
+        "TOR": 1
+      },
+      "games": {
+        "LAC@GSW": 4,
+        "BKN@IND": 3,
+        "TOR@LAL": 2
+      },
+      "nGames": 3,
+      "summary": [
+        "GSW 3 · BKN 2",
+        "3 games"
+      ]
+    }
+  }
+}

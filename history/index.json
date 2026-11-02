@@ -1,6 +1,23 @@
 [
   {
     "sport": "nba",
+    "site": "fd",
+    "slate": "136126",
+    "date": "2026-11-01",
+    "label": "FD NBA 136126-281344275",
+    "contestId": 281344275,
+    "entries": 5291,
+    "winnerPoints": null,
+    "optimalPoints": 403.3,
+    "paperPoints": 390.2,
+    "paperPctile": 99.91,
+    "paperNet1": null,
+    "portfolioNet": null,
+    "portfolioCashed": null,
+    "portfolioN": null
+  },
+  {
+    "sport": "nba",
     "slate": "156043",
     "date": "2026-11-01",
     "label": "NBA $80K Fadeaway [$20K to 1st]",
