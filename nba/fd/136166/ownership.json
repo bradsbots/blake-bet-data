@@ -4,7 +4,7 @@
   "slate": "136166",
   "contestId": 281367344,
   "label": "FD NBA 136166-281367344",
-  "importedAt": "2026-11-03T13:29:17+00:00",
+  "importedAt": "2026-11-03T16:15:55+00:00",
   "entries": 15497,
   "emptyEntries": 13,
   "source": "fd_standings_csv",
@@ -3057,63 +3057,307 @@
       "rank": 1,
       "name": "bgreseth13 (150/150)",
       "points": 437.6,
-      "players": []
+      "players": [
+        {
+          "slot": "PG",
+          "name": "Shai Gilgeous-Alexander",
+          "id": "136166-84680",
+          "fpts": 66.6
+        },
+        {
+          "slot": "SG",
+          "name": "Quenton Jackson",
+          "id": "136166-179762",
+          "fpts": 45.9
+        },
+        {
+          "slot": "SF",
+          "name": "Dyson Daniels",
+          "id": "136166-171784",
+          "fpts": 32.8
+        },
+        {
+          "slot": "PF",
+          "name": "Jarace Walker",
+          "id": "136166-188409",
+          "fpts": 32.9
+        },
+        {
+          "slot": "C",
+          "name": "Nikola Jokić",
+          "id": "136166-55062",
+          "fpts": 61.8
+        },
+        {
+          "slot": "G/F",
+          "name": "Braden Smith",
+          "id": "136166-249005",
+          "fpts": 45.8
+        },
+        {
+          "slot": "F/C",
+          "name": "Jalen Slawson",
+          "id": "136166-188449",
+          "fpts": 40.9
+        },
+        {
+          "slot": "UTIL",
+          "name": "Ayo Dosunmu",
+          "id": "136166-157849",
+          "fpts": 49.4
+        },
+        {
+          "slot": "UTIL",
+          "name": "Cade Cunningham",
+          "id": "136166-157808",
+          "fpts": 61.5
+        }
+      ]
     },
     {
       "rank": 2,
       "name": "squirrelpatrol (90/150)",
       "points": 431.7,
-      "players": []
+      "players": [
+        {
+          "slot": "PG",
+          "name": "Shai Gilgeous-Alexander",
+          "id": "136166-84680",
+          "fpts": 66.6
+        },
+        {
+          "slot": "SG",
+          "name": "Nickeil Alexander-Walker",
+          "id": "136166-110356",
+          "fpts": 52.8
+        },
+        {
+          "slot": "SF",
+          "name": "Dyson Daniels",
+          "id": "136166-171784",
+          "fpts": 32.8
+        },
+        {
+          "slot": "PF",
+          "name": "Jarace Walker",
+          "id": "136166-188409",
+          "fpts": 32.9
+        },
+        {
+          "slot": "C",
+          "name": "Jay Huff",
+          "id": "136166-159097",
+          "fpts": 36.6
+        },
+        {
+          "slot": "G/F",
+          "name": "Cade Cunningham",
+          "id": "136166-157808",
+          "fpts": 61.5
+        },
+        {
+          "slot": "F/C",
+          "name": "Jalen Slawson",
+          "id": "136166-188449",
+          "fpts": 40.9
+        },
+        {
+          "slot": "UTIL",
+          "name": "Braden Smith",
+          "id": "136166-249005",
+          "fpts": 45.8
+        },
+        {
+          "slot": "UTIL",
+          "name": "Nikola Jokić",
+          "id": "136166-55062",
+          "fpts": 61.8
+        }
+      ]
     },
     {
       "rank": 3,
       "name": "mcmuncher (53/150)",
       "points": 429.4,
-      "players": []
+      "players": [
+        {
+          "slot": "PG",
+          "name": "Shai Gilgeous-Alexander",
+          "id": "136166-84680",
+          "fpts": 66.6
+        },
+        {
+          "slot": "SG",
+          "name": "Quenton Jackson",
+          "id": "136166-179762",
+          "fpts": 45.9
+        },
+        {
+          "slot": "SF",
+          "name": "Jaylen Brown",
+          "id": "136166-67026",
+          "fpts": 48.7
+        },
+        {
+          "slot": "PF",
+          "name": "Jarace Walker",
+          "id": "136166-188409",
+          "fpts": 32.9
+        },
+        {
+          "slot": "C",
+          "name": "Jay Huff",
+          "id": "136166-159097",
+          "fpts": 36.6
+        },
+        {
+          "slot": "G/F",
+          "name": "Braden Smith",
+          "id": "136166-249005",
+          "fpts": 45.8
+        },
+        {
+          "slot": "F/C",
+          "name": "Anthony Davis",
+          "id": "136166-15755",
+          "fpts": 46.3
+        },
+        {
+          "slot": "UTIL",
+          "name": "Nikola Jokić",
+          "id": "136166-55062",
+          "fpts": 61.8
+        },
+        {
+          "slot": "UTIL",
+          "name": "CJ McCollum",
+          "id": "136166-19067",
+          "fpts": 44.8
+        }
+      ]
     },
     {
       "rank": 4,
       "name": "squirrelpatrol (52/150)",
       "points": 429.1,
-      "players": []
+      "players": [
+        {
+          "slot": "PG",
+          "name": "Shai Gilgeous-Alexander",
+          "id": "136166-84680",
+          "fpts": 66.6
+        },
+        {
+          "slot": "SG",
+          "name": "Nickeil Alexander-Walker",
+          "id": "136166-110356",
+          "fpts": 52.8
+        },
+        {
+          "slot": "SF",
+          "name": "Franz Wagner",
+          "id": "136166-157851",
+          "fpts": 36.6
+        },
+        {
+          "slot": "PF",
+          "name": "Jarace Walker",
+          "id": "136166-188409",
+          "fpts": 32.9
+        },
+        {
+          "slot": "C",
+          "name": "Jay Huff",
+          "id": "136166-159097",
+          "fpts": 36.6
+        },
+        {
+          "slot": "G/F",
+          "name": "Cade Cunningham",
+          "id": "136166-157808",
+          "fpts": 61.5
+        },
+        {
+          "slot": "F/C",
+          "name": "Jalen Slawson",
+          "id": "136166-188449",
+          "fpts": 40.9
+        },
+        {
+          "slot": "UTIL",
+          "name": "Tyrese Maxey",
+          "id": "136166-145331",
+          "fpts": 55.3
+        },
+        {
+          "slot": "UTIL",
+          "name": "Quenton Jackson",
+          "id": "136166-179762",
+          "fpts": 45.9
+        }
+      ]
     },
     {
       "rank": 4,
       "name": "lonehixx (120/150)",
       "points": 429.1,
-      "players": []
+      "players": [
+        {
+          "slot": "PG",
+          "name": "Shai Gilgeous-Alexander",
+          "id": "136166-84680",
+          "fpts": 66.6
+        },
+        {
+          "slot": "SG",
+          "name": "Quenton Jackson",
+          "id": "136166-179762",
+          "fpts": 45.9
+        },
+        {
+          "slot": "SF",
+          "name": "Jalen Slawson",
+          "id": "136166-188449",
+          "fpts": 40.9
+        },
+        {
+          "slot": "PF",
+          "name": "Franz Wagner",
+          "id": "136166-157851",
+          "fpts": 36.6
+        },
+        {
+          "slot": "C",
+          "name": "Jay Huff",
+          "id": "136166-159097",
+          "fpts": 36.6
+        },
+        {
+          "slot": "G/F",
+          "name": "Cade Cunningham",
+          "id": "136166-157808",
+          "fpts": 61.5
+        },
+        {
+          "slot": "F/C",
+          "name": "Jarace Walker",
+          "id": "136166-188409",
+          "fpts": 32.9
+        },
+        {
+          "slot": "UTIL",
+          "name": "Nickeil Alexander-Walker",
+          "id": "136166-110356",
+          "fpts": 52.8
+        },
+        {
+          "slot": "UTIL",
+          "name": "Tyrese Maxey",
+          "id": "136166-145331",
+          "fpts": 55.3
+        }
+      ]
     }
   ],
-  "winnersUnmatched": [
-    {
-      "rank": 1,
-      "slot": null,
-      "name": "PG Shai Gilgeous-Alexander (136166-84680), SG Quenton Jackson (136166-179762), SF Dyson Daniels (136166-171784), PF Jarace Walker (136166-188409), C Nikola Jokić (136166-55062), PG Braden Smith (136166-249005), SF Jalen Slawson (136166-188449), SG Ayo Dosunmu (136166-157849), PG Cade Cunningham (136166-157808)",
-      "reason": "unparsed"
-    },
-    {
-      "rank": 2,
-      "slot": null,
-      "name": "PG Shai Gilgeous-Alexander (136166-84680), SG Nickeil Alexander-Walker (136166-110356), SF Dyson Daniels (136166-171784), PF Jarace Walker (136166-188409), C Jay Huff (136166-159097), PG Cade Cunningham (136166-157808), SF Jalen Slawson (136166-188449), PG Braden Smith (136166-249005), C Nikola Jokić (136166-55062)",
-      "reason": "unparsed"
-    },
-    {
-      "rank": 3,
-      "slot": null,
-      "name": "PG Shai Gilgeous-Alexander (136166-84680), SG Quenton Jackson (136166-179762), SF Jaylen Brown (136166-67026), PF Jarace Walker (136166-188409), C Jay Huff (136166-159097), PG Braden Smith (136166-249005), PF Anthony Davis (136166-15755), C Nikola Jokić (136166-55062), SG CJ McCollum (136166-19067)",
-      "reason": "unparsed"
-    },
-    {
-      "rank": 4,
-      "slot": null,
-      "name": "PG Shai Gilgeous-Alexander (136166-84680), SG Nickeil Alexander-Walker (136166-110356), SF Franz Wagner (136166-157851), PF Jarace Walker (136166-188409), C Jay Huff (136166-159097), PG Cade Cunningham (136166-157808), SF Jalen Slawson (136166-188449), PG Tyrese Maxey (136166-145331), SG Quenton Jackson (136166-179762)",
-      "reason": "unparsed"
-    },
-    {
-      "rank": 4,
-      "slot": null,
-      "name": "PG Shai Gilgeous-Alexander (136166-84680), SG Quenton Jackson (136166-179762), SF Jalen Slawson (136166-188449), SF Franz Wagner (136166-157851), C Jay Huff (136166-159097), PG Cade Cunningham (136166-157808), PF Jarace Walker (136166-188409), SG Nickeil Alexander-Walker (136166-110356), PG Tyrese Maxey (136166-145331)",
-      "reason": "unparsed"
-    }
-  ]
+  "winnersUnmatched": []
 }
