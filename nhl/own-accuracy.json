@@ -2,6 +2,50 @@
  "sport": "nhl",
  "slates": [
   {
+   "slate": "155848",
+   "date": "2026-11-02",
+   "label": "NHL $30K Overload [$10K to 1st]",
+   "entries": 1764,
+   "source": "live",
+   "model": "v1",
+   "predictedAt": "2026-11-02T23:55:12+00:00",
+   "lockAt": "2026-11-03T00:00:00+00:00",
+   "minutesBeforeLock": 5,
+   "n": 187,
+   "mae": 1.612,
+   "mae5": 3.349,
+   "spearman": 0.9447,
+   "top10": 0.6,
+   "chalk": {
+    "n": 8,
+    "caught": 6
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Tyler Toffoli",
+     "pos": "W",
+     "team": "SJS",
+     "pred": 7.29,
+     "actual": 30.73
+    },
+    {
+     "name": "Macklin Celebrini",
+     "pos": "C",
+     "team": "SJS",
+     "pred": 19.7,
+     "actual": 37.82
+    },
+    {
+     "name": "Will Smith",
+     "pos": "W",
+     "team": "SJS",
+     "pred": 17.41,
+     "actual": 27.15
+    }
+   ]
+  },
+  {
    "slate": "155841",
    "date": "2026-11-01",
    "label": "NHL $15K Overload  [$5K to 1st]",
@@ -752,12 +796,12 @@
  ],
  "recent": {
   "slates": 10,
-  "n": 3060,
-  "mae": 1.428,
-  "mae5": 4.111,
+  "n": 2693,
+  "mae": 1.532,
+  "mae5": 4.037,
   "chalk": {
-   "n": 66,
-   "caught": 46
+   "n": 72,
+   "caught": 52
   },
   "falseChalk": 1
  }
