@@ -4,7 +4,7 @@
   "slate": "136126",
   "contestId": 281344275,
   "label": "FD NBA 136126-281344275",
-  "importedAt": "2026-11-02T14:49:16+00:00",
+  "importedAt": "2026-11-03T16:16:06+00:00",
   "entries": 5291,
   "emptyEntries": 6,
   "source": "fd_standings_csv",
@@ -819,63 +819,307 @@
       "rank": 1,
       "name": "sylbester (33/50)",
       "points": 392.5,
-      "players": []
+      "players": [
+        {
+          "slot": "PG",
+          "name": "Andrew Nembhard",
+          "id": "136126-171747",
+          "fpts": 32.6
+        },
+        {
+          "slot": "SG",
+          "name": "De'Anthony Melton",
+          "id": "136126-84703",
+          "fpts": 37.7
+        },
+        {
+          "slot": "SF",
+          "name": "Michael Porter",
+          "id": "136126-84682",
+          "fpts": 37.3
+        },
+        {
+          "slot": "PF",
+          "name": "Yaxel Lendeborg",
+          "id": "136126-248956",
+          "fpts": 51.8
+        },
+        {
+          "slot": "C",
+          "name": "Day'Ron Sharpe",
+          "id": "136126-157839",
+          "fpts": 34.6
+        },
+        {
+          "slot": "G/F",
+          "name": "Nolan Traore",
+          "id": "136126-228110",
+          "fpts": 29.4
+        },
+        {
+          "slot": "F/C",
+          "name": "Scottie Barnes",
+          "id": "136126-157822",
+          "fpts": 44.7
+        },
+        {
+          "slot": "UTIL",
+          "name": "Kris Dunn",
+          "id": "136126-23802",
+          "fpts": 41.4
+        },
+        {
+          "slot": "UTIL",
+          "name": "Luka Dončić",
+          "id": "136126-84669",
+          "fpts": 83.0
+        }
+      ]
     },
     {
       "rank": 1,
       "name": "mtzdallasfan (2/3)",
       "points": 392.5,
-      "players": []
+      "players": [
+        {
+          "slot": "PG",
+          "name": "Nolan Traore",
+          "id": "136126-228110",
+          "fpts": 29.4
+        },
+        {
+          "slot": "SG",
+          "name": "Andrew Nembhard",
+          "id": "136126-171747",
+          "fpts": 32.6
+        },
+        {
+          "slot": "SF",
+          "name": "Michael Porter",
+          "id": "136126-84682",
+          "fpts": 37.3
+        },
+        {
+          "slot": "PF",
+          "name": "Yaxel Lendeborg",
+          "id": "136126-248956",
+          "fpts": 51.8
+        },
+        {
+          "slot": "C",
+          "name": "Day'Ron Sharpe",
+          "id": "136126-157839",
+          "fpts": 34.6
+        },
+        {
+          "slot": "G/F",
+          "name": "De'Anthony Melton",
+          "id": "136126-84703",
+          "fpts": 37.7
+        },
+        {
+          "slot": "F/C",
+          "name": "Scottie Barnes",
+          "id": "136126-157822",
+          "fpts": 44.7
+        },
+        {
+          "slot": "UTIL",
+          "name": "Kris Dunn",
+          "id": "136126-23802",
+          "fpts": 41.4
+        },
+        {
+          "slot": "UTIL",
+          "name": "Luka Dončić",
+          "id": "136126-84669",
+          "fpts": 83.0
+        }
+      ]
     },
     {
       "rank": 1,
       "name": "eitthegreat (79/150)",
       "points": 392.5,
-      "players": []
+      "players": [
+        {
+          "slot": "PG",
+          "name": "Nolan Traore",
+          "id": "136126-228110",
+          "fpts": 29.4
+        },
+        {
+          "slot": "SG",
+          "name": "Andrew Nembhard",
+          "id": "136126-171747",
+          "fpts": 32.6
+        },
+        {
+          "slot": "SF",
+          "name": "Michael Porter",
+          "id": "136126-84682",
+          "fpts": 37.3
+        },
+        {
+          "slot": "PF",
+          "name": "Yaxel Lendeborg",
+          "id": "136126-248956",
+          "fpts": 51.8
+        },
+        {
+          "slot": "C",
+          "name": "Day'Ron Sharpe",
+          "id": "136126-157839",
+          "fpts": 34.6
+        },
+        {
+          "slot": "G/F",
+          "name": "De'Anthony Melton",
+          "id": "136126-84703",
+          "fpts": 37.7
+        },
+        {
+          "slot": "F/C",
+          "name": "Scottie Barnes",
+          "id": "136126-157822",
+          "fpts": 44.7
+        },
+        {
+          "slot": "UTIL",
+          "name": "Kris Dunn",
+          "id": "136126-23802",
+          "fpts": 41.4
+        },
+        {
+          "slot": "UTIL",
+          "name": "Luka Dončić",
+          "id": "136126-84669",
+          "fpts": 83.0
+        }
+      ]
     },
     {
       "rank": 4,
       "name": "jlocontipayne (88/150)",
       "points": 392.4,
-      "players": []
+      "players": [
+        {
+          "slot": "PG",
+          "name": "Nolan Traore",
+          "id": "136126-228110",
+          "fpts": 29.4
+        },
+        {
+          "slot": "SG",
+          "name": "De'Anthony Melton",
+          "id": "136126-84703",
+          "fpts": 37.7
+        },
+        {
+          "slot": "SF",
+          "name": "Yaxel Lendeborg",
+          "id": "136126-248956",
+          "fpts": 51.8
+        },
+        {
+          "slot": "PF",
+          "name": "Pascal Siakam",
+          "id": "136126-60021",
+          "fpts": 30.5
+        },
+        {
+          "slot": "C",
+          "name": "Day'Ron Sharpe",
+          "id": "136126-157839",
+          "fpts": 34.6
+        },
+        {
+          "slot": "G/F",
+          "name": "Kris Dunn",
+          "id": "136126-23802",
+          "fpts": 41.4
+        },
+        {
+          "slot": "F/C",
+          "name": "RJ Barrett",
+          "id": "136126-110357",
+          "fpts": 38.5
+        },
+        {
+          "slot": "UTIL",
+          "name": "Luka Dončić",
+          "id": "136126-84669",
+          "fpts": 83.0
+        },
+        {
+          "slot": "UTIL",
+          "name": "Walker Kessler",
+          "id": "136126-171777",
+          "fpts": 45.5
+        }
+      ]
     },
     {
       "rank": 5,
       "name": "the_always_winner (92/150)",
       "points": 391.4,
-      "players": []
+      "players": [
+        {
+          "slot": "PG",
+          "name": "Nolan Traore",
+          "id": "136126-228110",
+          "fpts": 29.4
+        },
+        {
+          "slot": "SG",
+          "name": "Brandin Podziemski",
+          "id": "136126-188433",
+          "fpts": 37.6
+        },
+        {
+          "slot": "SF",
+          "name": "Rui Hachimura",
+          "id": "136126-110349",
+          "fpts": 30.4
+        },
+        {
+          "slot": "PF",
+          "name": "Yaxel Lendeborg",
+          "id": "136126-248956",
+          "fpts": 51.8
+        },
+        {
+          "slot": "C",
+          "name": "Day'Ron Sharpe",
+          "id": "136126-157839",
+          "fpts": 34.6
+        },
+        {
+          "slot": "G/F",
+          "name": "Kris Dunn",
+          "id": "136126-23802",
+          "fpts": 41.4
+        },
+        {
+          "slot": "F/C",
+          "name": "RJ Barrett",
+          "id": "136126-110357",
+          "fpts": 38.5
+        },
+        {
+          "slot": "UTIL",
+          "name": "Scottie Barnes",
+          "id": "136126-157822",
+          "fpts": 44.7
+        },
+        {
+          "slot": "UTIL",
+          "name": "Luka Dončić",
+          "id": "136126-84669",
+          "fpts": 83.0
+        }
+      ]
     }
   ],
-  "winnersUnmatched": [
-    {
-      "rank": 1,
-      "slot": null,
-      "name": "SG Andrew Nembhard (136126-171747), PG De'Anthony Melton (136126-84703), SF Michael Porter (136126-84682), PF Yaxel Lendeborg (136126-248956), C Day'Ron Sharpe (136126-157839), PG Nolan Traore (136126-228110), PF Scottie Barnes (136126-157822), PG Kris Dunn (136126-23802), PG Luka Dončić (136126-84669)",
-      "reason": "unparsed"
-    },
-    {
-      "rank": 1,
-      "slot": null,
-      "name": "PG Nolan Traore (136126-228110), SG Andrew Nembhard (136126-171747), SF Michael Porter (136126-84682), PF Yaxel Lendeborg (136126-248956), C Day'Ron Sharpe (136126-157839), PG De'Anthony Melton (136126-84703), PF Scottie Barnes (136126-157822), PG Kris Dunn (136126-23802), PG Luka Dončić (136126-84669)",
-      "reason": "unparsed"
-    },
-    {
-      "rank": 1,
-      "slot": null,
-      "name": "PG Nolan Traore (136126-228110), SG Andrew Nembhard (136126-171747), SF Michael Porter (136126-84682), PF Yaxel Lendeborg (136126-248956), C Day'Ron Sharpe (136126-157839), PG De'Anthony Melton (136126-84703), PF Scottie Barnes (136126-157822), PG Kris Dunn (136126-23802), PG Luka Dončić (136126-84669)",
-      "reason": "unparsed"
-    },
-    {
-      "rank": 4,
-      "slot": null,
-      "name": "PG Nolan Traore (136126-228110), PG De'Anthony Melton (136126-84703), PF Yaxel Lendeborg (136126-248956), PF Pascal Siakam (136126-60021), C Day'Ron Sharpe (136126-157839), PG Kris Dunn (136126-23802), SG RJ Barrett (136126-110357), PG Luka Dončić (136126-84669), C Walker Kessler (136126-171777)",
-      "reason": "unparsed"
-    },
-    {
-      "rank": 5,
-      "slot": null,
-      "name": "PG Nolan Traore (136126-228110), SG Brandin Podziemski (136126-188433), SF Rui Hachimura (136126-110349), PF Yaxel Lendeborg (136126-248956), C Day'Ron Sharpe (136126-157839), PG Kris Dunn (136126-23802), SG RJ Barrett (136126-110357), PF Scottie Barnes (136126-157822), PG Luka Dončić (136126-84669)",
-      "reason": "unparsed"
-    }
-  ]
+  "winnersUnmatched": []
 }
