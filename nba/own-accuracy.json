@@ -2,6 +2,50 @@
  "sport": "nba",
  "slates": [
   {
+   "slate": "156054",
+   "date": "2026-11-02",
+   "label": "NBA $200K Fadeaway [$50K to 1st]",
+   "entries": 15686,
+   "source": "live",
+   "model": "v1",
+   "predictedAt": "2026-11-02T23:45:21+00:00",
+   "lockAt": "2026-11-03T00:00:00+00:00",
+   "minutesBeforeLock": 15,
+   "n": 315,
+   "mae": 2.836,
+   "mae5": 9.571,
+   "spearman": 0.876,
+   "top10": 0.1,
+   "chalk": {
+    "n": 10,
+    "caught": 1
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Quenton Jackson",
+     "pos": "ALL",
+     "team": "IND",
+     "pred": 0.86,
+     "actual": 73.05
+    },
+    {
+     "name": "Jarace Walker",
+     "pos": "ALL",
+     "team": "IND",
+     "pred": 0.93,
+     "actual": 68.45
+    },
+    {
+     "name": "Jalen Slawson",
+     "pos": "ALL",
+     "team": "IND",
+     "pred": 0.28,
+     "actual": 45.28
+    }
+   ]
+  },
+  {
    "slate": "156043",
    "date": "2026-11-01",
    "label": "NBA $80K Fadeaway [$20K to 1st]",
@@ -135,13 +179,13 @@
   }
  ],
  "recent": {
-  "slates": 3,
-  "n": 494,
-  "mae": 3.039,
-  "mae5": 7.748,
+  "slates": 4,
+  "n": 809,
+  "mae": 2.96,
+  "mae5": 8.335,
   "chalk": {
-   "n": 42,
-   "caught": 30
+   "n": 52,
+   "caught": 31
   },
   "falseChalk": 3
  }
