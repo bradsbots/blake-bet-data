@@ -8,7 +8,7 @@
     "label": "$10K Sat NHL Breakaway BOO! ($2K to 1st)",
     "entries": 2651
   },
-  "generatedAt": "2026-11-03T21:29:29.801Z",
+  "generatedAt": "2026-11-03T22:29:12.530Z",
   "winner": {
     "rank": 1,
     "name": "lmfaoyourface (57/80)",
@@ -306,14 +306,14 @@
     "money": {
       "fee": 4.44,
       "one": {
-        "won": null,
-        "net": null
+        "won": 0,
+        "net": -4.44
       },
       "portfolio": {
         "n": 6,
-        "won": null,
-        "net": null,
-        "cashed": null
+        "won": 0,
+        "net": -26.64,
+        "cashed": 0
       }
     }
   },

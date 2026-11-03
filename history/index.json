@@ -175,9 +175,9 @@
     "optimalPoints": 280.7,
     "paperPoints": 136.5,
     "paperPctile": 43.19,
-    "paperNet1": null,
-    "portfolioNet": null,
-    "portfolioCashed": null,
+    "paperNet1": -4.44,
+    "portfolioNet": -26.64,
+    "portfolioCashed": 0,
     "portfolioN": 6
   },
   {
