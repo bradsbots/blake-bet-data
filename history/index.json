@@ -119,17 +119,17 @@
     "site": "fd",
     "slate": "136108",
     "date": "2026-11-01",
-    "label": "FD NHL 136108-281342969",
+    "label": "$4K Sun NHL Breakaway ($1K to 1st)",
     "contestId": 281342969,
     "entries": 1070,
     "winnerPoints": 215,
     "optimalPoints": 289.6,
     "paperPoints": 124.2,
     "paperPctile": 49.25,
-    "paperNet1": null,
-    "portfolioNet": null,
-    "portfolioCashed": null,
-    "portfolioN": null
+    "paperNet1": -4.44,
+    "portfolioNet": -26.64,
+    "portfolioCashed": 0,
+    "portfolioN": 6
   },
   {
     "sport": "nhl",
