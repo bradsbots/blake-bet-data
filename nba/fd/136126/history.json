@@ -5,10 +5,10 @@
   "date": "2026-11-01",
   "contest": {
     "id": 281344275,
-    "label": "FD NBA 136126-281344275",
+    "label": "$40K Sun NBA Shot ($10K to 1st)",
     "entries": 5291
   },
-  "generatedAt": "2026-11-03T16:16:08.367Z",
+  "generatedAt": "2026-11-03T21:29:54.142Z",
   "winner": {
     "rank": 1,
     "name": "sylbester (33/50)",
@@ -303,7 +303,19 @@
         "own": 14.89
       }
     ],
-    "money": null
+    "money": {
+      "fee": 9,
+      "one": {
+        "won": 250,
+        "net": 241
+      },
+      "portfolio": {
+        "n": 3,
+        "won": null,
+        "net": null,
+        "cashed": null
+      }
+    }
   },
   "stacks": {
     "winner": {

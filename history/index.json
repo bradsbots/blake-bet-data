@@ -70,17 +70,17 @@
     "site": "fd",
     "slate": "136126",
     "date": "2026-11-01",
-    "label": "FD NBA 136126-281344275",
+    "label": "$40K Sun NBA Shot ($10K to 1st)",
     "contestId": 281344275,
     "entries": 5291,
     "winnerPoints": 392.5,
     "optimalPoints": 403.3,
     "paperPoints": 390.2,
     "paperPctile": 99.91,
-    "paperNet1": null,
+    "paperNet1": 241,
     "portfolioNet": null,
     "portfolioCashed": null,
-    "portfolioN": null
+    "portfolioN": 3
   },
   {
     "sport": "nba",
