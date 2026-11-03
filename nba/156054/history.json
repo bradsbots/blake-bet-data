@@ -1,0 +1,358 @@
+{
+  "sport": "nba",
+  "slate": "156054",
+  "date": "2026-11-02",
+  "contest": {
+    "id": 197414485,
+    "label": "NBA $200K Fadeaway [$50K to 1st]",
+    "entries": 15686
+  },
+  "generatedAt": "2026-11-03T09:40:15.031Z",
+  "winner": {
+    "rank": 1,
+    "name": "ImnotNavT (48/150)",
+    "points": 374.75,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44751067,
+        "name": "Shai Gilgeous-Alexander",
+        "team": "OKC",
+        "pos": "PG",
+        "salary": 10100,
+        "fpts": 66.25,
+        "own": 10.83
+      },
+      {
+        "slot": "SG",
+        "id": 44751586,
+        "name": "Quenton Jackson",
+        "team": "IND",
+        "pos": "PG",
+        "salary": 4300,
+        "fpts": 43.25,
+        "own": 73.05
+      },
+      {
+        "slot": "SF",
+        "id": 44751524,
+        "name": "Jarace Walker",
+        "team": "IND",
+        "pos": "SF",
+        "salary": 4600,
+        "fpts": 32.25,
+        "own": 68.45
+      },
+      {
+        "slot": "PF",
+        "id": 44751120,
+        "name": "Franz Wagner",
+        "team": "ORL",
+        "pos": "SF",
+        "salary": 8300,
+        "fpts": 37.75,
+        "own": 33.01
+      },
+      {
+        "slot": "C",
+        "id": 44751675,
+        "name": "Jay Huff",
+        "team": "IND",
+        "pos": "C",
+        "salary": 4000,
+        "fpts": 37,
+        "own": 35.07
+      },
+      {
+        "slot": "G",
+        "id": 44751995,
+        "name": "Braden Smith",
+        "team": "IND",
+        "pos": "PG",
+        "salary": 3100,
+        "fpts": 47,
+        "own": 36.5
+      },
+      {
+        "slot": "F",
+        "id": 44751305,
+        "name": "Ayo Dosunmu",
+        "team": "MIN",
+        "pos": "SG",
+        "salary": 6200,
+        "fpts": 51,
+        "own": 16.92
+      },
+      {
+        "slot": "UTIL",
+        "id": 44751082,
+        "name": "Cade Cunningham",
+        "team": "DET",
+        "pos": "PG",
+        "salary": 9300,
+        "fpts": 60.25,
+        "own": 16.79
+      }
+    ]
+  },
+  "optimal": {
+    "points": 406.5,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44751067,
+        "name": "Shai Gilgeous-Alexander",
+        "team": "OKC",
+        "pos": "PG",
+        "salary": 10100,
+        "fpts": 66.25,
+        "own": 10.83
+      },
+      {
+        "slot": "SG",
+        "id": 44751586,
+        "name": "Quenton Jackson",
+        "team": "IND",
+        "pos": "PG",
+        "salary": 4300,
+        "fpts": 43.25,
+        "own": 73.05
+      },
+      {
+        "slot": "SF",
+        "id": 44751305,
+        "name": "Ayo Dosunmu",
+        "team": "MIN",
+        "pos": "SG",
+        "salary": 6200,
+        "fpts": 51,
+        "own": 16.92
+      },
+      {
+        "slot": "PF",
+        "id": 44751319,
+        "name": "Derik Queen",
+        "team": "NOP",
+        "pos": "PF",
+        "salary": 6200,
+        "fpts": 42.25,
+        "own": 0.18
+      },
+      {
+        "slot": "C",
+        "id": 44751612,
+        "name": "Karlo Matkovic",
+        "team": "NOP",
+        "pos": "PF",
+        "salary": 4200,
+        "fpts": 42,
+        "own": 1.05
+      },
+      {
+        "slot": "G",
+        "id": 44751995,
+        "name": "Braden Smith",
+        "team": "IND",
+        "pos": "PG",
+        "salary": 3100,
+        "fpts": 47,
+        "own": 36.5
+      },
+      {
+        "slot": "F",
+        "id": 44751096,
+        "name": "Alperen Sengun",
+        "team": "HOU",
+        "pos": "PF",
+        "salary": 8700,
+        "fpts": 59.25,
+        "own": 3.21
+      },
+      {
+        "slot": "UTIL",
+        "id": 44751178,
+        "name": "Nickeil Alexander-Walker",
+        "team": "ATL",
+        "pos": "PG",
+        "salary": 7200,
+        "fpts": 55.5,
+        "own": 5.11
+      }
+    ],
+    "assumedZero": 147
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 15396,
+    "pctile": 1.84,
+    "points": 211.5,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44751620,
+        "name": "Jase Richardson",
+        "team": "ORL",
+        "pos": "PG",
+        "salary": 4200,
+        "fpts": 19.75,
+        "own": 1.38
+      },
+      {
+        "slot": "SG",
+        "id": 44751368,
+        "name": "Josh Hart",
+        "team": "NYK",
+        "pos": "SG",
+        "salary": 5800,
+        "fpts": 31.5,
+        "own": 1.74
+      },
+      {
+        "slot": "SF",
+        "id": 44751484,
+        "name": "Kelly Oubre Jr.",
+        "team": "IND",
+        "pos": "SG",
+        "salary": 4800,
+        "fpts": 0,
+        "own": 17.46
+      },
+      {
+        "slot": "PF",
+        "id": 44751159,
+        "name": "LeBron James",
+        "team": "PHI",
+        "pos": "PF",
+        "salary": 7600,
+        "fpts": 37.75,
+        "own": 11.81
+      },
+      {
+        "slot": "C",
+        "id": 44751449,
+        "name": "Jalen Smith",
+        "team": "CHI",
+        "pos": "C",
+        "salary": 5100,
+        "fpts": 28.25,
+        "own": 2.64
+      },
+      {
+        "slot": "G",
+        "id": 44751218,
+        "name": "Desmond Bane",
+        "team": "ORL",
+        "pos": "SG",
+        "salary": 7000,
+        "fpts": 30.25,
+        "own": 13.95
+      },
+      {
+        "slot": "F",
+        "id": 44751350,
+        "name": "Jonathan Kuminga",
+        "team": "MIN",
+        "pos": "PF",
+        "salary": 5900,
+        "fpts": 32,
+        "own": 4.36
+      },
+      {
+        "slot": "UTIL",
+        "id": 44751077,
+        "name": "Cooper Flagg",
+        "team": "DAL",
+        "pos": "SF",
+        "salary": 9600,
+        "fpts": 32,
+        "own": 39.93
+      }
+    ],
+    "money": {
+      "fee": 15,
+      "one": {
+        "won": 0,
+        "net": -15
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 0,
+        "net": -300,
+        "cashed": 0
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "IND": 4,
+        "DET": 1,
+        "MIN": 1,
+        "OKC": 1,
+        "ORL": 1
+      },
+      "games": {
+        "ATL@IND": 4,
+        "DET@CHA": 1,
+        "MIL@MIN": 1,
+        "OKC@CLE": 1,
+        "WAS@ORL": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "IND 4",
+        "5 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "IND": 2,
+        "NOP": 2,
+        "ATL": 1,
+        "HOU": 1,
+        "MIN": 1,
+        "OKC": 1
+      },
+      "games": {
+        "ATL@IND": 3,
+        "NOP@MEM": 2,
+        "BOS@HOU": 1,
+        "MIL@MIN": 1,
+        "OKC@CLE": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "IND 2 · NOP 2",
+        "5 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "ORL": 2,
+        "CHI": 1,
+        "DAL": 1,
+        "IND": 1,
+        "MIN": 1,
+        "NYK": 1,
+        "PHI": 1
+      },
+      "games": {
+        "CHI@PHI": 2,
+        "WAS@ORL": 2,
+        "ATL@IND": 1,
+        "BKN@NYK": 1,
+        "MIL@MIN": 1,
+        "SAC@DAL": 1
+      },
+      "nGames": 6,
+      "summary": [
+        "ORL 2",
+        "6 games"
+      ]
+    }
+  }
+}
