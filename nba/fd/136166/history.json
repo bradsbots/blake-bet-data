@@ -1,0 +1,260 @@
+{
+  "sport": "nba",
+  "site": "fd",
+  "slate": "136166",
+  "date": "2026-11-02",
+  "contest": {
+    "id": 281367344,
+    "label": "FD NBA 136166-281367344",
+    "entries": 15497
+  },
+  "generatedAt": "2026-11-03T13:29:19.078Z",
+  "winner": null,
+  "optimal": {
+    "points": 475.4,
+    "salary": 59500,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 249005,
+        "name": "Braden Smith",
+        "team": "IND",
+        "pos": "PG",
+        "salary": 3500,
+        "fpts": 45.8,
+        "own": 16.35
+      },
+      {
+        "slot": "SG",
+        "id": 179762,
+        "name": "Quenton Jackson",
+        "team": "IND",
+        "pos": "SG",
+        "salary": 4200,
+        "fpts": 45.9,
+        "own": 64.28
+      },
+      {
+        "slot": "SF",
+        "id": 188449,
+        "name": "Jalen Slawson",
+        "team": "IND",
+        "pos": "SF",
+        "salary": 3700,
+        "fpts": 40.9,
+        "own": 38.55
+      },
+      {
+        "slot": "PF",
+        "id": 248960,
+        "name": "Caleb Wilson",
+        "team": "CHI",
+        "pos": "PF",
+        "salary": 7200,
+        "fpts": 48.4,
+        "own": 7.16
+      },
+      {
+        "slot": "C",
+        "id": 203714,
+        "name": "Donovan Clingan",
+        "team": "POR",
+        "pos": "C",
+        "salary": 6400,
+        "fpts": 53.1,
+        "own": 0.86
+      },
+      {
+        "slot": "G/F",
+        "id": 157808,
+        "name": "Cade Cunningham",
+        "team": "DET",
+        "pos": "PG",
+        "salary": 9700,
+        "fpts": 61.5,
+        "own": 10.18
+      },
+      {
+        "slot": "F/C",
+        "id": 157908,
+        "name": "Alperen Sengun",
+        "team": "HOU",
+        "pos": "C",
+        "salary": 8400,
+        "fpts": 60.4,
+        "own": 5.83
+      },
+      {
+        "slot": "UTIL",
+        "id": 84680,
+        "name": "Shai Gilgeous-Alexander",
+        "team": "OKC",
+        "pos": "PG",
+        "salary": 9900,
+        "fpts": 66.6,
+        "own": 21.43
+      },
+      {
+        "slot": "UTIL",
+        "id": 110356,
+        "name": "Nickeil Alexander-Walker",
+        "team": "ATL",
+        "pos": "SG",
+        "salary": 6500,
+        "fpts": 52.8,
+        "own": 8.09
+      }
+    ],
+    "assumedZero": 165
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 14490,
+    "pctile": 6.48,
+    "points": 262.6,
+    "salary": 60000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 145485,
+        "name": "LaMelo Ball",
+        "team": "MIN",
+        "pos": "PG",
+        "salary": 7500,
+        "fpts": 45.7,
+        "own": 6.36
+      },
+      {
+        "slot": "SG",
+        "id": 171784,
+        "name": "Dyson Daniels",
+        "team": "ATL",
+        "pos": "SF/SG",
+        "salary": 6300,
+        "fpts": 32.8,
+        "own": 18.92
+      },
+      {
+        "slot": "SF",
+        "id": 58153,
+        "name": "Kelly Oubre",
+        "team": "IND",
+        "pos": "SF",
+        "salary": 4200,
+        "fpts": 0,
+        "own": 21.48
+      },
+      {
+        "slot": "PF",
+        "id": 40562,
+        "name": "Josh Hart",
+        "team": "NYK",
+        "pos": "SF/PF",
+        "salary": 5800,
+        "fpts": 31.7,
+        "own": 1.54
+      },
+      {
+        "slot": "C",
+        "id": 145304,
+        "name": "Onyeka Okongwu",
+        "team": "ATL",
+        "pos": "C",
+        "salary": 5800,
+        "fpts": 29.5,
+        "own": 34.36
+      },
+      {
+        "slot": "G/F",
+        "id": 228113,
+        "name": "Cooper Flagg",
+        "team": "DAL",
+        "pos": "SF",
+        "salary": 10100,
+        "fpts": 30.8,
+        "own": 41.09
+      },
+      {
+        "slot": "F/C",
+        "id": 9488,
+        "name": "LeBron James",
+        "team": "PHI",
+        "pos": "PF",
+        "salary": 8200,
+        "fpts": 36.9,
+        "own": 6.95
+      },
+      {
+        "slot": "UTIL",
+        "id": 145319,
+        "name": "Jaden McDaniels",
+        "team": "MIN",
+        "pos": "PF",
+        "salary": 6100,
+        "fpts": 22.7,
+        "own": 20.62
+      },
+      {
+        "slot": "UTIL",
+        "id": 157904,
+        "name": "Jonathan Kuminga",
+        "team": "MIN",
+        "pos": "SF",
+        "salary": 6000,
+        "fpts": 32.5,
+        "own": 2.73
+      }
+    ],
+    "money": null
+  },
+  "stacks": {
+    "winner": null,
+    "optimal": {
+      "teams": {
+        "IND": 3,
+        "ATL": 1,
+        "CHI": 1,
+        "DET": 1,
+        "HOU": 1,
+        "OKC": 1,
+        "POR": 1
+      },
+      "games": {
+        "ATL@IND": 4,
+        "BOS@HOU": 1,
+        "CHI@PHI": 1,
+        "DET@CHA": 1,
+        "OKC@CLE": 1,
+        "POR@DEN": 1
+      },
+      "nGames": 6,
+      "summary": [
+        "IND 3",
+        "6 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "MIN": 3,
+        "ATL": 2,
+        "DAL": 1,
+        "IND": 1,
+        "NYK": 1,
+        "PHI": 1
+      },
+      "games": {
+        "ATL@IND": 3,
+        "MIL@MIN": 3,
+        "BKN@NYK": 1,
+        "CHI@PHI": 1,
+        "SAC@DAL": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "MIN 3 · ATL 2",
+        "5 games"
+      ]
+    }
+  }
+}
