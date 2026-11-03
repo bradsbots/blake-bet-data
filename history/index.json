@@ -37,17 +37,17 @@
     "site": "fd",
     "slate": "136149",
     "date": "2026-11-02",
-    "label": "FD NHL 136149-281365824",
+    "label": "$10K Mon NHL Breakaway ($2K to 1st)",
     "contestId": 281365824,
     "entries": 2681,
     "winnerPoints": 175,
     "optimalPoints": 226.8,
     "paperPoints": 81.3,
     "paperPctile": 28.46,
-    "paperNet1": null,
-    "portfolioNet": null,
-    "portfolioCashed": null,
-    "portfolioN": null
+    "paperNet1": -4.44,
+    "portfolioNet": -18.64,
+    "portfolioCashed": 1,
+    "portfolioN": 6
   },
   {
     "sport": "nhl",
