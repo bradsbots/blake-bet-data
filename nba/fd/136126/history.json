@@ -8,7 +8,7 @@
     "label": "$40K Sun NBA Shot ($10K to 1st)",
     "entries": 5291
   },
-  "generatedAt": "2026-11-03T21:29:54.142Z",
+  "generatedAt": "2026-11-03T22:29:29.879Z",
   "winner": {
     "rank": 1,
     "name": "sylbester (33/50)",
@@ -311,9 +311,9 @@
       },
       "portfolio": {
         "n": 3,
-        "won": null,
-        "net": null,
-        "cashed": null
+        "won": 250,
+        "net": 223,
+        "cashed": 1
       }
     }
   },
