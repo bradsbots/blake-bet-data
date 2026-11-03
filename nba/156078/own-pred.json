@@ -3,8 +3,8 @@
   "slate": "156078",
   "model": "v1",
   "modelFile": "/blake-bet/pipeline/models/ownership_nba_v1.json",
-  "predictedAt": "2026-11-03T19:00:27+00:00",
-  "slateExportedAt": "2026-11-03T19:00:26.154878+00:00",
+  "predictedAt": "2026-11-03T20:00:07+00:00",
+  "slateExportedAt": "2026-11-03T20:00:06.014572+00:00",
   "lockAt": "2026-11-05T00:00:00+00:00",
   "budgets": {
     "ALL": 800.0
