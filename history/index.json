@@ -17,6 +17,23 @@
   },
   {
     "sport": "nhl",
+    "site": "fd",
+    "slate": "136149",
+    "date": "2026-11-02",
+    "label": "FD NHL 136149-281365824",
+    "contestId": 281365824,
+    "entries": 2681,
+    "winnerPoints": 175,
+    "optimalPoints": 226.8,
+    "paperPoints": 81.3,
+    "paperPctile": 28.46,
+    "paperNet1": null,
+    "portfolioNet": null,
+    "portfolioCashed": null,
+    "portfolioN": null
+  },
+  {
+    "sport": "nhl",
     "slate": "155848",
     "date": "2026-11-02",
     "label": "NHL $30K Overload [$10K to 1st]",

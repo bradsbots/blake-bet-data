@@ -1,0 +1,411 @@
+{
+  "sport": "nhl",
+  "site": "fd",
+  "slate": "136149",
+  "date": "2026-11-02",
+  "contest": {
+    "id": 281365824,
+    "label": "FD NHL 136149-281365824",
+    "entries": 2681
+  },
+  "generatedAt": "2026-11-03T13:29:11.350Z",
+  "winner": {
+    "rank": 1,
+    "name": "kingsofleon33 (56/80)",
+    "points": 175,
+    "salary": 54600,
+    "players": [
+      {
+        "slot": "C",
+        "id": 65970,
+        "name": "Pavel Zacha",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 5100,
+        "fpts": 10.1,
+        "own": 18.58
+      },
+      {
+        "slot": "C",
+        "id": 41391,
+        "name": "Nathan MacKinnon",
+        "team": "COL",
+        "pos": "C",
+        "salary": 8200,
+        "fpts": 11.7,
+        "own": 45.99
+      },
+      {
+        "slot": "W",
+        "id": 82041,
+        "name": "Morgan Geekie",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 5100,
+        "fpts": 15.7,
+        "own": 9.44
+      },
+      {
+        "slot": "W",
+        "id": 59218,
+        "name": "David Pastrnak",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 7700,
+        "fpts": 22.9,
+        "own": 21.67
+      },
+      {
+        "slot": "D",
+        "id": 184394,
+        "name": "William Wallinder",
+        "team": "DET",
+        "pos": "D",
+        "salary": 3900,
+        "fpts": 6.4,
+        "own": 1.12
+      },
+      {
+        "slot": "D",
+        "id": 103523,
+        "name": "Cale Makar",
+        "team": "COL",
+        "pos": "D",
+        "salary": 6200,
+        "fpts": 16.5,
+        "own": 48.41
+      },
+      {
+        "slot": "UTIL",
+        "id": 21122,
+        "name": "Jaden Schwartz",
+        "team": "COL",
+        "pos": "W",
+        "salary": 5500,
+        "fpts": 32,
+        "own": 1.08
+      },
+      {
+        "slot": "UTIL",
+        "id": 8741,
+        "name": "Nazem Kadri",
+        "team": "COL",
+        "pos": "W",
+        "salary": 5900,
+        "fpts": 30.9,
+        "own": 8.36
+      },
+      {
+        "slot": "G",
+        "id": 117055,
+        "name": "Dustin Wolf",
+        "team": "CGY",
+        "pos": "G",
+        "salary": 7000,
+        "fpts": 28.8,
+        "own": 16.3
+      }
+    ]
+  },
+  "optimal": {
+    "points": 226.8,
+    "salary": 47700,
+    "players": [
+      {
+        "slot": "C",
+        "id": 58332,
+        "name": "Sam Bennett",
+        "team": "FLA",
+        "pos": "C",
+        "salary": 5400,
+        "fpts": 20,
+        "own": 12.5
+      },
+      {
+        "slot": "C",
+        "id": 62157,
+        "name": "Andrew Copp",
+        "team": "DET",
+        "pos": "C",
+        "salary": 4200,
+        "fpts": 18.1,
+        "own": 3.88
+      },
+      {
+        "slot": "W",
+        "id": 170300,
+        "name": "Adam Klapka",
+        "team": "CGY",
+        "pos": "W",
+        "salary": 4500,
+        "fpts": 24.8,
+        "own": 0.15
+      },
+      {
+        "slot": "W",
+        "id": 205662,
+        "name": "Michael Brandsegg-Nygard",
+        "team": "DET",
+        "pos": "W",
+        "salary": 5200,
+        "fpts": 23.7,
+        "own": 1.34
+      },
+      {
+        "slot": "D",
+        "id": 14178,
+        "name": "Justin Faulk",
+        "team": "DET",
+        "pos": "D",
+        "salary": 4500,
+        "fpts": 23.7,
+        "own": 3.47
+      },
+      {
+        "slot": "D",
+        "id": 70199,
+        "name": "Devon Toews",
+        "team": "COL",
+        "pos": "D",
+        "salary": 5500,
+        "fpts": 24.8,
+        "own": 8.77
+      },
+      {
+        "slot": "UTIL",
+        "id": 8741,
+        "name": "Nazem Kadri",
+        "team": "COL",
+        "pos": "W",
+        "salary": 5900,
+        "fpts": 30.9,
+        "own": 8.36
+      },
+      {
+        "slot": "UTIL",
+        "id": 21122,
+        "name": "Jaden Schwartz",
+        "team": "COL",
+        "pos": "W",
+        "salary": 5500,
+        "fpts": 32,
+        "own": 1.08
+      },
+      {
+        "slot": "G",
+        "id": 117055,
+        "name": "Dustin Wolf",
+        "team": "CGY",
+        "pos": "G",
+        "salary": 7000,
+        "fpts": 28.8,
+        "own": 16.3
+      }
+    ],
+    "assumedZero": 24
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 1913,
+    "pctile": 28.46,
+    "points": 81.3,
+    "salary": 54900,
+    "players": [
+      {
+        "slot": "C",
+        "id": 41391,
+        "name": "Nathan MacKinnon",
+        "team": "COL",
+        "pos": "C",
+        "salary": 8200,
+        "fpts": 11.7,
+        "own": 45.99
+      },
+      {
+        "slot": "C",
+        "id": 152882,
+        "name": "Anton Lundell",
+        "team": "FLA",
+        "pos": "C",
+        "salary": 4900,
+        "fpts": 1.6,
+        "own": 8.36
+      },
+      {
+        "slot": "W",
+        "id": 55375,
+        "name": "Sam Reinhart",
+        "team": "FLA",
+        "pos": "W",
+        "salary": 6400,
+        "fpts": 16.8,
+        "own": 17.42
+      },
+      {
+        "slot": "W",
+        "id": 97147,
+        "name": "Brady Tkachuk",
+        "team": "FLA",
+        "pos": "W",
+        "salary": 7200,
+        "fpts": 11.2,
+        "own": 16.23
+      },
+      {
+        "slot": "D",
+        "id": 41394,
+        "name": "Seth Jones",
+        "team": "FLA",
+        "pos": "D",
+        "salary": 6400,
+        "fpts": 3.2,
+        "own": 14.47
+      },
+      {
+        "slot": "D",
+        "id": 70912,
+        "name": "Charlie McAvoy",
+        "team": "BOS",
+        "pos": "D",
+        "salary": 4700,
+        "fpts": 3.2,
+        "own": 35.43
+      },
+      {
+        "slot": "UTIL",
+        "id": 103203,
+        "name": "Joel Farabee",
+        "team": "CGY",
+        "pos": "W",
+        "salary": 6700,
+        "fpts": 4.8,
+        "own": 8.91
+      },
+      {
+        "slot": "UTIL",
+        "id": 113272,
+        "name": "Bowen Byram",
+        "team": "CHI",
+        "pos": "D",
+        "salary": 3400,
+        "fpts": null,
+        "own": 0
+      },
+      {
+        "slot": "G",
+        "id": 117055,
+        "name": "Dustin Wolf",
+        "team": "CGY",
+        "pos": "G",
+        "salary": 7000,
+        "fpts": 28.8,
+        "own": 16.3
+      }
+    ],
+    "money": null
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "COL": 4,
+        "BOS": 3,
+        "CGY": 1,
+        "DET": 1
+      },
+      "games": {
+        "COL@CHI": 4,
+        "VGK@BOS": 3,
+        "CGY@SJS": 1,
+        "DET@FLA": 1
+      },
+      "nGames": 4,
+      "lines": {
+        "BOS f1": 2,
+        "COL f3": 2
+      },
+      "pp": {
+        "BOS pp1": 3,
+        "COL pp1": 3
+      },
+      "goalie": {
+        "team": "CGY",
+        "opposing": 0
+      },
+      "summary": [
+        "COL 4 · BOS 3",
+        "BOS f1 ×2",
+        "COL f3 ×2",
+        "BOS pp1 ×3",
+        "COL pp1 ×3",
+        "G CGY",
+        "4 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "COL": 3,
+        "DET": 3,
+        "CGY": 2,
+        "FLA": 1
+      },
+      "games": {
+        "DET@FLA": 4,
+        "COL@CHI": 3,
+        "CGY@SJS": 2
+      },
+      "nGames": 3,
+      "lines": {
+        "COL f3": 2,
+        "DET f2": 2
+      },
+      "pp": {
+        "DET pp2": 3,
+        "COL pp2": 2
+      },
+      "goalie": {
+        "team": "CGY",
+        "opposing": 0
+      },
+      "summary": [
+        "COL 3 · DET 3 · CGY 2",
+        "COL f3 ×2",
+        "DET f2 ×2",
+        "DET pp2 ×3",
+        "COL pp2 ×2",
+        "G CGY",
+        "3 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "FLA": 4,
+        "CGY": 2,
+        "BOS": 1,
+        "CHI": 1,
+        "COL": 1
+      },
+      "games": {
+        "DET@FLA": 4,
+        "CGY@SJS": 2,
+        "COL@CHI": 2,
+        "VGK@BOS": 1
+      },
+      "nGames": 4,
+      "lines": {},
+      "pp": {
+        "FLA pp1": 3
+      },
+      "goalie": {
+        "team": "CGY",
+        "opposing": 0
+      },
+      "summary": [
+        "FLA 4 · CGY 2",
+        "FLA pp1 ×3",
+        "G CGY",
+        "4 games"
+      ]
+    }
+  }
+}
