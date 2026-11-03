@@ -1,0 +1,423 @@
+{
+  "sport": "nhl",
+  "slate": "155848",
+  "date": "2026-11-02",
+  "contest": {
+    "id": 197387314,
+    "label": "NHL $30K Overload [$10K to 1st]",
+    "entries": 1764
+  },
+  "generatedAt": "2026-11-03T09:40:26.108Z",
+  "winner": {
+    "rank": 1,
+    "name": "alltimel0w (8/15)",
+    "points": 135.4,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44749356,
+        "name": "Nazem Kadri",
+        "team": "COL",
+        "pos": "C",
+        "salary": 5500,
+        "fpts": 23,
+        "own": 8.51
+      },
+      {
+        "slot": "C",
+        "id": 44749360,
+        "name": "Tomas Hertl",
+        "team": "VGK",
+        "pos": "C",
+        "salary": 4700,
+        "fpts": 12.3,
+        "own": 6.41
+      },
+      {
+        "slot": "W",
+        "id": 44749438,
+        "name": "Alex DeBrincat",
+        "team": "DET",
+        "pos": "W",
+        "salary": 7600,
+        "fpts": 15.8,
+        "own": 11.34
+      },
+      {
+        "slot": "W",
+        "id": 44749448,
+        "name": "Viktor Arvidsson",
+        "team": "DET",
+        "pos": "W",
+        "salary": 6400,
+        "fpts": 16.8,
+        "own": 7.94
+      },
+      {
+        "slot": "W",
+        "id": 44749452,
+        "name": "Lucas Raymond",
+        "team": "DET",
+        "pos": "W",
+        "salary": 6000,
+        "fpts": 8,
+        "own": 6.57
+      },
+      {
+        "slot": "D",
+        "id": 44749600,
+        "name": "Moritz Seider",
+        "team": "DET",
+        "pos": "D",
+        "salary": 5500,
+        "fpts": 14.3,
+        "own": 14.51
+      },
+      {
+        "slot": "D",
+        "id": 44749614,
+        "name": "Sam Malinski",
+        "team": "COL",
+        "pos": "D",
+        "salary": 3900,
+        "fpts": 9.3,
+        "own": 2.43
+      },
+      {
+        "slot": "G",
+        "id": 44749740,
+        "name": "Daniil Tarasov",
+        "team": "DET",
+        "pos": "G",
+        "salary": 7200,
+        "fpts": 11.6,
+        "own": 9.92
+      },
+      {
+        "slot": "UTIL",
+        "id": 44749498,
+        "name": "Jaden Schwartz",
+        "team": "COL",
+        "pos": "W",
+        "salary": 3200,
+        "fpts": 24.3,
+        "own": 4.37
+      }
+    ]
+  },
+  "optimal": {
+    "points": 182.6,
+    "salary": 46600,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44749358,
+        "name": "Sam Bennett",
+        "team": "FLA",
+        "pos": "C",
+        "salary": 5500,
+        "fpts": 19,
+        "own": 8.39
+      },
+      {
+        "slot": "C",
+        "id": 44749356,
+        "name": "Nazem Kadri",
+        "team": "COL",
+        "pos": "C",
+        "salary": 5500,
+        "fpts": 23,
+        "own": 8.51
+      },
+      {
+        "slot": "W",
+        "id": 44749434,
+        "name": "David Pastrnak",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 7800,
+        "fpts": 22.6,
+        "own": 21.2
+      },
+      {
+        "slot": "W",
+        "id": 44749442,
+        "name": "Mark Stone",
+        "team": "VGK",
+        "pos": "W",
+        "salary": 6800,
+        "fpts": 18.4,
+        "own": 8.73
+      },
+      {
+        "slot": "W",
+        "id": 44749522,
+        "name": "Michael Rasmussen",
+        "team": "DET",
+        "pos": "W",
+        "salary": 2800,
+        "fpts": 18.7,
+        "own": 0.28
+      },
+      {
+        "slot": "D",
+        "id": 44749622,
+        "name": "Noah Hanifin",
+        "team": "VGK",
+        "pos": "D",
+        "salary": 3500,
+        "fpts": 18.1,
+        "own": 3
+      },
+      {
+        "slot": "D",
+        "id": 44749610,
+        "name": "Devon Toews",
+        "team": "COL",
+        "pos": "D",
+        "salary": 4100,
+        "fpts": 17.8,
+        "own": 12.07
+      },
+      {
+        "slot": "G",
+        "id": 44749736,
+        "name": "Dustin Wolf",
+        "team": "CGY",
+        "pos": "G",
+        "salary": 7400,
+        "fpts": 20.7,
+        "own": 11.73
+      },
+      {
+        "slot": "UTIL",
+        "id": 44749498,
+        "name": "Jaden Schwartz",
+        "team": "COL",
+        "pos": "W",
+        "salary": 3200,
+        "fpts": 24.3,
+        "own": 4.37
+      }
+    ],
+    "assumedZero": 63
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 1364,
+    "pctile": 22.68,
+    "points": 57.4,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44749372,
+        "name": "Anton Lundell",
+        "team": "FLA",
+        "pos": "C",
+        "salary": 3900,
+        "fpts": 1.5,
+        "own": 5.84
+      },
+      {
+        "slot": "C",
+        "id": 44749344,
+        "name": "Nathan MacKinnon",
+        "team": "COL",
+        "pos": "C",
+        "salary": 9500,
+        "fpts": 8,
+        "own": 33
+      },
+      {
+        "slot": "W",
+        "id": 44749454,
+        "name": "Artturi Lehkonen",
+        "team": "COL",
+        "pos": "W",
+        "salary": 5700,
+        "fpts": 5.6,
+        "own": 15.59
+      },
+      {
+        "slot": "W",
+        "id": 44749458,
+        "name": "Joel Farabee",
+        "team": "CGY",
+        "pos": "W",
+        "salary": 5100,
+        "fpts": 4.1,
+        "own": 15.3
+      },
+      {
+        "slot": "W",
+        "id": 44749466,
+        "name": "Matt Coronato",
+        "team": "CGY",
+        "pos": "W",
+        "salary": 4600,
+        "fpts": 2.6,
+        "own": 20.24
+      },
+      {
+        "slot": "D",
+        "id": 44749604,
+        "name": "Seth Jones",
+        "team": "FLA",
+        "pos": "D",
+        "salary": 5200,
+        "fpts": 2.6,
+        "own": 22.16
+      },
+      {
+        "slot": "D",
+        "id": 44749610,
+        "name": "Devon Toews",
+        "team": "COL",
+        "pos": "D",
+        "salary": 4100,
+        "fpts": 17.8,
+        "own": 12.07
+      },
+      {
+        "slot": "G",
+        "id": 44749732,
+        "name": "Jeremy Swayman",
+        "team": "BOS",
+        "pos": "G",
+        "salary": 7800,
+        "fpts": 13.7,
+        "own": 16.84
+      },
+      {
+        "slot": "UTIL",
+        "id": 44749474,
+        "name": "Matvei Gridin",
+        "team": "CGY",
+        "pos": "W",
+        "salary": 4100,
+        "fpts": 1.5,
+        "own": 16.73
+      }
+    ],
+    "money": {
+      "fee": 20,
+      "one": {
+        "won": 0,
+        "net": -20
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 160,
+        "net": -240,
+        "cashed": 5
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "DET": 5,
+        "COL": 3,
+        "VGK": 1
+      },
+      "games": {
+        "DET@FLA": 5,
+        "COL@CHI": 3,
+        "VGK@BOS": 1
+      },
+      "nGames": 3,
+      "lines": {
+        "COL f3": 2,
+        "DET f1": 2
+      },
+      "pp": {
+        "DET pp1": 4
+      },
+      "goalie": {
+        "team": "DET",
+        "opposing": 0
+      },
+      "summary": [
+        "DET 5 · COL 3",
+        "COL f3 ×2",
+        "DET f1 ×2",
+        "DET pp1 ×4",
+        "G DET",
+        "3 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "COL": 3,
+        "VGK": 2,
+        "BOS": 1,
+        "CGY": 1,
+        "DET": 1,
+        "FLA": 1
+      },
+      "games": {
+        "COL@CHI": 3,
+        "VGK@BOS": 3,
+        "DET@FLA": 2,
+        "CGY@SJS": 1
+      },
+      "nGames": 4,
+      "lines": {
+        "COL f3": 2
+      },
+      "pp": {
+        "COL pp2": 2
+      },
+      "goalie": {
+        "team": "CGY",
+        "opposing": 0
+      },
+      "summary": [
+        "COL 3 · VGK 2",
+        "COL f3 ×2",
+        "COL pp2 ×2",
+        "G CGY",
+        "4 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "CGY": 3,
+        "COL": 3,
+        "FLA": 2,
+        "BOS": 1
+      },
+      "games": {
+        "CGY@SJS": 3,
+        "COL@CHI": 3,
+        "DET@FLA": 2,
+        "VGK@BOS": 1
+      },
+      "nGames": 4,
+      "lines": {
+        "CGY f1": 2,
+        "COL f1": 2
+      },
+      "pp": {
+        "CGY pp1": 3,
+        "COL pp2": 2
+      },
+      "goalie": {
+        "team": "BOS",
+        "opposing": 0
+      },
+      "summary": [
+        "CGY 3 · COL 3 · FLA 2",
+        "CGY f1 ×2",
+        "COL f1 ×2",
+        "CGY pp1 ×3",
+        "COL pp2 ×2",
+        "G BOS",
+        "4 games"
+      ]
+    }
+  }
+}
