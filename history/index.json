@@ -4,17 +4,17 @@
     "site": "fd",
     "slate": "136166",
     "date": "2026-11-02",
-    "label": "FD NBA 136166-281367344",
+    "label": "$125K Mon NBA Shot ($25K to 1st)",
     "contestId": 281367344,
     "entries": 15497,
     "winnerPoints": 437.6,
     "optimalPoints": 475.4,
     "paperPoints": 262.6,
     "paperPctile": 6.48,
-    "paperNet1": null,
-    "portfolioNet": null,
-    "portfolioCashed": null,
-    "portfolioN": null
+    "paperNet1": -9,
+    "portfolioNet": -27,
+    "portfolioCashed": 0,
+    "portfolioN": 3
   },
   {
     "sport": "nba",
