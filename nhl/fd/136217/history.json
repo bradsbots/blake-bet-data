@@ -1,0 +1,433 @@
+{
+  "sport": "nhl",
+  "site": "fd",
+  "slate": "136217",
+  "date": "2026-11-03",
+  "contest": {
+    "id": 281405577,
+    "label": "$5K Tue NHL Breakaway ($1K to 1st)",
+    "entries": 1340
+  },
+  "generatedAt": "2026-11-04T17:09:18.379Z",
+  "winner": {
+    "rank": 1,
+    "name": "abundance115 (9/11)",
+    "points": 252.8,
+    "salary": 54700,
+    "players": [
+      {
+        "slot": "C",
+        "id": 40036,
+        "name": "Tomas Hertl",
+        "team": "VGK",
+        "pos": "C",
+        "salary": 5500,
+        "fpts": 29.8,
+        "own": 2.46
+      },
+      {
+        "slot": "C",
+        "id": 111493,
+        "name": "Jack Hughes",
+        "team": "NJD",
+        "pos": "C",
+        "salary": 7500,
+        "fpts": 45.8,
+        "own": 9.25
+      },
+      {
+        "slot": "W",
+        "id": 80369,
+        "name": "Jesper Bratt",
+        "team": "NJD",
+        "pos": "W",
+        "salary": 5600,
+        "fpts": 14.4,
+        "own": 4.48
+      },
+      {
+        "slot": "W",
+        "id": 198700,
+        "name": "Cutter Gauthier",
+        "team": "ANA",
+        "pos": "W",
+        "salary": 6900,
+        "fpts": 46.6,
+        "own": 23.51
+      },
+      {
+        "slot": "D",
+        "id": 184996,
+        "name": "Luke Hughes",
+        "team": "NJD",
+        "pos": "D",
+        "salary": 5300,
+        "fpts": 11.7,
+        "own": 4.7
+      },
+      {
+        "slot": "D",
+        "id": 14456,
+        "name": "Mattias Ekholm",
+        "team": "EDM",
+        "pos": "D",
+        "salary": 4300,
+        "fpts": 12.8,
+        "own": 2.31
+      },
+      {
+        "slot": "UTIL",
+        "id": 23041,
+        "name": "Mikael Granlund",
+        "team": "ANA",
+        "pos": "C",
+        "salary": 5500,
+        "fpts": 32.6,
+        "own": 14.4
+      },
+      {
+        "slot": "UTIL",
+        "id": 204508,
+        "name": "Beckett Sennecke",
+        "team": "ANA",
+        "pos": "W",
+        "salary": 6400,
+        "fpts": 36.7,
+        "own": 14.03
+      },
+      {
+        "slot": "G",
+        "id": 170275,
+        "name": "Jesper Wallstedt",
+        "team": "MIN",
+        "pos": "G",
+        "salary": 7700,
+        "fpts": 22.4,
+        "own": 9.4
+      }
+    ]
+  },
+  "optimal": {
+    "points": 348.6,
+    "salary": 55000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 23041,
+        "name": "Mikael Granlund",
+        "team": "ANA",
+        "pos": "C",
+        "salary": 5500,
+        "fpts": 32.6,
+        "own": 14.4
+      },
+      {
+        "slot": "C",
+        "id": 111493,
+        "name": "Jack Hughes",
+        "team": "NJD",
+        "pos": "C",
+        "salary": 7500,
+        "fpts": 45.8,
+        "own": 9.25
+      },
+      {
+        "slot": "W",
+        "id": 137278,
+        "name": "Morgan Barron",
+        "team": "WPG",
+        "pos": "W",
+        "salary": 3500,
+        "fpts": 31.7,
+        "own": 0.07
+      },
+      {
+        "slot": "W",
+        "id": 198700,
+        "name": "Cutter Gauthier",
+        "team": "ANA",
+        "pos": "W",
+        "salary": 6900,
+        "fpts": 46.6,
+        "own": 23.51
+      },
+      {
+        "slot": "D",
+        "id": 103523,
+        "name": "Cale Makar",
+        "team": "COL",
+        "pos": "D",
+        "salary": 6700,
+        "fpts": 31.7,
+        "own": 6.87
+      },
+      {
+        "slot": "D",
+        "id": 116900,
+        "name": "Thomas Harley",
+        "team": "DAL",
+        "pos": "D",
+        "salary": 4900,
+        "fpts": 25.6,
+        "own": 0.75
+      },
+      {
+        "slot": "UTIL",
+        "id": 16969,
+        "name": "Charlie Coyle",
+        "team": "CBJ",
+        "pos": "C",
+        "salary": 5600,
+        "fpts": 48.5,
+        "own": 1.94
+      },
+      {
+        "slot": "UTIL",
+        "id": 82170,
+        "name": "Jason Robertson",
+        "team": "DAL",
+        "pos": "W",
+        "salary": 6900,
+        "fpts": 52.5,
+        "own": 2.91
+      },
+      {
+        "slot": "G",
+        "id": 161891,
+        "name": "Dylan Garand",
+        "team": "NYR",
+        "pos": "G",
+        "salary": 7500,
+        "fpts": 33.6,
+        "own": 2.69
+      }
+    ],
+    "assumedZero": 129
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 1195,
+    "pctile": 10.67,
+    "points": 93.2,
+    "salary": 55000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 64102,
+        "name": "Connor McDavid",
+        "team": "EDM",
+        "pos": "C",
+        "salary": 8500,
+        "fpts": 13.3,
+        "own": 13.88
+      },
+      {
+        "slot": "C",
+        "id": 128506,
+        "name": "Trevor Zegras",
+        "team": "PHI",
+        "pos": "C",
+        "salary": 5600,
+        "fpts": 10.1,
+        "own": 1.87
+      },
+      {
+        "slot": "W",
+        "id": 66683,
+        "name": "Mitch Marner",
+        "team": "VGK",
+        "pos": "W",
+        "salary": 6200,
+        "fpts": 14.9,
+        "own": 7.24
+      },
+      {
+        "slot": "W",
+        "id": 82120,
+        "name": "Kailer Yamamoto",
+        "team": "UTA",
+        "pos": "W",
+        "salary": 4000,
+        "fpts": null,
+        "own": 0
+      },
+      {
+        "slot": "D",
+        "id": 113270,
+        "name": "Philip Broberg",
+        "team": "STL",
+        "pos": "D",
+        "salary": 5200,
+        "fpts": 14.4,
+        "own": 2.84
+      },
+      {
+        "slot": "D",
+        "id": 149590,
+        "name": "Justin Barron",
+        "team": "STL",
+        "pos": "D",
+        "salary": 4200,
+        "fpts": 6.4,
+        "own": 0.75
+      },
+      {
+        "slot": "UTIL",
+        "id": 58331,
+        "name": "Leon Draisaitl",
+        "team": "EDM",
+        "pos": "W",
+        "salary": 8200,
+        "fpts": 18.9,
+        "own": 6.57
+      },
+      {
+        "slot": "UTIL",
+        "id": 228755,
+        "name": "Arseniy Gritsyuk",
+        "team": "NJD",
+        "pos": "W",
+        "salary": 5300,
+        "fpts": 1.6,
+        "own": 4.78
+      },
+      {
+        "slot": "G",
+        "id": 228746,
+        "name": "Jacob Fowler",
+        "team": "MTL",
+        "pos": "G",
+        "salary": 7800,
+        "fpts": 13.6,
+        "own": 11.34
+      }
+    ],
+    "money": {
+      "fee": 4.44,
+      "one": {
+        "won": 0,
+        "net": -4.44
+      },
+      "portfolio": {
+        "n": 6,
+        "won": 0,
+        "net": -26.64,
+        "cashed": 0
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "ANA": 3,
+        "NJD": 3,
+        "EDM": 1,
+        "MIN": 1,
+        "VGK": 1
+      },
+      "games": {
+        "EDM@NJD": 4,
+        "ANA@VAN": 3,
+        "MIN@PHI": 1,
+        "VGK@PIT": 1
+      },
+      "nGames": 4,
+      "lines": {
+        "ANA f2": 3,
+        "NJD f2": 2
+      },
+      "pp": {
+        "ANA pp1": 3,
+        "NJD pp1": 3
+      },
+      "goalie": {
+        "team": "MIN",
+        "opposing": 0
+      },
+      "summary": [
+        "ANA 3 · NJD 3",
+        "ANA f2 ×3",
+        "NJD f2 ×2",
+        "ANA pp1 ×3",
+        "NJD pp1 ×3",
+        "G MIN",
+        "4 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "ANA": 2,
+        "DAL": 2,
+        "CBJ": 1,
+        "COL": 1,
+        "NJD": 1,
+        "NYR": 1,
+        "WPG": 1
+      },
+      "games": {
+        "ANA@VAN": 2,
+        "COL@CBJ": 2,
+        "DAL@WSH": 2,
+        "EDM@NJD": 1,
+        "STL@NYR": 1,
+        "WPG@MTL": 1
+      },
+      "nGames": 6,
+      "lines": {
+        "ANA f2": 2
+      },
+      "pp": {
+        "ANA pp1": 2
+      },
+      "goalie": {
+        "team": "NYR",
+        "opposing": 0
+      },
+      "summary": [
+        "ANA 2 · DAL 2",
+        "ANA f2 ×2",
+        "ANA pp1 ×2",
+        "G NYR",
+        "6 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "EDM": 2,
+        "STL": 2,
+        "MTL": 1,
+        "NJD": 1,
+        "PHI": 1,
+        "UTA": 1,
+        "VGK": 1
+      },
+      "games": {
+        "EDM@NJD": 3,
+        "STL@NYR": 2,
+        "MIN@PHI": 1,
+        "UTA@TOR": 1,
+        "VGK@PIT": 1,
+        "WPG@MTL": 1
+      },
+      "nGames": 6,
+      "lines": {
+        "EDM f1": 2
+      },
+      "pp": {
+        "EDM pp1": 2
+      },
+      "goalie": {
+        "team": "MTL",
+        "opposing": 0
+      },
+      "summary": [
+        "EDM 2 · STL 2",
+        "EDM f1 ×2",
+        "EDM pp1 ×2",
+        "G MTL",
+        "6 games"
+      ]
+    }
+  }
+}
