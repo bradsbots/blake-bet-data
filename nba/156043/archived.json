@@ -1,0 +1,35 @@
+{
+ "archivedAt": "2026-11-04T21:00:28+00:00",
+ "days": 3,
+ "bytes": 79188,
+ "removed": [
+  {
+   "path": "snapshots/20261101T150123Z.json",
+   "bytes": 13126
+  },
+  {
+   "path": "snapshots/20261101T160004Z.json",
+   "bytes": 13126
+  },
+  {
+   "path": "snapshots/20261101T170033Z.json",
+   "bytes": 13119
+  },
+  {
+   "path": "snapshots/20261101T180019Z.json",
+   "bytes": 13119
+  },
+  {
+   "path": "snapshots/20261101T190004Z.json",
+   "bytes": 13118
+  },
+  {
+   "path": "snapshots/20261101T200018Z.json",
+   "bytes": 13117
+  },
+  {
+   "path": "timeline.json",
+   "bytes": 463
+  }
+ ]
+}
