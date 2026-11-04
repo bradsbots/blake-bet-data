@@ -2,6 +2,50 @@
  "sport": "nhl",
  "slates": [
   {
+   "slate": "155856",
+   "date": "2026-11-03",
+   "label": "NHL $100K Overload [$20K to 1st]",
+   "entries": 5882,
+   "source": "live",
+   "model": "v1",
+   "predictedAt": "2026-11-03T23:55:16+00:00",
+   "lockAt": "2026-11-04T00:00:00+00:00",
+   "minutesBeforeLock": 5,
+   "n": 526,
+   "mae": 0.93,
+   "mae5": 3.487,
+   "spearman": 0.9128,
+   "top10": 0.3,
+   "chalk": {
+    "n": 1,
+    "caught": 0
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Cutter Gauthier",
+     "pos": "W",
+     "team": "ANA",
+     "pred": 5.07,
+     "actual": 23.37
+    },
+    {
+     "name": "Zach Werenski",
+     "pos": "D",
+     "team": "CBJ",
+     "pred": 6.49,
+     "actual": 16.54
+    },
+    {
+     "name": "Beckett Sennecke",
+     "pos": "W",
+     "team": "ANA",
+     "pred": 3.89,
+     "actual": 13.58
+    }
+   ]
+  },
+  {
    "slate": "155848",
    "date": "2026-11-02",
    "label": "NHL $30K Overload [$10K to 1st]",
@@ -796,12 +840,12 @@
  ],
  "recent": {
   "slates": 10,
-  "n": 2693,
-  "mae": 1.532,
-  "mae5": 4.037,
+  "n": 2768,
+  "mae": 1.482,
+  "mae5": 3.989,
   "chalk": {
-   "n": 72,
-   "caught": 52
+   "n": 71,
+   "caught": 50
   },
   "falseChalk": 1
  }
