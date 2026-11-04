@@ -1,0 +1,427 @@
+{
+  "sport": "nhl",
+  "slate": "155856",
+  "date": "2026-11-03",
+  "contest": {
+    "id": 197319984,
+    "label": "NHL $100K Overload [$20K to 1st]",
+    "entries": 5882
+  },
+  "generatedAt": "2026-11-04T17:05:01.057Z",
+  "winner": {
+    "rank": 1,
+    "name": "cantfademe (59/150)",
+    "points": 259,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44766533,
+        "name": "Roope Hintz",
+        "team": "DAL",
+        "pos": "C",
+        "salary": 4900,
+        "fpts": 24.5,
+        "own": 2.58
+      },
+      {
+        "slot": "C",
+        "id": 44766551,
+        "name": "Charlie Coyle",
+        "team": "CBJ",
+        "pos": "C",
+        "salary": 4000,
+        "fpts": 37.1,
+        "own": 5.64
+      },
+      {
+        "slot": "W",
+        "id": 44766739,
+        "name": "Cutter Gauthier",
+        "team": "ANA",
+        "pos": "W",
+        "salary": 7600,
+        "fpts": 43.5,
+        "own": 23.37
+      },
+      {
+        "slot": "W",
+        "id": 44766743,
+        "name": "Jason Robertson",
+        "team": "DAL",
+        "pos": "W",
+        "salary": 7400,
+        "fpts": 47,
+        "own": 2.55
+      },
+      {
+        "slot": "W",
+        "id": 44766951,
+        "name": "Mathieu Olivier",
+        "team": "CBJ",
+        "pos": "W",
+        "salary": 2900,
+        "fpts": 27.1,
+        "own": 0.95
+      },
+      {
+        "slot": "D",
+        "id": 44767183,
+        "name": "Zach Werenski",
+        "team": "CBJ",
+        "pos": "D",
+        "salary": 7100,
+        "fpts": 14.3,
+        "own": 16.54
+      },
+      {
+        "slot": "D",
+        "id": 44767191,
+        "name": "Roman Josi",
+        "team": "NSH",
+        "pos": "D",
+        "salary": 6200,
+        "fpts": 24.9,
+        "own": 4.07
+      },
+      {
+        "slot": "G",
+        "id": 44767616,
+        "name": "Juuse Saros",
+        "team": "NSH",
+        "pos": "G",
+        "salary": 7000,
+        "fpts": 22.8,
+        "own": 11.9
+      },
+      {
+        "slot": "UTIL",
+        "id": 44766587,
+        "name": "Cole Sillinger",
+        "team": "CBJ",
+        "pos": "C",
+        "salary": 2900,
+        "fpts": 17.8,
+        "own": 0.93
+      }
+    ]
+  },
+  "optimal": {
+    "points": 287.5,
+    "salary": 49600,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44766551,
+        "name": "Charlie Coyle",
+        "team": "CBJ",
+        "pos": "C",
+        "salary": 4000,
+        "fpts": 37.1,
+        "own": 5.64
+      },
+      {
+        "slot": "C",
+        "id": 44766671,
+        "name": "Morgan Barron",
+        "team": "WPG",
+        "pos": "C",
+        "salary": 2500,
+        "fpts": 26.8,
+        "own": 0.09
+      },
+      {
+        "slot": "W",
+        "id": 44766743,
+        "name": "Jason Robertson",
+        "team": "DAL",
+        "pos": "W",
+        "salary": 7400,
+        "fpts": 47,
+        "own": 2.55
+      },
+      {
+        "slot": "W",
+        "id": 44766951,
+        "name": "Mathieu Olivier",
+        "team": "CBJ",
+        "pos": "W",
+        "salary": 2900,
+        "fpts": 27.1,
+        "own": 0.95
+      },
+      {
+        "slot": "W",
+        "id": 44766739,
+        "name": "Cutter Gauthier",
+        "team": "ANA",
+        "pos": "W",
+        "salary": 7600,
+        "fpts": 43.5,
+        "own": 23.37
+      },
+      {
+        "slot": "D",
+        "id": 44767339,
+        "name": "Nick Seeler",
+        "team": "PHI",
+        "pos": "D",
+        "salary": 2900,
+        "fpts": 13.8,
+        "own": 0.78
+      },
+      {
+        "slot": "D",
+        "id": 44767191,
+        "name": "Roman Josi",
+        "team": "NSH",
+        "pos": "D",
+        "salary": 6200,
+        "fpts": 24.9,
+        "own": 4.07
+      },
+      {
+        "slot": "G",
+        "id": 44767586,
+        "name": "Dylan Garand",
+        "team": "NYR",
+        "pos": "G",
+        "salary": 7800,
+        "fpts": 24.9,
+        "own": 0.92
+      },
+      {
+        "slot": "UTIL",
+        "id": 44766485,
+        "name": "Jack Hughes",
+        "team": "NJD",
+        "pos": "C",
+        "salary": 8300,
+        "fpts": 42.4,
+        "own": 3.77
+      }
+    ],
+    "assumedZero": 194
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 5803,
+    "pctile": 1.33,
+    "points": 50.5,
+    "salary": 49700,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44766479,
+        "name": "Connor McDavid",
+        "team": "EDM",
+        "pos": "C",
+        "salary": 9800,
+        "fpts": 10.6,
+        "own": 5.11
+      },
+      {
+        "slot": "C",
+        "id": 44766573,
+        "name": "Mark Jankowski",
+        "team": "CAR",
+        "pos": "C",
+        "salary": 3200,
+        "fpts": 6,
+        "own": 3.79
+      },
+      {
+        "slot": "W",
+        "id": 44766737,
+        "name": "Brandon Hagel",
+        "team": "TBL",
+        "pos": "W",
+        "salary": 7700,
+        "fpts": 1.5,
+        "own": 6.63
+      },
+      {
+        "slot": "W",
+        "id": 44766793,
+        "name": "Artturi Lehkonen",
+        "team": "COL",
+        "pos": "W",
+        "salary": 5800,
+        "fpts": 6,
+        "own": 3.27
+      },
+      {
+        "slot": "W",
+        "id": 44766827,
+        "name": "Arseny Gritsyuk",
+        "team": "NJD",
+        "pos": "W",
+        "salary": 4800,
+        "fpts": 3,
+        "own": 3.33
+      },
+      {
+        "slot": "D",
+        "id": 44767225,
+        "name": "Neal Pionk",
+        "team": "WPG",
+        "pos": "D",
+        "salary": 4500,
+        "fpts": 5.8,
+        "own": 3.79
+      },
+      {
+        "slot": "D",
+        "id": 44767261,
+        "name": "Sean Walker",
+        "team": "CAR",
+        "pos": "D",
+        "salary": 3700,
+        "fpts": 12.5,
+        "own": 7.87
+      },
+      {
+        "slot": "G",
+        "id": 44767614,
+        "name": "Dan Vladar",
+        "team": "PHI",
+        "pos": "G",
+        "salary": 7100,
+        "fpts": 2.1,
+        "own": 7.48
+      },
+      {
+        "slot": "UTIL",
+        "id": 44766929,
+        "name": "Jonathan Lekkerimaki",
+        "team": "VAN",
+        "pos": "W",
+        "salary": 3100,
+        "fpts": 3,
+        "own": 8.84
+      }
+    ],
+    "money": {
+      "fee": 20,
+      "one": {
+        "won": 0,
+        "net": -20
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 0,
+        "net": -400,
+        "cashed": 0
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "CBJ": 4,
+        "DAL": 2,
+        "NSH": 2,
+        "ANA": 1
+      },
+      "games": {
+        "COL@CBJ": 4,
+        "CAR@NSH": 2,
+        "DAL@WSH": 2,
+        "ANA@VAN": 1
+      },
+      "nGames": 4,
+      "lines": {
+        "CBJ f3": 3,
+        "DAL f2": 2
+      },
+      "pp": {
+        "CBJ pp1": 2,
+        "DAL pp1": 2
+      },
+      "goalie": {
+        "team": "NSH",
+        "opposing": 0
+      },
+      "summary": [
+        "CBJ 4 · DAL 2 · NSH 2",
+        "CBJ f3 ×3",
+        "DAL f2 ×2",
+        "CBJ pp1 ×2",
+        "DAL pp1 ×2",
+        "G NSH",
+        "4 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "CBJ": 2,
+        "ANA": 1,
+        "DAL": 1,
+        "NJD": 1,
+        "NSH": 1,
+        "NYR": 1,
+        "PHI": 1,
+        "WPG": 1
+      },
+      "games": {
+        "COL@CBJ": 2,
+        "ANA@VAN": 1,
+        "CAR@NSH": 1,
+        "DAL@WSH": 1,
+        "EDM@NJD": 1,
+        "MIN@PHI": 1,
+        "STL@NYR": 1,
+        "WPG@MTL": 1
+      },
+      "nGames": 8,
+      "lines": {
+        "CBJ f3": 2
+      },
+      "pp": {},
+      "goalie": {
+        "team": "NYR",
+        "opposing": 0
+      },
+      "summary": [
+        "CBJ 2",
+        "CBJ f3 ×2",
+        "G NYR",
+        "8 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "CAR": 2,
+        "COL": 1,
+        "EDM": 1,
+        "NJD": 1,
+        "PHI": 1,
+        "TBL": 1,
+        "VAN": 1,
+        "WPG": 1
+      },
+      "games": {
+        "CAR@NSH": 2,
+        "EDM@NJD": 2,
+        "ANA@VAN": 1,
+        "COL@CBJ": 1,
+        "DET@TBL": 1,
+        "MIN@PHI": 1,
+        "WPG@MTL": 1
+      },
+      "nGames": 7,
+      "lines": {},
+      "pp": {},
+      "goalie": {
+        "team": "PHI",
+        "opposing": 0
+      },
+      "summary": [
+        "CAR 2",
+        "G PHI",
+        "7 games"
+      ]
+    }
+  }
+}
