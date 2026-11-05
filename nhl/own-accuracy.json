@@ -2,6 +2,50 @@
  "sport": "nhl",
  "slates": [
   {
+   "slate": "155864",
+   "date": "2026-11-04",
+   "label": "NHL $35K Overload [$10K to 1st]",
+   "entries": 2058,
+   "source": "live",
+   "model": "v1",
+   "predictedAt": "2026-11-05T00:20:14+00:00",
+   "lockAt": "2026-11-05T00:30:00+00:00",
+   "minutesBeforeLock": 10,
+   "n": 189,
+   "mae": 1.827,
+   "mae5": 3.755,
+   "spearman": 0.9271,
+   "top10": 0.5,
+   "chalk": {
+    "n": 11,
+    "caught": 6
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Artemi Panarin",
+     "pos": "W",
+     "team": "LAK",
+     "pred": 14.25,
+     "actual": 29.25
+    },
+    {
+     "name": "Adrian Kempe",
+     "pos": "W",
+     "team": "LAK",
+     "pred": 12.11,
+     "actual": 22.25
+    },
+    {
+     "name": "Yaroslav Askarov",
+     "pos": "G",
+     "team": "SJS",
+     "pred": 13.83,
+     "actual": 23.76
+    }
+   ]
+  },
+  {
    "slate": "155856",
    "date": "2026-11-03",
    "label": "NHL $100K Overload [$20K to 1st]",
@@ -840,12 +884,12 @@
  ],
  "recent": {
   "slates": 10,
-  "n": 2768,
-  "mae": 1.482,
-  "mae5": 3.989,
+  "n": 2775,
+  "mae": 1.451,
+  "mae5": 3.882,
   "chalk": {
-   "n": 71,
-   "caught": 50
+   "n": 74,
+   "caught": 51
   },
   "falseChalk": 1
  }
