@@ -1,0 +1,395 @@
+{
+  "sport": "nba",
+  "site": "fd",
+  "slate": "136227",
+  "date": "2026-11-04",
+  "contest": {
+    "id": 281386492,
+    "label": "$200K Wed NBA Shot ($50K to 1st)",
+    "entries": 39682
+  },
+  "generatedAt": "2026-11-05T14:29:12.942Z",
+  "winner": {
+    "rank": 1,
+    "name": "stoniner (62/150)",
+    "points": 404,
+    "salary": 60000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 49675,
+        "name": "Derrick White",
+        "team": "BOS",
+        "pos": "PG",
+        "salary": 5900,
+        "fpts": 46.3,
+        "own": 32.2
+      },
+      {
+        "slot": "SG",
+        "id": 188426,
+        "name": "Ausar Thompson",
+        "team": "DET",
+        "pos": "SF/SG",
+        "salary": 6000,
+        "fpts": 37.9,
+        "own": 8.72
+      },
+      {
+        "slot": "SF",
+        "id": 145328,
+        "name": "Saddiq Bey",
+        "team": "NOP",
+        "pos": "SF",
+        "salary": 4900,
+        "fpts": 33.3,
+        "own": 5.15
+      },
+      {
+        "slot": "PF",
+        "id": 110995,
+        "name": "Naz Reid",
+        "team": "CHA",
+        "pos": "PF/C",
+        "salary": 6600,
+        "fpts": 42.8,
+        "own": 6.21
+      },
+      {
+        "slot": "C",
+        "id": 145304,
+        "name": "Onyeka Okongwu",
+        "team": "ATL",
+        "pos": "C",
+        "salary": 6000,
+        "fpts": 45.2,
+        "own": 33.38
+      },
+      {
+        "slot": "G/F",
+        "id": 157808,
+        "name": "Cade Cunningham",
+        "team": "DET",
+        "pos": "PG",
+        "salary": 9500,
+        "fpts": 55.9,
+        "own": 22.86
+      },
+      {
+        "slot": "F/C",
+        "id": 58462,
+        "name": "Karl-Anthony Towns",
+        "team": "NYK",
+        "pos": "C",
+        "salary": 8400,
+        "fpts": 34.9,
+        "own": 35.08
+      },
+      {
+        "slot": "UTIL",
+        "id": 188412,
+        "name": "Keyonte George",
+        "team": "UTA",
+        "pos": "PG",
+        "salary": 7200,
+        "fpts": 66.9,
+        "own": 5.56
+      },
+      {
+        "slot": "UTIL",
+        "id": 228132,
+        "name": "Derik Queen",
+        "team": "NOP",
+        "pos": "PF/C",
+        "salary": 5500,
+        "fpts": 40.8,
+        "own": 5.59
+      }
+    ]
+  },
+  "optimal": {
+    "points": 438.9,
+    "salary": 59800,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 188412,
+        "name": "Keyonte George",
+        "team": "UTA",
+        "pos": "PG",
+        "salary": 7200,
+        "fpts": 66.9,
+        "own": 5.56
+      },
+      {
+        "slot": "SG",
+        "id": 84711,
+        "name": "Grayson Allen",
+        "team": "CHA",
+        "pos": "SG",
+        "salary": 4700,
+        "fpts": 34.4,
+        "own": 0.53
+      },
+      {
+        "slot": "SF",
+        "id": 228127,
+        "name": "Cedric Coward",
+        "team": "MEM",
+        "pos": "SG/SF",
+        "salary": 6100,
+        "fpts": 48.8,
+        "own": 3.47
+      },
+      {
+        "slot": "PF",
+        "id": 228132,
+        "name": "Derik Queen",
+        "team": "NOP",
+        "pos": "PF/C",
+        "salary": 5500,
+        "fpts": 40.8,
+        "own": 5.59
+      },
+      {
+        "slot": "C",
+        "id": 145304,
+        "name": "Onyeka Okongwu",
+        "team": "ATL",
+        "pos": "C",
+        "salary": 6000,
+        "fpts": 45.2,
+        "own": 33.38
+      },
+      {
+        "slot": "G/F",
+        "id": 157808,
+        "name": "Cade Cunningham",
+        "team": "DET",
+        "pos": "PG",
+        "salary": 9500,
+        "fpts": 55.9,
+        "own": 22.86
+      },
+      {
+        "slot": "F/C",
+        "id": 58253,
+        "name": "Myles Turner",
+        "team": "MIL",
+        "pos": "C",
+        "salary": 5000,
+        "fpts": 42.8,
+        "own": 2.5
+      },
+      {
+        "slot": "UTIL",
+        "id": 49675,
+        "name": "Derrick White",
+        "team": "BOS",
+        "pos": "PG",
+        "salary": 5900,
+        "fpts": 46.3,
+        "own": 32.2
+      },
+      {
+        "slot": "UTIL",
+        "id": 84680,
+        "name": "Shai Gilgeous-Alexander",
+        "team": "OKC",
+        "pos": "PG",
+        "salary": 9900,
+        "fpts": 57.8,
+        "own": 37
+      }
+    ],
+    "assumedZero": 70
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 12414,
+    "pctile": 68.61,
+    "points": 316.6,
+    "salary": 59700,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 84690,
+        "name": "Jalen Brunson",
+        "team": "NYK",
+        "pos": "PG",
+        "salary": 7900,
+        "fpts": 41.4,
+        "own": 29.96
+      },
+      {
+        "slot": "SG",
+        "id": 145335,
+        "name": "Payton Pritchard",
+        "team": "BOS",
+        "pos": "PG/SG",
+        "salary": 5600,
+        "fpts": 18.7,
+        "own": 23.19
+      },
+      {
+        "slot": "SF",
+        "id": 248945,
+        "name": "AJ Dybantsa",
+        "team": "WAS",
+        "pos": "SF",
+        "salary": 5800,
+        "fpts": 20.7,
+        "own": 27.81
+      },
+      {
+        "slot": "PF",
+        "id": 110310,
+        "name": "Zion Williamson",
+        "team": "NOP",
+        "pos": "PF",
+        "salary": 7400,
+        "fpts": 37.8,
+        "own": 12.35
+      },
+      {
+        "slot": "C",
+        "id": 157811,
+        "name": "Neemias Queta",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 4200,
+        "fpts": 33.9,
+        "own": 25.24
+      },
+      {
+        "slot": "G/F",
+        "id": 49675,
+        "name": "Derrick White",
+        "team": "BOS",
+        "pos": "PG",
+        "salary": 5900,
+        "fpts": 46.3,
+        "own": 32.2
+      },
+      {
+        "slot": "F/C",
+        "id": 12341,
+        "name": "Paul George",
+        "team": "BOS",
+        "pos": "SF",
+        "salary": 7600,
+        "fpts": 42.1,
+        "own": 42.5
+      },
+      {
+        "slot": "UTIL",
+        "id": 84680,
+        "name": "Shai Gilgeous-Alexander",
+        "team": "OKC",
+        "pos": "PG",
+        "salary": 9900,
+        "fpts": 57.8,
+        "own": 37
+      },
+      {
+        "slot": "UTIL",
+        "id": 248938,
+        "name": "Darryn Peterson",
+        "team": "UTA",
+        "pos": "SG",
+        "salary": 5400,
+        "fpts": 17.9,
+        "own": 18.49
+      }
+    ],
+    "money": {
+      "fee": 6,
+      "one": {
+        "won": 0,
+        "net": -6
+      },
+      "portfolio": {
+        "n": 3,
+        "won": 0,
+        "net": -18,
+        "cashed": 0
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "DET": 2,
+        "NOP": 2,
+        "ATL": 1,
+        "BOS": 1,
+        "CHA": 1,
+        "NYK": 1,
+        "UTA": 1
+      },
+      "games": {
+        "UTA@NOP": 3,
+        "PHI@DET": 2,
+        "ATL@WAS": 1,
+        "CHA@BKN": 1,
+        "CHI@NYK": 1,
+        "MIL@BOS": 1
+      },
+      "nGames": 6,
+      "summary": [
+        "DET 2 · NOP 2",
+        "6 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "ATL": 1,
+        "BOS": 1,
+        "CHA": 1,
+        "DET": 1,
+        "MEM": 1,
+        "MIL": 1,
+        "NOP": 1,
+        "OKC": 1,
+        "UTA": 1
+      },
+      "games": {
+        "MIL@BOS": 2,
+        "UTA@NOP": 2,
+        "ATL@WAS": 1,
+        "CHA@BKN": 1,
+        "CLE@OKC": 1,
+        "IND@MEM": 1,
+        "PHI@DET": 1
+      },
+      "nGames": 7,
+      "summary": [
+        "no team stack",
+        "7 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "BOS": 4,
+        "NOP": 1,
+        "NYK": 1,
+        "OKC": 1,
+        "UTA": 1,
+        "WAS": 1
+      },
+      "games": {
+        "MIL@BOS": 4,
+        "UTA@NOP": 2,
+        "ATL@WAS": 1,
+        "CHI@NYK": 1,
+        "CLE@OKC": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "BOS 4",
+        "5 games"
+      ]
+    }
+  }
+}

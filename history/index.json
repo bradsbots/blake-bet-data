@@ -1,6 +1,23 @@
 [
   {
     "sport": "nba",
+    "site": "fd",
+    "slate": "136227",
+    "date": "2026-11-04",
+    "label": "$200K Wed NBA Shot ($50K to 1st)",
+    "contestId": 281386492,
+    "entries": 39682,
+    "winnerPoints": 404,
+    "optimalPoints": 438.9,
+    "paperPoints": 316.6,
+    "paperPctile": 68.61,
+    "paperNet1": -6,
+    "portfolioNet": -18,
+    "portfolioCashed": 0,
+    "portfolioN": 3
+  },
+  {
+    "sport": "nba",
     "slate": "156078",
     "date": "2026-11-04",
     "label": "NBA $333K Zone Special [$100K to 1st]",
