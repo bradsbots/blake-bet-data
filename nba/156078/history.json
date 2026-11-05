@@ -1,0 +1,361 @@
+{
+  "sport": "nba",
+  "slate": "156078",
+  "date": "2026-11-04",
+  "contest": {
+    "id": 197447557,
+    "label": "NBA $333K Zone Special [$100K to 1st]",
+    "entries": 79270
+  },
+  "generatedAt": "2026-11-05T09:40:16.119Z",
+  "winner": {
+    "rank": 1,
+    "name": "rodhyh61488 (10/20)",
+    "points": 340.5,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44770375,
+        "name": "Cade Cunningham",
+        "team": "DET",
+        "pos": "PG",
+        "salary": 9300,
+        "fpts": 57.25,
+        "own": 11.12
+      },
+      {
+        "slot": "SG",
+        "id": 44770686,
+        "name": "Kyshawn George",
+        "team": "WAS",
+        "pos": "SG",
+        "salary": 5500,
+        "fpts": 40,
+        "own": 24.25
+      },
+      {
+        "slot": "SF",
+        "id": 44771043,
+        "name": "Baylor Scheierman",
+        "team": "BOS",
+        "pos": "SG",
+        "salary": 3800,
+        "fpts": 27.25,
+        "own": 6.49
+      },
+      {
+        "slot": "PF",
+        "id": 44770386,
+        "name": "Alperen Sengun",
+        "team": "HOU",
+        "pos": "PF",
+        "salary": 8900,
+        "fpts": 55.5,
+        "own": 9.36
+      },
+      {
+        "slot": "C",
+        "id": 44770586,
+        "name": "Onyeka Okongwu",
+        "team": "ATL",
+        "pos": "C",
+        "salary": 6400,
+        "fpts": 47,
+        "own": 21.14
+      },
+      {
+        "slot": "G",
+        "id": 44771014,
+        "name": "Brayden Burries",
+        "team": "MIL",
+        "pos": "PG",
+        "salary": 3900,
+        "fpts": 20.25,
+        "own": 29.57
+      },
+      {
+        "slot": "F",
+        "id": 44770871,
+        "name": "Aaron Nesmith",
+        "team": "IND",
+        "pos": "SF",
+        "salary": 4400,
+        "fpts": 28.75,
+        "own": 5.76
+      },
+      {
+        "slot": "UTIL",
+        "id": 44770457,
+        "name": "Keyonte George",
+        "team": "UTA",
+        "pos": "PG",
+        "salary": 7700,
+        "fpts": 64.5,
+        "own": 2.47
+      }
+    ]
+  },
+  "optimal": {
+    "points": 369.5,
+    "salary": 49800,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44770457,
+        "name": "Keyonte George",
+        "team": "UTA",
+        "pos": "PG",
+        "salary": 7700,
+        "fpts": 64.5,
+        "own": 2.47
+      },
+      {
+        "slot": "SG",
+        "id": 44770583,
+        "name": "Cedric Coward",
+        "team": "MEM",
+        "pos": "SG",
+        "salary": 6500,
+        "fpts": 48.75,
+        "own": 0.77
+      },
+      {
+        "slot": "SF",
+        "id": 44771179,
+        "name": "Bryce Hopkins",
+        "team": "DEN",
+        "pos": "SF",
+        "salary": 3300,
+        "fpts": 28,
+        "own": 0.02
+      },
+      {
+        "slot": "PF",
+        "id": 44770487,
+        "name": "Lauri Markkanen",
+        "team": "UTA",
+        "pos": "PF",
+        "salary": 7400,
+        "fpts": 48,
+        "own": 2.77
+      },
+      {
+        "slot": "C",
+        "id": 44770586,
+        "name": "Onyeka Okongwu",
+        "team": "ATL",
+        "pos": "C",
+        "salary": 6400,
+        "fpts": 47,
+        "own": 21.14
+      },
+      {
+        "slot": "G",
+        "id": 44771138,
+        "name": "Bones Hyland",
+        "team": "MIN",
+        "pos": "PG",
+        "salary": 3400,
+        "fpts": 30.5,
+        "own": 2.36
+      },
+      {
+        "slot": "F",
+        "id": 44770386,
+        "name": "Alperen Sengun",
+        "team": "HOU",
+        "pos": "PF",
+        "salary": 8900,
+        "fpts": 55.5,
+        "own": 9.36
+      },
+      {
+        "slot": "UTIL",
+        "id": 44770628,
+        "name": "Donovan Clingan",
+        "team": "POR",
+        "pos": "C",
+        "salary": 6200,
+        "fpts": 47.25,
+        "own": 13.35
+      }
+    ],
+    "assumedZero": 48
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 60297,
+    "pctile": 23.65,
+    "points": 231.5,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44771014,
+        "name": "Brayden Burries",
+        "team": "MIL",
+        "pos": "PG",
+        "salary": 3900,
+        "fpts": 20.25,
+        "own": 29.57
+      },
+      {
+        "slot": "SG",
+        "id": 44770686,
+        "name": "Kyshawn George",
+        "team": "WAS",
+        "pos": "SG",
+        "salary": 5500,
+        "fpts": 40,
+        "own": 24.25
+      },
+      {
+        "slot": "SF",
+        "id": 44770657,
+        "name": "AJ Dybantsa",
+        "team": "WAS",
+        "pos": "SF",
+        "salary": 6000,
+        "fpts": 21,
+        "own": 23.29
+      },
+      {
+        "slot": "PF",
+        "id": 44770502,
+        "name": "Caleb Wilson",
+        "team": "CHI",
+        "pos": "SF",
+        "salary": 7200,
+        "fpts": 12.25,
+        "own": 14.72
+      },
+      {
+        "slot": "C",
+        "id": 44770418,
+        "name": "Karl-Anthony Towns",
+        "team": "NYK",
+        "pos": "PF",
+        "salary": 8300,
+        "fpts": 37.5,
+        "own": 34.63
+      },
+      {
+        "slot": "G",
+        "id": 44770432,
+        "name": "Jalen Brunson",
+        "team": "NYK",
+        "pos": "PG",
+        "salary": 8100,
+        "fpts": 44,
+        "own": 18.25
+      },
+      {
+        "slot": "F",
+        "id": 44770497,
+        "name": "Paul George",
+        "team": "BOS",
+        "pos": "SG",
+        "salary": 7200,
+        "fpts": 43.75,
+        "own": 46.64
+      },
+      {
+        "slot": "UTIL",
+        "id": 44771057,
+        "name": "Meleek Thomas",
+        "team": "CLE",
+        "pos": "SG",
+        "salary": 3800,
+        "fpts": 12.75,
+        "own": 21.07
+      }
+    ],
+    "money": {
+      "fee": 5,
+      "one": {
+        "won": 0,
+        "net": -5
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 65,
+        "net": -35,
+        "cashed": 7
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "ATL": 1,
+        "BOS": 1,
+        "DET": 1,
+        "HOU": 1,
+        "IND": 1,
+        "MIL": 1,
+        "UTA": 1,
+        "WAS": 1
+      },
+      "games": {
+        "ATL@WAS": 2,
+        "MIL@BOS": 2,
+        "IND@MEM": 1,
+        "MIN@HOU": 1,
+        "PHI@DET": 1,
+        "UTA@NOP": 1
+      },
+      "nGames": 6,
+      "summary": [
+        "no team stack",
+        "6 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "UTA": 2,
+        "ATL": 1,
+        "DEN": 1,
+        "HOU": 1,
+        "MEM": 1,
+        "MIN": 1,
+        "POR": 1
+      },
+      "games": {
+        "MIN@HOU": 2,
+        "UTA@NOP": 2,
+        "ATL@WAS": 1,
+        "IND@MEM": 1,
+        "POR@PHX": 1,
+        "TOR@DEN": 1
+      },
+      "nGames": 6,
+      "summary": [
+        "UTA 2",
+        "6 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "NYK": 2,
+        "WAS": 2,
+        "BOS": 1,
+        "CHI": 1,
+        "CLE": 1,
+        "MIL": 1
+      },
+      "games": {
+        "CHI@NYK": 3,
+        "ATL@WAS": 2,
+        "MIL@BOS": 2,
+        "CLE@OKC": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "NYK 2 · WAS 2",
+        "4 games"
+      ]
+    }
+  }
+}
