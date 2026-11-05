@@ -1,0 +1,423 @@
+{
+  "sport": "nhl",
+  "slate": "155864",
+  "date": "2026-11-04",
+  "contest": {
+    "id": 197472456,
+    "label": "NHL $35K Overload [$10K to 1st]",
+    "entries": 2058
+  },
+  "generatedAt": "2026-11-05T09:40:27.589Z",
+  "winner": {
+    "rank": 1,
+    "name": "ShwayneFlanagan3 (21/21)",
+    "points": 221.1,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44781571,
+        "name": "Sam Reinhart",
+        "team": "FLA",
+        "pos": "C",
+        "salary": 7200,
+        "fpts": 34.8,
+        "own": 19.48
+      },
+      {
+        "slot": "C",
+        "id": 44781585,
+        "name": "Quinton Byfield",
+        "team": "LAK",
+        "pos": "C",
+        "salary": 4600,
+        "fpts": 23,
+        "own": 15.84
+      },
+      {
+        "slot": "W",
+        "id": 44781663,
+        "name": "Artemi Panarin",
+        "team": "LAK",
+        "pos": "W",
+        "salary": 7200,
+        "fpts": 28.8,
+        "own": 29.25
+      },
+      {
+        "slot": "W",
+        "id": 44781665,
+        "name": "Carter Verhaeghe",
+        "team": "FLA",
+        "pos": "W",
+        "salary": 6300,
+        "fpts": 19.5,
+        "own": 12.34
+      },
+      {
+        "slot": "W",
+        "id": 44781769,
+        "name": "Sandis Vilmanis",
+        "team": "FLA",
+        "pos": "W",
+        "salary": 2600,
+        "fpts": 33,
+        "own": 3.35
+      },
+      {
+        "slot": "D",
+        "id": 44781853,
+        "name": "Mattias Samuelsson",
+        "team": "BUF",
+        "pos": "D",
+        "salary": 4500,
+        "fpts": 9.5,
+        "own": 5.11
+      },
+      {
+        "slot": "D",
+        "id": 44781873,
+        "name": "Erik Gustafsson",
+        "team": "LAK",
+        "pos": "D",
+        "salary": 3300,
+        "fpts": 10,
+        "own": 7.44
+      },
+      {
+        "slot": "G",
+        "id": 44781975,
+        "name": "Joey Daccord",
+        "team": "SEA",
+        "pos": "G",
+        "salary": 8000,
+        "fpts": 20,
+        "own": 18.27
+      },
+      {
+        "slot": "UTIL",
+        "id": 44781667,
+        "name": "Adrian Kempe",
+        "team": "LAK",
+        "pos": "W",
+        "salary": 6200,
+        "fpts": 42.5,
+        "own": 22.25
+      }
+    ]
+  },
+  "optimal": {
+    "points": 236.1,
+    "salary": 49300,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44781571,
+        "name": "Sam Reinhart",
+        "team": "FLA",
+        "pos": "C",
+        "salary": 7200,
+        "fpts": 34.8,
+        "own": 19.48
+      },
+      {
+        "slot": "C",
+        "id": 44781603,
+        "name": "Frank Nazar",
+        "team": "CHI",
+        "pos": "C",
+        "salary": 3200,
+        "fpts": 23.5,
+        "own": 6.37
+      },
+      {
+        "slot": "W",
+        "id": 44781769,
+        "name": "Sandis Vilmanis",
+        "team": "FLA",
+        "pos": "W",
+        "salary": 2600,
+        "fpts": 33,
+        "own": 3.35
+      },
+      {
+        "slot": "W",
+        "id": 44781663,
+        "name": "Artemi Panarin",
+        "team": "LAK",
+        "pos": "W",
+        "salary": 7200,
+        "fpts": 28.8,
+        "own": 29.25
+      },
+      {
+        "slot": "W",
+        "id": 44781667,
+        "name": "Adrian Kempe",
+        "team": "LAK",
+        "pos": "W",
+        "salary": 6200,
+        "fpts": 42.5,
+        "own": 22.25
+      },
+      {
+        "slot": "D",
+        "id": 44781845,
+        "name": "Seth Jones",
+        "team": "FLA",
+        "pos": "D",
+        "salary": 5400,
+        "fpts": 15.8,
+        "own": 20.56
+      },
+      {
+        "slot": "D",
+        "id": 44781849,
+        "name": "Thomas Chabot",
+        "team": "OTT",
+        "pos": "D",
+        "salary": 4900,
+        "fpts": 14.7,
+        "own": 5.25
+      },
+      {
+        "slot": "G",
+        "id": 44781975,
+        "name": "Joey Daccord",
+        "team": "SEA",
+        "pos": "G",
+        "salary": 8000,
+        "fpts": 20,
+        "own": 18.27
+      },
+      {
+        "slot": "UTIL",
+        "id": 44781585,
+        "name": "Quinton Byfield",
+        "team": "LAK",
+        "pos": "C",
+        "salary": 4600,
+        "fpts": 23,
+        "own": 15.84
+      }
+    ],
+    "assumedZero": 78
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 1227,
+    "pctile": 40.38,
+    "points": 76.3,
+    "salary": 49800,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44781571,
+        "name": "Sam Reinhart",
+        "team": "FLA",
+        "pos": "C",
+        "salary": 7200,
+        "fpts": 34.8,
+        "own": 19.48
+      },
+      {
+        "slot": "C",
+        "id": 44781617,
+        "name": "Martin Pospisil",
+        "team": "CGY",
+        "pos": "C",
+        "salary": 2800,
+        "fpts": 1.5,
+        "own": 1.65
+      },
+      {
+        "slot": "W",
+        "id": 44781657,
+        "name": "Tage Thompson",
+        "team": "BUF",
+        "pos": "W",
+        "salary": 8100,
+        "fpts": 8,
+        "own": 27.21
+      },
+      {
+        "slot": "W",
+        "id": 44781659,
+        "name": "Brady Tkachuk",
+        "team": "FLA",
+        "pos": "W",
+        "salary": 7700,
+        "fpts": 11,
+        "own": 27.6
+      },
+      {
+        "slot": "W",
+        "id": 44781681,
+        "name": "Joel Farabee",
+        "team": "CGY",
+        "pos": "W",
+        "salary": 5300,
+        "fpts": 7.1,
+        "own": 12.2
+      },
+      {
+        "slot": "D",
+        "id": 44781845,
+        "name": "Seth Jones",
+        "team": "FLA",
+        "pos": "D",
+        "salary": 5400,
+        "fpts": 15.8,
+        "own": 20.56
+      },
+      {
+        "slot": "D",
+        "id": 44781863,
+        "name": "Olen Zellweger",
+        "team": "BUF",
+        "pos": "D",
+        "salary": 3600,
+        "fpts": 2.8,
+        "own": 3.16
+      },
+      {
+        "slot": "G",
+        "id": 44781985,
+        "name": "Yaroslav Askarov",
+        "team": "SJS",
+        "pos": "G",
+        "salary": 7200,
+        "fpts": -10.5,
+        "own": 23.76
+      },
+      {
+        "slot": "UTIL",
+        "id": 44802684,
+        "name": "Eric Pohlkamp",
+        "team": "SJS",
+        "pos": "D",
+        "salary": 2500,
+        "fpts": 5.8,
+        "own": 0.34
+      }
+    ],
+    "money": {
+      "fee": 20,
+      "one": {
+        "won": 0,
+        "net": -20
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 0,
+        "net": -400,
+        "cashed": 0
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "LAK": 4,
+        "FLA": 3,
+        "BUF": 1,
+        "SEA": 1
+      },
+      "games": {
+        "SJS@LAK": 4,
+        "CHI@FLA": 3,
+        "CGY@SEA": 1,
+        "OTT@BUF": 1
+      },
+      "nGames": 4,
+      "lines": {
+        "FLA f2": 3,
+        "LAK f1": 2
+      },
+      "pp": {
+        "LAK pp1": 4,
+        "FLA pp1": 2
+      },
+      "goalie": {
+        "team": "SEA",
+        "opposing": 0
+      },
+      "summary": [
+        "LAK 4 · FLA 3",
+        "FLA f2 ×3",
+        "LAK f1 ×2",
+        "LAK pp1 ×4",
+        "FLA pp1 ×2",
+        "G SEA",
+        "4 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "FLA": 3,
+        "LAK": 3,
+        "CHI": 1,
+        "OTT": 1,
+        "SEA": 1
+      },
+      "games": {
+        "CHI@FLA": 4,
+        "SJS@LAK": 3,
+        "CGY@SEA": 1,
+        "OTT@BUF": 1
+      },
+      "nGames": 4,
+      "lines": {
+        "FLA f2": 2,
+        "LAK f1": 2
+      },
+      "pp": {
+        "LAK pp1": 3,
+        "FLA pp1": 2
+      },
+      "goalie": {
+        "team": "SEA",
+        "opposing": 0
+      },
+      "summary": [
+        "FLA 3 · LAK 3",
+        "FLA f2 ×2",
+        "LAK f1 ×2",
+        "LAK pp1 ×3",
+        "FLA pp1 ×2",
+        "G SEA",
+        "4 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "FLA": 3,
+        "BUF": 2,
+        "CGY": 2,
+        "SJS": 2
+      },
+      "games": {
+        "CHI@FLA": 3,
+        "CGY@SEA": 2,
+        "OTT@BUF": 2,
+        "SJS@LAK": 2
+      },
+      "nGames": 4,
+      "lines": {},
+      "pp": {
+        "FLA pp1": 3
+      },
+      "goalie": {
+        "team": "SJS",
+        "opposing": 0
+      },
+      "summary": [
+        "FLA 3 · BUF 2 · CGY 2 · SJS 2",
+        "FLA pp1 ×3",
+        "G SJS",
+        "4 games"
+      ]
+    }
+  }
+}
