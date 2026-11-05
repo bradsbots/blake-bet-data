@@ -2,6 +2,50 @@
  "sport": "nba",
  "slates": [
   {
+   "slate": "156078",
+   "date": "2026-11-04",
+   "label": "NBA $333K Zone Special [$100K to 1st]",
+   "entries": 79270,
+   "source": "live",
+   "model": "v1",
+   "predictedAt": "2026-11-04T23:45:09+00:00",
+   "lockAt": "2026-11-05T00:00:00+00:00",
+   "minutesBeforeLock": 15,
+   "n": 330,
+   "mae": 1.73,
+   "mae5": 6.176,
+   "spearman": 0.9182,
+   "top10": 0.5,
+   "chalk": {
+    "n": 10,
+    "caught": 3
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Meleek Thomas",
+     "pos": "ALL",
+     "team": "CLE",
+     "pred": 66.55,
+     "actual": 21.07
+    },
+    {
+     "name": "Paul George",
+     "pos": "ALL",
+     "team": "BOS",
+     "pred": 17.75,
+     "actual": 46.64
+    },
+    {
+     "name": "Karl-Anthony Towns",
+     "pos": "ALL",
+     "team": "NYK",
+     "pred": 10.91,
+     "actual": 34.63
+    }
+   ]
+  },
+  {
    "slate": "156054",
    "date": "2026-11-02",
    "label": "NBA $200K Fadeaway [$50K to 1st]",
@@ -179,13 +223,13 @@
   }
  ],
  "recent": {
-  "slates": 4,
-  "n": 809,
-  "mae": 2.96,
-  "mae5": 8.335,
+  "slates": 5,
+  "n": 1139,
+  "mae": 2.604,
+  "mae5": 7.862,
   "chalk": {
-   "n": 52,
-   "caught": 31
+   "n": 62,
+   "caught": 34
   },
   "falseChalk": 3
  }
