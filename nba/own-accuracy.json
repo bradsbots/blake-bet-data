@@ -2,6 +2,50 @@
  "sport": "nba",
  "slates": [
   {
+   "slate": "156176",
+   "date": "2026-11-05",
+   "label": "NBA $150K Fadeaway [$50K to 1st]",
+   "entries": 9803,
+   "source": "live",
+   "model": "v1",
+   "predictedAt": "2026-11-06T00:00:25+00:00",
+   "lockAt": "2026-11-06T02:00:00+00:00",
+   "minutesBeforeLock": 120,
+   "n": 57,
+   "mae": 6.462,
+   "mae5": 10.27,
+   "spearman": 0.9036,
+   "top10": 0.6,
+   "chalk": {
+    "n": 16,
+    "caught": 14
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Oso Ighodaro",
+     "pos": "ALL",
+     "team": "PHX",
+     "pred": 15.31,
+     "actual": 53.98
+    },
+    {
+     "name": "Giannis Antetokounmpo",
+     "pos": "ALL",
+     "team": "MIA",
+     "pred": 63.12,
+     "actual": 27.87
+    },
+    {
+     "name": "Klay Thompson",
+     "pos": "ALL",
+     "team": "MIA",
+     "pred": 17.07,
+     "actual": 50.81
+    }
+   ]
+  },
+  {
    "slate": "156078",
    "date": "2026-11-04",
    "label": "NBA $333K Zone Special [$100K to 1st]",
@@ -223,13 +267,13 @@
   }
  ],
  "recent": {
-  "slates": 5,
-  "n": 1139,
-  "mae": 2.604,
-  "mae5": 7.862,
+  "slates": 6,
+  "n": 1196,
+  "mae": 2.788,
+  "mae5": 8.087,
   "chalk": {
-   "n": 62,
-   "caught": 34
+   "n": 78,
+   "caught": 48
   },
   "falseChalk": 3
  }
