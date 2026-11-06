@@ -1,0 +1,224 @@
+{
+  "sport": "nba",
+  "slate": "156176",
+  "date": "2026-11-05",
+  "contest": {
+    "id": 197507257,
+    "label": "NBA $150K Fadeaway [$50K to 1st]",
+    "entries": 9803
+  },
+  "generatedAt": "2026-11-06T09:40:13.551Z",
+  "winner": {
+    "rank": 1,
+    "name": "rdog (107/150)",
+    "points": 300.75,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44801219,
+        "name": "Stephen Curry",
+        "team": "GSW",
+        "pos": "PG",
+        "salary": 8200,
+        "fpts": 41.25,
+        "own": 64.18
+      },
+      {
+        "slot": "SG",
+        "id": 44801299,
+        "name": "Jase Richardson",
+        "team": "ORL",
+        "pos": "PG",
+        "salary": 4600,
+        "fpts": 24.5,
+        "own": 10.79
+      },
+      {
+        "slot": "SF",
+        "id": 44801245,
+        "name": "Dillon Brooks",
+        "team": "PHX",
+        "pos": "SF",
+        "salary": 6300,
+        "fpts": 34.25,
+        "own": 18.53
+      },
+      {
+        "slot": "PF",
+        "id": 44801233,
+        "name": "Miles Bridges",
+        "team": "PHX",
+        "pos": "PF",
+        "salary": 7100,
+        "fpts": 48.25,
+        "own": 24.93
+      },
+      {
+        "slot": "C",
+        "id": 44801240,
+        "name": "Wendell Carter Jr.",
+        "team": "ORL",
+        "pos": "C",
+        "salary": 6500,
+        "fpts": 51.25,
+        "own": 16.02
+      },
+      {
+        "slot": "G",
+        "id": 44801373,
+        "name": "Ryan Conwell",
+        "team": "MIA",
+        "pos": "PG",
+        "salary": 3300,
+        "fpts": 24.75,
+        "own": 3.19
+      },
+      {
+        "slot": "F",
+        "id": 44801211,
+        "name": "Franz Wagner",
+        "team": "ORL",
+        "pos": "SF",
+        "salary": 8700,
+        "fpts": 54,
+        "own": 35.18
+      },
+      {
+        "slot": "UTIL",
+        "id": 44801276,
+        "name": "Tristan da Silva",
+        "team": "ORL",
+        "pos": "SF",
+        "salary": 5300,
+        "fpts": 22.5,
+        "own": 31.05
+      }
+    ]
+  },
+  "optimal": {
+    "points": 317.75,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44801373,
+        "name": "Ryan Conwell",
+        "team": "MIA",
+        "pos": "PG",
+        "salary": 3300,
+        "fpts": 24.75,
+        "own": 3.19
+      },
+      {
+        "slot": "SG",
+        "id": 44801215,
+        "name": "Devin Booker",
+        "team": "PHX",
+        "pos": "PG",
+        "salary": 8500,
+        "fpts": 49.75,
+        "own": 12.13
+      },
+      {
+        "slot": "SF",
+        "id": 44801211,
+        "name": "Franz Wagner",
+        "team": "ORL",
+        "pos": "SF",
+        "salary": 8700,
+        "fpts": 54,
+        "own": 35.18
+      },
+      {
+        "slot": "PF",
+        "id": 44801233,
+        "name": "Miles Bridges",
+        "team": "PHX",
+        "pos": "PF",
+        "salary": 7100,
+        "fpts": 48.25,
+        "own": 24.93
+      },
+      {
+        "slot": "C",
+        "id": 44801240,
+        "name": "Wendell Carter Jr.",
+        "team": "ORL",
+        "pos": "C",
+        "salary": 6500,
+        "fpts": 51.25,
+        "own": 16.02
+      },
+      {
+        "slot": "G",
+        "id": 44801242,
+        "name": "Davion Mitchell",
+        "team": "MIA",
+        "pos": "PG",
+        "salary": 6400,
+        "fpts": 38,
+        "own": 22.3
+      },
+      {
+        "slot": "F",
+        "id": 44801327,
+        "name": "Georges Niang",
+        "team": "GSW",
+        "pos": "PF",
+        "salary": 4000,
+        "fpts": 24.5,
+        "own": 17.27
+      },
+      {
+        "slot": "UTIL",
+        "id": 44801269,
+        "name": "Draymond Green",
+        "team": "GSW",
+        "pos": "PF",
+        "salary": 5500,
+        "fpts": 27.25,
+        "own": 18.09
+      }
+    ],
+    "assumedZero": 16
+  },
+  "paper": null,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "ORL": 4,
+        "PHX": 2,
+        "GSW": 1,
+        "MIA": 1
+      },
+      "games": {
+        "ORL@PHX": 6,
+        "MIA@GSW": 2
+      },
+      "nGames": 2,
+      "summary": [
+        "ORL 4 · PHX 2",
+        "2 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "GSW": 2,
+        "MIA": 2,
+        "ORL": 2,
+        "PHX": 2
+      },
+      "games": {
+        "MIA@GSW": 4,
+        "ORL@PHX": 4
+      },
+      "nGames": 2,
+      "summary": [
+        "GSW 2 · MIA 2 · ORL 2 · PHX 2",
+        "2 games"
+      ]
+    },
+    "paper": null
+  }
+}
