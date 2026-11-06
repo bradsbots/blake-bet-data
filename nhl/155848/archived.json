@@ -1,0 +1,111 @@
+{
+ "archivedAt": "2026-11-06T00:00:18+00:00",
+ "days": 3,
+ "bytes": 573149,
+ "removed": [
+  {
+   "path": "snapshots/20261101T140006Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261101T150103Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261101T160043Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261101T170050Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261101T180007Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261101T190014Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261101T200006Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261101T210016Z.json",
+   "bytes": 14590
+  },
+  {
+   "path": "snapshots/20261101T220008Z.json",
+   "bytes": 14590
+  },
+  {
+   "path": "snapshots/20261101T230005Z.json",
+   "bytes": 15686
+  },
+  {
+   "path": "snapshots/20261102T000008Z.json",
+   "bytes": 22776
+  },
+  {
+   "path": "snapshots/20261102T010007Z.json",
+   "bytes": 30512
+  },
+  {
+   "path": "snapshots/20261102T020006Z.json",
+   "bytes": 31257
+  },
+  {
+   "path": "snapshots/20261102T030007Z.json",
+   "bytes": 32061
+  },
+  {
+   "path": "snapshots/20261102T040007Z.json",
+   "bytes": 32077
+  },
+  {
+   "path": "snapshots/20261102T140033Z.json",
+   "bytes": 32077
+  },
+  {
+   "path": "snapshots/20261102T150005Z.json",
+   "bytes": 37757
+  },
+  {
+   "path": "snapshots/20261102T160015Z.json",
+   "bytes": 37746
+  },
+  {
+   "path": "snapshots/20261102T170006Z.json",
+   "bytes": 37966
+  },
+  {
+   "path": "snapshots/20261102T180008Z.json",
+   "bytes": 38740
+  },
+  {
+   "path": "snapshots/20261102T190016Z.json",
+   "bytes": 38740
+  },
+  {
+   "path": "snapshots/20261102T200024Z.json",
+   "bytes": 38209
+  },
+  {
+   "path": "snapshots/20261102T210006Z.json",
+   "bytes": 38672
+  },
+  {
+   "path": "snapshots/20261102T220023Z.json",
+   "bytes": 38673
+  },
+  {
+   "path": "snapshots/20261102T230007Z.json",
+   "bytes": 38673
+  },
+  {
+   "path": "timeline.json",
+   "bytes": 1934
+  }
+ ]
+}
