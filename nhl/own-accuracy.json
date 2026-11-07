@@ -2,6 +2,50 @@
  "sport": "nhl",
  "slates": [
   {
+   "slate": "156254",
+   "date": "2026-11-06",
+   "label": "NHL $35K Overload [$10K to 1st]",
+   "entries": 2058,
+   "source": "live",
+   "model": "v1",
+   "predictedAt": "2026-11-06T23:45:13+00:00",
+   "lockAt": "2026-11-07T00:00:00+00:00",
+   "minutesBeforeLock": 15,
+   "n": 142,
+   "mae": 2.311,
+   "mae5": 4.036,
+   "spearman": 0.9269,
+   "top10": 0.6,
+   "chalk": {
+    "n": 7,
+    "caught": 6
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Kirill Kaprizov",
+     "pos": "W",
+     "team": "MIN",
+     "pred": 24.86,
+     "actual": 45.87
+    },
+    {
+     "name": "Matt Boldy",
+     "pos": "W",
+     "team": "MIN",
+     "pred": 28.71,
+     "actual": 44.6
+    },
+    {
+     "name": "Zach Benson",
+     "pos": "W",
+     "team": "BUF",
+     "pred": 26.52,
+     "actual": 15.2
+    }
+   ]
+  },
+  {
    "slate": "156246",
    "date": "2026-11-05",
    "label": "NHL $40K Overload [$10K to 1st]",
@@ -928,12 +972,12 @@
  ],
  "recent": {
   "slates": 10,
-  "n": 3160,
-  "mae": 1.328,
-  "mae5": 3.887,
+  "n": 2789,
+  "mae": 1.425,
+  "mae5": 3.898,
   "chalk": {
-   "n": 70,
-   "caught": 42
+   "n": 74,
+   "caught": 48
   },
   "falseChalk": 1
  }
