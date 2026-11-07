@@ -1,0 +1,417 @@
+{
+  "sport": "nhl",
+  "slate": "156254",
+  "date": "2026-11-06",
+  "contest": {
+    "id": 197516140,
+    "label": "NHL $35K Overload [$10K to 1st]",
+    "entries": 2058
+  },
+  "generatedAt": "2026-11-07T09:40:25.936Z",
+  "winner": {
+    "rank": 1,
+    "name": "VanChills",
+    "points": 181.4,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44815208,
+        "name": "Morgan Frost",
+        "team": "CGY",
+        "pos": "C",
+        "salary": 4000,
+        "fpts": 11.5,
+        "own": 15.5
+      },
+      {
+        "slot": "C",
+        "id": 44815216,
+        "name": "Josh Norris",
+        "team": "BUF",
+        "pos": "C",
+        "salary": 3000,
+        "fpts": 21.5,
+        "own": 6.56
+      },
+      {
+        "slot": "W",
+        "id": 44815258,
+        "name": "Kirill Kaprizov",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 8300,
+        "fpts": 32.3,
+        "own": 45.87
+      },
+      {
+        "slot": "W",
+        "id": 44815262,
+        "name": "Matt Boldy",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 7800,
+        "fpts": 18.5,
+        "own": 44.6
+      },
+      {
+        "slot": "W",
+        "id": 44815296,
+        "name": "Josh Doan",
+        "team": "BUF",
+        "pos": "W",
+        "salary": 3500,
+        "fpts": 17.1,
+        "own": 5.83
+      },
+      {
+        "slot": "D",
+        "id": 44815386,
+        "name": "Quinn Hughes",
+        "team": "MIN",
+        "pos": "D",
+        "salary": 6800,
+        "fpts": 24.5,
+        "own": 40.33
+      },
+      {
+        "slot": "D",
+        "id": 44815398,
+        "name": "Owen Power",
+        "team": "BUF",
+        "pos": "D",
+        "salary": 4300,
+        "fpts": 22.5,
+        "own": 5.39
+      },
+      {
+        "slot": "G",
+        "id": 44815488,
+        "name": "Jesper Wallstedt",
+        "team": "MIN",
+        "pos": "G",
+        "salary": 8400,
+        "fpts": 18.6,
+        "own": 28.18
+      },
+      {
+        "slot": "UTIL",
+        "id": 44815406,
+        "name": "Simon Nemec",
+        "team": "CGY",
+        "pos": "D",
+        "salary": 3800,
+        "fpts": 14.9,
+        "own": 13.26
+      }
+    ]
+  },
+  "optimal": {
+    "points": 203.1,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44815216,
+        "name": "Josh Norris",
+        "team": "BUF",
+        "pos": "C",
+        "salary": 3000,
+        "fpts": 21.5,
+        "own": 6.56
+      },
+      {
+        "slot": "C",
+        "id": 44815192,
+        "name": "Macklin Celebrini",
+        "team": "SJS",
+        "pos": "C",
+        "salary": 8700,
+        "fpts": 21.8,
+        "own": 13.9
+      },
+      {
+        "slot": "W",
+        "id": 44815276,
+        "name": "Kent Johnson",
+        "team": "CBJ",
+        "pos": "W",
+        "salary": 4800,
+        "fpts": 25.3,
+        "own": 9.72
+      },
+      {
+        "slot": "W",
+        "id": 44815258,
+        "name": "Kirill Kaprizov",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 8300,
+        "fpts": 32.3,
+        "own": 45.87
+      },
+      {
+        "slot": "W",
+        "id": 44815344,
+        "name": "Jeff Malott",
+        "team": "ANA",
+        "pos": "W",
+        "salary": 2500,
+        "fpts": 17.1,
+        "own": 0.1
+      },
+      {
+        "slot": "D",
+        "id": 44815398,
+        "name": "Owen Power",
+        "team": "BUF",
+        "pos": "D",
+        "salary": 4300,
+        "fpts": 22.5,
+        "own": 5.39
+      },
+      {
+        "slot": "D",
+        "id": 44815386,
+        "name": "Quinn Hughes",
+        "team": "MIN",
+        "pos": "D",
+        "salary": 6800,
+        "fpts": 24.5,
+        "own": 40.33
+      },
+      {
+        "slot": "G",
+        "id": 44815491,
+        "name": "Ukko-Pekka Luukkonen",
+        "team": "BUF",
+        "pos": "G",
+        "salary": 8100,
+        "fpts": 15.8,
+        "own": 14.77
+      },
+      {
+        "slot": "UTIL",
+        "id": 44815414,
+        "name": "Zayne Parekh",
+        "team": "CGY",
+        "pos": "D",
+        "salary": 3400,
+        "fpts": 22.3,
+        "own": 10.15
+      }
+    ],
+    "assumedZero": 47
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 1342,
+    "pctile": 34.79,
+    "points": 95.9,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44815196,
+        "name": "Joel Eriksson Ek",
+        "team": "MIN",
+        "pos": "C",
+        "salary": 6300,
+        "fpts": 9.3,
+        "own": 40.14
+      },
+      {
+        "slot": "C",
+        "id": 44815228,
+        "name": "Danila Yurov",
+        "team": "MIN",
+        "pos": "C",
+        "salary": 2700,
+        "fpts": 4.1,
+        "own": 9.09
+      },
+      {
+        "slot": "W",
+        "id": 44815272,
+        "name": "Zach Benson",
+        "team": "BUF",
+        "pos": "W",
+        "salary": 5400,
+        "fpts": 10.8,
+        "own": 15.2
+      },
+      {
+        "slot": "W",
+        "id": 44815260,
+        "name": "Cutter Gauthier",
+        "team": "ANA",
+        "pos": "W",
+        "salary": 8100,
+        "fpts": 14.5,
+        "own": 23.13
+      },
+      {
+        "slot": "W",
+        "id": 44815262,
+        "name": "Matt Boldy",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 7800,
+        "fpts": 18.5,
+        "own": 44.6
+      },
+      {
+        "slot": "D",
+        "id": 44815412,
+        "name": "Olen Zellweger",
+        "team": "BUF",
+        "pos": "D",
+        "salary": 3500,
+        "fpts": 0,
+        "own": 4.23
+      },
+      {
+        "slot": "D",
+        "id": 44815476,
+        "name": "Eric Pohlkamp",
+        "team": "SJS",
+        "pos": "D",
+        "salary": 2500,
+        "fpts": 8.4,
+        "own": 5.35
+      },
+      {
+        "slot": "G",
+        "id": 44815491,
+        "name": "Ukko-Pekka Luukkonen",
+        "team": "BUF",
+        "pos": "G",
+        "salary": 8100,
+        "fpts": 15.8,
+        "own": 14.77
+      },
+      {
+        "slot": "UTIL",
+        "id": 44815270,
+        "name": "Joel Farabee",
+        "team": "CGY",
+        "pos": "W",
+        "salary": 5500,
+        "fpts": 14.5,
+        "own": 15.69
+      }
+    ],
+    "money": {
+      "fee": 20,
+      "one": {
+        "won": 0,
+        "net": -20
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 0,
+        "net": -400,
+        "cashed": 0
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "MIN": 4,
+        "BUF": 3,
+        "CGY": 2
+      },
+      "games": {
+        "SJS@MIN": 4,
+        "CBJ@BUF": 3,
+        "ANA@CGY": 2
+      },
+      "nGames": 3,
+      "lines": {
+        "MIN f1": 2
+      },
+      "pp": {
+        "MIN pp1": 3,
+        "BUF pp2": 2
+      },
+      "goalie": {
+        "team": "MIN",
+        "opposing": 0
+      },
+      "summary": [
+        "MIN 4 · BUF 3 · CGY 2",
+        "MIN f1 ×2",
+        "MIN pp1 ×3",
+        "BUF pp2 ×2",
+        "G MIN",
+        "3 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "BUF": 3,
+        "MIN": 2,
+        "ANA": 1,
+        "CBJ": 1,
+        "CGY": 1,
+        "SJS": 1
+      },
+      "games": {
+        "CBJ@BUF": 4,
+        "SJS@MIN": 3,
+        "ANA@CGY": 2
+      },
+      "nGames": 3,
+      "lines": {},
+      "pp": {
+        "BUF pp2": 2,
+        "MIN pp1": 2
+      },
+      "goalie": {
+        "team": "BUF",
+        "opposing": 1
+      },
+      "summary": [
+        "BUF 3 · MIN 2",
+        "BUF pp2 ×2",
+        "MIN pp1 ×2",
+        "G BUF · 1 skater vs G",
+        "3 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "BUF": 3,
+        "MIN": 3,
+        "ANA": 1,
+        "CGY": 1,
+        "SJS": 1
+      },
+      "games": {
+        "SJS@MIN": 4,
+        "CBJ@BUF": 3,
+        "ANA@CGY": 2
+      },
+      "nGames": 3,
+      "lines": {
+        "MIN f1": 2
+      },
+      "pp": {
+        "MIN pp1": 2
+      },
+      "goalie": {
+        "team": "BUF",
+        "opposing": 0
+      },
+      "summary": [
+        "BUF 3 · MIN 3",
+        "MIN f1 ×2",
+        "MIN pp1 ×2",
+        "G BUF",
+        "3 games"
+      ]
+    }
+  }
+}
