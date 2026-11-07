@@ -1,0 +1,354 @@
+{
+  "sport": "nba",
+  "slate": "156184",
+  "date": "2026-11-06",
+  "contest": {
+    "id": 197537547,
+    "label": "NBA $300K Friday 8's [$100K to 1st]",
+    "entries": 44117
+  },
+  "generatedAt": "2026-11-07T09:40:14.901Z",
+  "winner": {
+    "rank": 1,
+    "name": "LeVerticalDFS (70/150)",
+    "points": 376,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44818555,
+        "name": "Dyson Daniels",
+        "team": "ATL",
+        "pos": "PG",
+        "salary": 6600,
+        "fpts": 46.75,
+        "own": 20.97
+      },
+      {
+        "slot": "SG",
+        "id": 44818635,
+        "name": "Kyshawn George",
+        "team": "WAS",
+        "pos": "SG",
+        "salary": 5800,
+        "fpts": 56,
+        "own": 39.75
+      },
+      {
+        "slot": "SF",
+        "id": 44818509,
+        "name": "RJ Barrett",
+        "team": "TOR",
+        "pos": "SG",
+        "salary": 7300,
+        "fpts": 41.25,
+        "own": 54.63
+      },
+      {
+        "slot": "PF",
+        "id": 44818429,
+        "name": "Jayson Tatum",
+        "team": "BOS",
+        "pos": "SF",
+        "salary": 10000,
+        "fpts": 62,
+        "own": 10.09
+      },
+      {
+        "slot": "C",
+        "id": 44818762,
+        "name": "Jakob Poeltl",
+        "team": "TOR",
+        "pos": "C",
+        "salary": 4400,
+        "fpts": 42.75,
+        "own": 3.72
+      },
+      {
+        "slot": "G",
+        "id": 44818560,
+        "name": "Ajay Mitchell",
+        "team": "OKC",
+        "pos": "PG",
+        "salary": 6600,
+        "fpts": 44.75,
+        "own": 9.22
+      },
+      {
+        "slot": "F",
+        "id": 44818703,
+        "name": "Collin Murray-Boyles",
+        "team": "TOR",
+        "pos": "PF",
+        "salary": 4800,
+        "fpts": 39.25,
+        "own": 43.46
+      },
+      {
+        "slot": "UTIL",
+        "id": 44818734,
+        "name": "Jamal Shead",
+        "team": "TOR",
+        "pos": "PG",
+        "salary": 4500,
+        "fpts": 43.25,
+        "own": 48.99
+      }
+    ]
+  },
+  "optimal": {
+    "points": 395.25,
+    "salary": 49800,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44818749,
+        "name": "Brayden Burries",
+        "team": "MIL",
+        "pos": "PG",
+        "salary": 4400,
+        "fpts": 47.25,
+        "own": 4.07
+      },
+      {
+        "slot": "SG",
+        "id": 44818635,
+        "name": "Kyshawn George",
+        "team": "WAS",
+        "pos": "SG",
+        "salary": 5800,
+        "fpts": 56,
+        "own": 39.75
+      },
+      {
+        "slot": "SF",
+        "id": 44818555,
+        "name": "Dyson Daniels",
+        "team": "ATL",
+        "pos": "PG",
+        "salary": 6600,
+        "fpts": 46.75,
+        "own": 20.97
+      },
+      {
+        "slot": "PF",
+        "id": 44818680,
+        "name": "Luguentz Dort",
+        "team": "ATL",
+        "pos": "SF",
+        "salary": 5000,
+        "fpts": 45.75,
+        "own": 0.98
+      },
+      {
+        "slot": "C",
+        "id": 44818913,
+        "name": "Morez Johnson",
+        "team": "DAL",
+        "pos": "PF",
+        "salary": 3600,
+        "fpts": 41.75,
+        "own": 0.28
+      },
+      {
+        "slot": "G",
+        "id": 44818734,
+        "name": "Jamal Shead",
+        "team": "TOR",
+        "pos": "PG",
+        "salary": 4500,
+        "fpts": 43.25,
+        "own": 48.99
+      },
+      {
+        "slot": "F",
+        "id": 44818429,
+        "name": "Jayson Tatum",
+        "team": "BOS",
+        "pos": "SF",
+        "salary": 10000,
+        "fpts": 62,
+        "own": 10.09
+      },
+      {
+        "slot": "UTIL",
+        "id": 44818433,
+        "name": "Cooper Flagg",
+        "team": "DAL",
+        "pos": "SF",
+        "salary": 9900,
+        "fpts": 52.5,
+        "own": 13.72
+      }
+    ],
+    "assumedZero": 63
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 37904,
+    "pctile": 13.96,
+    "points": 233.75,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44818543,
+        "name": "Immanuel Quickley",
+        "team": "TOR",
+        "pos": "PG",
+        "salary": 6800,
+        "fpts": 0,
+        "own": 0.42
+      },
+      {
+        "slot": "SG",
+        "id": 44818560,
+        "name": "Ajay Mitchell",
+        "team": "OKC",
+        "pos": "PG",
+        "salary": 6600,
+        "fpts": 44.75,
+        "own": 9.22
+      },
+      {
+        "slot": "SF",
+        "id": 44818555,
+        "name": "Dyson Daniels",
+        "team": "ATL",
+        "pos": "PG",
+        "salary": 6600,
+        "fpts": 46.75,
+        "own": 20.97
+      },
+      {
+        "slot": "PF",
+        "id": 44818499,
+        "name": "LeBron James",
+        "team": "PHI",
+        "pos": "PF",
+        "salary": 7500,
+        "fpts": 24.25,
+        "own": 21.65
+      },
+      {
+        "slot": "C",
+        "id": 44818694,
+        "name": "Myles Turner",
+        "team": "MIL",
+        "pos": "C",
+        "salary": 4900,
+        "fpts": 13.75,
+        "own": 13.16
+      },
+      {
+        "slot": "G",
+        "id": 44818509,
+        "name": "RJ Barrett",
+        "team": "TOR",
+        "pos": "SG",
+        "salary": 7300,
+        "fpts": 41.25,
+        "own": 54.63
+      },
+      {
+        "slot": "F",
+        "id": 44818703,
+        "name": "Collin Murray-Boyles",
+        "team": "TOR",
+        "pos": "PF",
+        "salary": 4800,
+        "fpts": 39.25,
+        "own": 43.46
+      },
+      {
+        "slot": "UTIL",
+        "id": 44818650,
+        "name": "Rudy Gobert",
+        "team": "MIN",
+        "pos": "C",
+        "salary": 5500,
+        "fpts": 23.75,
+        "own": 21.35
+      }
+    ],
+    "money": {
+      "fee": 8,
+      "one": {
+        "won": 0,
+        "net": -8
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 32,
+        "net": -128,
+        "cashed": 2
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "TOR": 4,
+        "ATL": 1,
+        "BOS": 1,
+        "OKC": 1,
+        "WAS": 1
+      },
+      "games": {
+        "TOR@MIL": 4,
+        "WAS@ATL": 2,
+        "BOS@CHA": 1,
+        "OKC@MEM": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "TOR 4",
+        "4 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "ATL": 2,
+        "DAL": 2,
+        "BOS": 1,
+        "MIL": 1,
+        "TOR": 1,
+        "WAS": 1
+      },
+      "games": {
+        "WAS@ATL": 3,
+        "TOR@MIL": 2,
+        "UTA@DAL": 2,
+        "BOS@CHA": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "ATL 2 · DAL 2",
+        "4 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "TOR": 3,
+        "ATL": 1,
+        "MIL": 1,
+        "MIN": 1,
+        "OKC": 1,
+        "PHI": 1
+      },
+      "games": {
+        "TOR@MIL": 4,
+        "MIN@NOP": 1,
+        "OKC@MEM": 1,
+        "PHI@CLE": 1,
+        "WAS@ATL": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "TOR 3",
+        "5 games"
+      ]
+    }
+  }
+}
