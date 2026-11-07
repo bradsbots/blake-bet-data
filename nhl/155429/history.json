@@ -7,7 +7,7 @@
     "label": "NHL $15K Overload  [$5K to 1st]",
     "entries": 882
   },
-  "generatedAt": "2026-10-29T15:51:41.566Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": {
     "rank": 1,
     "name": "I_Slewfoot_U (2/26)",
@@ -204,23 +204,13 @@
     "assumedZero": 60
   },
   "paper": {
-    "variant": "defaults",
-    "lineup": 1,
-    "finish": 720,
-    "pctile": 18.37,
-    "points": 67.9,
-    "salary": 50000,
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 735,
+    "pctile": 16.78,
+    "points": 66.1,
+    "salary": 49900,
     "players": [
-      {
-        "slot": "C",
-        "id": 44653570,
-        "name": "Nathan MacKinnon",
-        "team": "COL",
-        "pos": "C",
-        "salary": 9300,
-        "fpts": 8,
-        "own": 36.84
-      },
       {
         "slot": "C",
         "id": 44653620,
@@ -230,6 +220,16 @@
         "salary": 2600,
         "fpts": 0,
         "own": 3.86
+      },
+      {
+        "slot": "C",
+        "id": 44653580,
+        "name": "Joel Eriksson Ek",
+        "team": "MIN",
+        "pos": "C",
+        "salary": 6200,
+        "fpts": 15.5,
+        "own": 29.7
       },
       {
         "slot": "W",
@@ -243,23 +243,23 @@
       },
       {
         "slot": "W",
-        "id": 44653676,
-        "name": "Artturi Lehkonen",
-        "team": "COL",
+        "id": 44653652,
+        "name": "Kirill Kaprizov",
+        "team": "MIN",
         "pos": "W",
-        "salary": 5100,
-        "fpts": 20.3,
-        "own": 15.87
+        "salary": 8600,
+        "fpts": 16.5,
+        "own": 37.87
       },
       {
         "slot": "W",
-        "id": 44653716,
-        "name": "Adam Edstrom",
-        "team": "NSH",
+        "id": 44653654,
+        "name": "Matt Boldy",
+        "team": "MIN",
         "pos": "W",
-        "salary": 2900,
-        "fpts": 0,
-        "own": 0.34
+        "salary": 8400,
+        "fpts": 9.5,
+        "own": 33
       },
       {
         "slot": "D",
@@ -293,18 +293,22 @@
       },
       {
         "slot": "UTIL",
-        "id": 44653652,
-        "name": "Kirill Kaprizov",
-        "team": "MIN",
+        "id": 44653736,
+        "name": "Jonathan Lekkerimaki",
+        "team": "VAN",
         "pos": "W",
-        "salary": 8600,
-        "fpts": 16.5,
-        "own": 37.87
+        "salary": 2600,
+        "fpts": 1.5,
+        "own": 10.66
       }
     ],
     "money": {
       "fee": 20,
       "one": {
+        "won": 0,
+        "net": -20
+      },
+      "oneDefaults": {
         "won": 0,
         "net": -20
       },
@@ -385,30 +389,33 @@
     },
     "paper": {
       "teams": {
-        "COL": 4,
-        "MIN": 2,
-        "NSH": 1,
+        "MIN": 4,
+        "COL": 2,
         "NYI": 1,
+        "VAN": 1,
         "WPG": 1
       },
       "games": {
-        "COL@NSH": 5,
-        "MIN@VAN": 2,
+        "MIN@VAN": 5,
+        "COL@NSH": 2,
         "MTL@WPG": 1,
         "NYI@DAL": 1
       },
       "nGames": 4,
       "lines": {
-        "COL f1": 2
+        "MIN f1": 3
       },
-      "pp": {},
+      "pp": {
+        "MIN pp1": 3
+      },
       "goalie": {
         "team": "NYI",
         "opposing": 0
       },
       "summary": [
-        "COL 4 · MIN 2",
-        "COL f1 ×2",
+        "MIN 4 · COL 2",
+        "MIN f1 ×3",
+        "MIN pp1 ×3",
         "G NYI",
         "4 games"
       ]

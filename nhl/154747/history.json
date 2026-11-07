@@ -7,7 +7,7 @@
     "label": "NHL $60K Kick Save [$20K to 1st]",
     "entries": 4705
   },
-  "generatedAt": "2026-10-29T15:51:41.566Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": {
     "rank": 1,
     "name": "wiseowl00 (44/64)",
@@ -204,12 +204,12 @@
     "assumedZero": 181
   },
   "paper": {
-    "variant": "defaults",
-    "lineup": 1,
-    "finish": 4598,
-    "pctile": 2.3,
-    "points": 52.9,
-    "salary": 50000,
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 4570,
+    "pctile": 2.89,
+    "points": 55.4,
+    "salary": 49300,
     "players": [
       {
         "slot": "C",
@@ -223,13 +223,13 @@
       },
       {
         "slot": "C",
-        "id": 44515962,
-        "name": "Mason McTavish",
-        "team": "STL",
+        "id": 44516020,
+        "name": "Michael Misa",
+        "team": "SJS",
         "pos": "C",
-        "salary": 4100,
-        "fpts": 15.8,
-        "own": 4.44
+        "salary": 2800,
+        "fpts": 1.5,
+        "own": 1.44
       },
       {
         "slot": "W",
@@ -253,13 +253,13 @@
       },
       {
         "slot": "W",
-        "id": 44516266,
-        "name": "Mackie Samoskevich",
-        "team": "SEA",
+        "id": 44516228,
+        "name": "Jack Roslovic",
+        "team": "TOR",
         "pos": "W",
-        "salary": 3300,
-        "fpts": 0,
-        "own": 0.44
+        "salary": 3900,
+        "fpts": 16.8,
+        "own": 7.44
       },
       {
         "slot": "D",
@@ -305,6 +305,10 @@
     "money": {
       "fee": 15,
       "one": {
+        "won": 0,
+        "net": -15
+      },
+      "oneDefaults": {
         "won": 0,
         "net": -15
       },
@@ -383,25 +387,23 @@
     },
     "paper": {
       "teams": {
+        "TOR": 3,
         "NYR": 2,
-        "TOR": 2,
         "EDM": 1,
-        "SEA": 1,
-        "STL": 1,
+        "SJS": 1,
         "UTA": 1,
         "VAN": 1
       },
       "games": {
-        "BUF@TOR": 2,
+        "BUF@TOR": 3,
         "NYR@NJD": 2,
         "UTA@EDM": 2,
-        "SEA@TBL": 1,
-        "STL@MIN": 1,
+        "SJS@NSH": 1,
         "VAN@FLA": 1
       },
-      "nGames": 6,
+      "nGames": 5,
       "lines": {
-        "TOR f1": 2
+        "TOR f1": 3
       },
       "pp": {
         "TOR pp1": 2
@@ -411,11 +413,11 @@
         "opposing": 0
       },
       "summary": [
-        "NYR 2 · TOR 2",
-        "TOR f1 ×2",
+        "TOR 3 · NYR 2",
+        "TOR f1 ×3",
         "TOR pp1 ×2",
         "G NYR",
-        "6 games"
+        "5 games"
       ]
     }
   }

@@ -7,7 +7,7 @@
     "label": "NBA $200K Fadeaway [$50K to 1st]",
     "entries": 12629
   },
-  "generatedAt": "2026-11-01T09:40:13.437Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": {
     "rank": 1,
     "name": "AaronCosta (29/150)",
@@ -275,6 +275,10 @@
     "money": {
       "fee": 18,
       "one": {
+        "won": 0,
+        "net": -18
+      },
+      "oneDefaults": {
         "won": 0,
         "net": -18
       },

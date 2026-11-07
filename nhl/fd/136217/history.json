@@ -8,7 +8,7 @@
     "label": "$5K Tue NHL Breakaway ($1K to 1st)",
     "entries": 1340
   },
-  "generatedAt": "2026-11-04T17:09:18.379Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": {
     "rank": 1,
     "name": "abundance115 (9/11)",
@@ -205,13 +205,23 @@
     "assumedZero": 129
   },
   "paper": {
-    "variant": "defaults",
-    "lineup": 1,
-    "finish": 1195,
-    "pctile": 10.67,
-    "points": 93.2,
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 1286,
+    "pctile": 3.88,
+    "points": 77,
     "salary": 55000,
     "players": [
+      {
+        "slot": "C",
+        "id": 68644,
+        "name": "Mark Jankowski",
+        "team": "CAR",
+        "pos": "C",
+        "salary": 4800,
+        "fpts": 6.4,
+        "own": 1.72
+      },
       {
         "slot": "C",
         "id": 64102,
@@ -223,24 +233,14 @@
         "own": 13.88
       },
       {
-        "slot": "C",
-        "id": 128506,
-        "name": "Trevor Zegras",
-        "team": "PHI",
-        "pos": "C",
-        "salary": 5600,
-        "fpts": 10.1,
-        "own": 1.87
-      },
-      {
         "slot": "W",
-        "id": 66683,
-        "name": "Mitch Marner",
-        "team": "VGK",
+        "id": 228755,
+        "name": "Arseniy Gritsyuk",
+        "team": "NJD",
         "pos": "W",
-        "salary": 6200,
-        "fpts": 14.9,
-        "own": 7.24
+        "salary": 5300,
+        "fpts": 1.6,
+        "own": 4.78
       },
       {
         "slot": "W",
@@ -254,13 +254,13 @@
       },
       {
         "slot": "D",
-        "id": 113270,
-        "name": "Philip Broberg",
-        "team": "STL",
+        "id": 80005,
+        "name": "Neal Pionk",
+        "team": "WPG",
         "pos": "D",
-        "salary": 5200,
-        "fpts": 14.4,
-        "own": 2.84
+        "salary": 5500,
+        "fpts": 6.4,
+        "own": 2.16
       },
       {
         "slot": "D",
@@ -284,28 +284,32 @@
       },
       {
         "slot": "UTIL",
-        "id": 228755,
-        "name": "Arseniy Gritsyuk",
-        "team": "NJD",
+        "id": 152162,
+        "name": "Vasily Podkolzin",
+        "team": "EDM",
         "pos": "W",
-        "salary": 5300,
+        "salary": 6800,
         "fpts": 1.6,
-        "own": 4.78
+        "own": 1.34
       },
       {
         "slot": "G",
-        "id": 228746,
-        "name": "Jacob Fowler",
-        "team": "MTL",
+        "id": 170275,
+        "name": "Jesper Wallstedt",
+        "team": "MIN",
         "pos": "G",
-        "salary": 7800,
-        "fpts": 13.6,
-        "own": 11.34
+        "salary": 7700,
+        "fpts": 22.4,
+        "own": 9.4
       }
     ],
     "money": {
       "fee": 4.44,
       "one": {
+        "won": 0,
+        "net": -4.44
+      },
+      "oneDefaults": {
         "won": 0,
         "net": -4.44
       },
@@ -394,38 +398,38 @@
     },
     "paper": {
       "teams": {
-        "EDM": 2,
-        "STL": 2,
-        "MTL": 1,
+        "EDM": 3,
+        "CAR": 1,
+        "MIN": 1,
         "NJD": 1,
-        "PHI": 1,
+        "STL": 1,
         "UTA": 1,
-        "VGK": 1
+        "WPG": 1
       },
       "games": {
-        "EDM@NJD": 3,
-        "STL@NYR": 2,
+        "EDM@NJD": 4,
+        "CAR@NSH": 1,
         "MIN@PHI": 1,
+        "STL@NYR": 1,
         "UTA@TOR": 1,
-        "VGK@PIT": 1,
         "WPG@MTL": 1
       },
       "nGames": 6,
       "lines": {
-        "EDM f1": 2
+        "EDM f1": 3
       },
       "pp": {
         "EDM pp1": 2
       },
       "goalie": {
-        "team": "MTL",
+        "team": "MIN",
         "opposing": 0
       },
       "summary": [
-        "EDM 2 · STL 2",
-        "EDM f1 ×2",
+        "EDM 3",
+        "EDM f1 ×3",
         "EDM pp1 ×2",
-        "G MTL",
+        "G MIN",
         "6 games"
       ]
     }

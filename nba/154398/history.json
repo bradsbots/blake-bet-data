@@ -7,7 +7,7 @@
     "label": "NBA $300K Friday 8's [$100K to 1st]",
     "entries": 44117
   },
-  "generatedAt": "2026-10-31T08:40:14.046Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": {
     "rank": 1,
     "name": "jpm11 (61/150)",
@@ -275,6 +275,10 @@
     "money": {
       "fee": 8,
       "one": {
+        "won": 0,
+        "net": -8
+      },
+      "oneDefaults": {
         "won": 0,
         "net": -8
       },

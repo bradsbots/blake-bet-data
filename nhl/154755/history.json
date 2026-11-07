@@ -7,7 +7,7 @@
     "label": "NHL $60K Kick Save [$20K to 1st]",
     "entries": 4507
   },
-  "generatedAt": "2026-10-29T15:51:41.566Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": {
     "rank": 1,
     "name": "tommienation1 (29/100)",
@@ -204,11 +204,11 @@
     "assumedZero": 16
   },
   "paper": {
-    "variant": "defaults",
-    "lineup": 1,
-    "finish": 845,
-    "pctile": 81.18,
-    "points": 129.8,
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 30,
+    "pctile": 99.36,
+    "points": 156.7,
     "salary": 50000,
     "players": [
       {
@@ -223,23 +223,33 @@
       },
       {
         "slot": "C",
-        "id": 44529357,
-        "name": "Leo Carlsson",
-        "team": "ANA",
+        "id": 44529375,
+        "name": "Fraser Minten",
+        "team": "BOS",
         "pos": "C",
-        "salary": 6900,
-        "fpts": 2.8,
-        "own": 23.74
+        "salary": 3000,
+        "fpts": 3,
+        "own": 24.63
       },
       {
         "slot": "W",
-        "id": 44529427,
-        "name": "Jaden Schwartz",
+        "id": 44529411,
+        "name": "Nazem Kadri",
         "team": "COL",
         "pos": "W",
-        "salary": 3300,
-        "fpts": 2.8,
-        "own": 18.97
+        "salary": 5200,
+        "fpts": 11,
+        "own": 28.47
+      },
+      {
+        "slot": "W",
+        "id": 44529413,
+        "name": "Artturi Lehkonen",
+        "team": "COL",
+        "pos": "W",
+        "salary": 5000,
+        "fpts": 21.5,
+        "own": 15.42
       },
       {
         "slot": "W",
@@ -250,16 +260,6 @@
         "salary": 7800,
         "fpts": 20.8,
         "own": 37.29
-      },
-      {
-        "slot": "W",
-        "id": 44529401,
-        "name": "Beckett Sennecke",
-        "team": "ANA",
-        "pos": "W",
-        "salary": 6400,
-        "fpts": 10,
-        "own": 25.98
       },
       {
         "slot": "D",
@@ -293,18 +293,22 @@
       },
       {
         "slot": "UTIL",
-        "id": 44529375,
-        "name": "Fraser Minten",
-        "team": "BOS",
-        "pos": "C",
-        "salary": 3000,
-        "fpts": 3,
-        "own": 24.63
+        "id": 44529401,
+        "name": "Beckett Sennecke",
+        "team": "ANA",
+        "pos": "W",
+        "salary": 6400,
+        "fpts": 10,
+        "own": 25.98
       }
     ],
     "money": {
       "fee": 15,
       "one": {
+        "won": 75,
+        "net": 60
+      },
+      "oneDefaults": {
         "won": 25,
         "net": 10
       },
@@ -384,18 +388,19 @@
     },
     "paper": {
       "teams": {
-        "COL": 4,
+        "COL": 5,
         "BOS": 3,
-        "ANA": 2
+        "ANA": 1
       },
       "games": {
-        "BOS@ANA": 5,
-        "PIT@COL": 4
+        "PIT@COL": 5,
+        "BOS@ANA": 4
       },
       "nGames": 2,
-      "lines": {},
+      "lines": {
+        "COL f1": 2
+      },
       "pp": {
-        "ANA pp1": 2,
         "BOS pp2": 2,
         "COL pp1": 2
       },
@@ -404,8 +409,8 @@
         "opposing": 0
       },
       "summary": [
-        "COL 4 · BOS 3 · ANA 2",
-        "ANA pp1 ×2",
+        "COL 5 · BOS 3",
+        "COL f1 ×2",
         "BOS pp2 ×2",
         "COL pp1 ×2",
         "G COL",

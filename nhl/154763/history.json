@@ -7,7 +7,7 @@
     "label": "NHL $40K Kick Save [$10K to 1st] ",
     "entries": 3137
   },
-  "generatedAt": "2026-10-29T15:51:41.566Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": {
     "rank": 1,
     "name": "fjbourne (80/94)",
@@ -204,12 +204,12 @@
     "assumedZero": 173
   },
   "paper": {
-    "variant": "defaults",
-    "lineup": 1,
-    "finish": 2887,
-    "pctile": 7.97,
-    "points": 61.2,
-    "salary": 49900,
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 2698,
+    "pctile": 13.96,
+    "points": 69.1,
+    "salary": 50000,
     "players": [
       {
         "slot": "C",
@@ -223,13 +223,13 @@
       },
       {
         "slot": "C",
-        "id": 44537958,
-        "name": "Mason McTavish",
-        "team": "STL",
+        "id": 44538006,
+        "name": "Fraser Minten",
+        "team": "BOS",
         "pos": "C",
-        "salary": 4000,
-        "fpts": 8,
-        "own": 9.43
+        "salary": 2700,
+        "fpts": 14.9,
+        "own": 5.39
       },
       {
         "slot": "W",
@@ -243,13 +243,13 @@
       },
       {
         "slot": "W",
-        "id": 44538252,
-        "name": "Will Cuylle",
-        "team": "NYR",
+        "id": 44538186,
+        "name": "Jack Roslovic",
+        "team": "TOR",
         "pos": "W",
-        "salary": 3100,
-        "fpts": 3,
-        "own": 0.89
+        "salary": 4200,
+        "fpts": 17.4,
+        "own": 7.21
       },
       {
         "slot": "W",
@@ -293,18 +293,22 @@
       },
       {
         "slot": "UTIL",
-        "id": 44538006,
-        "name": "Fraser Minten",
-        "team": "BOS",
-        "pos": "C",
-        "salary": 2700,
-        "fpts": 14.9,
-        "own": 5.39
+        "id": 44538634,
+        "name": "Declan Carlile",
+        "team": "PIT",
+        "pos": "D",
+        "salary": 3000,
+        "fpts": 1.5,
+        "own": 0.26
       }
     ],
     "money": {
       "fee": 15,
       "one": {
+        "won": 0,
+        "net": -15
+      },
+      "oneDefaults": {
         "won": 0,
         "net": -15
       },
@@ -382,23 +386,22 @@
     },
     "paper": {
       "teams": {
-        "TOR": 3,
+        "TOR": 4,
         "EDM": 2,
         "BOS": 1,
         "CBJ": 1,
-        "NYR": 1,
-        "STL": 1
+        "PIT": 1
       },
       "games": {
-        "NYI@TOR": 3,
+        "NYI@TOR": 4,
         "EDM@UTA": 2,
-        "NYR@CBJ": 2,
         "BOS@LAK": 1,
-        "STL@NSH": 1
+        "NYR@CBJ": 1,
+        "PIT@VGK": 1
       },
       "nGames": 5,
       "lines": {
-        "TOR f1": 2
+        "TOR f1": 3
       },
       "pp": {
         "EDM pp1": 2,
@@ -409,8 +412,8 @@
         "opposing": 0
       },
       "summary": [
-        "TOR 3 · EDM 2",
-        "TOR f1 ×2",
+        "TOR 4 · EDM 2",
+        "TOR f1 ×3",
         "EDM pp1 ×2",
         "TOR pp1 ×2",
         "G TOR",

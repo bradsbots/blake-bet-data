@@ -7,7 +7,7 @@
     "label": "NHL $60K Overload [$20K to 1st]",
     "entries": 3529
   },
-  "generatedAt": "2026-10-29T15:51:41.566Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": {
     "rank": 1,
     "name": "Swamper92 (5/7)",
@@ -204,22 +204,22 @@
     "assumedZero": 218
   },
   "paper": {
-    "variant": "defaults",
-    "lineup": 1,
-    "finish": 2188,
-    "pctile": 37.91,
-    "points": 71,
-    "salary": 49600,
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 1082,
+    "pctile": 69.25,
+    "points": 94.5,
+    "salary": 49800,
     "players": [
       {
         "slot": "C",
-        "id": 44665941,
-        "name": "Logan Stankoven",
-        "team": "CAR",
+        "id": 44665953,
+        "name": "Ryan O'Reilly",
+        "team": "NSH",
         "pos": "C",
-        "salary": 6100,
-        "fpts": 1.5,
-        "own": 2.86
+        "salary": 5400,
+        "fpts": 16.9,
+        "own": 7
       },
       {
         "slot": "C",
@@ -230,6 +230,16 @@
         "salary": 2500,
         "fpts": 0,
         "own": 0.6
+      },
+      {
+        "slot": "W",
+        "id": 44666193,
+        "name": "Steven Stamkos",
+        "team": "NSH",
+        "pos": "W",
+        "salary": 6400,
+        "fpts": 6.5,
+        "own": 5.5
       },
       {
         "slot": "W",
@@ -252,24 +262,14 @@
         "own": 9.77
       },
       {
-        "slot": "W",
-        "id": 44666311,
-        "name": "Kailer Yamamoto",
-        "team": "UTA",
-        "pos": "W",
-        "salary": 3300,
-        "fpts": 0,
-        "own": 1.28
-      },
-      {
         "slot": "D",
-        "id": 44666615,
-        "name": "Brandt Clarke",
-        "team": "LAK",
+        "id": 44666693,
+        "name": "Denton Mateychuk",
+        "team": "CBJ",
         "pos": "D",
-        "salary": 5500,
-        "fpts": 9.7,
-        "own": 3.26
+        "salary": 3300,
+        "fpts": 11.3,
+        "own": 1.5
       },
       {
         "slot": "D",
@@ -305,6 +305,10 @@
     "money": {
       "fee": 20,
       "one": {
+        "won": 0,
+        "net": -20
+      },
+      "oneDefaults": {
         "won": 0,
         "net": -20
       },
@@ -389,35 +393,37 @@
     },
     "paper": {
       "teams": {
-        "CAR": 2,
+        "NSH": 3,
         "BOS": 1,
+        "CAR": 1,
+        "CBJ": 1,
         "FLA": 1,
-        "LAK": 1,
         "MIN": 1,
-        "NSH": 1,
-        "SJS": 1,
-        "UTA": 1
+        "SJS": 1
       },
       "games": {
-        "BOS@CAR": 3,
-        "MIN@UTA": 2,
+        "NYI@NSH": 3,
+        "BOS@CAR": 2,
         "BUF@SJS": 1,
+        "CBJ@PHI": 1,
         "FLA@WPG": 1,
-        "LAK@CHI": 1,
-        "NYI@NSH": 1
+        "MIN@UTA": 1
       },
       "nGames": 6,
-      "lines": {},
+      "lines": {
+        "NSH f1": 2
+      },
       "pp": {
-        "CAR pp2": 2
+        "NSH pp1": 2
       },
       "goalie": {
         "team": "NSH",
         "opposing": 0
       },
       "summary": [
-        "CAR 2",
-        "CAR pp2 ×2",
+        "NSH 3",
+        "NSH f1 ×2",
+        "NSH pp1 ×2",
         "G NSH",
         "6 games"
       ]

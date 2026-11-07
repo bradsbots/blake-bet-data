@@ -7,7 +7,7 @@
     "label": "NHL $35K Overload [$10K to 1st]",
     "entries": 2058
   },
-  "generatedAt": "2026-11-07T09:40:25.936Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": {
     "rank": 1,
     "name": "VanChills",
@@ -204,12 +204,12 @@
     "assumedZero": 47
   },
   "paper": {
-    "variant": "defaults",
-    "lineup": 1,
-    "finish": 1342,
-    "pctile": 34.79,
-    "points": 95.9,
-    "salary": 49900,
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 1130,
+    "pctile": 45.04,
+    "points": 100.7,
+    "salary": 49800,
     "players": [
       {
         "slot": "C",
@@ -243,13 +243,13 @@
       },
       {
         "slot": "W",
-        "id": 44815260,
-        "name": "Cutter Gauthier",
-        "team": "ANA",
+        "id": 44815258,
+        "name": "Kirill Kaprizov",
+        "team": "MIN",
         "pos": "W",
-        "salary": 8100,
-        "fpts": 14.5,
-        "own": 23.13
+        "salary": 8300,
+        "fpts": 32.3,
+        "own": 45.87
       },
       {
         "slot": "W",
@@ -283,13 +283,13 @@
       },
       {
         "slot": "G",
-        "id": 44815491,
-        "name": "Ukko-Pekka Luukkonen",
-        "team": "BUF",
+        "id": 44815494,
+        "name": "Dustin Wolf",
+        "team": "CGY",
         "pos": "G",
-        "salary": 8100,
-        "fpts": 15.8,
-        "own": 14.77
+        "salary": 7800,
+        "fpts": 2.8,
+        "own": 17.1
       },
       {
         "slot": "UTIL",
@@ -305,6 +305,10 @@
     "money": {
       "fee": 20,
       "one": {
+        "won": 0,
+        "net": -20
+      },
+      "oneDefaults": {
         "won": 0,
         "net": -20
       },
@@ -383,33 +387,32 @@
     },
     "paper": {
       "teams": {
-        "BUF": 3,
-        "MIN": 3,
-        "ANA": 1,
-        "CGY": 1,
+        "MIN": 4,
+        "BUF": 2,
+        "CGY": 2,
         "SJS": 1
       },
       "games": {
-        "SJS@MIN": 4,
-        "CBJ@BUF": 3,
-        "ANA@CGY": 2
+        "SJS@MIN": 5,
+        "ANA@CGY": 2,
+        "CBJ@BUF": 2
       },
       "nGames": 3,
       "lines": {
-        "MIN f1": 2
+        "MIN f1": 3
       },
       "pp": {
-        "MIN pp1": 2
+        "MIN pp1": 3
       },
       "goalie": {
-        "team": "BUF",
+        "team": "CGY",
         "opposing": 0
       },
       "summary": [
-        "BUF 3 · MIN 3",
-        "MIN f1 ×2",
-        "MIN pp1 ×2",
-        "G BUF",
+        "MIN 4 · BUF 2 · CGY 2",
+        "MIN f1 ×3",
+        "MIN pp1 ×3",
+        "G CGY",
         "3 games"
       ]
     }

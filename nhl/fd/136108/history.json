@@ -8,7 +8,7 @@
     "label": "$4K Sun NHL Breakaway ($1K to 1st)",
     "entries": 1070
   },
-  "generatedAt": "2026-11-03T22:29:21.639Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": {
     "rank": 1,
     "name": "grantgoupil (2/12)",
@@ -205,11 +205,11 @@
     "assumedZero": 30
   },
   "paper": {
-    "variant": "defaults",
-    "lineup": 1,
-    "finish": 542,
-    "pctile": 49.25,
-    "points": 124.2,
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 404,
+    "pctile": 62.24,
+    "points": 135.4,
     "salary": 55000,
     "players": [
       {
@@ -224,23 +224,13 @@
       },
       {
         "slot": "C",
-        "id": 128506,
-        "name": "Trevor Zegras",
-        "team": "PHI",
+        "id": 73949,
+        "name": "Joel Eriksson Ek",
+        "team": "MIN",
         "pos": "C",
-        "salary": 5500,
-        "fpts": 1.6,
-        "own": 10.28
-      },
-      {
-        "slot": "W",
-        "id": 142015,
-        "name": "Alexis Lafreniere",
-        "team": "NYR",
-        "pos": "W",
-        "salary": 6200,
-        "fpts": 6.4,
-        "own": 18.41
+        "salary": 6500,
+        "fpts": 21.3,
+        "own": 16.54
       },
       {
         "slot": "W",
@@ -253,14 +243,14 @@
         "own": 21.87
       },
       {
-        "slot": "D",
-        "id": 39710,
-        "name": "Nick Jensen",
-        "team": "ANA",
-        "pos": "D",
-        "salary": 3200,
-        "fpts": null,
-        "own": 0
+        "slot": "W",
+        "id": 148097,
+        "name": "Matt Boldy",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 7200,
+        "fpts": 12.8,
+        "own": 21.96
       },
       {
         "slot": "D",
@@ -273,24 +263,34 @@
         "own": 48.41
       },
       {
-        "slot": "UTIL",
-        "id": 42773,
-        "name": "Oliver Bjorkstrand",
-        "team": "NYR",
-        "pos": "W",
-        "salary": 3800,
+        "slot": "D",
+        "id": 205500,
+        "name": "Artem Duda",
+        "team": "UTA",
+        "pos": "D",
+        "salary": 3000,
         "fpts": 1.6,
-        "own": 3.74
+        "own": 1.31
       },
       {
         "slot": "UTIL",
-        "id": 58331,
-        "name": "Leon Draisaitl",
-        "team": "EDM",
+        "id": 142015,
+        "name": "Alexis Lafreniere",
+        "team": "NYR",
         "pos": "W",
-        "salary": 8100,
-        "fpts": 21.3,
-        "own": 32.24
+        "salary": 6200,
+        "fpts": 6.4,
+        "own": 18.41
+      },
+      {
+        "slot": "UTIL",
+        "id": 82120,
+        "name": "Kailer Yamamoto",
+        "team": "UTA",
+        "pos": "W",
+        "salary": 3900,
+        "fpts": 0,
+        "own": 1.12
       },
       {
         "slot": "G",
@@ -306,6 +306,10 @@
     "money": {
       "fee": 4.44,
       "one": {
+        "won": 0,
+        "net": -4.44
+      },
+      "oneDefaults": {
         "won": 0,
         "net": -4.44
       },
@@ -386,34 +390,33 @@
     },
     "paper": {
       "teams": {
-        "EDM": 2,
-        "MIN": 2,
-        "NYR": 2,
-        "ANA": 1,
-        "OTT": 1,
-        "PHI": 1
+        "MIN": 4,
+        "UTA": 2,
+        "EDM": 1,
+        "NYR": 1,
+        "OTT": 1
       },
       "games": {
-        "EDM@NYR": 4,
-        "MIN@WSH": 2,
-        "OTT@ANA": 2,
-        "UTA@PHI": 1
+        "MIN@WSH": 4,
+        "EDM@NYR": 2,
+        "UTA@PHI": 2,
+        "OTT@ANA": 1
       },
       "nGames": 4,
       "lines": {
-        "EDM f1": 2
+        "MIN f1": 3
       },
       "pp": {
-        "EDM pp1": 2
+        "MIN pp1": 3
       },
       "goalie": {
         "team": "MIN",
         "opposing": 0
       },
       "summary": [
-        "EDM 2 · MIN 2 · NYR 2",
-        "EDM f1 ×2",
-        "EDM pp1 ×2",
+        "MIN 4 · UTA 2",
+        "MIN f1 ×3",
+        "MIN pp1 ×3",
         "G MIN",
         "4 games"
       ]

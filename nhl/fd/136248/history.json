@@ -8,7 +8,7 @@
     "label": "$12K Wed NHL Breakaway ($3K to 1st)",
     "entries": 3217
   },
-  "generatedAt": "2026-11-05T14:29:20.874Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": {
     "rank": 1,
     "name": "alexvansoelen (12/20)",
@@ -205,12 +205,12 @@
     "assumedZero": 26
   },
   "paper": {
-    "variant": "defaults",
-    "lineup": 1,
-    "finish": 1409,
-    "pctile": 56.23,
-    "points": 136.5,
-    "salary": 55000,
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 1750,
+    "pctile": 45.45,
+    "points": 118.1,
+    "salary": 54900,
     "players": [
       {
         "slot": "C",
@@ -224,13 +224,23 @@
       },
       {
         "slot": "C",
-        "id": 70924,
-        "name": "Tage Thompson",
-        "team": "BUF",
+        "id": 152882,
+        "name": "Anton Lundell",
+        "team": "FLA",
         "pos": "C",
-        "salary": 8100,
-        "fpts": 11.2,
-        "own": 33.17
+        "salary": 4800,
+        "fpts": 1.6,
+        "own": 5.84
+      },
+      {
+        "slot": "W",
+        "id": 55375,
+        "name": "Sam Reinhart",
+        "team": "FLA",
+        "pos": "W",
+        "salary": 6600,
+        "fpts": 39.2,
+        "own": 24.12
       },
       {
         "slot": "W",
@@ -243,14 +253,14 @@
         "own": 31.99
       },
       {
-        "slot": "W",
-        "id": 250181,
-        "name": "Roman Kantserov",
-        "team": "CHI",
-        "pos": "W",
-        "salary": 4900,
-        "fpts": 16.8,
-        "own": 7.49
+        "slot": "D",
+        "id": 41394,
+        "name": "Seth Jones",
+        "team": "FLA",
+        "pos": "D",
+        "salary": 6300,
+        "fpts": 20,
+        "own": 23.34
       },
       {
         "slot": "D",
@@ -263,34 +273,24 @@
         "own": 41.59
       },
       {
-        "slot": "D",
-        "id": 142019,
-        "name": "Jake Sanderson",
-        "team": "OTT",
-        "pos": "D",
-        "salary": 4800,
-        "fpts": 3.2,
-        "own": 35.06
-      },
-      {
         "slot": "UTIL",
-        "id": 41394,
-        "name": "Seth Jones",
-        "team": "FLA",
-        "pos": "D",
-        "salary": 6300,
-        "fpts": 20,
-        "own": 23.34
-      },
-      {
-        "slot": "UTIL",
-        "id": 55375,
-        "name": "Sam Reinhart",
-        "team": "FLA",
+        "id": 103203,
+        "name": "Joel Farabee",
+        "team": "CGY",
         "pos": "W",
-        "salary": 6600,
-        "fpts": 39.2,
-        "own": 24.12
+        "salary": 6700,
+        "fpts": 8,
+        "own": 7.03
+      },
+      {
+        "slot": "UTIL",
+        "id": 184286,
+        "name": "Matt Coronato",
+        "team": "CGY",
+        "pos": "W",
+        "salary": 6200,
+        "fpts": 3.2,
+        "own": 9.51
       },
       {
         "slot": "G",
@@ -306,6 +306,10 @@
     "money": {
       "fee": 4.44,
       "one": {
+        "won": 0,
+        "net": -4.44
+      },
+      "oneDefaults": {
         "won": 0,
         "net": -4.44
       },
@@ -391,33 +395,34 @@
     },
     "paper": {
       "teams": {
-        "FLA": 3,
-        "BUF": 2,
-        "CGY": 1,
-        "CHI": 1,
-        "LAK": 1,
-        "OTT": 1
+        "FLA": 4,
+        "CGY": 3,
+        "BUF": 1,
+        "LAK": 1
       },
       "games": {
         "CHI@FLA": 4,
-        "OTT@BUF": 3,
-        "CGY@SEA": 1,
+        "CGY@SEA": 3,
+        "OTT@BUF": 1,
         "SJS@LAK": 1
       },
       "nGames": 4,
-      "lines": {},
+      "lines": {
+        "CGY f1": 3
+      },
       "pp": {
         "FLA pp1": 3,
-        "BUF pp1": 2
+        "CGY pp1": 2
       },
       "goalie": {
         "team": "LAK",
         "opposing": 0
       },
       "summary": [
-        "FLA 3 · BUF 2",
+        "FLA 4 · CGY 3",
+        "CGY f1 ×3",
         "FLA pp1 ×3",
-        "BUF pp1 ×2",
+        "CGY pp1 ×2",
         "G LAK",
         "4 games"
       ]

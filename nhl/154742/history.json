@@ -7,7 +7,7 @@
     "label": "NHL $60K Kick Save [$20K to 1st] $15",
     "entries": 4580
   },
-  "generatedAt": "2026-10-29T15:51:41.566Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": null,
   "optimal": {
     "points": 178.8,
@@ -107,13 +107,23 @@
     "assumedZero": 15
   },
   "paper": {
-    "variant": "defaults",
-    "lineup": 1,
-    "finish": 3635,
-    "pctile": 20.46,
-    "points": 52.1,
-    "salary": 49900,
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 3170,
+    "pctile": 30.74,
+    "points": 57.6,
+    "salary": 49800,
     "players": [
+      {
+        "slot": "C",
+        "id": 44495887,
+        "name": "Nick Suzuki",
+        "team": "MTL",
+        "pos": "C",
+        "salary": 6900,
+        "fpts": 13,
+        "own": 38.86
+      },
       {
         "slot": "C",
         "id": 44495901,
@@ -125,34 +135,14 @@
         "own": 17.55
       },
       {
-        "slot": "C",
-        "id": 44495885,
-        "name": "Nathan MacKinnon",
-        "team": "COL",
-        "pos": "C",
-        "salary": 9000,
-        "fpts": 7.3,
-        "own": 55.38
-      },
-      {
         "slot": "W",
-        "id": 44495927,
-        "name": "Cole Caufield",
-        "team": "MTL",
-        "pos": "W",
-        "salary": 7400,
-        "fpts": 0,
-        "own": 36.31
-      },
-      {
-        "slot": "W",
-        "id": 44495941,
-        "name": "Tom Wilson",
+        "id": 44495955,
+        "name": "Jordan Kyrou",
         "team": "WSH",
         "pos": "W",
-        "salary": 5400,
-        "fpts": 10.5,
-        "own": 18.76
+        "salary": 3900,
+        "fpts": 18,
+        "own": 12.36
       },
       {
         "slot": "W",
@@ -165,14 +155,24 @@
         "own": 23.93
       },
       {
+        "slot": "W",
+        "id": 44495959,
+        "name": "Jaden Schwartz",
+        "team": "COL",
+        "pos": "W",
+        "salary": 3500,
+        "fpts": 4.5,
+        "own": 4.67
+      },
+      {
         "slot": "D",
-        "id": 44496003,
-        "name": "Lane Hutson",
-        "team": "MTL",
+        "id": 44495997,
+        "name": "Cale Makar",
+        "team": "COL",
         "pos": "D",
-        "salary": 5600,
-        "fpts": 19.3,
-        "own": 29.76
+        "salary": 7500,
+        "fpts": 4.3,
+        "own": 18.15
       },
       {
         "slot": "D",
@@ -196,13 +196,13 @@
       },
       {
         "slot": "UTIL",
-        "id": 44495959,
-        "name": "Jaden Schwartz",
+        "id": 44495885,
+        "name": "Nathan MacKinnon",
         "team": "COL",
-        "pos": "W",
-        "salary": 3500,
-        "fpts": 4.5,
-        "own": 4.67
+        "pos": "C",
+        "salary": 9000,
+        "fpts": 7.3,
+        "own": 55.38
       }
     ],
     "money": null
@@ -244,33 +244,29 @@
     },
     "paper": {
       "teams": {
-        "COL": 4,
+        "COL": 5,
         "WSH": 3,
-        "MTL": 2
+        "MTL": 1
       },
       "games": {
-        "MTL@WSH": 5,
-        "DAL@COL": 4
+        "DAL@COL": 5,
+        "MTL@WSH": 4
       },
       "nGames": 2,
       "lines": {
         "WSH f4": 2
       },
       "pp": {
-        "COL pp1": 2,
-        "MTL pp1": 2,
-        "WSH pp1": 2
+        "COL pp1": 2
       },
       "goalie": {
         "team": "COL",
         "opposing": 0
       },
       "summary": [
-        "COL 4 · WSH 3 · MTL 2",
+        "COL 5 · WSH 3",
         "WSH f4 ×2",
         "COL pp1 ×2",
-        "MTL pp1 ×2",
-        "WSH pp1 ×2",
         "G COL",
         "2 games"
       ]

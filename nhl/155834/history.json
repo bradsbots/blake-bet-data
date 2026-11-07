@@ -7,7 +7,7 @@
     "label": "NHL $30K Overload [$10K to 1st]",
     "entries": 1764
   },
-  "generatedAt": "2026-11-01T09:40:23.876Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": {
     "rank": 1,
     "name": "ShwayneFlanagan3",
@@ -204,11 +204,11 @@
     "assumedZero": 66
   },
   "paper": {
-    "variant": "defaults",
-    "lineup": 1,
-    "finish": 1090,
-    "pctile": 38.15,
-    "points": 88.9,
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 799,
+    "pctile": 54.71,
+    "points": 98.1,
     "salary": 49900,
     "players": [
       {
@@ -233,13 +233,23 @@
       },
       {
         "slot": "W",
-        "id": 44736540,
-        "name": "Easton Cowan",
+        "id": 44736516,
+        "name": "Jack Roslovic",
         "team": "TOR",
         "pos": "W",
-        "salary": 3800,
-        "fpts": 2.8,
-        "own": 12.3
+        "salary": 5000,
+        "fpts": 6.5,
+        "own": 24.6
+      },
+      {
+        "slot": "W",
+        "id": 44736544,
+        "name": "Gavin McKenna",
+        "team": "TOR",
+        "pos": "W",
+        "salary": 3600,
+        "fpts": 4.5,
+        "own": 36.85
       },
       {
         "slot": "W",
@@ -252,14 +262,14 @@
         "own": 4.53
       },
       {
-        "slot": "W",
-        "id": 44736520,
-        "name": "Joel Farabee",
-        "team": "CGY",
-        "pos": "W",
-        "salary": 4800,
-        "fpts": 15.6,
-        "own": 5.27
+        "slot": "D",
+        "id": 44736772,
+        "name": "Samuel Girard",
+        "team": "PIT",
+        "pos": "D",
+        "salary": 2500,
+        "fpts": 3,
+        "own": 2.83
       },
       {
         "slot": "D",
@@ -272,39 +282,33 @@
         "own": 5.33
       },
       {
-        "slot": "D",
-        "id": 44736684,
-        "name": "Devon Toews",
-        "team": "COL",
-        "pos": "D",
-        "salary": 3800,
-        "fpts": 18.4,
-        "own": 16.15
-      },
-      {
         "slot": "G",
-        "id": 44736805,
-        "name": "Jet Greaves",
-        "team": "CBJ",
+        "id": 44736795,
+        "name": "Anthony Stolarz",
+        "team": "TOR",
         "pos": "G",
-        "salary": 7300,
-        "fpts": 2.8,
-        "own": 6.69
+        "salary": 8000,
+        "fpts": 22.2,
+        "own": 12.87
       },
       {
         "slot": "UTIL",
-        "id": 44736532,
-        "name": "Matvei Gridin",
+        "id": 44736520,
+        "name": "Joel Farabee",
         "team": "CGY",
         "pos": "W",
-        "salary": 4200,
-        "fpts": 3,
-        "own": 4.76
+        "salary": 4800,
+        "fpts": 15.6,
+        "own": 5.27
       }
     ],
     "money": {
       "fee": 20,
       "one": {
+        "won": 0,
+        "net": -20
+      },
+      "oneDefaults": {
         "won": 0,
         "net": -20
       },
@@ -390,30 +394,35 @@
     },
     "paper": {
       "teams": {
-        "CBJ": 3,
-        "CGY": 2,
-        "COL": 2,
-        "TOR": 2
+        "TOR": 4,
+        "CBJ": 2,
+        "CGY": 1,
+        "COL": 1,
+        "PIT": 1
       },
       "games": {
-        "CGY@COL": 4,
-        "CBJ@DAL": 3,
-        "TOR@VAN": 2
+        "TOR@VAN": 4,
+        "CBJ@DAL": 2,
+        "CGY@COL": 2,
+        "PIT@MTL": 1
       },
-      "nGames": 3,
-      "lines": {},
+      "nGames": 4,
+      "lines": {
+        "TOR f1": 3
+      },
       "pp": {
-        "CGY pp1": 2
+        "TOR pp1": 3
       },
       "goalie": {
-        "team": "CBJ",
+        "team": "TOR",
         "opposing": 0
       },
       "summary": [
-        "CBJ 3 · CGY 2 · COL 2 · TOR 2",
-        "CGY pp1 ×2",
-        "G CBJ",
-        "3 games"
+        "TOR 4 · CBJ 2",
+        "TOR f1 ×3",
+        "TOR pp1 ×3",
+        "G TOR",
+        "4 games"
       ]
     }
   }

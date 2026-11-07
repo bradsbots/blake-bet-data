@@ -7,7 +7,7 @@
     "label": "NFL $2.5M Fantasy Football Millionaire [$1M to 1st, $100K Leaderboard Eligible]",
     "entries": 147058
   },
-  "generatedAt": "2026-10-29T15:51:41.566Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": {
     "rank": 1,
     "name": "dfs_ads (15/150)",
@@ -204,12 +204,12 @@
     "assumedZero": 185
   },
   "paper": {
-    "variant": "defaults",
-    "lineup": 1,
-    "finish": 53419,
-    "pctile": 63.64,
-    "points": 120.36,
-    "salary": 50000,
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 100905,
+    "pctile": 31.34,
+    "points": 103.76,
+    "salary": 49800,
     "players": [
       {
         "slot": "QB",
@@ -233,13 +233,13 @@
       },
       {
         "slot": "RB",
-        "id": 44556962,
-        "name": "Kyren Williams",
-        "team": "LAR",
+        "id": 44556952,
+        "name": "Jahmyr Gibbs",
+        "team": "DET",
         "pos": "RB",
-        "salary": 7000,
-        "fpts": 19.1,
-        "own": 18.48
+        "salary": 9800,
+        "fpts": 21.3,
+        "own": 35.39
       },
       {
         "slot": "WR",
@@ -273,13 +273,13 @@
       },
       {
         "slot": "TE",
-        "id": 44557568,
-        "name": "George Kittle",
-        "team": "SF",
+        "id": 44557600,
+        "name": "Cade Otton",
+        "team": "TB",
         "pos": "TE",
-        "salary": 5700,
-        "fpts": 15.8,
-        "own": 25.95
+        "salary": 3100,
+        "fpts": 0,
+        "own": 13.4
       },
       {
         "slot": "FLEX",
@@ -293,18 +293,22 @@
       },
       {
         "slot": "DST",
-        "id": 44557804,
-        "name": "Broncos",
-        "team": "DEN",
+        "id": 44557808,
+        "name": "Jets",
+        "team": "NYJ",
         "pos": "DST",
-        "salary": 3300,
-        "fpts": 4,
-        "own": 3.11
+        "salary": 2900,
+        "fpts": 1,
+        "own": 13.13
       }
     ],
     "money": {
       "fee": 20,
       "one": {
+        "won": 0,
+        "net": -20
+      },
+      "oneDefaults": {
         "won": 0,
         "net": -20
       },
@@ -383,29 +387,30 @@
     },
     "paper": {
       "teams": {
-        "LAR": 3,
         "GB": 2,
-        "SF": 2,
-        "DEN": 1,
-        "TB": 1
+        "LAR": 2,
+        "TB": 2,
+        "DET": 1,
+        "NYJ": 1,
+        "SF": 1
       },
       "games": {
-        "LAR@LV": 3,
-        "GB@DET": 2,
-        "SF@ATL": 2,
-        "DEN@ARI": 1,
-        "TB@CAR": 1
+        "GB@DET": 3,
+        "LAR@LV": 2,
+        "TB@CAR": 2,
+        "MIA@NYJ": 1,
+        "SF@ATL": 1
       },
       "nGames": 5,
       "qb": {
         "team": "GB",
         "catchers": 1,
-        "bringBack": 0
+        "bringBack": 1
       },
       "rbDst": [],
       "summary": [
-        "QB GB + 1",
-        "LAR 3 · GB 2 · SF 2",
+        "QB GB + 1 · bring-back 1",
+        "GB 2 · LAR 2 · TB 2",
         "5 games"
       ]
     }

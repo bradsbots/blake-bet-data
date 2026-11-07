@@ -7,7 +7,7 @@
     "label": "NHL $100K Overload [$20K to 1st]",
     "entries": 5882
   },
-  "generatedAt": "2026-11-04T17:05:01.057Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": {
     "rank": 1,
     "name": "cantfademe (59/150)",
@@ -204,12 +204,12 @@
     "assumedZero": 194
   },
   "paper": {
-    "variant": "defaults",
-    "lineup": 1,
-    "finish": 5803,
-    "pctile": 1.33,
-    "points": 50.5,
-    "salary": 49700,
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 5426,
+    "pctile": 7.77,
+    "points": 67.8,
+    "salary": 49900,
     "players": [
       {
         "slot": "C",
@@ -233,23 +233,23 @@
       },
       {
         "slot": "W",
-        "id": 44766737,
-        "name": "Brandon Hagel",
-        "team": "TBL",
+        "id": 44766727,
+        "name": "Leon Draisaitl",
+        "team": "EDM",
         "pos": "W",
-        "salary": 7700,
-        "fpts": 1.5,
-        "own": 6.63
+        "salary": 8800,
+        "fpts": 14.5,
+        "own": 3.67
       },
       {
         "slot": "W",
-        "id": 44766793,
-        "name": "Artturi Lehkonen",
-        "team": "COL",
+        "id": 44766811,
+        "name": "Vasily Podkolzin",
+        "team": "EDM",
         "pos": "W",
-        "salary": 5800,
-        "fpts": 6,
-        "own": 3.27
+        "salary": 5400,
+        "fpts": 1.5,
+        "own": 0.82
       },
       {
         "slot": "W",
@@ -263,13 +263,13 @@
       },
       {
         "slot": "D",
-        "id": 44767225,
-        "name": "Neal Pionk",
-        "team": "WPG",
+        "id": 44767243,
+        "name": "Devon Toews",
+        "team": "COL",
         "pos": "D",
-        "salary": 4500,
-        "fpts": 5.8,
-        "own": 3.79
+        "salary": 4000,
+        "fpts": 14.6,
+        "own": 3.43
       },
       {
         "slot": "D",
@@ -305,6 +305,10 @@
     "money": {
       "fee": 20,
       "one": {
+        "won": 0,
+        "net": -20
+      },
+      "oneDefaults": {
         "won": 0,
         "net": -20
       },
@@ -392,35 +396,37 @@
     },
     "paper": {
       "teams": {
+        "EDM": 3,
         "CAR": 2,
         "COL": 1,
-        "EDM": 1,
         "NJD": 1,
         "PHI": 1,
-        "TBL": 1,
-        "VAN": 1,
-        "WPG": 1
+        "VAN": 1
       },
       "games": {
+        "EDM@NJD": 4,
         "CAR@NSH": 2,
-        "EDM@NJD": 2,
         "ANA@VAN": 1,
         "COL@CBJ": 1,
-        "DET@TBL": 1,
-        "MIN@PHI": 1,
-        "WPG@MTL": 1
+        "MIN@PHI": 1
       },
-      "nGames": 7,
-      "lines": {},
-      "pp": {},
+      "nGames": 5,
+      "lines": {
+        "EDM f1": 3
+      },
+      "pp": {
+        "EDM pp1": 2
+      },
       "goalie": {
         "team": "PHI",
         "opposing": 0
       },
       "summary": [
-        "CAR 2",
+        "EDM 3 · CAR 2",
+        "EDM f1 ×3",
+        "EDM pp1 ×2",
         "G PHI",
-        "7 games"
+        "5 games"
       ]
     }
   }

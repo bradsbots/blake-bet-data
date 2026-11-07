@@ -7,7 +7,7 @@
     "label": "NHL $30K Overload [$10K to 1st]",
     "entries": 1764
   },
-  "generatedAt": "2026-11-03T09:40:26.108Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": {
     "rank": 1,
     "name": "alltimel0w (8/15)",
@@ -204,23 +204,13 @@
     "assumedZero": 63
   },
   "paper": {
-    "variant": "defaults",
-    "lineup": 1,
-    "finish": 1364,
-    "pctile": 22.68,
-    "points": 57.4,
-    "salary": 50000,
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 1091,
+    "pctile": 37.98,
+    "points": 64.5,
+    "salary": 49800,
     "players": [
-      {
-        "slot": "C",
-        "id": 44749372,
-        "name": "Anton Lundell",
-        "team": "FLA",
-        "pos": "C",
-        "salary": 3900,
-        "fpts": 1.5,
-        "own": 5.84
-      },
       {
         "slot": "C",
         "id": 44749344,
@@ -230,6 +220,16 @@
         "salary": 9500,
         "fpts": 8,
         "own": 33
+      },
+      {
+        "slot": "C",
+        "id": 44749376,
+        "name": "Mikael Backlund",
+        "team": "CGY",
+        "pos": "C",
+        "salary": 3700,
+        "fpts": 8.6,
+        "own": 11.85
       },
       {
         "slot": "W",
@@ -305,6 +305,10 @@
     "money": {
       "fee": 20,
       "one": {
+        "won": 0,
+        "net": -20
+      },
+      "oneDefaults": {
         "won": 0,
         "net": -20
       },
@@ -385,20 +389,20 @@
     },
     "paper": {
       "teams": {
-        "CGY": 3,
+        "CGY": 4,
         "COL": 3,
-        "FLA": 2,
-        "BOS": 1
+        "BOS": 1,
+        "FLA": 1
       },
       "games": {
-        "CGY@SJS": 3,
+        "CGY@SJS": 4,
         "COL@CHI": 3,
-        "DET@FLA": 2,
+        "DET@FLA": 1,
         "VGK@BOS": 1
       },
       "nGames": 4,
       "lines": {
-        "CGY f1": 2,
+        "CGY f1": 3,
         "COL f1": 2
       },
       "pp": {
@@ -410,8 +414,8 @@
         "opposing": 0
       },
       "summary": [
-        "CGY 3 · COL 3 · FLA 2",
-        "CGY f1 ×2",
+        "CGY 4 · COL 3",
+        "CGY f1 ×3",
         "COL f1 ×2",
         "CGY pp1 ×3",
         "COL pp2 ×2",

@@ -7,7 +7,7 @@
     "label": "NHL $100K Kick Save [$25K to 1st] $15",
     "entries": 7843
   },
-  "generatedAt": "2026-10-29T15:51:41.566Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": null,
   "optimal": {
     "points": 257.1,
@@ -107,13 +107,23 @@
     "assumedZero": 192
   },
   "paper": {
-    "variant": "defaults",
-    "lineup": 1,
-    "finish": 1012,
-    "pctile": 87.05,
-    "points": 115,
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 2082,
+    "pctile": 73.43,
+    "points": 102.7,
     "salary": 49900,
     "players": [
+      {
+        "slot": "C",
+        "id": 44478580,
+        "name": "Elias Pettersson",
+        "team": "VAN",
+        "pos": "C",
+        "salary": 5800,
+        "fpts": 8,
+        "own": 1.3
+      },
       {
         "slot": "C",
         "id": 44478546,
@@ -123,16 +133,6 @@
         "salary": 9500,
         "fpts": 29.5,
         "own": 14.18
-      },
-      {
-        "slot": "C",
-        "id": 44478674,
-        "name": "Erik Haula",
-        "team": "LAK",
-        "pos": "C",
-        "salary": 2800,
-        "fpts": 7.3,
-        "own": 2.04
       },
       {
         "slot": "W",
@@ -156,13 +156,13 @@
       },
       {
         "slot": "W",
-        "id": 44478848,
-        "name": "Beckett Sennecke",
-        "team": "ANA",
+        "id": 44478998,
+        "name": "Jonathan Lekkerimaki",
+        "team": "VAN",
         "pos": "W",
-        "salary": 6000,
-        "fpts": 14.5,
-        "own": 16.31
+        "salary": 3000,
+        "fpts": 1.5,
+        "own": 1.06
       },
       {
         "slot": "D",
@@ -244,27 +244,27 @@
     },
     "paper": {
       "teams": {
+        "VAN": 3,
         "EDM": 2,
-        "ANA": 1,
-        "LAK": 1,
         "NYR": 1,
         "SJS": 1,
         "STL": 1,
-        "UTA": 1,
-        "VAN": 1
+        "UTA": 1
       },
       "games": {
-        "EDM@LAK": 3,
+        "VAN@NYI": 3,
+        "EDM@LAK": 2,
         "BOS@SJS": 1,
-        "CGY@ANA": 1,
         "STL@OTT": 1,
         "TBL@NYR": 1,
-        "TOR@UTA": 1,
-        "VAN@NYI": 1
+        "TOR@UTA": 1
       },
-      "nGames": 7,
-      "lines": {},
+      "nGames": 6,
+      "lines": {
+        "VAN f1": 3
+      },
       "pp": {
+        "VAN pp1": 3,
         "EDM pp1": 2
       },
       "goalie": {
@@ -272,10 +272,12 @@
         "opposing": 0
       },
       "summary": [
-        "EDM 2",
+        "VAN 3 · EDM 2",
+        "VAN f1 ×3",
+        "VAN pp1 ×3",
         "EDM pp1 ×2",
         "G STL",
-        "7 games"
+        "6 games"
       ]
     }
   }

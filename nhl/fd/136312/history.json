@@ -8,7 +8,7 @@
     "label": "$12K Fri NHL Breakaway ($3K to 1st)",
     "entries": 3217
   },
-  "generatedAt": "2026-11-07T16:29:12.463Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": {
     "rank": 1,
     "name": "slimcutta601 (35/96)",
@@ -205,11 +205,11 @@
     "assumedZero": 8
   },
   "paper": {
-    "variant": "defaults",
-    "lineup": 1,
-    "finish": 1555,
-    "pctile": 51.48,
-    "points": 142.3,
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 1133,
+    "pctile": 64.59,
+    "points": 151.3,
     "salary": 55000,
     "players": [
       {
@@ -234,6 +234,16 @@
       },
       {
         "slot": "W",
+        "id": 148097,
+        "name": "Matt Boldy",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 7300,
+        "fpts": 19.7,
+        "own": 43.3
+      },
+      {
+        "slot": "W",
         "id": 198700,
         "name": "Cutter Gauthier",
         "team": "ANA",
@@ -243,14 +253,14 @@
         "own": 21.08
       },
       {
-        "slot": "W",
-        "id": 190996,
-        "name": "Zach Benson",
-        "team": "BUF",
-        "pos": "W",
-        "salary": 6300,
-        "fpts": 14.4,
-        "own": 16.38
+        "slot": "D",
+        "id": 101277,
+        "name": "Quinn Hughes",
+        "team": "MIN",
+        "pos": "D",
+        "salary": 6000,
+        "fpts": 32.2,
+        "own": 58.63
       },
       {
         "slot": "D",
@@ -263,49 +273,43 @@
         "own": 4.63
       },
       {
-        "slot": "D",
-        "id": 180226,
-        "name": "Tristan Luneau",
+        "slot": "UTIL",
+        "id": 61549,
+        "name": "Frank Vatrano",
         "team": "ANA",
-        "pos": "D",
-        "salary": 5400,
-        "fpts": 16.8,
-        "own": 3.08
+        "pos": "W",
+        "salary": 3900,
+        "fpts": null,
+        "own": 0
       },
       {
         "slot": "UTIL",
-        "id": 101277,
-        "name": "Quinn Hughes",
-        "team": "MIN",
-        "pos": "D",
-        "salary": 6000,
-        "fpts": 32.2,
-        "own": 58.63
-      },
-      {
-        "slot": "UTIL",
-        "id": 148097,
-        "name": "Matt Boldy",
+        "id": 135875,
+        "name": "Kirill Kaprizov",
         "team": "MIN",
         "pos": "W",
-        "salary": 7300,
-        "fpts": 19.7,
-        "own": 43.3
+        "salary": 8000,
+        "fpts": 43.4,
+        "own": 43.05
       },
       {
         "slot": "G",
-        "id": 170275,
-        "name": "Jesper Wallstedt",
-        "team": "MIN",
+        "id": 97029,
+        "name": "Ukko-Pekka Luukkonen",
+        "team": "BUF",
         "pos": "G",
-        "salary": 7800,
-        "fpts": 26.4,
-        "own": 26.83
+        "salary": 7600,
+        "fpts": 23.2,
+        "own": 18.96
       }
     ],
     "money": {
       "fee": 4.44,
       "one": {
+        "won": 0,
+        "net": -4.44
+      },
+      "oneDefaults": {
         "won": 0,
         "net": -4.44
       },
@@ -396,20 +400,20 @@
       },
       "nGames": 3,
       "lines": {
-        "MIN f1": 2
+        "MIN f1": 3
       },
       "pp": {
-        "MIN pp1": 3
+        "MIN pp1": 4
       },
       "goalie": {
-        "team": "MIN",
+        "team": "BUF",
         "opposing": 0
       },
       "summary": [
         "MIN 4 · ANA 3 · BUF 2",
-        "MIN f1 ×2",
-        "MIN pp1 ×3",
-        "G MIN",
+        "MIN f1 ×3",
+        "MIN pp1 ×4",
+        "G BUF",
         "3 games"
       ]
     }

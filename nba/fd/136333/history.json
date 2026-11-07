@@ -8,7 +8,7 @@
     "label": "$175K Fri NBA Shot ($40K to 1st)",
     "entries": 34722
   },
-  "generatedAt": "2026-11-07T16:29:21.245Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": {
     "rank": 1,
     "name": "ehafner (39/150)",
@@ -306,6 +306,10 @@
     "money": {
       "fee": 6,
       "one": {
+        "won": 0,
+        "net": -6
+      },
+      "oneDefaults": {
         "won": 0,
         "net": -6
       },

@@ -7,7 +7,7 @@
     "label": "NBA $200K Fadeaway [$50K to 1st]",
     "entries": 15659
   },
-  "generatedAt": "2026-10-30T08:40:14.633Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": {
     "rank": 1,
     "name": "saheb747",
@@ -275,6 +275,10 @@
     "money": {
       "fee": 15,
       "one": {
+        "won": 0,
+        "net": -15
+      },
+      "oneDefaults": {
         "won": 0,
         "net": -15
       },

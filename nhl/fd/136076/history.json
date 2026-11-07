@@ -8,7 +8,7 @@
     "label": "$10K Sat NHL Breakaway BOO! ($2K to 1st)",
     "entries": 2651
   },
-  "generatedAt": "2026-11-03T22:29:12.530Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": {
     "rank": 1,
     "name": "lmfaoyourface (57/80)",
@@ -205,12 +205,12 @@
     "assumedZero": 22
   },
   "paper": {
-    "variant": "defaults",
-    "lineup": 1,
-    "finish": 1500,
-    "pctile": 43.19,
-    "points": 136.5,
-    "salary": 54800,
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 1026,
+    "pctile": 61.22,
+    "points": 154.1,
+    "salary": 54900,
     "players": [
       {
         "slot": "C",
@@ -234,33 +234,23 @@
       },
       {
         "slot": "W",
-        "id": 204499,
-        "name": "Matvei Gridin",
+        "id": 103203,
+        "name": "Joel Farabee",
         "team": "CGY",
         "pos": "W",
-        "salary": 5800,
-        "fpts": 3.2,
-        "own": 2.57
+        "salary": 6400,
+        "fpts": 20,
+        "own": 3.92
       },
       {
         "slot": "W",
-        "id": 8640,
-        "name": "David Perron",
-        "team": "DAL",
+        "id": 184286,
+        "name": "Matt Coronato",
+        "team": "CGY",
         "pos": "W",
-        "salary": 3000,
-        "fpts": 0,
-        "own": 2.07
-      },
-      {
-        "slot": "D",
-        "id": 70199,
-        "name": "Devon Toews",
-        "team": "COL",
-        "pos": "D",
-        "salary": 5200,
-        "fpts": 22.4,
-        "own": 7.47
+        "salary": 5900,
+        "fpts": 3.2,
+        "own": 4.49
       },
       {
         "slot": "D",
@@ -273,24 +263,34 @@
         "own": 5.51
       },
       {
-        "slot": "UTIL",
-        "id": 103203,
-        "name": "Joel Farabee",
-        "team": "CGY",
-        "pos": "W",
-        "salary": 6400,
-        "fpts": 20,
-        "own": 3.92
+        "slot": "D",
+        "id": 70169,
+        "name": "Troy Stecher",
+        "team": "TOR",
+        "pos": "D",
+        "salary": 4200,
+        "fpts": 4.8,
+        "own": 2.38
       },
       {
         "slot": "UTIL",
-        "id": 184286,
-        "name": "Matt Coronato",
+        "id": 9189,
+        "name": "Mikael Backlund",
         "team": "CGY",
-        "pos": "W",
-        "salary": 5900,
-        "fpts": 3.2,
-        "own": 4.49
+        "pos": "C",
+        "salary": 4700,
+        "fpts": 16,
+        "own": 1.85
+      },
+      {
+        "slot": "UTIL",
+        "id": 70199,
+        "name": "Devon Toews",
+        "team": "COL",
+        "pos": "D",
+        "salary": 5200,
+        "fpts": 22.4,
+        "own": 7.47
       },
       {
         "slot": "G",
@@ -306,6 +306,10 @@
     "money": {
       "fee": 4.44,
       "one": {
+        "won": 0,
+        "net": -4.44
+      },
+      "oneDefaults": {
         "won": 0,
         "net": -4.44
       },
@@ -391,30 +395,30 @@
     "paper": {
       "teams": {
         "CGY": 3,
-        "DAL": 3,
         "COL": 2,
-        "TOR": 1
+        "DAL": 2,
+        "TOR": 2
       },
       "games": {
         "CGY@COL": 5,
-        "CBJ@DAL": 3,
-        "TOR@VAN": 1
+        "CBJ@DAL": 2,
+        "TOR@VAN": 2
       },
       "nGames": 3,
       "lines": {
-        "CGY f1": 2
+        "CGY f1": 3
       },
       "pp": {
-        "CGY pp1": 3
+        "CGY pp1": 2
       },
       "goalie": {
         "team": "DAL",
         "opposing": 0
       },
       "summary": [
-        "CGY 3 · DAL 3 · COL 2",
-        "CGY f1 ×2",
-        "CGY pp1 ×3",
+        "CGY 3 · COL 2 · DAL 2 · TOR 2",
+        "CGY f1 ×3",
+        "CGY pp1 ×2",
         "G DAL",
         "3 games"
       ]

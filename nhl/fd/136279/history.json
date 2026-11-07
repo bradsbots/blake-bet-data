@@ -8,7 +8,7 @@
     "label": "$12K Thu NHL Breakaway ($3K to 1st)",
     "entries": 3217
   },
-  "generatedAt": "2026-11-06T22:29:18.635Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": {
     "rank": 1,
     "name": "sicktight (31/96)",
@@ -205,22 +205,22 @@
     "assumedZero": 103
   },
   "paper": {
-    "variant": "defaults",
-    "lineup": 1,
-    "finish": 576,
-    "pctile": 81.97,
-    "points": 184.4,
-    "salary": 54800,
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 601,
+    "pctile": 81.22,
+    "points": 183.2,
+    "salary": 55000,
     "players": [
       {
         "slot": "C",
-        "id": 82006,
-        "name": "Nick Suzuki",
-        "team": "MTL",
+        "id": 111493,
+        "name": "Jack Hughes",
+        "team": "NJD",
         "pos": "C",
-        "salary": 3000,
-        "fpts": 34.9,
-        "own": 47.12
+        "salary": 7700,
+        "fpts": 25.6,
+        "own": 9.54
       },
       {
         "slot": "C",
@@ -234,33 +234,33 @@
       },
       {
         "slot": "W",
-        "id": 39253,
-        "name": "Filip Forsberg",
-        "team": "NSH",
+        "id": 80369,
+        "name": "Jesper Bratt",
+        "team": "NJD",
         "pos": "W",
-        "salary": 6700,
-        "fpts": 4.8,
-        "own": 2.21
+        "salary": 5500,
+        "fpts": 23.2,
+        "own": 5.91
       },
       {
         "slot": "W",
-        "id": 58331,
-        "name": "Leon Draisaitl",
-        "team": "EDM",
+        "id": 228755,
+        "name": "Arseniy Gritsyuk",
+        "team": "NJD",
         "pos": "W",
-        "salary": 8200,
-        "fpts": 33.2,
-        "own": 29.5
+        "salary": 5300,
+        "fpts": 4.8,
+        "own": 3.7
       },
       {
         "slot": "D",
-        "id": 113270,
-        "name": "Philip Broberg",
-        "team": "STL",
+        "id": 12262,
+        "name": "Roman Josi",
+        "team": "NSH",
         "pos": "D",
-        "salary": 5100,
-        "fpts": 26.9,
-        "own": 2.18
+        "salary": 6300,
+        "fpts": 11.7,
+        "own": 4.38
       },
       {
         "slot": "D",
@@ -284,13 +284,13 @@
       },
       {
         "slot": "UTIL",
-        "id": 68644,
-        "name": "Mark Jankowski",
-        "team": "CAR",
+        "id": 82006,
+        "name": "Nick Suzuki",
+        "team": "MTL",
         "pos": "C",
-        "salary": 4600,
-        "fpts": 1.6,
-        "own": 0.4
+        "salary": 3000,
+        "fpts": 34.9,
+        "own": 47.12
       },
       {
         "slot": "G",
@@ -306,6 +306,10 @@
     "money": {
       "fee": 4.44,
       "one": {
+        "won": 8,
+        "net": 3.56
+      },
+      "oneDefaults": {
         "won": 8,
         "net": 3.56
       },
@@ -389,39 +393,38 @@
     },
     "paper": {
       "teams": {
-        "EDM": 2,
-        "CAR": 1,
+        "NJD": 3,
+        "EDM": 1,
         "MTL": 1,
         "NSH": 1,
         "NYI": 1,
         "PHI": 1,
-        "STL": 1,
         "WPG": 1
       },
       "games": {
-        "ANA@EDM": 2,
-        "CAR@NYI": 2,
+        "STL@NJD": 3,
+        "ANA@EDM": 1,
+        "CAR@NYI": 1,
         "NSH@COL": 1,
         "PHI@NYR": 1,
-        "STL@NJD": 1,
         "UTA@MTL": 1,
         "VAN@WPG": 1
       },
       "nGames": 7,
       "lines": {
-        "EDM f1": 2
+        "NJD f2": 3
       },
       "pp": {
-        "EDM pp1": 2
+        "NJD pp1": 2
       },
       "goalie": {
         "team": "WPG",
         "opposing": 0
       },
       "summary": [
-        "EDM 2",
-        "EDM f1 ×2",
-        "EDM pp1 ×2",
+        "NJD 3",
+        "NJD f2 ×3",
+        "NJD pp1 ×2",
         "G WPG",
         "7 games"
       ]

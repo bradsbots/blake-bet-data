@@ -7,7 +7,7 @@
     "label": "NFL $2.5M Fantasy Football Millionaire [$1M to 1st, $50K Crown Cash Throne Eligible]",
     "entries": 147058
   },
-  "generatedAt": "2026-11-02T09:40:28.659Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": {
     "rank": 1,
     "name": "Hebrewcheetah (88/150)",
@@ -204,11 +204,11 @@
     "assumedZero": 227
   },
   "paper": {
-    "variant": "defaults",
-    "lineup": 1,
-    "finish": 64587,
-    "pctile": 56.02,
-    "points": 123.8,
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 18251,
+    "pctile": 87.57,
+    "points": 155,
     "salary": 50000,
     "players": [
       {
@@ -263,26 +263,6 @@
       },
       {
         "slot": "WR",
-        "id": 44664725,
-        "name": "Zay Flowers",
-        "team": "BAL",
-        "pos": "WR",
-        "salary": 7200,
-        "fpts": 0,
-        "own": 36.99
-      },
-      {
-        "slot": "TE",
-        "id": 44665141,
-        "name": "Hunter Henry",
-        "team": "NE",
-        "pos": "TE",
-        "salary": 4300,
-        "fpts": 6,
-        "own": 20.57
-      },
-      {
-        "slot": "FLEX",
         "id": 44664799,
         "name": "Wan'Dale Robinson",
         "team": "TEN",
@@ -292,19 +272,43 @@
         "own": 15.56
       },
       {
+        "slot": "TE",
+        "id": 44665127,
+        "name": "Trey McBride",
+        "team": "ARI",
+        "pos": "TE",
+        "salary": 7400,
+        "fpts": 20.2,
+        "own": 16.22
+      },
+      {
+        "slot": "FLEX",
+        "id": 44665171,
+        "name": "Colby Parkinson",
+        "team": "LAR",
+        "pos": "TE",
+        "salary": 3100,
+        "fpts": 0,
+        "own": 0.13
+      },
+      {
         "slot": "DST",
-        "id": 44665396,
-        "name": "Broncos",
-        "team": "DEN",
+        "id": 44665384,
+        "name": "Steelers",
+        "team": "PIT",
         "pos": "DST",
-        "salary": 2300,
-        "fpts": 2,
-        "own": 20.35
+        "salary": 3300,
+        "fpts": 19,
+        "own": 11.22
       }
     ],
     "money": {
       "fee": 20,
       "one": {
+        "won": 30,
+        "net": 10
+      },
+      "oneDefaults": {
         "won": 0,
         "net": -20
       },
@@ -383,33 +387,33 @@
     "paper": {
       "teams": {
         "DAL": 2,
-        "DEN": 2,
-        "NE": 2,
-        "BAL": 1,
+        "ARI": 1,
         "CIN": 1,
+        "DEN": 1,
+        "LAR": 1,
+        "NE": 1,
+        "PIT": 1,
         "TEN": 1
       },
       "games": {
-        "ARI@DAL": 2,
-        "KC@DEN": 2,
-        "NE@MIA": 2,
+        "ARI@DAL": 3,
         "TEN@CIN": 2,
-        "BAL@BUF": 1
+        "CLE@PIT": 1,
+        "KC@DEN": 1,
+        "LAC@LAR": 1,
+        "NE@MIA": 1
       },
-      "nGames": 5,
+      "nGames": 6,
       "qb": {
         "team": "DAL",
         "catchers": 1,
-        "bringBack": 0
+        "bringBack": 1
       },
-      "rbDst": [
-        "DEN"
-      ],
+      "rbDst": [],
       "summary": [
-        "QB DAL + 1",
-        "RB+DST DEN",
-        "DAL 2 · DEN 2 · NE 2",
-        "5 games"
+        "QB DAL + 1 · bring-back 1",
+        "DAL 2",
+        "6 games"
       ]
     }
   }

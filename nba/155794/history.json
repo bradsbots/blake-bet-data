@@ -7,7 +7,7 @@
     "label": "NBA $333K Zone Special [$100K to 1st]",
     "entries": 79270
   },
-  "generatedAt": "2026-10-29T15:51:41.566Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": {
     "rank": 1,
     "name": "phd_aggie (118/150)",
@@ -275,6 +275,10 @@
     "money": {
       "fee": 5,
       "one": {
+        "won": 0,
+        "net": -5
+      },
+      "oneDefaults": {
         "won": 0,
         "net": -5
       },

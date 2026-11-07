@@ -7,7 +7,7 @@
     "label": "NHL $40K Overload [$10K to 1st]",
     "entries": 2352
   },
-  "generatedAt": "2026-11-06T09:40:21.115Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": {
     "rank": 1,
     "name": "ArtfulPossum (19/24)",
@@ -204,11 +204,11 @@
     "assumedZero": 209
   },
   "paper": {
-    "variant": "defaults",
-    "lineup": 1,
-    "finish": 560,
-    "pctile": 76.11,
-    "points": 117.1,
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 1830,
+    "pctile": 22.11,
+    "points": 72.6,
     "salary": 50000,
     "players": [
       {
@@ -223,23 +223,23 @@
       },
       {
         "slot": "C",
-        "id": 44796376,
-        "name": "Mark Jankowski",
-        "team": "CAR",
+        "id": 44796334,
+        "name": "Roope Hintz",
+        "team": "DAL",
         "pos": "C",
-        "salary": 3300,
-        "fpts": 1.5,
-        "own": 2.51
+        "salary": 4800,
+        "fpts": 0,
+        "own": 6.08
       },
       {
         "slot": "W",
-        "id": 44796604,
-        "name": "Logan Cooley",
-        "team": "UTA",
+        "id": 44796538,
+        "name": "Jason Robertson",
+        "team": "DAL",
         "pos": "W",
-        "salary": 5100,
-        "fpts": 41,
-        "own": 4.55
+        "salary": 7200,
+        "fpts": 4.5,
+        "own": 6
       },
       {
         "slot": "W",
@@ -263,16 +263,6 @@
       },
       {
         "slot": "D",
-        "id": 44796984,
-        "name": "Matthew Schaefer",
-        "team": "NYI",
-        "pos": "D",
-        "salary": 6900,
-        "fpts": 8,
-        "own": 1.74
-      },
-      {
-        "slot": "D",
         "id": 44797004,
         "name": "Adam Fox",
         "team": "NYR",
@@ -280,6 +270,16 @@
         "salary": 5300,
         "fpts": 18.4,
         "own": 5.1
+      },
+      {
+        "slot": "D",
+        "id": 44797030,
+        "name": "Sean Walker",
+        "team": "CAR",
+        "pos": "D",
+        "salary": 4200,
+        "fpts": 5.6,
+        "own": 1.53
       },
       {
         "slot": "G",
@@ -293,18 +293,22 @@
       },
       {
         "slot": "UTIL",
-        "id": 44797030,
-        "name": "Sean Walker",
+        "id": 44796376,
+        "name": "Mark Jankowski",
         "team": "CAR",
-        "pos": "D",
-        "salary": 4200,
-        "fpts": 5.6,
-        "own": 1.53
+        "pos": "C",
+        "salary": 3300,
+        "fpts": 1.5,
+        "own": 2.51
       }
     ],
     "money": {
       "fee": 20,
       "one": {
+        "won": 0,
+        "net": -20
+      },
+      "oneDefaults": {
         "won": 0,
         "net": -20
       },
@@ -384,33 +388,36 @@
     },
     "paper": {
       "teams": {
+        "DAL": 3,
         "CAR": 2,
         "NJD": 2,
-        "DAL": 1,
         "NSH": 1,
-        "NYI": 1,
-        "NYR": 1,
-        "UTA": 1
+        "NYR": 1
       },
       "games": {
-        "CAR@NYI": 3,
+        "DAL@CBJ": 3,
+        "CAR@NYI": 2,
         "STL@NJD": 2,
-        "DAL@CBJ": 1,
         "NSH@COL": 1,
-        "PHI@NYR": 1,
-        "UTA@MTL": 1
+        "PHI@NYR": 1
       },
-      "nGames": 6,
-      "lines": {},
-      "pp": {},
+      "nGames": 5,
+      "lines": {
+        "DAL f2": 3
+      },
+      "pp": {
+        "DAL pp1": 2
+      },
       "goalie": {
         "team": "NJD",
         "opposing": 0
       },
       "summary": [
-        "CAR 2 · NJD 2",
+        "DAL 3 · CAR 2 · NJD 2",
+        "DAL f2 ×3",
+        "DAL pp1 ×2",
         "G NJD",
-        "6 games"
+        "5 games"
       ]
     }
   }

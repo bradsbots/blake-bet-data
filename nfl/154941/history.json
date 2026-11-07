@@ -7,7 +7,7 @@
     "label": "NFL $2.75M Fantasy Football Millionaire [$1M to 1st, $100K Leaderboard Eligible]",
     "entries": 158904
   },
-  "generatedAt": "2026-10-29T15:51:41.566Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": {
     "rank": 1,
     "name": "CMACXIMUS (2/17)",
@@ -204,12 +204,12 @@
     "assumedZero": 187
   },
   "paper": {
-    "variant": "defaults",
-    "lineup": 1,
-    "finish": 39521,
-    "pctile": 75.1,
-    "points": 138.68,
-    "salary": 50000,
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 69960,
+    "pctile": 55.93,
+    "points": 127.28,
+    "salary": 49900,
     "players": [
       {
         "slot": "QB",
@@ -223,23 +223,23 @@
       },
       {
         "slot": "RB",
-        "id": 44475756,
-        "name": "Chuba Hubbard",
-        "team": "CAR",
+        "id": 44475736,
+        "name": "Bijan Robinson",
+        "team": "ATL",
         "pos": "RB",
-        "salary": 6300,
-        "fpts": 22.1,
-        "own": 18.23
+        "salary": 8700,
+        "fpts": 7.3,
+        "own": 24.26
       },
       {
         "slot": "RB",
-        "id": 44475748,
-        "name": "Kyren Williams",
-        "team": "LAR",
+        "id": 44475806,
+        "name": "Tyler Allgeier",
+        "team": "ARI",
         "pos": "RB",
-        "salary": 6800,
-        "fpts": 9.7,
-        "own": 25.12
+        "salary": 4800,
+        "fpts": 5.8,
+        "own": 12.4
       },
       {
         "slot": "WR",
@@ -283,13 +283,13 @@
       },
       {
         "slot": "FLEX",
-        "id": 44476382,
-        "name": "Tyler Higbee",
-        "team": "LAR",
+        "id": 44476394,
+        "name": "Darnell Washington",
+        "team": "PIT",
         "pos": "TE",
-        "salary": 3400,
-        "fpts": 5.2,
-        "own": 14.85
+        "salary": 2900,
+        "fpts": 12.5,
+        "own": 2.8
       },
       {
         "slot": "DST",
@@ -305,6 +305,10 @@
     "money": {
       "fee": 20,
       "one": {
+        "won": 0,
+        "net": -20
+      },
+      "oneDefaults": {
         "won": 0,
         "net": -20
       },
@@ -378,32 +382,31 @@
     },
     "paper": {
       "teams": {
-        "LAR": 4,
-        "ATL": 1,
+        "ATL": 2,
+        "LAR": 2,
+        "PIT": 2,
+        "ARI": 1,
         "BAL": 1,
-        "CAR": 1,
-        "NYG": 1,
-        "PIT": 1
+        "NYG": 1
       },
       "games": {
-        "ARI@LAR": 4,
+        "ARI@LAR": 3,
+        "CHI@ATL": 2,
+        "PIT@TB": 2,
         "BAL@CLE": 1,
-        "CAR@PHI": 1,
-        "CHI@ATL": 1,
-        "NO@NYG": 1,
-        "PIT@TB": 1
+        "NO@NYG": 1
       },
-      "nGames": 6,
+      "nGames": 5,
       "qb": {
         "team": "LAR",
-        "catchers": 2,
-        "bringBack": 0
+        "catchers": 1,
+        "bringBack": 1
       },
       "rbDst": [],
       "summary": [
-        "QB LAR + 2",
-        "LAR 4",
-        "6 games"
+        "QB LAR + 1 · bring-back 1",
+        "ATL 2 · LAR 2 · PIT 2",
+        "5 games"
       ]
     }
   }

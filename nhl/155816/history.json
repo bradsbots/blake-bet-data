@@ -7,7 +7,7 @@
     "label": "NHL $40K Overload [$10K to 1st]",
     "entries": 2352
   },
-  "generatedAt": "2026-10-30T08:40:24.420Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": {
     "rank": 1,
     "name": "pujolsjunkie (43/50)",
@@ -204,12 +204,12 @@
     "assumedZero": 230
   },
   "paper": {
-    "variant": "defaults",
-    "lineup": 1,
-    "finish": 1457,
-    "pctile": 38.01,
-    "points": 89.9,
-    "salary": 50000,
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 690,
+    "pctile": 70.71,
+    "points": 116.6,
+    "salary": 49700,
     "players": [
       {
         "slot": "C",
@@ -223,13 +223,13 @@
       },
       {
         "slot": "C",
-        "id": 44703089,
-        "name": "Mason McTavish",
-        "team": "STL",
+        "id": 44703117,
+        "name": "Elias Lindholm",
+        "team": "BOS",
         "pos": "C",
-        "salary": 4100,
-        "fpts": 11.8,
-        "own": 3.23
+        "salary": 3200,
+        "fpts": 1.5,
+        "own": 1.87
       },
       {
         "slot": "W",
@@ -273,13 +273,13 @@
       },
       {
         "slot": "D",
-        "id": 44703731,
-        "name": "Brandt Clarke",
-        "team": "LAK",
+        "id": 44703711,
+        "name": "Matthew Schaefer",
+        "team": "NYI",
         "pos": "D",
-        "salary": 5700,
-        "fpts": 5,
-        "own": 2.63
+        "salary": 7000,
+        "fpts": 39.6,
+        "own": 3.53
       },
       {
         "slot": "G",
@@ -293,18 +293,22 @@
       },
       {
         "slot": "UTIL",
-        "id": 44703113,
-        "name": "Fraser Minten",
+        "id": 44703495,
+        "name": "Casey Mittelstadt",
         "team": "BOS",
-        "pos": "C",
-        "salary": 3300,
-        "fpts": 2.6,
-        "own": 1.41
+        "pos": "W",
+        "salary": 2600,
+        "fpts": 5,
+        "own": 0.17
       }
     ],
     "money": {
       "fee": 20,
       "one": {
+        "won": 0,
+        "net": -20
+      },
+      "oneDefaults": {
         "won": 0,
         "net": -20
       },
@@ -391,26 +395,26 @@
     },
     "paper": {
       "teams": {
-        "BOS": 2,
+        "BOS": 3,
         "CHI": 1,
-        "LAK": 1,
         "MIN": 1,
         "NSH": 1,
-        "STL": 1,
+        "NYI": 1,
         "TBL": 1,
         "UTA": 1
       },
       "games": {
         "BOS@STL": 3,
+        "NYI@MIN": 2,
         "CHI@DET": 1,
-        "NYI@MIN": 1,
-        "OTT@LAK": 1,
         "UTA@PIT": 1,
         "WPG@TBL": 1,
         "WSH@NSH": 1
       },
-      "nGames": 7,
-      "lines": {},
+      "nGames": 6,
+      "lines": {
+        "BOS f3": 3
+      },
       "pp": {
         "BOS pp2": 2
       },
@@ -419,10 +423,11 @@
         "opposing": 0
       },
       "summary": [
-        "BOS 2",
+        "BOS 3",
+        "BOS f3 ×3",
         "BOS pp2 ×2",
         "G CHI",
-        "7 games"
+        "6 games"
       ]
     }
   }

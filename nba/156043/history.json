@@ -7,7 +7,7 @@
     "label": "NBA $80K Fadeaway [$20K to 1st]",
     "entries": 4617
   },
-  "generatedAt": "2026-11-02T09:40:13.732Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": {
     "rank": 1,
     "name": "metalsturm",
@@ -275,6 +275,10 @@
     "money": {
       "fee": 18,
       "one": {
+        "won": 50,
+        "net": 32
+      },
+      "oneDefaults": {
         "won": 50,
         "net": 32
       },

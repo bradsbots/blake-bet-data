@@ -7,7 +7,7 @@
     "label": "NHL $35K Overload [$10K to 1st]",
     "entries": 2058
   },
-  "generatedAt": "2026-11-05T09:40:27.589Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": {
     "rank": 1,
     "name": "ShwayneFlanagan3 (21/21)",
@@ -204,12 +204,12 @@
     "assumedZero": 78
   },
   "paper": {
-    "variant": "defaults",
-    "lineup": 1,
-    "finish": 1227,
-    "pctile": 40.38,
-    "points": 76.3,
-    "salary": 49800,
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 1360,
+    "pctile": 33.72,
+    "points": 71.1,
+    "salary": 49700,
     "players": [
       {
         "slot": "C",
@@ -223,23 +223,13 @@
       },
       {
         "slot": "C",
-        "id": 44781617,
-        "name": "Martin Pospisil",
+        "id": 44781593,
+        "name": "Mikael Backlund",
         "team": "CGY",
         "pos": "C",
-        "salary": 2800,
+        "salary": 4000,
         "fpts": 1.5,
-        "own": 1.65
-      },
-      {
-        "slot": "W",
-        "id": 44781657,
-        "name": "Tage Thompson",
-        "team": "BUF",
-        "pos": "W",
-        "salary": 8100,
-        "fpts": 8,
-        "own": 27.21
+        "own": 9.96
       },
       {
         "slot": "W",
@@ -250,6 +240,16 @@
         "salary": 7700,
         "fpts": 11,
         "own": 27.6
+      },
+      {
+        "slot": "W",
+        "id": 44781677,
+        "name": "Jack Quinn",
+        "team": "BUF",
+        "pos": "W",
+        "salary": 5600,
+        "fpts": 2.8,
+        "own": 15.5
       },
       {
         "slot": "W",
@@ -273,13 +273,13 @@
       },
       {
         "slot": "D",
-        "id": 44781863,
-        "name": "Olen Zellweger",
-        "team": "BUF",
+        "id": 44802684,
+        "name": "Eric Pohlkamp",
+        "team": "SJS",
         "pos": "D",
-        "salary": 3600,
-        "fpts": 2.8,
-        "own": 3.16
+        "salary": 2500,
+        "fpts": 5.8,
+        "own": 0.34
       },
       {
         "slot": "G",
@@ -293,18 +293,22 @@
       },
       {
         "slot": "UTIL",
-        "id": 44802684,
-        "name": "Eric Pohlkamp",
-        "team": "SJS",
-        "pos": "D",
-        "salary": 2500,
-        "fpts": 5.8,
-        "own": 0.34
+        "id": 44781691,
+        "name": "Matt Coronato",
+        "team": "CGY",
+        "pos": "W",
+        "salary": 4800,
+        "fpts": 2.8,
+        "own": 15.79
       }
     ],
     "money": {
       "fee": 20,
       "one": {
+        "won": 0,
+        "net": -20
+      },
+      "oneDefaults": {
         "won": 0,
         "net": -20
       },
@@ -392,29 +396,34 @@
     },
     "paper": {
       "teams": {
+        "CGY": 3,
         "FLA": 3,
-        "BUF": 2,
-        "CGY": 2,
-        "SJS": 2
+        "SJS": 2,
+        "BUF": 1
       },
       "games": {
+        "CGY@SEA": 3,
         "CHI@FLA": 3,
-        "CGY@SEA": 2,
-        "OTT@BUF": 2,
-        "SJS@LAK": 2
+        "SJS@LAK": 2,
+        "OTT@BUF": 1
       },
       "nGames": 4,
-      "lines": {},
+      "lines": {
+        "CGY f1": 3
+      },
       "pp": {
-        "FLA pp1": 3
+        "FLA pp1": 3,
+        "CGY pp1": 2
       },
       "goalie": {
         "team": "SJS",
         "opposing": 0
       },
       "summary": [
-        "FLA 3 · BUF 2 · CGY 2 · SJS 2",
+        "CGY 3 · FLA 3 · SJS 2",
+        "CGY f1 ×3",
         "FLA pp1 ×3",
+        "CGY pp1 ×2",
         "G SJS",
         "4 games"
       ]

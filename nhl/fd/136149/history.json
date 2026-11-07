@@ -8,7 +8,7 @@
     "label": "$10K Mon NHL Breakaway ($2K to 1st)",
     "entries": 2681
   },
-  "generatedAt": "2026-11-03T22:29:38.060Z",
+  "generatedAt": "2026-11-07T19:40:24.230Z",
   "winner": {
     "rank": 1,
     "name": "kingsofleon33 (56/80)",
@@ -205,13 +205,23 @@
     "assumedZero": 24
   },
   "paper": {
-    "variant": "defaults",
-    "lineup": 1,
-    "finish": 1913,
-    "pctile": 28.46,
-    "points": 81.3,
-    "salary": 54900,
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 2128,
+    "pctile": 20.29,
+    "points": 75.7,
+    "salary": 54500,
     "players": [
+      {
+        "slot": "C",
+        "id": 9189,
+        "name": "Mikael Backlund",
+        "team": "CGY",
+        "pos": "C",
+        "salary": 4800,
+        "fpts": 9.6,
+        "own": 8.28
+      },
       {
         "slot": "C",
         "id": 41391,
@@ -223,24 +233,14 @@
         "own": 45.99
       },
       {
-        "slot": "C",
-        "id": 152882,
-        "name": "Anton Lundell",
-        "team": "FLA",
-        "pos": "C",
-        "salary": 4900,
-        "fpts": 1.6,
-        "own": 8.36
-      },
-      {
         "slot": "W",
-        "id": 55375,
-        "name": "Sam Reinhart",
-        "team": "FLA",
+        "id": 184286,
+        "name": "Matt Coronato",
+        "team": "CGY",
         "pos": "W",
-        "salary": 6400,
-        "fpts": 16.8,
-        "own": 17.42
+        "salary": 6100,
+        "fpts": 3.2,
+        "own": 12.76
       },
       {
         "slot": "W",
@@ -306,6 +306,10 @@
     "money": {
       "fee": 4.44,
       "one": {
+        "won": 0,
+        "net": -4.44
+      },
+      "oneDefaults": {
         "won": 0,
         "net": -4.44
       },
@@ -391,30 +395,35 @@
     },
     "paper": {
       "teams": {
-        "FLA": 4,
-        "CGY": 2,
+        "CGY": 4,
+        "FLA": 2,
         "BOS": 1,
         "CHI": 1,
         "COL": 1
       },
       "games": {
-        "DET@FLA": 4,
-        "CGY@SJS": 2,
+        "CGY@SJS": 4,
         "COL@CHI": 2,
+        "DET@FLA": 2,
         "VGK@BOS": 1
       },
       "nGames": 4,
-      "lines": {},
+      "lines": {
+        "CGY f1": 3
+      },
       "pp": {
-        "FLA pp1": 3
+        "CGY pp1": 2,
+        "FLA pp1": 2
       },
       "goalie": {
         "team": "CGY",
         "opposing": 0
       },
       "summary": [
-        "FLA 4 · CGY 2",
-        "FLA pp1 ×3",
+        "CGY 4 · FLA 2",
+        "CGY f1 ×3",
+        "CGY pp1 ×2",
+        "FLA pp1 ×2",
         "G CGY",
         "4 games"
       ]
