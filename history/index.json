@@ -17,6 +17,23 @@
   },
   {
     "sport": "nhl",
+    "site": "fd",
+    "slate": "136312",
+    "date": "2026-11-06",
+    "label": "$12K Fri NHL Breakaway ($3K to 1st)",
+    "contestId": 281426867,
+    "entries": 3217,
+    "winnerPoints": 219.5,
+    "optimalPoints": 256.8,
+    "paperPoints": 142.3,
+    "paperPctile": 51.48,
+    "paperNet1": -4.44,
+    "portfolioNet": -26.64,
+    "portfolioCashed": 0,
+    "portfolioN": 6
+  },
+  {
+    "sport": "nhl",
     "slate": "156254",
     "date": "2026-11-06",
     "label": "NHL $35K Overload [$10K to 1st]",
