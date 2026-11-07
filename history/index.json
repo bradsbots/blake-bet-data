@@ -1,6 +1,23 @@
 [
   {
     "sport": "nba",
+    "site": "fd",
+    "slate": "136333",
+    "date": "2026-11-06",
+    "label": "$175K Fri NBA Shot ($40K to 1st)",
+    "contestId": 281428632,
+    "entries": 34722,
+    "winnerPoints": 425.2,
+    "optimalPoints": 439.8,
+    "paperPoints": 323.4,
+    "paperPctile": 52.76,
+    "paperNet1": -6,
+    "portfolioNet": -18,
+    "portfolioCashed": 0,
+    "portfolioN": 3
+  },
+  {
+    "sport": "nba",
     "slate": "156184",
     "date": "2026-11-06",
     "label": "NBA $300K Friday 8's [$100K to 1st]",
