@@ -2,6 +2,50 @@
  "sport": "nba",
  "slates": [
   {
+   "slate": "156184",
+   "date": "2026-11-06",
+   "label": "NBA $300K Friday 8's [$100K to 1st]",
+   "entries": 44117,
+   "source": "live",
+   "model": "v1",
+   "predictedAt": "2026-11-06T23:45:41+00:00",
+   "lockAt": "2026-11-07T00:00:00+00:00",
+   "minutesBeforeLock": 14,
+   "n": 204,
+   "mae": 2.33,
+   "mae5": 6.294,
+   "spearman": 0.9246,
+   "top10": 0.6,
+   "chalk": {
+    "n": 14,
+    "caught": 9
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Alexandre Sarr",
+     "pos": "ALL",
+     "team": "WAS",
+     "pred": 1.94,
+     "actual": 35.77
+    },
+    {
+     "name": "RJ Barrett",
+     "pos": "ALL",
+     "team": "TOR",
+     "pred": 26.99,
+     "actual": 54.63
+    },
+    {
+     "name": "Collin Murray-Boyles",
+     "pos": "ALL",
+     "team": "TOR",
+     "pred": 17.65,
+     "actual": 43.46
+    }
+   ]
+  },
+  {
    "slate": "156176",
    "date": "2026-11-05",
    "label": "NBA $150K Fadeaway [$50K to 1st]",
@@ -267,13 +311,13 @@
   }
  ],
  "recent": {
-  "slates": 6,
-  "n": 1196,
-  "mae": 2.788,
-  "mae5": 8.087,
+  "slates": 7,
+  "n": 1400,
+  "mae": 2.721,
+  "mae5": 7.812,
   "chalk": {
-   "n": 78,
-   "caught": 48
+   "n": 92,
+   "caught": 57
   },
   "falseChalk": 3
  }
