@@ -1,0 +1,434 @@
+{
+  "sport": "nhl",
+  "site": "fd",
+  "slate": "136358",
+  "date": "2026-11-07",
+  "contest": {
+    "id": 281441144,
+    "label": "$10K Sat NHL Breakaway ($2K to 1st)",
+    "entries": 2681
+  },
+  "generatedAt": "2026-11-08T21:01:07.184Z",
+  "winner": {
+    "rank": 1,
+    "name": "giantsquid (40/80)",
+    "points": 279.6,
+    "salary": 54700,
+    "players": [
+      {
+        "slot": "C",
+        "id": 41391,
+        "name": "Nathan MacKinnon",
+        "team": "COL",
+        "pos": "C",
+        "salary": 8200,
+        "fpts": 35.4,
+        "own": 12.91
+      },
+      {
+        "slot": "C",
+        "id": 82006,
+        "name": "Nick Suzuki",
+        "team": "MTL",
+        "pos": "C",
+        "salary": 3000,
+        "fpts": 3.2,
+        "own": 68.85
+      },
+      {
+        "slot": "W",
+        "id": 66690,
+        "name": "Timo Meier",
+        "team": "NJD",
+        "pos": "W",
+        "salary": 4900,
+        "fpts": 14.4,
+        "own": 3.17
+      },
+      {
+        "slot": "W",
+        "id": 70571,
+        "name": "Jake Guentzel",
+        "team": "TBL",
+        "pos": "W",
+        "salary": 6900,
+        "fpts": 44.2,
+        "own": 5.07
+      },
+      {
+        "slot": "D",
+        "id": 103523,
+        "name": "Cale Makar",
+        "team": "COL",
+        "pos": "D",
+        "salary": 6700,
+        "fpts": 32.7,
+        "own": 11.56
+      },
+      {
+        "slot": "D",
+        "id": 223257,
+        "name": "Alexander Nikishin",
+        "team": "CAR",
+        "pos": "D",
+        "salary": 3000,
+        "fpts": 24.8,
+        "own": 14.7
+      },
+      {
+        "slot": "UTIL",
+        "id": 43214,
+        "name": "Nikita Kucherov",
+        "team": "TBL",
+        "pos": "W",
+        "salary": 7400,
+        "fpts": 35.4,
+        "own": 9.51
+      },
+      {
+        "slot": "UTIL",
+        "id": 82045,
+        "name": "Martin Necas",
+        "team": "COL",
+        "pos": "W",
+        "salary": 6900,
+        "fpts": 47.9,
+        "own": 7.5
+      },
+      {
+        "slot": "G",
+        "id": 66744,
+        "name": "Mackenzie Blackwood",
+        "team": "COL",
+        "pos": "G",
+        "salary": 7700,
+        "fpts": 41.6,
+        "own": 16.6
+      }
+    ]
+  },
+  "optimal": {
+    "points": 338.3,
+    "salary": 54500,
+    "players": [
+      {
+        "slot": "C",
+        "id": 8594,
+        "name": "Sidney Crosby",
+        "team": "PIT",
+        "pos": "C",
+        "salary": 5600,
+        "fpts": 28.8,
+        "own": 5.52
+      },
+      {
+        "slot": "C",
+        "id": 117104,
+        "name": "Tommy Novak",
+        "team": "PIT",
+        "pos": "C",
+        "salary": 5300,
+        "fpts": 28.8,
+        "own": 2.28
+      },
+      {
+        "slot": "W",
+        "id": 70571,
+        "name": "Jake Guentzel",
+        "team": "TBL",
+        "pos": "W",
+        "salary": 6900,
+        "fpts": 44.2,
+        "own": 5.07
+      },
+      {
+        "slot": "W",
+        "id": 82045,
+        "name": "Martin Necas",
+        "team": "COL",
+        "pos": "W",
+        "salary": 6900,
+        "fpts": 47.9,
+        "own": 7.5
+      },
+      {
+        "slot": "D",
+        "id": 116900,
+        "name": "Thomas Harley",
+        "team": "DAL",
+        "pos": "D",
+        "salary": 5400,
+        "fpts": 35.9,
+        "own": 21.41
+      },
+      {
+        "slot": "D",
+        "id": 117032,
+        "name": "Charle-Edouard D'Astous",
+        "team": "TBL",
+        "pos": "D",
+        "salary": 4700,
+        "fpts": 37,
+        "own": 0.86
+      },
+      {
+        "slot": "UTIL",
+        "id": 43008,
+        "name": "Jordan Martinook",
+        "team": "CAR",
+        "pos": "W",
+        "salary": 3700,
+        "fpts": 30.4,
+        "own": 0.71
+      },
+      {
+        "slot": "UTIL",
+        "id": 58331,
+        "name": "Leon Draisaitl",
+        "team": "EDM",
+        "pos": "W",
+        "salary": 8300,
+        "fpts": 43.7,
+        "own": 41.51
+      },
+      {
+        "slot": "G",
+        "id": 66744,
+        "name": "Mackenzie Blackwood",
+        "team": "COL",
+        "pos": "G",
+        "salary": 7700,
+        "fpts": 41.6,
+        "own": 16.6
+      }
+    ],
+    "assumedZero": 69
+  },
+  "paper": {
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 1981,
+    "pctile": 26.11,
+    "points": 133.8,
+    "salary": 54900,
+    "players": [
+      {
+        "slot": "C",
+        "id": 82006,
+        "name": "Nick Suzuki",
+        "team": "MTL",
+        "pos": "C",
+        "salary": 3000,
+        "fpts": 3.2,
+        "own": 68.85
+      },
+      {
+        "slot": "C",
+        "id": 190889,
+        "name": "Logan Cooley",
+        "team": "UTA",
+        "pos": "C",
+        "salary": 6500,
+        "fpts": 3.2,
+        "own": 4.33
+      },
+      {
+        "slot": "W",
+        "id": 58331,
+        "name": "Leon Draisaitl",
+        "team": "EDM",
+        "pos": "W",
+        "salary": 8300,
+        "fpts": 43.7,
+        "own": 41.51
+      },
+      {
+        "slot": "W",
+        "id": 228755,
+        "name": "Arseniy Gritsyuk",
+        "team": "NJD",
+        "pos": "W",
+        "salary": 5500,
+        "fpts": 19.2,
+        "own": 1.19
+      },
+      {
+        "slot": "D",
+        "id": 62195,
+        "name": "Brett Pesce",
+        "team": "NJD",
+        "pos": "D",
+        "salary": 4200,
+        "fpts": 14.4,
+        "own": 0.48
+      },
+      {
+        "slot": "D",
+        "id": 142019,
+        "name": "Jake Sanderson",
+        "team": "OTT",
+        "pos": "D",
+        "salary": 4800,
+        "fpts": 3.2,
+        "own": 21.19
+      },
+      {
+        "slot": "UTIL",
+        "id": 14563,
+        "name": "Ryan Nugent-Hopkins",
+        "team": "EDM",
+        "pos": "C",
+        "salary": 6100,
+        "fpts": 0,
+        "own": 8.24
+      },
+      {
+        "slot": "UTIL",
+        "id": 64102,
+        "name": "Connor McDavid",
+        "team": "EDM",
+        "pos": "C",
+        "salary": 8500,
+        "fpts": 30.9,
+        "own": 50.88
+      },
+      {
+        "slot": "G",
+        "id": 103202,
+        "name": "Jake Oettinger",
+        "team": "DAL",
+        "pos": "G",
+        "salary": 8000,
+        "fpts": 16,
+        "own": 11.3
+      }
+    ],
+    "money": {
+      "fee": 4.44,
+      "one": {
+        "won": 0,
+        "net": -4.44
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -4.44
+      },
+      "portfolio": {
+        "n": 6,
+        "won": 0,
+        "net": -26.64,
+        "cashed": 0
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "COL": 4,
+        "TBL": 2,
+        "CAR": 1,
+        "MTL": 1,
+        "NJD": 1
+      },
+      "games": {
+        "DET@COL": 4,
+        "TBL@MIN": 2,
+        "CHI@CAR": 1,
+        "MTL@TOR": 1,
+        "NJD@NYI": 1
+      },
+      "nGames": 5,
+      "lines": {
+        "COL f1": 2,
+        "TBL f1": 2
+      },
+      "pp": {
+        "COL pp1": 3,
+        "TBL pp1": 2
+      },
+      "goalie": {
+        "team": "COL",
+        "opposing": 0
+      },
+      "summary": [
+        "COL 4 · TBL 2",
+        "COL f1 ×2",
+        "TBL f1 ×2",
+        "COL pp1 ×3",
+        "TBL pp1 ×2",
+        "G COL",
+        "5 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "COL": 2,
+        "PIT": 2,
+        "TBL": 2,
+        "CAR": 1,
+        "DAL": 1,
+        "EDM": 1
+      },
+      "games": {
+        "DET@COL": 2,
+        "PIT@LAK": 2,
+        "TBL@MIN": 2,
+        "CHI@CAR": 1,
+        "SJS@DAL": 1,
+        "VAN@EDM": 1
+      },
+      "nGames": 6,
+      "lines": {},
+      "pp": {
+        "PIT pp1": 2,
+        "TBL pp1": 2
+      },
+      "goalie": {
+        "team": "COL",
+        "opposing": 0
+      },
+      "summary": [
+        "COL 2 · PIT 2 · TBL 2",
+        "PIT pp1 ×2",
+        "TBL pp1 ×2",
+        "G COL",
+        "6 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "EDM": 3,
+        "NJD": 2,
+        "DAL": 1,
+        "MTL": 1,
+        "OTT": 1,
+        "UTA": 1
+      },
+      "games": {
+        "VAN@EDM": 3,
+        "NJD@NYI": 2,
+        "UTA@OTT": 2,
+        "MTL@TOR": 1,
+        "SJS@DAL": 1
+      },
+      "nGames": 5,
+      "lines": {
+        "EDM f1": 2
+      },
+      "pp": {
+        "EDM pp1": 3
+      },
+      "goalie": {
+        "team": "DAL",
+        "opposing": 0
+      },
+      "summary": [
+        "EDM 3 · NJD 2",
+        "EDM f1 ×2",
+        "EDM pp1 ×3",
+        "G DAL",
+        "5 games"
+      ]
+    }
+  }
+}
