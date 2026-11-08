@@ -1,0 +1,353 @@
+{
+  "sport": "nba",
+  "slate": "156199",
+  "date": "2026-11-07",
+  "contest": {
+    "id": 197561369,
+    "label": "NBA $200K Fadeaway [$50K to 1st]",
+    "entries": 12335
+  },
+  "generatedAt": "2026-11-08T09:40:17.029Z",
+  "winner": {
+    "rank": 1,
+    "name": "opatlion (13/50)",
+    "points": 364,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44828382,
+        "name": "Stephen Curry",
+        "team": "GSW",
+        "pos": "PG",
+        "salary": 8400,
+        "fpts": 58.5,
+        "own": 20.49
+      },
+      {
+        "slot": "SG",
+        "id": 44828484,
+        "name": "Kyshawn George",
+        "team": "WAS",
+        "pos": "SG",
+        "salary": 5900,
+        "fpts": 38.25,
+        "own": 59.41
+      },
+      {
+        "slot": "SF",
+        "id": 44828371,
+        "name": "Franz Wagner",
+        "team": "ORL",
+        "pos": "SF",
+        "salary": 8700,
+        "fpts": 58,
+        "own": 28.6
+      },
+      {
+        "slot": "PF",
+        "id": 44828378,
+        "name": "Karl-Anthony Towns",
+        "team": "NYK",
+        "pos": "PF",
+        "salary": 8500,
+        "fpts": 56.25,
+        "own": 27.61
+      },
+      {
+        "slot": "C",
+        "id": 44828740,
+        "name": "Danny Wolf",
+        "team": "BKN",
+        "pos": "C",
+        "salary": 3500,
+        "fpts": 26,
+        "own": 26.92
+      },
+      {
+        "slot": "G",
+        "id": 44828453,
+        "name": "Anthony Black",
+        "team": "ORL",
+        "pos": "PG",
+        "salary": 6400,
+        "fpts": 51,
+        "own": 42.53
+      },
+      {
+        "slot": "F",
+        "id": 44828679,
+        "name": "Jamal Cain",
+        "team": "ORL",
+        "pos": "SF",
+        "salary": 3800,
+        "fpts": 40,
+        "own": 7.02
+      },
+      {
+        "slot": "UTIL",
+        "id": 44828569,
+        "name": "Alexandre Sarr",
+        "team": "WAS",
+        "pos": "C",
+        "salary": 4800,
+        "fpts": 36,
+        "own": 50.27
+      }
+    ]
+  },
+  "optimal": {
+    "points": 378,
+    "salary": 48900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44828453,
+        "name": "Anthony Black",
+        "team": "ORL",
+        "pos": "PG",
+        "salary": 6400,
+        "fpts": 51,
+        "own": 42.53
+      },
+      {
+        "slot": "SG",
+        "id": 44828526,
+        "name": "Aaron Wiggins",
+        "team": "ATL",
+        "pos": "SG",
+        "salary": 5400,
+        "fpts": 38.5,
+        "own": 2.8
+      },
+      {
+        "slot": "SF",
+        "id": 44828457,
+        "name": "Dyson Daniels",
+        "team": "ATL",
+        "pos": "PG",
+        "salary": 6300,
+        "fpts": 45,
+        "own": 20.12
+      },
+      {
+        "slot": "PF",
+        "id": 44828679,
+        "name": "Jamal Cain",
+        "team": "ORL",
+        "pos": "SF",
+        "salary": 3800,
+        "fpts": 40,
+        "own": 7.02
+      },
+      {
+        "slot": "C",
+        "id": 44828539,
+        "name": "Day'Ron Sharpe",
+        "team": "BKN",
+        "pos": "C",
+        "salary": 5100,
+        "fpts": 48.5,
+        "own": 13.46
+      },
+      {
+        "slot": "G",
+        "id": 44828382,
+        "name": "Stephen Curry",
+        "team": "GSW",
+        "pos": "PG",
+        "salary": 8400,
+        "fpts": 58.5,
+        "own": 20.49
+      },
+      {
+        "slot": "F",
+        "id": 44828371,
+        "name": "Franz Wagner",
+        "team": "ORL",
+        "pos": "SF",
+        "salary": 8700,
+        "fpts": 58,
+        "own": 28.6
+      },
+      {
+        "slot": "UTIL",
+        "id": 44828564,
+        "name": "Aday Mara",
+        "team": "OKC",
+        "pos": "C",
+        "salary": 4800,
+        "fpts": 38.5,
+        "own": 14.19
+      }
+    ],
+    "assumedZero": 54
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 881,
+    "pctile": 92.72,
+    "points": 312.75,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44828560,
+        "name": "Nolan Traore",
+        "team": "BKN",
+        "pos": "PG",
+        "salary": 4800,
+        "fpts": 33.75,
+        "own": 15.91
+      },
+      {
+        "slot": "SG",
+        "id": 44828484,
+        "name": "Kyshawn George",
+        "team": "WAS",
+        "pos": "SG",
+        "salary": 5900,
+        "fpts": 38.25,
+        "own": 59.41
+      },
+      {
+        "slot": "SF",
+        "id": 44828457,
+        "name": "Dyson Daniels",
+        "team": "ATL",
+        "pos": "PG",
+        "salary": 6300,
+        "fpts": 45,
+        "own": 20.12
+      },
+      {
+        "slot": "PF",
+        "id": 44828406,
+        "name": "Julius Randle",
+        "team": "BKN",
+        "pos": "PF",
+        "salary": 7500,
+        "fpts": 38,
+        "own": 17.97
+      },
+      {
+        "slot": "C",
+        "id": 44828539,
+        "name": "Day'Ron Sharpe",
+        "team": "BKN",
+        "pos": "C",
+        "salary": 5100,
+        "fpts": 48.5,
+        "own": 13.46
+      },
+      {
+        "slot": "G",
+        "id": 44828447,
+        "name": "Ajay Mitchell",
+        "team": "OKC",
+        "pos": "PG",
+        "salary": 6600,
+        "fpts": 18.5,
+        "own": 35.45
+      },
+      {
+        "slot": "F",
+        "id": 44828412,
+        "name": "Michael Porter Jr.",
+        "team": "BKN",
+        "pos": "SF",
+        "salary": 7300,
+        "fpts": 39.75,
+        "own": 23.87
+      },
+      {
+        "slot": "UTIL",
+        "id": 44828453,
+        "name": "Anthony Black",
+        "team": "ORL",
+        "pos": "PG",
+        "salary": 6400,
+        "fpts": 51,
+        "own": 42.53
+      }
+    ],
+    "money": {
+      "fee": 18,
+      "one": {
+        "won": 35,
+        "net": 17
+      },
+      "oneDefaults": {
+        "won": 35,
+        "net": 17
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 140,
+        "net": -220,
+        "cashed": 4
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "ORL": 3,
+        "WAS": 2,
+        "BKN": 1,
+        "GSW": 1,
+        "NYK": 1
+      },
+      "games": {
+        "ORL@GSW": 4,
+        "WAS@OKC": 2,
+        "BKN@ATL": 1,
+        "NYK@CLE": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "ORL 3 · WAS 2",
+        "4 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "ORL": 3,
+        "ATL": 2,
+        "BKN": 1,
+        "GSW": 1,
+        "OKC": 1
+      },
+      "games": {
+        "ORL@GSW": 4,
+        "BKN@ATL": 3,
+        "WAS@OKC": 1
+      },
+      "nGames": 3,
+      "summary": [
+        "ORL 3 · ATL 2",
+        "3 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "BKN": 4,
+        "ATL": 1,
+        "OKC": 1,
+        "ORL": 1,
+        "WAS": 1
+      },
+      "games": {
+        "BKN@ATL": 5,
+        "WAS@OKC": 2,
+        "ORL@GSW": 1
+      },
+      "nGames": 3,
+      "summary": [
+        "BKN 4",
+        "3 games"
+      ]
+    }
+  }
+}
