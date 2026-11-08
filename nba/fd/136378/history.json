@@ -1,0 +1,393 @@
+{
+  "sport": "nba",
+  "site": "fd",
+  "slate": "136378",
+  "date": "2026-11-07",
+  "contest": {
+    "id": 281443029,
+    "label": "$111K Sat NBA Shot ($20K to 1st)",
+    "entries": 12741
+  },
+  "generatedAt": "2026-11-08T21:01:24.432Z",
+  "winner": {
+    "rank": 1,
+    "name": "hpjj (140/150)",
+    "points": 413.2,
+    "salary": 60000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 188408,
+        "name": "Anthony Black",
+        "team": "ORL",
+        "pos": "PG/SG",
+        "salary": 6300,
+        "fpts": 55.6,
+        "own": 37.54
+      },
+      {
+        "slot": "SG",
+        "id": 203722,
+        "name": "Kyshawn George",
+        "team": "WAS",
+        "pos": "SG",
+        "salary": 6000,
+        "fpts": 39.4,
+        "own": 45.19
+      },
+      {
+        "slot": "SF",
+        "id": 157851,
+        "name": "Franz Wagner",
+        "team": "ORL",
+        "pos": "SF/PF",
+        "salary": 8300,
+        "fpts": 53.7,
+        "own": 44
+      },
+      {
+        "slot": "PF",
+        "id": 203716,
+        "name": "Tristan da Silva",
+        "team": "ORL",
+        "pos": "SF/PF",
+        "salary": 4100,
+        "fpts": 32.4,
+        "own": 40.09
+      },
+      {
+        "slot": "C",
+        "id": 248962,
+        "name": "Aday Mara",
+        "team": "OKC",
+        "pos": "C",
+        "salary": 4500,
+        "fpts": 40.1,
+        "own": 22.16
+      },
+      {
+        "slot": "G/F",
+        "id": 66113,
+        "name": "Donovan Mitchell",
+        "team": "CLE",
+        "pos": "SG",
+        "salary": 7800,
+        "fpts": 51.8,
+        "own": 16.14
+      },
+      {
+        "slot": "F/C",
+        "id": 58462,
+        "name": "Karl-Anthony Towns",
+        "team": "NYK",
+        "pos": "C",
+        "salary": 8400,
+        "fpts": 55.1,
+        "own": 25.25
+      },
+      {
+        "slot": "UTIL",
+        "id": 9524,
+        "name": "Stephen Curry",
+        "team": "GSW",
+        "pos": "PG",
+        "salary": 8200,
+        "fpts": 54.2,
+        "own": 17.02
+      },
+      {
+        "slot": "UTIL",
+        "id": 203723,
+        "name": "Stephon Castle",
+        "team": "SAS",
+        "pos": "SG/PG",
+        "salary": 6400,
+        "fpts": 30.9,
+        "own": 20.88
+      }
+    ]
+  },
+  "optimal": {
+    "points": 441.4,
+    "salary": 59100,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 188408,
+        "name": "Anthony Black",
+        "team": "ORL",
+        "pos": "PG/SG",
+        "salary": 6300,
+        "fpts": 55.6,
+        "own": 37.54
+      },
+      {
+        "slot": "SG",
+        "id": 171784,
+        "name": "Dyson Daniels",
+        "team": "ATL",
+        "pos": "SF/SG",
+        "salary": 6800,
+        "fpts": 50.5,
+        "own": 8.9
+      },
+      {
+        "slot": "SF",
+        "id": 180555,
+        "name": "Jamal Cain",
+        "team": "ORL",
+        "pos": "SF",
+        "salary": 3700,
+        "fpts": 37.9,
+        "own": 0.56
+      },
+      {
+        "slot": "PF",
+        "id": 157851,
+        "name": "Franz Wagner",
+        "team": "ORL",
+        "pos": "SF/PF",
+        "salary": 8300,
+        "fpts": 53.7,
+        "own": 44
+      },
+      {
+        "slot": "C",
+        "id": 248962,
+        "name": "Aday Mara",
+        "team": "OKC",
+        "pos": "C",
+        "salary": 4500,
+        "fpts": 40.1,
+        "own": 22.16
+      },
+      {
+        "slot": "G/F",
+        "id": 66113,
+        "name": "Donovan Mitchell",
+        "team": "CLE",
+        "pos": "SG",
+        "salary": 7800,
+        "fpts": 51.8,
+        "own": 16.14
+      },
+      {
+        "slot": "F/C",
+        "id": 157839,
+        "name": "Day'Ron Sharpe",
+        "team": "BKN",
+        "pos": "C",
+        "salary": 5100,
+        "fpts": 42.5,
+        "own": 9.39
+      },
+      {
+        "slot": "UTIL",
+        "id": 9524,
+        "name": "Stephen Curry",
+        "team": "GSW",
+        "pos": "PG",
+        "salary": 8200,
+        "fpts": 54.2,
+        "own": 17.02
+      },
+      {
+        "slot": "UTIL",
+        "id": 58462,
+        "name": "Karl-Anthony Towns",
+        "team": "NYK",
+        "pos": "C",
+        "salary": 8400,
+        "fpts": 55.1,
+        "own": 25.25
+      }
+    ],
+    "assumedZero": 76
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 3220,
+    "pctile": 74.67,
+    "points": 334.9,
+    "salary": 59900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 84690,
+        "name": "Jalen Brunson",
+        "team": "NYK",
+        "pos": "PG",
+        "salary": 8100,
+        "fpts": 50.7,
+        "own": 20.14
+      },
+      {
+        "slot": "SG",
+        "id": 203808,
+        "name": "Ajay Mitchell",
+        "team": "OKC",
+        "pos": "SG/PG",
+        "salary": 6600,
+        "fpts": 18.8,
+        "own": 31.36
+      },
+      {
+        "slot": "SF",
+        "id": 171784,
+        "name": "Dyson Daniels",
+        "team": "ATL",
+        "pos": "SF/SG",
+        "salary": 6800,
+        "fpts": 50.5,
+        "own": 8.9
+      },
+      {
+        "slot": "PF",
+        "id": 84678,
+        "name": "Miles Bridges",
+        "team": "PHX",
+        "pos": "PF",
+        "salary": 6500,
+        "fpts": 38.5,
+        "own": 10.23
+      },
+      {
+        "slot": "C",
+        "id": 84676,
+        "name": "Wendell Carter",
+        "team": "ORL",
+        "pos": "C",
+        "salary": 5600,
+        "fpts": 36.2,
+        "own": 22.42
+      },
+      {
+        "slot": "G/F",
+        "id": 188408,
+        "name": "Anthony Black",
+        "team": "ORL",
+        "pos": "PG/SG",
+        "salary": 6300,
+        "fpts": 55.6,
+        "own": 37.54
+      },
+      {
+        "slot": "F/C",
+        "id": 84682,
+        "name": "Michael Porter",
+        "team": "BKN",
+        "pos": "SF",
+        "salary": 7100,
+        "fpts": 37.3,
+        "own": 16.64
+      },
+      {
+        "slot": "UTIL",
+        "id": 157908,
+        "name": "Alperen Sengun",
+        "team": "HOU",
+        "pos": "C",
+        "salary": 8800,
+        "fpts": 30.7,
+        "own": 42.78
+      },
+      {
+        "slot": "UTIL",
+        "id": 171668,
+        "name": "Collin Gillespie",
+        "team": "PHX",
+        "pos": "PG",
+        "salary": 4100,
+        "fpts": 16.6,
+        "own": 2
+      }
+    ],
+    "money": {
+      "fee": 9,
+      "one": {
+        "won": 16,
+        "net": 7
+      },
+      "oneDefaults": {
+        "won": 16,
+        "net": 7
+      },
+      "portfolio": {
+        "n": 3,
+        "won": 32,
+        "net": 5,
+        "cashed": 2
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "ORL": 3,
+        "CLE": 1,
+        "GSW": 1,
+        "NYK": 1,
+        "OKC": 1,
+        "SAS": 1,
+        "WAS": 1
+      },
+      "games": {
+        "ORL@GSW": 4,
+        "NYK@CLE": 2,
+        "WAS@OKC": 2,
+        "SAS@POR": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "ORL 3",
+        "4 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "ORL": 3,
+        "ATL": 1,
+        "BKN": 1,
+        "CLE": 1,
+        "GSW": 1,
+        "NYK": 1,
+        "OKC": 1
+      },
+      "games": {
+        "ORL@GSW": 4,
+        "BKN@ATL": 2,
+        "NYK@CLE": 2,
+        "WAS@OKC": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "ORL 3",
+        "4 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "ORL": 2,
+        "PHX": 2,
+        "ATL": 1,
+        "BKN": 1,
+        "HOU": 1,
+        "NYK": 1,
+        "OKC": 1
+      },
+      "games": {
+        "HOU@PHX": 3,
+        "BKN@ATL": 2,
+        "ORL@GSW": 2,
+        "NYK@CLE": 1,
+        "WAS@OKC": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "ORL 2 · PHX 2",
+        "5 games"
+      ]
+    }
+  }
+}
