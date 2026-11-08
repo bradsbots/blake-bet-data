@@ -2,6 +2,50 @@
  "sport": "nhl",
  "slates": [
   {
+   "slate": "156261",
+   "date": "2026-11-07",
+   "label": "NHL $30K Overload [$10K to 1st]",
+   "entries": 1764,
+   "source": "live",
+   "model": "v1",
+   "predictedAt": "2026-11-07T23:45:16+00:00",
+   "lockAt": "2026-11-08T00:00:00+00:00",
+   "minutesBeforeLock": 15,
+   "n": 426,
+   "mae": 1.236,
+   "mae5": 4.194,
+   "spearman": 0.9069,
+   "top10": 0.4,
+   "chalk": {
+    "n": 7,
+    "caught": 4
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Ilya Sorokin",
+     "pos": "G",
+     "team": "NYI",
+     "pred": 6.31,
+     "actual": 29.93
+    },
+    {
+     "name": "Roope Hintz",
+     "pos": "C",
+     "team": "DAL",
+     "pred": 5.56,
+     "actual": 20.75
+    },
+    {
+     "name": "Arttu Hyry",
+     "pos": "W",
+     "team": "DAL",
+     "pred": 1.28,
+     "actual": 16.44
+    }
+   ]
+  },
+  {
    "slate": "156254",
    "date": "2026-11-06",
    "label": "NHL $35K Overload [$10K to 1st]",
@@ -972,12 +1016,12 @@
  ],
  "recent": {
   "slates": 10,
-  "n": 2789,
-  "mae": 1.425,
-  "mae5": 3.898,
+  "n": 3026,
+  "mae": 1.36,
+  "mae5": 3.917,
   "chalk": {
-   "n": 74,
-   "caught": 48
+   "n": 73,
+   "caught": 46
   },
   "falseChalk": 1
  }
