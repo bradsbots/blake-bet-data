@@ -1,0 +1,2988 @@
+{
+  "slate": "155994",
+  "sport": "nfl",
+  "swappedAt": "2026-11-08T20:30:06.365Z",
+  "source": "2026-11-08T20:30:03+00:00",
+  "base": "2026-11-08.json",
+  "slateSize": {
+    "nGames": 11,
+    "minGames": 0,
+    "observationOnly": false
+  },
+  "lockedGames": [
+    "CLE@NO",
+    "DAL@IND",
+    "DEN@CAR",
+    "DET@MIA",
+    "LAR@WAS",
+    "NYG@PHI",
+    "NYJ@KC"
+  ],
+  "openGames": [
+    "HOU@LAC",
+    "ARI@SEA",
+    "GB@NE",
+    "LV@SF"
+  ],
+  "note": "Paper only, never entered. Late swap of the pre-lock record: in each lineup a player whose game had not kicked off and whose DK status turned OUT/IR after lock is replaced; every other player keeps his slot; the vacated slots are re-solved with the frozen pre-lock projections under the variant's settings (DK rules only when those are infeasible: `relaxed`). Grade with pipeline/ownership.py --paper.",
+  "lineups": [
+    {
+      "variant": "defaults",
+      "index": 1,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 140.14,
+      "sumOwnPred": 165.43,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44758326,
+          "name": "Drew Lock",
+          "team": "SEA",
+          "pos": "QB",
+          "salary": 4000,
+          "proj": 15.81,
+          "own": 6.354
+        },
+        {
+          "slot": "RB",
+          "id": 44758413,
+          "name": "Jonah Coleman",
+          "team": "DEN",
+          "pos": "RB",
+          "salary": 5300,
+          "proj": 15.16,
+          "own": 24.298
+        },
+        {
+          "slot": "RB",
+          "id": 44758449,
+          "name": "Devin Singletary",
+          "team": "NYG",
+          "pos": "RB",
+          "salary": 4600,
+          "proj": 12.64,
+          "own": 15.578
+        },
+        {
+          "slot": "WR",
+          "id": 44758637,
+          "name": "Puka Nacua",
+          "team": "LAR",
+          "pos": "WR",
+          "salary": 8800,
+          "proj": 23.37,
+          "own": 17.634
+        },
+        {
+          "slot": "WR",
+          "id": 44758727,
+          "name": "Antonio Williams",
+          "team": "WAS",
+          "pos": "WR",
+          "salary": 4100,
+          "proj": 10.79,
+          "own": 34.014
+        },
+        {
+          "slot": "WR",
+          "id": 44758635,
+          "name": "Jaxon Smith-Njigba",
+          "team": "SEA",
+          "pos": "WR",
+          "salary": 9300,
+          "proj": 22.92,
+          "own": 7.839
+        },
+        {
+          "slot": "TE",
+          "id": 44759105,
+          "name": "Greg Dulcich",
+          "team": "MIA",
+          "pos": "TE",
+          "salary": 3100,
+          "proj": 9,
+          "own": 22.333
+        },
+        {
+          "slot": "FLEX",
+          "id": 44758373,
+          "name": "Christian McCaffrey",
+          "team": "SF",
+          "pos": "RB",
+          "salary": 8000,
+          "proj": 22.25,
+          "own": 24.732
+        },
+        {
+          "slot": "DST",
+          "id": 44759331,
+          "name": "Giants",
+          "team": "NYG",
+          "pos": "DST",
+          "salary": 2800,
+          "proj": 8.2,
+          "own": 12.644
+        }
+      ]
+    },
+    {
+      "variant": "defaults",
+      "index": 2,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 134.82,
+      "sumOwnPred": 113.09,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44758312,
+          "name": "Malik Willis",
+          "team": "MIA",
+          "pos": "QB",
+          "salary": 5100,
+          "proj": 17.85,
+          "own": 6.621
+        },
+        {
+          "slot": "RB",
+          "id": 44758369,
+          "name": "Jahmyr Gibbs",
+          "team": "DET",
+          "pos": "RB",
+          "salary": 10000,
+          "proj": 26.99,
+          "own": 14.105
+        },
+        {
+          "slot": "RB",
+          "id": 44758389,
+          "name": "Rhamondre Stevenson",
+          "team": "NE",
+          "pos": "RB",
+          "salary": 6100,
+          "proj": 15.97,
+          "own": 14.3
+        },
+        {
+          "slot": "WR",
+          "id": 44758639,
+          "name": "CeeDee Lamb",
+          "team": "DAL",
+          "pos": "WR",
+          "salary": 8300,
+          "proj": 20.56,
+          "own": 15.874
+        },
+        {
+          "slot": "WR",
+          "id": 44758707,
+          "name": "KC Concepcion Jr.",
+          "team": "CLE",
+          "pos": "WR",
+          "salary": 4600,
+          "proj": 10.62,
+          "own": 12.543
+        },
+        {
+          "slot": "WR",
+          "id": 44758723,
+          "name": "Caleb Douglas",
+          "team": "MIA",
+          "pos": "WR",
+          "salary": 4200,
+          "proj": 9.31,
+          "own": 13.996
+        },
+        {
+          "slot": "TE",
+          "id": 44759101,
+          "name": "Dalton Schultz",
+          "team": "HOU",
+          "pos": "TE",
+          "salary": 3200,
+          "proj": 9.33,
+          "own": 17.967
+        },
+        {
+          "slot": "FLEX",
+          "id": 44759065,
+          "name": "George Kittle",
+          "team": "SF",
+          "pos": "TE",
+          "salary": 6000,
+          "proj": 17.59,
+          "own": 13.592
+        },
+        {
+          "slot": "DST",
+          "id": 44759334,
+          "name": "Eagles",
+          "team": "PHI",
+          "pos": "DST",
+          "salary": 2500,
+          "proj": 6.6,
+          "own": 4.097
+        }
+      ]
+    },
+    {
+      "variant": "defaults",
+      "index": 3,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 126.5,
+      "sumOwnPred": 100.91,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44758300,
+          "name": "Dak Prescott",
+          "team": "DAL",
+          "pos": "QB",
+          "salary": 6500,
+          "proj": 20.89,
+          "own": 6.792
+        },
+        {
+          "slot": "RB",
+          "id": 44758371,
+          "name": "Kenneth Walker III",
+          "team": "KC",
+          "pos": "RB",
+          "salary": 9000,
+          "proj": 21.89,
+          "own": 10.599
+        },
+        {
+          "slot": "RB",
+          "id": 44758383,
+          "name": "Chuba Hubbard",
+          "team": "CAR",
+          "pos": "RB",
+          "salary": 6500,
+          "proj": 16.61,
+          "own": 14.3
+        },
+        {
+          "slot": "WR",
+          "id": 44758641,
+          "name": "Amon-Ra St. Brown",
+          "team": "DET",
+          "pos": "WR",
+          "salary": 8100,
+          "proj": 19.19,
+          "own": 9.187
+        },
+        {
+          "slot": "WR",
+          "id": 44758699,
+          "name": "Ryan Flournoy",
+          "team": "DAL",
+          "pos": "WR",
+          "salary": 4800,
+          "proj": 10.36,
+          "own": 11.131
+        },
+        {
+          "slot": "WR",
+          "id": 44758711,
+          "name": "Adonai Mitchell",
+          "team": "NYJ",
+          "pos": "WR",
+          "salary": 4500,
+          "proj": 10,
+          "own": 14.927
+        },
+        {
+          "slot": "TE",
+          "id": 44759077,
+          "name": "Tyler Warren",
+          "team": "IND",
+          "pos": "TE",
+          "salary": 4600,
+          "proj": 11.81,
+          "own": 9.177
+        },
+        {
+          "slot": "FLEX",
+          "id": 44759091,
+          "name": "Chig Okonkwo",
+          "team": "WAS",
+          "pos": "TE",
+          "salary": 3600,
+          "proj": 8.65,
+          "own": 6.211
+        },
+        {
+          "slot": "DST",
+          "id": 44759335,
+          "name": "Packers",
+          "team": "GB",
+          "pos": "DST",
+          "salary": 2400,
+          "proj": 7.1,
+          "own": 18.587
+        }
+      ]
+    },
+    {
+      "variant": "stack",
+      "index": 1,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 139.67,
+      "sumOwnPred": 155.42,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44758312,
+          "name": "Malik Willis",
+          "team": "MIA",
+          "pos": "QB",
+          "salary": 5100,
+          "proj": 17.85,
+          "own": 6.621
+        },
+        {
+          "slot": "RB",
+          "id": 44758369,
+          "name": "Jahmyr Gibbs",
+          "team": "DET",
+          "pos": "RB",
+          "salary": 10000,
+          "proj": 26.99,
+          "own": 14.105
+        },
+        {
+          "slot": "RB",
+          "id": 44758413,
+          "name": "Jonah Coleman",
+          "team": "DEN",
+          "pos": "RB",
+          "salary": 5300,
+          "proj": 15.16,
+          "own": 24.298
+        },
+        {
+          "slot": "WR",
+          "id": 44758637,
+          "name": "Puka Nacua",
+          "team": "LAR",
+          "pos": "WR",
+          "salary": 8800,
+          "proj": 23.37,
+          "own": 17.634
+        },
+        {
+          "slot": "WR",
+          "id": 44758707,
+          "name": "KC Concepcion Jr.",
+          "team": "CLE",
+          "pos": "WR",
+          "salary": 4600,
+          "proj": 10.62,
+          "own": 12.543
+        },
+        {
+          "slot": "WR",
+          "id": 44758727,
+          "name": "Antonio Williams",
+          "team": "WAS",
+          "pos": "WR",
+          "salary": 4100,
+          "proj": 10.79,
+          "own": 34.014
+        },
+        {
+          "slot": "TE",
+          "id": 44759105,
+          "name": "Greg Dulcich",
+          "team": "MIA",
+          "pos": "TE",
+          "salary": 3100,
+          "proj": 9,
+          "own": 22.333
+        },
+        {
+          "slot": "FLEX",
+          "id": 44759065,
+          "name": "George Kittle",
+          "team": "SF",
+          "pos": "TE",
+          "salary": 6000,
+          "proj": 17.59,
+          "own": 13.592
+        },
+        {
+          "slot": "DST",
+          "id": 44759329,
+          "name": "Broncos",
+          "team": "DEN",
+          "pos": "DST",
+          "salary": 3000,
+          "proj": 8.3,
+          "own": 10.28
+        }
+      ]
+    },
+    {
+      "variant": "stack",
+      "index": 2,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 133.43,
+      "sumOwnPred": 131.2,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44758303,
+          "name": "Patrick Mahomes",
+          "team": "KC",
+          "pos": "QB",
+          "salary": 6100,
+          "proj": 20.53,
+          "own": 6.611
+        },
+        {
+          "slot": "RB",
+          "id": 44758449,
+          "name": "Devin Singletary",
+          "team": "NYG",
+          "pos": "RB",
+          "salary": 4600,
+          "proj": 12.64,
+          "own": 15.578
+        },
+        {
+          "slot": "RB",
+          "id": 44758373,
+          "name": "Christian McCaffrey",
+          "team": "SF",
+          "pos": "RB",
+          "salary": 8000,
+          "proj": 22.25,
+          "own": 24.732
+        },
+        {
+          "slot": "WR",
+          "id": 44758639,
+          "name": "CeeDee Lamb",
+          "team": "DAL",
+          "pos": "WR",
+          "salary": 8300,
+          "proj": 20.56,
+          "own": 15.874
+        },
+        {
+          "slot": "WR",
+          "id": 44758663,
+          "name": "Rashee Rice",
+          "team": "KC",
+          "pos": "WR",
+          "salary": 6400,
+          "proj": 13.95,
+          "own": 8.571
+        },
+        {
+          "slot": "WR",
+          "id": 44758711,
+          "name": "Adonai Mitchell",
+          "team": "NYJ",
+          "pos": "WR",
+          "salary": 4500,
+          "proj": 10,
+          "own": 14.927
+        },
+        {
+          "slot": "TE",
+          "id": 44759101,
+          "name": "Dalton Schultz",
+          "team": "HOU",
+          "pos": "TE",
+          "salary": 3200,
+          "proj": 9.33,
+          "own": 17.967
+        },
+        {
+          "slot": "FLEX",
+          "id": 44758389,
+          "name": "Rhamondre Stevenson",
+          "team": "NE",
+          "pos": "RB",
+          "salary": 6100,
+          "proj": 15.97,
+          "own": 14.3
+        },
+        {
+          "slot": "DST",
+          "id": 44759331,
+          "name": "Giants",
+          "team": "NYG",
+          "pos": "DST",
+          "salary": 2800,
+          "proj": 8.2,
+          "own": 12.644
+        }
+      ]
+    },
+    {
+      "variant": "stack",
+      "index": 3,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 49900,
+      "proj": 127.52,
+      "sumOwnPred": 93.03,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44758326,
+          "name": "Drew Lock",
+          "team": "SEA",
+          "pos": "QB",
+          "salary": 4000,
+          "proj": 15.81,
+          "own": 6.354
+        },
+        {
+          "slot": "RB",
+          "id": 44758383,
+          "name": "Chuba Hubbard",
+          "team": "CAR",
+          "pos": "RB",
+          "salary": 6500,
+          "proj": 16.61,
+          "own": 14.3
+        },
+        {
+          "slot": "RB",
+          "id": 44758411,
+          "name": "Quinshon Judkins",
+          "team": "CLE",
+          "pos": "RB",
+          "salary": 5400,
+          "proj": 12.85,
+          "own": 8.285
+        },
+        {
+          "slot": "WR",
+          "id": 44758641,
+          "name": "Amon-Ra St. Brown",
+          "team": "DET",
+          "pos": "WR",
+          "salary": 8100,
+          "proj": 19.19,
+          "own": 9.187
+        },
+        {
+          "slot": "WR",
+          "id": 44758723,
+          "name": "Caleb Douglas",
+          "team": "MIA",
+          "pos": "WR",
+          "salary": 4200,
+          "proj": 9.31,
+          "own": 13.996
+        },
+        {
+          "slot": "WR",
+          "id": 44758635,
+          "name": "Jaxon Smith-Njigba",
+          "team": "SEA",
+          "pos": "WR",
+          "salary": 9300,
+          "proj": 22.92,
+          "own": 7.839
+        },
+        {
+          "slot": "TE",
+          "id": 44759077,
+          "name": "Tyler Warren",
+          "team": "IND",
+          "pos": "TE",
+          "salary": 4600,
+          "proj": 11.81,
+          "own": 9.177
+        },
+        {
+          "slot": "FLEX",
+          "id": 44758409,
+          "name": "Tyler Allgeier",
+          "team": "ARI",
+          "pos": "RB",
+          "salary": 5400,
+          "proj": 11.92,
+          "own": 5.307
+        },
+        {
+          "slot": "DST",
+          "id": 44759335,
+          "name": "Packers",
+          "team": "GB",
+          "pos": "DST",
+          "salary": 2400,
+          "proj": 7.1,
+          "own": 18.587
+        }
+      ]
+    },
+    {
+      "variant": "leverage",
+      "index": 1,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 136.99,
+      "sumOwnPred": 113.16,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44758312,
+          "name": "Malik Willis",
+          "team": "MIA",
+          "pos": "QB",
+          "salary": 5100,
+          "proj": 17.85,
+          "own": 6.621
+        },
+        {
+          "slot": "RB",
+          "id": 44758369,
+          "name": "Jahmyr Gibbs",
+          "team": "DET",
+          "pos": "RB",
+          "salary": 10000,
+          "proj": 26.99,
+          "own": 14.105
+        },
+        {
+          "slot": "RB",
+          "id": 44758449,
+          "name": "Devin Singletary",
+          "team": "NYG",
+          "pos": "RB",
+          "salary": 4600,
+          "proj": 12.64,
+          "own": 15.578
+        },
+        {
+          "slot": "WR",
+          "id": 44758637,
+          "name": "Puka Nacua",
+          "team": "LAR",
+          "pos": "WR",
+          "salary": 8800,
+          "proj": 23.37,
+          "own": 17.634
+        },
+        {
+          "slot": "WR",
+          "id": 44758703,
+          "name": "Malik Washington",
+          "team": "MIA",
+          "pos": "WR",
+          "salary": 4700,
+          "proj": 10.3,
+          "own": 4.836
+        },
+        {
+          "slot": "WR",
+          "id": 44758707,
+          "name": "KC Concepcion Jr.",
+          "team": "CLE",
+          "pos": "WR",
+          "salary": 4600,
+          "proj": 10.62,
+          "own": 12.543
+        },
+        {
+          "slot": "TE",
+          "id": 44759101,
+          "name": "Dalton Schultz",
+          "team": "HOU",
+          "pos": "TE",
+          "salary": 3200,
+          "proj": 9.33,
+          "own": 17.967
+        },
+        {
+          "slot": "FLEX",
+          "id": 44759065,
+          "name": "George Kittle",
+          "team": "SF",
+          "pos": "TE",
+          "salary": 6000,
+          "proj": 17.59,
+          "own": 13.592
+        },
+        {
+          "slot": "DST",
+          "id": 44759329,
+          "name": "Broncos",
+          "team": "DEN",
+          "pos": "DST",
+          "salary": 3000,
+          "proj": 8.3,
+          "own": 10.28
+        }
+      ]
+    },
+    {
+      "variant": "leverage",
+      "index": 2,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 131.11,
+      "sumOwnPred": 101.53,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44758303,
+          "name": "Patrick Mahomes",
+          "team": "KC",
+          "pos": "QB",
+          "salary": 6100,
+          "proj": 20.53,
+          "own": 6.611
+        },
+        {
+          "slot": "RB",
+          "id": 44758413,
+          "name": "Jonah Coleman",
+          "team": "DEN",
+          "pos": "RB",
+          "salary": 5300,
+          "proj": 15.16,
+          "own": 24.298
+        },
+        {
+          "slot": "RB",
+          "id": 44758389,
+          "name": "Rhamondre Stevenson",
+          "team": "NE",
+          "pos": "RB",
+          "salary": 6100,
+          "proj": 15.97,
+          "own": 14.3
+        },
+        {
+          "slot": "WR",
+          "id": 44758639,
+          "name": "CeeDee Lamb",
+          "team": "DAL",
+          "pos": "WR",
+          "salary": 8300,
+          "proj": 20.56,
+          "own": 15.874
+        },
+        {
+          "slot": "WR",
+          "id": 44758715,
+          "name": "Xavier Worthy",
+          "team": "KC",
+          "pos": "WR",
+          "salary": 4400,
+          "proj": 8.55,
+          "own": 4.359
+        },
+        {
+          "slot": "WR",
+          "id": 44758635,
+          "name": "Jaxon Smith-Njigba",
+          "team": "SEA",
+          "pos": "WR",
+          "salary": 9300,
+          "proj": 22.92,
+          "own": 7.839
+        },
+        {
+          "slot": "TE",
+          "id": 44759077,
+          "name": "Tyler Warren",
+          "team": "IND",
+          "pos": "TE",
+          "salary": 4600,
+          "proj": 11.81,
+          "own": 9.177
+        },
+        {
+          "slot": "FLEX",
+          "id": 44759107,
+          "name": "Mason Taylor",
+          "team": "NYJ",
+          "pos": "TE",
+          "salary": 3100,
+          "proj": 7.41,
+          "own": 6.428
+        },
+        {
+          "slot": "DST",
+          "id": 44759331,
+          "name": "Giants",
+          "team": "NYG",
+          "pos": "DST",
+          "salary": 2800,
+          "proj": 8.2,
+          "own": 12.644
+        }
+      ]
+    },
+    {
+      "variant": "leverage",
+      "index": 3,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 127.67,
+      "sumOwnPred": 96.41,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44758300,
+          "name": "Dak Prescott",
+          "team": "DAL",
+          "pos": "QB",
+          "salary": 6500,
+          "proj": 20.89,
+          "own": 6.792
+        },
+        {
+          "slot": "RB",
+          "id": 44758383,
+          "name": "Chuba Hubbard",
+          "team": "CAR",
+          "pos": "RB",
+          "salary": 6500,
+          "proj": 16.61,
+          "own": 14.3
+        },
+        {
+          "slot": "RB",
+          "id": 44758373,
+          "name": "Christian McCaffrey",
+          "team": "SF",
+          "pos": "RB",
+          "salary": 8000,
+          "proj": 22.25,
+          "own": 24.732
+        },
+        {
+          "slot": "WR",
+          "id": 44758641,
+          "name": "Amon-Ra St. Brown",
+          "team": "DET",
+          "pos": "WR",
+          "salary": 8100,
+          "proj": 19.19,
+          "own": 9.187
+        },
+        {
+          "slot": "WR",
+          "id": 44758695,
+          "name": "Keenan Allen",
+          "team": "IND",
+          "pos": "WR",
+          "salary": 4900,
+          "proj": 10.63,
+          "own": 13.528
+        },
+        {
+          "slot": "WR",
+          "id": 44758699,
+          "name": "Ryan Flournoy",
+          "team": "DAL",
+          "pos": "WR",
+          "salary": 4800,
+          "proj": 10.36,
+          "own": 11.131
+        },
+        {
+          "slot": "TE",
+          "id": 44759069,
+          "name": "Sam LaPorta",
+          "team": "DET",
+          "pos": "TE",
+          "salary": 5100,
+          "proj": 12.49,
+          "own": 6.431
+        },
+        {
+          "slot": "FLEX",
+          "id": 44759091,
+          "name": "Chig Okonkwo",
+          "team": "WAS",
+          "pos": "TE",
+          "salary": 3600,
+          "proj": 8.65,
+          "own": 6.211
+        },
+        {
+          "slot": "DST",
+          "id": 44759334,
+          "name": "Eagles",
+          "team": "PHI",
+          "pos": "DST",
+          "salary": 2500,
+          "proj": 6.6,
+          "own": 4.097
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 1,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 136.99,
+      "sumOwnPred": 113.16,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44758312,
+          "name": "Malik Willis",
+          "team": "MIA",
+          "pos": "QB",
+          "salary": 5100,
+          "proj": 17.85,
+          "own": 6.621
+        },
+        {
+          "slot": "RB",
+          "id": 44758369,
+          "name": "Jahmyr Gibbs",
+          "team": "DET",
+          "pos": "RB",
+          "salary": 10000,
+          "proj": 26.99,
+          "own": 14.105
+        },
+        {
+          "slot": "RB",
+          "id": 44758449,
+          "name": "Devin Singletary",
+          "team": "NYG",
+          "pos": "RB",
+          "salary": 4600,
+          "proj": 12.64,
+          "own": 15.578
+        },
+        {
+          "slot": "WR",
+          "id": 44758637,
+          "name": "Puka Nacua",
+          "team": "LAR",
+          "pos": "WR",
+          "salary": 8800,
+          "proj": 23.37,
+          "own": 17.634
+        },
+        {
+          "slot": "WR",
+          "id": 44758703,
+          "name": "Malik Washington",
+          "team": "MIA",
+          "pos": "WR",
+          "salary": 4700,
+          "proj": 10.3,
+          "own": 4.836
+        },
+        {
+          "slot": "WR",
+          "id": 44758707,
+          "name": "KC Concepcion Jr.",
+          "team": "CLE",
+          "pos": "WR",
+          "salary": 4600,
+          "proj": 10.62,
+          "own": 12.543
+        },
+        {
+          "slot": "TE",
+          "id": 44759101,
+          "name": "Dalton Schultz",
+          "team": "HOU",
+          "pos": "TE",
+          "salary": 3200,
+          "proj": 9.33,
+          "own": 17.967
+        },
+        {
+          "slot": "FLEX",
+          "id": 44759065,
+          "name": "George Kittle",
+          "team": "SF",
+          "pos": "TE",
+          "salary": 6000,
+          "proj": 17.59,
+          "own": 13.592
+        },
+        {
+          "slot": "DST",
+          "id": 44759329,
+          "name": "Broncos",
+          "team": "DEN",
+          "pos": "DST",
+          "salary": 3000,
+          "proj": 8.3,
+          "own": 10.28
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 2,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 137.2,
+      "sumOwnPred": 117.79,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44758312,
+          "name": "Malik Willis",
+          "team": "MIA",
+          "pos": "QB",
+          "salary": 5100,
+          "proj": 17.85,
+          "own": 6.621
+        },
+        {
+          "slot": "RB",
+          "id": 44758369,
+          "name": "Jahmyr Gibbs",
+          "team": "DET",
+          "pos": "RB",
+          "salary": 10000,
+          "proj": 26.99,
+          "own": 14.105
+        },
+        {
+          "slot": "RB",
+          "id": 44758449,
+          "name": "Devin Singletary",
+          "team": "NYG",
+          "pos": "RB",
+          "salary": 4600,
+          "proj": 12.64,
+          "own": 15.578
+        },
+        {
+          "slot": "WR",
+          "id": 44758637,
+          "name": "Puka Nacua",
+          "team": "LAR",
+          "pos": "WR",
+          "salary": 8800,
+          "proj": 23.37,
+          "own": 17.634
+        },
+        {
+          "slot": "WR",
+          "id": 44758707,
+          "name": "KC Concepcion Jr.",
+          "team": "CLE",
+          "pos": "WR",
+          "salary": 4600,
+          "proj": 10.62,
+          "own": 12.543
+        },
+        {
+          "slot": "WR",
+          "id": 44758723,
+          "name": "Caleb Douglas",
+          "team": "MIA",
+          "pos": "WR",
+          "salary": 4200,
+          "proj": 9.31,
+          "own": 13.996
+        },
+        {
+          "slot": "TE",
+          "id": 44759101,
+          "name": "Dalton Schultz",
+          "team": "HOU",
+          "pos": "TE",
+          "salary": 3200,
+          "proj": 9.33,
+          "own": 17.967
+        },
+        {
+          "slot": "FLEX",
+          "id": 44759065,
+          "name": "George Kittle",
+          "team": "SF",
+          "pos": "TE",
+          "salary": 6000,
+          "proj": 17.59,
+          "own": 13.592
+        },
+        {
+          "slot": "DST",
+          "id": 44759324,
+          "name": "Texans",
+          "team": "HOU",
+          "pos": "DST",
+          "salary": 3500,
+          "proj": 9.5,
+          "own": 5.758
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 3,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 136.63,
+      "sumOwnPred": 114.11,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44758312,
+          "name": "Malik Willis",
+          "team": "MIA",
+          "pos": "QB",
+          "salary": 5100,
+          "proj": 17.85,
+          "own": 6.621
+        },
+        {
+          "slot": "RB",
+          "id": 44758369,
+          "name": "Jahmyr Gibbs",
+          "team": "DET",
+          "pos": "RB",
+          "salary": 10000,
+          "proj": 26.99,
+          "own": 14.105
+        },
+        {
+          "slot": "RB",
+          "id": 44758449,
+          "name": "Devin Singletary",
+          "team": "NYG",
+          "pos": "RB",
+          "salary": 4600,
+          "proj": 12.64,
+          "own": 15.578
+        },
+        {
+          "slot": "WR",
+          "id": 44758637,
+          "name": "Puka Nacua",
+          "team": "LAR",
+          "pos": "WR",
+          "salary": 8800,
+          "proj": 23.37,
+          "own": 17.634
+        },
+        {
+          "slot": "WR",
+          "id": 44758699,
+          "name": "Ryan Flournoy",
+          "team": "DAL",
+          "pos": "WR",
+          "salary": 4800,
+          "proj": 10.36,
+          "own": 11.131
+        },
+        {
+          "slot": "WR",
+          "id": 44758703,
+          "name": "Malik Washington",
+          "team": "MIA",
+          "pos": "WR",
+          "salary": 4700,
+          "proj": 10.3,
+          "own": 4.836
+        },
+        {
+          "slot": "TE",
+          "id": 44759101,
+          "name": "Dalton Schultz",
+          "team": "HOU",
+          "pos": "TE",
+          "salary": 3200,
+          "proj": 9.33,
+          "own": 17.967
+        },
+        {
+          "slot": "FLEX",
+          "id": 44759065,
+          "name": "George Kittle",
+          "team": "SF",
+          "pos": "TE",
+          "salary": 6000,
+          "proj": 17.59,
+          "own": 13.592
+        },
+        {
+          "slot": "DST",
+          "id": 44759331,
+          "name": "Giants",
+          "team": "NYG",
+          "pos": "DST",
+          "salary": 2800,
+          "proj": 8.2,
+          "own": 12.644
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 4,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 135.46,
+      "sumOwnPred": 102.08,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44758312,
+          "name": "Malik Willis",
+          "team": "MIA",
+          "pos": "QB",
+          "salary": 5100,
+          "proj": 17.85,
+          "own": 6.621
+        },
+        {
+          "slot": "RB",
+          "id": 44758369,
+          "name": "Jahmyr Gibbs",
+          "team": "DET",
+          "pos": "RB",
+          "salary": 10000,
+          "proj": 26.99,
+          "own": 14.105
+        },
+        {
+          "slot": "RB",
+          "id": 44758449,
+          "name": "Devin Singletary",
+          "team": "NYG",
+          "pos": "RB",
+          "salary": 4600,
+          "proj": 12.64,
+          "own": 15.578
+        },
+        {
+          "slot": "WR",
+          "id": 44758637,
+          "name": "Puka Nacua",
+          "team": "LAR",
+          "pos": "WR",
+          "salary": 8800,
+          "proj": 23.37,
+          "own": 17.634
+        },
+        {
+          "slot": "WR",
+          "id": 44758703,
+          "name": "Malik Washington",
+          "team": "MIA",
+          "pos": "WR",
+          "salary": 4700,
+          "proj": 10.3,
+          "own": 4.836
+        },
+        {
+          "slot": "WR",
+          "id": 44758723,
+          "name": "Caleb Douglas",
+          "team": "MIA",
+          "pos": "WR",
+          "salary": 4200,
+          "proj": 9.31,
+          "own": 13.996
+        },
+        {
+          "slot": "TE",
+          "id": 44759077,
+          "name": "Tyler Warren",
+          "team": "IND",
+          "pos": "TE",
+          "salary": 4600,
+          "proj": 11.81,
+          "own": 9.177
+        },
+        {
+          "slot": "FLEX",
+          "id": 44759065,
+          "name": "George Kittle",
+          "team": "SF",
+          "pos": "TE",
+          "salary": 6000,
+          "proj": 17.59,
+          "own": 13.592
+        },
+        {
+          "slot": "DST",
+          "id": 44759342,
+          "name": "Cardinals",
+          "team": "ARI",
+          "pos": "DST",
+          "salary": 2000,
+          "proj": 5.6,
+          "own": 6.538
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 5,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 135.13,
+      "sumOwnPred": 102.4,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44758312,
+          "name": "Malik Willis",
+          "team": "MIA",
+          "pos": "QB",
+          "salary": 5100,
+          "proj": 17.85,
+          "own": 6.621
+        },
+        {
+          "slot": "RB",
+          "id": 44758369,
+          "name": "Jahmyr Gibbs",
+          "team": "DET",
+          "pos": "RB",
+          "salary": 10000,
+          "proj": 26.99,
+          "own": 14.105
+        },
+        {
+          "slot": "RB",
+          "id": 44758449,
+          "name": "Devin Singletary",
+          "team": "NYG",
+          "pos": "RB",
+          "salary": 4600,
+          "proj": 12.64,
+          "own": 15.578
+        },
+        {
+          "slot": "WR",
+          "id": 44758637,
+          "name": "Puka Nacua",
+          "team": "LAR",
+          "pos": "WR",
+          "salary": 8800,
+          "proj": 23.37,
+          "own": 17.634
+        },
+        {
+          "slot": "WR",
+          "id": 44758707,
+          "name": "KC Concepcion Jr.",
+          "team": "CLE",
+          "pos": "WR",
+          "salary": 4600,
+          "proj": 10.62,
+          "own": 12.543
+        },
+        {
+          "slot": "WR",
+          "id": 44758779,
+          "name": "Chris Bell",
+          "team": "MIA",
+          "pos": "WR",
+          "salary": 3300,
+          "proj": 5.96,
+          "own": 2.867
+        },
+        {
+          "slot": "TE",
+          "id": 44759077,
+          "name": "Tyler Warren",
+          "team": "IND",
+          "pos": "TE",
+          "salary": 4600,
+          "proj": 11.81,
+          "own": 9.177
+        },
+        {
+          "slot": "FLEX",
+          "id": 44759065,
+          "name": "George Kittle",
+          "team": "SF",
+          "pos": "TE",
+          "salary": 6000,
+          "proj": 17.59,
+          "own": 13.592
+        },
+        {
+          "slot": "DST",
+          "id": 44759329,
+          "name": "Broncos",
+          "team": "DEN",
+          "pos": "DST",
+          "salary": 3000,
+          "proj": 8.3,
+          "own": 10.28
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 6,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 135.9,
+      "sumOwnPred": 103.27,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44758312,
+          "name": "Malik Willis",
+          "team": "MIA",
+          "pos": "QB",
+          "salary": 5100,
+          "proj": 17.85,
+          "own": 6.621
+        },
+        {
+          "slot": "RB",
+          "id": 44758369,
+          "name": "Jahmyr Gibbs",
+          "team": "DET",
+          "pos": "RB",
+          "salary": 10000,
+          "proj": 26.99,
+          "own": 14.105
+        },
+        {
+          "slot": "RB",
+          "id": 44758449,
+          "name": "Devin Singletary",
+          "team": "NYG",
+          "pos": "RB",
+          "salary": 4600,
+          "proj": 12.64,
+          "own": 15.578
+        },
+        {
+          "slot": "WR",
+          "id": 44758637,
+          "name": "Puka Nacua",
+          "team": "LAR",
+          "pos": "WR",
+          "salary": 8800,
+          "proj": 23.37,
+          "own": 17.634
+        },
+        {
+          "slot": "WR",
+          "id": 44758701,
+          "name": "Makai Lemon",
+          "team": "PHI",
+          "pos": "WR",
+          "salary": 4700,
+          "proj": 9.83,
+          "own": 4.804
+        },
+        {
+          "slot": "WR",
+          "id": 44758703,
+          "name": "Malik Washington",
+          "team": "MIA",
+          "pos": "WR",
+          "salary": 4700,
+          "proj": 10.3,
+          "own": 4.836
+        },
+        {
+          "slot": "TE",
+          "id": 44759101,
+          "name": "Dalton Schultz",
+          "team": "HOU",
+          "pos": "TE",
+          "salary": 3200,
+          "proj": 9.33,
+          "own": 17.967
+        },
+        {
+          "slot": "FLEX",
+          "id": 44759065,
+          "name": "George Kittle",
+          "team": "SF",
+          "pos": "TE",
+          "salary": 6000,
+          "proj": 17.59,
+          "own": 13.592
+        },
+        {
+          "slot": "DST",
+          "id": 44759330,
+          "name": "Saints",
+          "team": "NO",
+          "pos": "DST",
+          "salary": 2900,
+          "proj": 8,
+          "own": 8.129
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 7,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 136.63,
+      "sumOwnPred": 117.3,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44758312,
+          "name": "Malik Willis",
+          "team": "MIA",
+          "pos": "QB",
+          "salary": 5100,
+          "proj": 17.85,
+          "own": 6.621
+        },
+        {
+          "slot": "RB",
+          "id": 44758369,
+          "name": "Jahmyr Gibbs",
+          "team": "DET",
+          "pos": "RB",
+          "salary": 10000,
+          "proj": 26.99,
+          "own": 14.105
+        },
+        {
+          "slot": "RB",
+          "id": 44758389,
+          "name": "Rhamondre Stevenson",
+          "team": "NE",
+          "pos": "RB",
+          "salary": 6100,
+          "proj": 15.97,
+          "own": 14.3
+        },
+        {
+          "slot": "WR",
+          "id": 44758637,
+          "name": "Puka Nacua",
+          "team": "LAR",
+          "pos": "WR",
+          "salary": 8800,
+          "proj": 23.37,
+          "own": 17.634
+        },
+        {
+          "slot": "WR",
+          "id": 44758707,
+          "name": "KC Concepcion Jr.",
+          "team": "CLE",
+          "pos": "WR",
+          "salary": 4600,
+          "proj": 10.62,
+          "own": 12.543
+        },
+        {
+          "slot": "WR",
+          "id": 44758723,
+          "name": "Caleb Douglas",
+          "team": "MIA",
+          "pos": "WR",
+          "salary": 4200,
+          "proj": 9.31,
+          "own": 13.996
+        },
+        {
+          "slot": "TE",
+          "id": 44759101,
+          "name": "Dalton Schultz",
+          "team": "HOU",
+          "pos": "TE",
+          "salary": 3200,
+          "proj": 9.33,
+          "own": 17.967
+        },
+        {
+          "slot": "FLEX",
+          "id": 44759065,
+          "name": "George Kittle",
+          "team": "SF",
+          "pos": "TE",
+          "salary": 6000,
+          "proj": 17.59,
+          "own": 13.592
+        },
+        {
+          "slot": "DST",
+          "id": 44759342,
+          "name": "Cardinals",
+          "team": "ARI",
+          "pos": "DST",
+          "salary": 2000,
+          "proj": 5.6,
+          "own": 6.538
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 8,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 138.42,
+      "sumOwnPred": 133.4,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44758312,
+          "name": "Malik Willis",
+          "team": "MIA",
+          "pos": "QB",
+          "salary": 5100,
+          "proj": 17.85,
+          "own": 6.621
+        },
+        {
+          "slot": "RB",
+          "id": 44758369,
+          "name": "Jahmyr Gibbs",
+          "team": "DET",
+          "pos": "RB",
+          "salary": 10000,
+          "proj": 26.99,
+          "own": 14.105
+        },
+        {
+          "slot": "RB",
+          "id": 44758413,
+          "name": "Jonah Coleman",
+          "team": "DEN",
+          "pos": "RB",
+          "salary": 5300,
+          "proj": 15.16,
+          "own": 24.298
+        },
+        {
+          "slot": "WR",
+          "id": 44758637,
+          "name": "Puka Nacua",
+          "team": "LAR",
+          "pos": "WR",
+          "salary": 8800,
+          "proj": 23.37,
+          "own": 17.634
+        },
+        {
+          "slot": "WR",
+          "id": 44758707,
+          "name": "KC Concepcion Jr.",
+          "team": "CLE",
+          "pos": "WR",
+          "salary": 4600,
+          "proj": 10.62,
+          "own": 12.543
+        },
+        {
+          "slot": "WR",
+          "id": 44758723,
+          "name": "Caleb Douglas",
+          "team": "MIA",
+          "pos": "WR",
+          "salary": 4200,
+          "proj": 9.31,
+          "own": 13.996
+        },
+        {
+          "slot": "TE",
+          "id": 44759101,
+          "name": "Dalton Schultz",
+          "team": "HOU",
+          "pos": "TE",
+          "salary": 3200,
+          "proj": 9.33,
+          "own": 17.967
+        },
+        {
+          "slot": "FLEX",
+          "id": 44759065,
+          "name": "George Kittle",
+          "team": "SF",
+          "pos": "TE",
+          "salary": 6000,
+          "proj": 17.59,
+          "own": 13.592
+        },
+        {
+          "slot": "DST",
+          "id": 44759331,
+          "name": "Giants",
+          "team": "NYG",
+          "pos": "DST",
+          "salary": 2800,
+          "proj": 8.2,
+          "own": 12.644
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 9,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 134.51,
+      "sumOwnPred": 92.54,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44758312,
+          "name": "Malik Willis",
+          "team": "MIA",
+          "pos": "QB",
+          "salary": 5100,
+          "proj": 17.85,
+          "own": 6.621
+        },
+        {
+          "slot": "RB",
+          "id": 44758369,
+          "name": "Jahmyr Gibbs",
+          "team": "DET",
+          "pos": "RB",
+          "salary": 10000,
+          "proj": 26.99,
+          "own": 14.105
+        },
+        {
+          "slot": "RB",
+          "id": 44758449,
+          "name": "Devin Singletary",
+          "team": "NYG",
+          "pos": "RB",
+          "salary": 4600,
+          "proj": 12.64,
+          "own": 15.578
+        },
+        {
+          "slot": "WR",
+          "id": 44758637,
+          "name": "Puka Nacua",
+          "team": "LAR",
+          "pos": "WR",
+          "salary": 8800,
+          "proj": 23.37,
+          "own": 17.634
+        },
+        {
+          "slot": "WR",
+          "id": 44758703,
+          "name": "Malik Washington",
+          "team": "MIA",
+          "pos": "WR",
+          "salary": 4700,
+          "proj": 10.3,
+          "own": 4.836
+        },
+        {
+          "slot": "WR",
+          "id": 44758779,
+          "name": "Chris Bell",
+          "team": "MIA",
+          "pos": "WR",
+          "salary": 3300,
+          "proj": 5.96,
+          "own": 2.867
+        },
+        {
+          "slot": "TE",
+          "id": 44759077,
+          "name": "Tyler Warren",
+          "team": "IND",
+          "pos": "TE",
+          "salary": 4600,
+          "proj": 11.81,
+          "own": 9.177
+        },
+        {
+          "slot": "FLEX",
+          "id": 44759065,
+          "name": "George Kittle",
+          "team": "SF",
+          "pos": "TE",
+          "salary": 6000,
+          "proj": 17.59,
+          "own": 13.592
+        },
+        {
+          "slot": "DST",
+          "id": 44759330,
+          "name": "Saints",
+          "team": "NO",
+          "pos": "DST",
+          "salary": 2900,
+          "proj": 8,
+          "own": 8.129
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 10,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 135.48,
+      "sumOwnPred": 106.75,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44758312,
+          "name": "Malik Willis",
+          "team": "MIA",
+          "pos": "QB",
+          "salary": 5100,
+          "proj": 17.85,
+          "own": 6.621
+        },
+        {
+          "slot": "RB",
+          "id": 44758369,
+          "name": "Jahmyr Gibbs",
+          "team": "DET",
+          "pos": "RB",
+          "salary": 10000,
+          "proj": 26.99,
+          "own": 14.105
+        },
+        {
+          "slot": "RB",
+          "id": 44758449,
+          "name": "Devin Singletary",
+          "team": "NYG",
+          "pos": "RB",
+          "salary": 4600,
+          "proj": 12.64,
+          "own": 15.578
+        },
+        {
+          "slot": "WR",
+          "id": 44758637,
+          "name": "Puka Nacua",
+          "team": "LAR",
+          "pos": "WR",
+          "salary": 8800,
+          "proj": 23.37,
+          "own": 17.634
+        },
+        {
+          "slot": "WR",
+          "id": 44758707,
+          "name": "KC Concepcion Jr.",
+          "team": "CLE",
+          "pos": "WR",
+          "salary": 4600,
+          "proj": 10.62,
+          "own": 12.543
+        },
+        {
+          "slot": "WR",
+          "id": 44758723,
+          "name": "Caleb Douglas",
+          "team": "MIA",
+          "pos": "WR",
+          "salary": 4200,
+          "proj": 9.31,
+          "own": 13.996
+        },
+        {
+          "slot": "TE",
+          "id": 44759077,
+          "name": "Tyler Warren",
+          "team": "IND",
+          "pos": "TE",
+          "salary": 4600,
+          "proj": 11.81,
+          "own": 9.177
+        },
+        {
+          "slot": "FLEX",
+          "id": 44759065,
+          "name": "George Kittle",
+          "team": "SF",
+          "pos": "TE",
+          "salary": 6000,
+          "proj": 17.59,
+          "own": 13.592
+        },
+        {
+          "slot": "DST",
+          "id": 44759341,
+          "name": "Jets",
+          "team": "NYJ",
+          "pos": "DST",
+          "salary": 2100,
+          "proj": 5.3,
+          "own": 3.507
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 11,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 132.94,
+      "sumOwnPred": 112.71,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44758300,
+          "name": "Dak Prescott",
+          "team": "DAL",
+          "pos": "QB",
+          "salary": 6500,
+          "proj": 20.89,
+          "own": 6.792
+        },
+        {
+          "slot": "RB",
+          "id": 44758449,
+          "name": "Devin Singletary",
+          "team": "NYG",
+          "pos": "RB",
+          "salary": 4600,
+          "proj": 12.64,
+          "own": 15.578
+        },
+        {
+          "slot": "RB",
+          "id": 44758389,
+          "name": "Rhamondre Stevenson",
+          "team": "NE",
+          "pos": "RB",
+          "salary": 6100,
+          "proj": 15.97,
+          "own": 14.3
+        },
+        {
+          "slot": "WR",
+          "id": 44758639,
+          "name": "CeeDee Lamb",
+          "team": "DAL",
+          "pos": "WR",
+          "salary": 8300,
+          "proj": 20.56,
+          "own": 15.874
+        },
+        {
+          "slot": "WR",
+          "id": 44758707,
+          "name": "KC Concepcion Jr.",
+          "team": "CLE",
+          "pos": "WR",
+          "salary": 4600,
+          "proj": 10.62,
+          "own": 12.543
+        },
+        {
+          "slot": "WR",
+          "id": 44758635,
+          "name": "Jaxon Smith-Njigba",
+          "team": "SEA",
+          "pos": "WR",
+          "salary": 9300,
+          "proj": 22.92,
+          "own": 7.839
+        },
+        {
+          "slot": "TE",
+          "id": 44759077,
+          "name": "Tyler Warren",
+          "team": "IND",
+          "pos": "TE",
+          "salary": 4600,
+          "proj": 11.81,
+          "own": 9.177
+        },
+        {
+          "slot": "FLEX",
+          "id": 44759101,
+          "name": "Dalton Schultz",
+          "team": "HOU",
+          "pos": "TE",
+          "salary": 3200,
+          "proj": 9.33,
+          "own": 17.967
+        },
+        {
+          "slot": "DST",
+          "id": 44759331,
+          "name": "Giants",
+          "team": "NYG",
+          "pos": "DST",
+          "salary": 2800,
+          "proj": 8.2,
+          "own": 12.644
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 12,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 131.31,
+      "sumOwnPred": 104.62,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44758300,
+          "name": "Dak Prescott",
+          "team": "DAL",
+          "pos": "QB",
+          "salary": 6500,
+          "proj": 20.89,
+          "own": 6.792
+        },
+        {
+          "slot": "RB",
+          "id": 44758449,
+          "name": "Devin Singletary",
+          "team": "NYG",
+          "pos": "RB",
+          "salary": 4600,
+          "proj": 12.64,
+          "own": 15.578
+        },
+        {
+          "slot": "RB",
+          "id": 44758389,
+          "name": "Rhamondre Stevenson",
+          "team": "NE",
+          "pos": "RB",
+          "salary": 6100,
+          "proj": 15.97,
+          "own": 14.3
+        },
+        {
+          "slot": "WR",
+          "id": 44758641,
+          "name": "Amon-Ra St. Brown",
+          "team": "DET",
+          "pos": "WR",
+          "salary": 8100,
+          "proj": 19.19,
+          "own": 9.187
+        },
+        {
+          "slot": "WR",
+          "id": 44758699,
+          "name": "Ryan Flournoy",
+          "team": "DAL",
+          "pos": "WR",
+          "salary": 4800,
+          "proj": 10.36,
+          "own": 11.131
+        },
+        {
+          "slot": "WR",
+          "id": 44758635,
+          "name": "Jaxon Smith-Njigba",
+          "team": "SEA",
+          "pos": "WR",
+          "salary": 9300,
+          "proj": 22.92,
+          "own": 7.839
+        },
+        {
+          "slot": "TE",
+          "id": 44759077,
+          "name": "Tyler Warren",
+          "team": "IND",
+          "pos": "TE",
+          "salary": 4600,
+          "proj": 11.81,
+          "own": 9.177
+        },
+        {
+          "slot": "FLEX",
+          "id": 44759101,
+          "name": "Dalton Schultz",
+          "team": "HOU",
+          "pos": "TE",
+          "salary": 3200,
+          "proj": 9.33,
+          "own": 17.967
+        },
+        {
+          "slot": "DST",
+          "id": 44759331,
+          "name": "Giants",
+          "team": "NYG",
+          "pos": "DST",
+          "salary": 2800,
+          "proj": 8.2,
+          "own": 12.644
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 13,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 132.05,
+      "sumOwnPred": 105.75,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44758326,
+          "name": "Drew Lock",
+          "team": "SEA",
+          "pos": "QB",
+          "salary": 4000,
+          "proj": 15.81,
+          "own": 6.354
+        },
+        {
+          "slot": "RB",
+          "id": 44758373,
+          "name": "Christian McCaffrey",
+          "team": "SF",
+          "pos": "RB",
+          "salary": 8000,
+          "proj": 22.25,
+          "own": 24.732
+        },
+        {
+          "slot": "RB",
+          "id": 44758409,
+          "name": "Tyler Allgeier",
+          "team": "ARI",
+          "pos": "RB",
+          "salary": 5400,
+          "proj": 11.92,
+          "own": 5.307
+        },
+        {
+          "slot": "WR",
+          "id": 44758641,
+          "name": "Amon-Ra St. Brown",
+          "team": "DET",
+          "pos": "WR",
+          "salary": 8100,
+          "proj": 19.19,
+          "own": 9.187
+        },
+        {
+          "slot": "WR",
+          "id": 44758707,
+          "name": "KC Concepcion Jr.",
+          "team": "CLE",
+          "pos": "WR",
+          "salary": 4600,
+          "proj": 10.62,
+          "own": 12.543
+        },
+        {
+          "slot": "WR",
+          "id": 44758635,
+          "name": "Jaxon Smith-Njigba",
+          "team": "SEA",
+          "pos": "WR",
+          "salary": 9300,
+          "proj": 22.92,
+          "own": 7.839
+        },
+        {
+          "slot": "TE",
+          "id": 44759077,
+          "name": "Tyler Warren",
+          "team": "IND",
+          "pos": "TE",
+          "salary": 4600,
+          "proj": 11.81,
+          "own": 9.177
+        },
+        {
+          "slot": "FLEX",
+          "id": 44759101,
+          "name": "Dalton Schultz",
+          "team": "HOU",
+          "pos": "TE",
+          "salary": 3200,
+          "proj": 9.33,
+          "own": 17.967
+        },
+        {
+          "slot": "DST",
+          "id": 44759331,
+          "name": "Giants",
+          "team": "NYG",
+          "pos": "DST",
+          "salary": 2800,
+          "proj": 8.2,
+          "own": 12.644
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 14,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 128.93,
+      "sumOwnPred": 83.78,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44758326,
+          "name": "Drew Lock",
+          "team": "SEA",
+          "pos": "QB",
+          "salary": 4000,
+          "proj": 15.81,
+          "own": 6.354
+        },
+        {
+          "slot": "RB",
+          "id": 44758389,
+          "name": "Rhamondre Stevenson",
+          "team": "NE",
+          "pos": "RB",
+          "salary": 6100,
+          "proj": 15.97,
+          "own": 14.3
+        },
+        {
+          "slot": "RB",
+          "id": 44758409,
+          "name": "Tyler Allgeier",
+          "team": "ARI",
+          "pos": "RB",
+          "salary": 5400,
+          "proj": 11.92,
+          "own": 5.307
+        },
+        {
+          "slot": "WR",
+          "id": 44758641,
+          "name": "Amon-Ra St. Brown",
+          "team": "DET",
+          "pos": "WR",
+          "salary": 8100,
+          "proj": 19.19,
+          "own": 9.187
+        },
+        {
+          "slot": "WR",
+          "id": 44758707,
+          "name": "KC Concepcion Jr.",
+          "team": "CLE",
+          "pos": "WR",
+          "salary": 4600,
+          "proj": 10.62,
+          "own": 12.543
+        },
+        {
+          "slot": "WR",
+          "id": 44758635,
+          "name": "Jaxon Smith-Njigba",
+          "team": "SEA",
+          "pos": "WR",
+          "salary": 9300,
+          "proj": 22.92,
+          "own": 7.839
+        },
+        {
+          "slot": "TE",
+          "id": 44759069,
+          "name": "Sam LaPorta",
+          "team": "DET",
+          "pos": "TE",
+          "salary": 5100,
+          "proj": 12.49,
+          "own": 6.431
+        },
+        {
+          "slot": "FLEX",
+          "id": 44759077,
+          "name": "Tyler Warren",
+          "team": "IND",
+          "pos": "TE",
+          "salary": 4600,
+          "proj": 11.81,
+          "own": 9.177
+        },
+        {
+          "slot": "DST",
+          "id": 44759331,
+          "name": "Giants",
+          "team": "NYG",
+          "pos": "DST",
+          "salary": 2800,
+          "proj": 8.2,
+          "own": 12.644
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 15,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 132.03,
+      "sumOwnPred": 109.42,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44758300,
+          "name": "Dak Prescott",
+          "team": "DAL",
+          "pos": "QB",
+          "salary": 6500,
+          "proj": 20.89,
+          "own": 6.792
+        },
+        {
+          "slot": "RB",
+          "id": 44758373,
+          "name": "Christian McCaffrey",
+          "team": "SF",
+          "pos": "RB",
+          "salary": 8000,
+          "proj": 22.25,
+          "own": 24.732
+        },
+        {
+          "slot": "RB",
+          "id": 44758389,
+          "name": "Rhamondre Stevenson",
+          "team": "NE",
+          "pos": "RB",
+          "salary": 6100,
+          "proj": 15.97,
+          "own": 14.3
+        },
+        {
+          "slot": "WR",
+          "id": 44758699,
+          "name": "Ryan Flournoy",
+          "team": "DAL",
+          "pos": "WR",
+          "salary": 4800,
+          "proj": 10.36,
+          "own": 11.131
+        },
+        {
+          "slot": "WR",
+          "id": 44758703,
+          "name": "Malik Washington",
+          "team": "MIA",
+          "pos": "WR",
+          "salary": 4700,
+          "proj": 10.3,
+          "own": 4.836
+        },
+        {
+          "slot": "WR",
+          "id": 44758635,
+          "name": "Jaxon Smith-Njigba",
+          "team": "SEA",
+          "pos": "WR",
+          "salary": 9300,
+          "proj": 22.92,
+          "own": 7.839
+        },
+        {
+          "slot": "TE",
+          "id": 44759077,
+          "name": "Tyler Warren",
+          "team": "IND",
+          "pos": "TE",
+          "salary": 4600,
+          "proj": 11.81,
+          "own": 9.177
+        },
+        {
+          "slot": "FLEX",
+          "id": 44759101,
+          "name": "Dalton Schultz",
+          "team": "HOU",
+          "pos": "TE",
+          "salary": 3200,
+          "proj": 9.33,
+          "own": 17.967
+        },
+        {
+          "slot": "DST",
+          "id": 44759331,
+          "name": "Giants",
+          "team": "NYG",
+          "pos": "DST",
+          "salary": 2800,
+          "proj": 8.2,
+          "own": 12.644
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 16,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 129.81,
+      "sumOwnPred": 86.5,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44758326,
+          "name": "Drew Lock",
+          "team": "SEA",
+          "pos": "QB",
+          "salary": 4000,
+          "proj": 15.81,
+          "own": 6.354
+        },
+        {
+          "slot": "RB",
+          "id": 44758373,
+          "name": "Christian McCaffrey",
+          "team": "SF",
+          "pos": "RB",
+          "salary": 8000,
+          "proj": 22.25,
+          "own": 24.732
+        },
+        {
+          "slot": "RB",
+          "id": 44758409,
+          "name": "Tyler Allgeier",
+          "team": "ARI",
+          "pos": "RB",
+          "salary": 5400,
+          "proj": 11.92,
+          "own": 5.307
+        },
+        {
+          "slot": "WR",
+          "id": 44758641,
+          "name": "Amon-Ra St. Brown",
+          "team": "DET",
+          "pos": "WR",
+          "salary": 8100,
+          "proj": 19.19,
+          "own": 9.187
+        },
+        {
+          "slot": "WR",
+          "id": 44758703,
+          "name": "Malik Washington",
+          "team": "MIA",
+          "pos": "WR",
+          "salary": 4700,
+          "proj": 10.3,
+          "own": 4.836
+        },
+        {
+          "slot": "WR",
+          "id": 44758635,
+          "name": "Jaxon Smith-Njigba",
+          "team": "SEA",
+          "pos": "WR",
+          "salary": 9300,
+          "proj": 22.92,
+          "own": 7.839
+        },
+        {
+          "slot": "TE",
+          "id": 44759077,
+          "name": "Tyler Warren",
+          "team": "IND",
+          "pos": "TE",
+          "salary": 4600,
+          "proj": 11.81,
+          "own": 9.177
+        },
+        {
+          "slot": "FLEX",
+          "id": 44759107,
+          "name": "Mason Taylor",
+          "team": "NYJ",
+          "pos": "TE",
+          "salary": 3100,
+          "proj": 7.41,
+          "own": 6.428
+        },
+        {
+          "slot": "DST",
+          "id": 44759331,
+          "name": "Giants",
+          "team": "NYG",
+          "pos": "DST",
+          "salary": 2800,
+          "proj": 8.2,
+          "own": 12.644
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 17,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 130.5,
+      "sumOwnPred": 99.88,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44758303,
+          "name": "Patrick Mahomes",
+          "team": "KC",
+          "pos": "QB",
+          "salary": 6100,
+          "proj": 20.53,
+          "own": 6.611
+        },
+        {
+          "slot": "RB",
+          "id": 44758373,
+          "name": "Christian McCaffrey",
+          "team": "SF",
+          "pos": "RB",
+          "salary": 8000,
+          "proj": 22.25,
+          "own": 24.732
+        },
+        {
+          "slot": "RB",
+          "id": 44758389,
+          "name": "Rhamondre Stevenson",
+          "team": "NE",
+          "pos": "RB",
+          "salary": 6100,
+          "proj": 15.97,
+          "own": 14.3
+        },
+        {
+          "slot": "WR",
+          "id": 44758663,
+          "name": "Rashee Rice",
+          "team": "KC",
+          "pos": "WR",
+          "salary": 6400,
+          "proj": 13.95,
+          "own": 8.571
+        },
+        {
+          "slot": "WR",
+          "id": 44758707,
+          "name": "KC Concepcion Jr.",
+          "team": "CLE",
+          "pos": "WR",
+          "salary": 4600,
+          "proj": 10.62,
+          "own": 12.543
+        },
+        {
+          "slot": "WR",
+          "id": 44758635,
+          "name": "Jaxon Smith-Njigba",
+          "team": "SEA",
+          "pos": "WR",
+          "salary": 9300,
+          "proj": 22.92,
+          "own": 7.839
+        },
+        {
+          "slot": "TE",
+          "id": 44759091,
+          "name": "Chig Okonkwo",
+          "team": "WAS",
+          "pos": "TE",
+          "salary": 3600,
+          "proj": 8.65,
+          "own": 6.211
+        },
+        {
+          "slot": "FLEX",
+          "id": 44759107,
+          "name": "Mason Taylor",
+          "team": "NYJ",
+          "pos": "TE",
+          "salary": 3100,
+          "proj": 7.41,
+          "own": 6.428
+        },
+        {
+          "slot": "DST",
+          "id": 44759331,
+          "name": "Giants",
+          "team": "NYG",
+          "pos": "DST",
+          "salary": 2800,
+          "proj": 8.2,
+          "own": 12.644
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 18,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 128.33,
+      "sumOwnPred": 81.19,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44758326,
+          "name": "Drew Lock",
+          "team": "SEA",
+          "pos": "QB",
+          "salary": 4000,
+          "proj": 15.81,
+          "own": 6.354
+        },
+        {
+          "slot": "RB",
+          "id": 44758383,
+          "name": "Chuba Hubbard",
+          "team": "CAR",
+          "pos": "RB",
+          "salary": 6500,
+          "proj": 16.61,
+          "own": 14.3
+        },
+        {
+          "slot": "RB",
+          "id": 44758389,
+          "name": "Rhamondre Stevenson",
+          "team": "NE",
+          "pos": "RB",
+          "salary": 6100,
+          "proj": 15.97,
+          "own": 14.3
+        },
+        {
+          "slot": "WR",
+          "id": 44758641,
+          "name": "Amon-Ra St. Brown",
+          "team": "DET",
+          "pos": "WR",
+          "salary": 8100,
+          "proj": 19.19,
+          "own": 9.187
+        },
+        {
+          "slot": "WR",
+          "id": 44758703,
+          "name": "Malik Washington",
+          "team": "MIA",
+          "pos": "WR",
+          "salary": 4700,
+          "proj": 10.3,
+          "own": 4.836
+        },
+        {
+          "slot": "WR",
+          "id": 44758635,
+          "name": "Jaxon Smith-Njigba",
+          "team": "SEA",
+          "pos": "WR",
+          "salary": 9300,
+          "proj": 22.92,
+          "own": 7.839
+        },
+        {
+          "slot": "TE",
+          "id": 44759107,
+          "name": "Mason Taylor",
+          "team": "NYJ",
+          "pos": "TE",
+          "salary": 3100,
+          "proj": 7.41,
+          "own": 6.428
+        },
+        {
+          "slot": "FLEX",
+          "id": 44758409,
+          "name": "Tyler Allgeier",
+          "team": "ARI",
+          "pos": "RB",
+          "salary": 5400,
+          "proj": 11.92,
+          "own": 5.307
+        },
+        {
+          "slot": "DST",
+          "id": 44759331,
+          "name": "Giants",
+          "team": "NYG",
+          "pos": "DST",
+          "salary": 2800,
+          "proj": 8.2,
+          "own": 12.644
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 19,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 129.42,
+      "sumOwnPred": 84.09,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44758326,
+          "name": "Drew Lock",
+          "team": "SEA",
+          "pos": "QB",
+          "salary": 4000,
+          "proj": 15.81,
+          "own": 6.354
+        },
+        {
+          "slot": "RB",
+          "id": 44758413,
+          "name": "Jonah Coleman",
+          "team": "DEN",
+          "pos": "RB",
+          "salary": 5300,
+          "proj": 15.16,
+          "own": 24.298
+        },
+        {
+          "slot": "RB",
+          "id": 44758389,
+          "name": "Rhamondre Stevenson",
+          "team": "NE",
+          "pos": "RB",
+          "salary": 6100,
+          "proj": 15.97,
+          "own": 14.3
+        },
+        {
+          "slot": "WR",
+          "id": 44758641,
+          "name": "Amon-Ra St. Brown",
+          "team": "DET",
+          "pos": "WR",
+          "salary": 8100,
+          "proj": 19.19,
+          "own": 9.187
+        },
+        {
+          "slot": "WR",
+          "id": 44758703,
+          "name": "Malik Washington",
+          "team": "MIA",
+          "pos": "WR",
+          "salary": 4700,
+          "proj": 10.3,
+          "own": 4.836
+        },
+        {
+          "slot": "WR",
+          "id": 44758635,
+          "name": "Jaxon Smith-Njigba",
+          "team": "SEA",
+          "pos": "WR",
+          "salary": 9300,
+          "proj": 22.92,
+          "own": 7.839
+        },
+        {
+          "slot": "TE",
+          "id": 44759091,
+          "name": "Chig Okonkwo",
+          "team": "WAS",
+          "pos": "TE",
+          "salary": 3600,
+          "proj": 8.65,
+          "own": 6.211
+        },
+        {
+          "slot": "FLEX",
+          "id": 44758409,
+          "name": "Tyler Allgeier",
+          "team": "ARI",
+          "pos": "RB",
+          "salary": 5400,
+          "proj": 11.92,
+          "own": 5.307
+        },
+        {
+          "slot": "DST",
+          "id": 44759324,
+          "name": "Texans",
+          "team": "HOU",
+          "pos": "DST",
+          "salary": 3500,
+          "proj": 9.5,
+          "own": 5.758
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 20,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 129.62,
+      "sumOwnPred": 89.63,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44758326,
+          "name": "Drew Lock",
+          "team": "SEA",
+          "pos": "QB",
+          "salary": 4000,
+          "proj": 15.81,
+          "own": 6.354
+        },
+        {
+          "slot": "RB",
+          "id": 44758413,
+          "name": "Jonah Coleman",
+          "team": "DEN",
+          "pos": "RB",
+          "salary": 5300,
+          "proj": 15.16,
+          "own": 24.298
+        },
+        {
+          "slot": "RB",
+          "id": 44758409,
+          "name": "Tyler Allgeier",
+          "team": "ARI",
+          "pos": "RB",
+          "salary": 5400,
+          "proj": 11.92,
+          "own": 5.307
+        },
+        {
+          "slot": "WR",
+          "id": 44758639,
+          "name": "CeeDee Lamb",
+          "team": "DAL",
+          "pos": "WR",
+          "salary": 8300,
+          "proj": 20.56,
+          "own": 15.874
+        },
+        {
+          "slot": "WR",
+          "id": 44758641,
+          "name": "Amon-Ra St. Brown",
+          "team": "DET",
+          "pos": "WR",
+          "salary": 8100,
+          "proj": 19.19,
+          "own": 9.187
+        },
+        {
+          "slot": "WR",
+          "id": 44758635,
+          "name": "Jaxon Smith-Njigba",
+          "team": "SEA",
+          "pos": "WR",
+          "salary": 9300,
+          "proj": 22.92,
+          "own": 7.839
+        },
+        {
+          "slot": "TE",
+          "id": 44759091,
+          "name": "Chig Okonkwo",
+          "team": "WAS",
+          "pos": "TE",
+          "salary": 3600,
+          "proj": 8.65,
+          "own": 6.211
+        },
+        {
+          "slot": "FLEX",
+          "id": 44759107,
+          "name": "Mason Taylor",
+          "team": "NYJ",
+          "pos": "TE",
+          "salary": 3100,
+          "proj": 7.41,
+          "own": 6.428
+        },
+        {
+          "slot": "DST",
+          "id": 44759330,
+          "name": "Saints",
+          "team": "NO",
+          "pos": "DST",
+          "salary": 2900,
+          "proj": 8,
+          "own": 8.129
+        }
+      ]
+    }
+  ]
+}
