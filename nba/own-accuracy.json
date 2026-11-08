@@ -2,6 +2,50 @@
  "sport": "nba",
  "slates": [
   {
+   "slate": "156199",
+   "date": "2026-11-07",
+   "label": "NBA $200K Fadeaway [$50K to 1st]",
+   "entries": 12335,
+   "source": "live",
+   "model": "v1",
+   "predictedAt": "2026-11-08T00:00:07+00:00",
+   "lockAt": "2026-11-08T00:30:00+00:00",
+   "minutesBeforeLock": 30,
+   "n": 142,
+   "mae": 3.315,
+   "mae5": 7.685,
+   "spearman": 0.923,
+   "top10": 0.4,
+   "chalk": {
+    "n": 14,
+    "caught": 10
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Alexandre Sarr",
+     "pos": "ALL",
+     "team": "WAS",
+     "pred": 3.17,
+     "actual": 50.27
+    },
+    {
+     "name": "Danny Wolf",
+     "pos": "ALL",
+     "team": "BKN",
+     "pred": 1.62,
+     "actual": 26.92
+    },
+    {
+     "name": "Mario Hezonja",
+     "pos": "ALL",
+     "team": "CLE",
+     "pred": 11.12,
+     "actual": 35.78
+    }
+   ]
+  },
+  {
    "slate": "156184",
    "date": "2026-11-06",
    "label": "NBA $300K Friday 8's [$100K to 1st]",
@@ -311,13 +355,13 @@
   }
  ],
  "recent": {
-  "slates": 7,
-  "n": 1400,
-  "mae": 2.721,
-  "mae5": 7.812,
+  "slates": 8,
+  "n": 1542,
+  "mae": 2.776,
+  "mae5": 7.797,
   "chalk": {
-   "n": 92,
-   "caught": 57
+   "n": 106,
+   "caught": 67
   },
   "falseChalk": 3
  }
