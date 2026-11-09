@@ -1,0 +1,420 @@
+{
+  "sport": "nfl",
+  "slate": "155994",
+  "date": "2026-11-08",
+  "contest": {
+    "id": 197411852,
+    "label": "NFL $2.5M Fantasy Football Millionaire [$1M to 1st]",
+    "entries": 147058
+  },
+  "generatedAt": "2026-11-09T09:40:29.655Z",
+  "winner": {
+    "rank": 1,
+    "name": "merlinh (9/51)",
+    "points": 221.38,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "QB",
+        "id": 44758301,
+        "name": "Jordan Love",
+        "team": "GB",
+        "pos": "QB",
+        "salary": 6300,
+        "fpts": 39.18,
+        "own": 2.78
+      },
+      {
+        "slot": "RB",
+        "id": 44758371,
+        "name": "Kenneth Walker III",
+        "team": "KC",
+        "pos": "RB",
+        "salary": 9000,
+        "fpts": 39.3,
+        "own": 11.88
+      },
+      {
+        "slot": "RB",
+        "id": 44758413,
+        "name": "Jonah Coleman",
+        "team": "DEN",
+        "pos": "RB",
+        "salary": 5300,
+        "fpts": 18.8,
+        "own": 37.97
+      },
+      {
+        "slot": "WR",
+        "id": 44758643,
+        "name": "Christian Watson",
+        "team": "GB",
+        "pos": "WR",
+        "salary": 7500,
+        "fpts": 33.1,
+        "own": 4.24
+      },
+      {
+        "slot": "WR",
+        "id": 44758651,
+        "name": "Matthew Golden",
+        "team": "GB",
+        "pos": "WR",
+        "salary": 7000,
+        "fpts": 35.4,
+        "own": 9.7
+      },
+      {
+        "slot": "WR",
+        "id": 44758697,
+        "name": "DeMario Douglas",
+        "team": "NE",
+        "pos": "WR",
+        "salary": 4800,
+        "fpts": 18.2,
+        "own": 9.2
+      },
+      {
+        "slot": "TE",
+        "id": 44759105,
+        "name": "Greg Dulcich",
+        "team": "MIA",
+        "pos": "TE",
+        "salary": 3100,
+        "fpts": 3.4,
+        "own": 23.25
+      },
+      {
+        "slot": "FLEX",
+        "id": 44759099,
+        "name": "Darren Waller",
+        "team": "CAR",
+        "pos": "TE",
+        "salary": 3300,
+        "fpts": 23,
+        "own": 0.96
+      },
+      {
+        "slot": "DST",
+        "id": 44759322,
+        "name": "Chiefs",
+        "team": "KC",
+        "pos": "DST",
+        "salary": 3700,
+        "fpts": 11,
+        "own": 2.17
+      }
+    ]
+  },
+  "optimal": {
+    "points": 266.86,
+    "salary": 49800,
+    "players": [
+      {
+        "slot": "QB",
+        "id": 44758305,
+        "name": "C.J. Stroud",
+        "team": "HOU",
+        "pos": "QB",
+        "salary": 5900,
+        "fpts": 39.36,
+        "own": 1.98
+      },
+      {
+        "slot": "RB",
+        "id": 44758371,
+        "name": "Kenneth Walker III",
+        "team": "KC",
+        "pos": "RB",
+        "salary": 9000,
+        "fpts": 39.3,
+        "own": 11.88
+      },
+      {
+        "slot": "RB",
+        "id": 44758413,
+        "name": "Jonah Coleman",
+        "team": "DEN",
+        "pos": "RB",
+        "salary": 5300,
+        "fpts": 18.8,
+        "own": 37.97
+      },
+      {
+        "slot": "WR",
+        "id": 44758637,
+        "name": "Puka Nacua",
+        "team": "LAR",
+        "pos": "WR",
+        "salary": 8800,
+        "fpts": 39,
+        "own": 28.53
+      },
+      {
+        "slot": "WR",
+        "id": 44758755,
+        "name": "Tank Dell",
+        "team": "HOU",
+        "pos": "WR",
+        "salary": 3500,
+        "fpts": 23.5,
+        "own": 1
+      },
+      {
+        "slot": "WR",
+        "id": 44758763,
+        "name": "Kayshon Boutte",
+        "team": "HOU",
+        "pos": "WR",
+        "salary": 3400,
+        "fpts": 31.5,
+        "own": 0.1
+      },
+      {
+        "slot": "TE",
+        "id": 44759099,
+        "name": "Darren Waller",
+        "team": "CAR",
+        "pos": "TE",
+        "salary": 3300,
+        "fpts": 23,
+        "own": 0.96
+      },
+      {
+        "slot": "FLEX",
+        "id": 44758651,
+        "name": "Matthew Golden",
+        "team": "GB",
+        "pos": "WR",
+        "salary": 7000,
+        "fpts": 35.4,
+        "own": 9.7
+      },
+      {
+        "slot": "DST",
+        "id": 44759323,
+        "name": "49ers",
+        "team": "SF",
+        "pos": "DST",
+        "salary": 3600,
+        "fpts": 17,
+        "own": 1.03
+      }
+    ],
+    "assumedZero": 226
+  },
+  "paper": {
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 68868,
+    "pctile": 53.15,
+    "points": 120.52,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "QB",
+        "id": 44758312,
+        "name": "Malik Willis",
+        "team": "MIA",
+        "pos": "QB",
+        "salary": 5100,
+        "fpts": 4.82,
+        "own": 14.3
+      },
+      {
+        "slot": "RB",
+        "id": 44758369,
+        "name": "Jahmyr Gibbs",
+        "team": "DET",
+        "pos": "RB",
+        "salary": 10000,
+        "fpts": 13.4,
+        "own": 28.23
+      },
+      {
+        "slot": "RB",
+        "id": 44758413,
+        "name": "Jonah Coleman",
+        "team": "DEN",
+        "pos": "RB",
+        "salary": 5300,
+        "fpts": 18.8,
+        "own": 37.97
+      },
+      {
+        "slot": "WR",
+        "id": 44758637,
+        "name": "Puka Nacua",
+        "team": "LAR",
+        "pos": "WR",
+        "salary": 8800,
+        "fpts": 39,
+        "own": 28.53
+      },
+      {
+        "slot": "WR",
+        "id": 44758707,
+        "name": "KC Concepcion Jr.",
+        "team": "CLE",
+        "pos": "WR",
+        "salary": 4600,
+        "fpts": 18.8,
+        "own": 6.22
+      },
+      {
+        "slot": "WR",
+        "id": 44758727,
+        "name": "Antonio Williams",
+        "team": "WAS",
+        "pos": "WR",
+        "salary": 4100,
+        "fpts": 5.5,
+        "own": 20.01
+      },
+      {
+        "slot": "TE",
+        "id": 44759105,
+        "name": "Greg Dulcich",
+        "team": "MIA",
+        "pos": "TE",
+        "salary": 3100,
+        "fpts": 3.4,
+        "own": 23.25
+      },
+      {
+        "slot": "FLEX",
+        "id": 44759065,
+        "name": "George Kittle",
+        "team": "SF",
+        "pos": "TE",
+        "salary": 6000,
+        "fpts": 9.8,
+        "own": 25.93
+      },
+      {
+        "slot": "DST",
+        "id": 44759329,
+        "name": "Broncos",
+        "team": "DEN",
+        "pos": "DST",
+        "salary": 3000,
+        "fpts": 7,
+        "own": 8.43
+      }
+    ],
+    "money": {
+      "fee": 20,
+      "one": {
+        "won": 0,
+        "net": -20
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -20
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 30,
+        "net": -370,
+        "cashed": 1
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "GB": 3,
+        "KC": 2,
+        "CAR": 1,
+        "DEN": 1,
+        "MIA": 1,
+        "NE": 1
+      },
+      "games": {
+        "GB@NE": 4,
+        "DEN@CAR": 2,
+        "NYJ@KC": 2,
+        "DET@MIA": 1
+      },
+      "nGames": 4,
+      "qb": {
+        "team": "GB",
+        "catchers": 2,
+        "bringBack": 1
+      },
+      "rbDst": [
+        "KC"
+      ],
+      "summary": [
+        "QB GB + 2 · bring-back 1",
+        "RB+DST KC",
+        "GB 3 · KC 2",
+        "4 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "HOU": 3,
+        "CAR": 1,
+        "DEN": 1,
+        "GB": 1,
+        "KC": 1,
+        "LAR": 1,
+        "SF": 1
+      },
+      "games": {
+        "HOU@LAC": 3,
+        "DEN@CAR": 2,
+        "GB@NE": 1,
+        "LAR@WAS": 1,
+        "LV@SF": 1,
+        "NYJ@KC": 1
+      },
+      "nGames": 6,
+      "qb": {
+        "team": "HOU",
+        "catchers": 2,
+        "bringBack": 0
+      },
+      "rbDst": [],
+      "summary": [
+        "QB HOU + 2",
+        "HOU 3",
+        "6 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "DEN": 2,
+        "MIA": 2,
+        "CLE": 1,
+        "DET": 1,
+        "LAR": 1,
+        "SF": 1,
+        "WAS": 1
+      },
+      "games": {
+        "DET@MIA": 3,
+        "DEN@CAR": 2,
+        "LAR@WAS": 2,
+        "CLE@NO": 1,
+        "LV@SF": 1
+      },
+      "nGames": 5,
+      "qb": {
+        "team": "MIA",
+        "catchers": 1,
+        "bringBack": 1
+      },
+      "rbDst": [
+        "DEN"
+      ],
+      "summary": [
+        "QB MIA + 1 · bring-back 1",
+        "RB+DST DEN",
+        "DEN 2 · MIA 2",
+        "5 games"
+      ]
+    }
+  }
+}
