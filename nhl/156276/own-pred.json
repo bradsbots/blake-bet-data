@@ -3,8 +3,8 @@
   "slate": "156276",
   "model": "v1",
   "modelFile": "/blake-bet/pipeline/models/ownership_nhl_v1.json",
-  "predictedAt": "2026-11-09T00:00:16+00:00",
-  "slateExportedAt": "2026-11-09T00:00:14.266436+00:00",
+  "predictedAt": "2026-11-09T01:00:14+00:00",
+  "slateExportedAt": "2026-11-09T01:00:14.123977+00:00",
   "lockAt": "2026-11-10T01:00:00+00:00",
   "budgets": {
     "C": 233.3333,
