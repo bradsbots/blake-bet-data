@@ -2,6 +2,50 @@
  "sport": "nfl",
  "slates": [
   {
+   "slate": "155994",
+   "date": "2026-11-08",
+   "label": "NFL $2.5M Fantasy Football Millionaire [$1M to 1st]",
+   "entries": 147058,
+   "source": "live",
+   "model": "v1",
+   "predictedAt": "2026-11-08T17:30:27+00:00",
+   "lockAt": "2026-11-08T18:00:00+00:00",
+   "minutesBeforeLock": 30,
+   "n": 461,
+   "mae": 0.887,
+   "mae5": 4.433,
+   "spearman": 0.8871,
+   "top10": 0.7,
+   "chalk": {
+    "n": 10,
+    "caught": 7
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Ryan Flournoy",
+     "pos": "WR",
+     "team": "DAL",
+     "pred": 39.89,
+     "actual": 17.58
+    },
+    {
+     "name": "Jaxon Smith-Njigba",
+     "pos": "WR",
+     "team": "SEA",
+     "pred": 6.63,
+     "actual": 22.37
+    },
+    {
+     "name": "Jahmyr Gibbs",
+     "pos": "RB",
+     "team": "DET",
+     "pred": 14.7,
+     "actual": 28.23
+    }
+   ]
+  },
+  {
    "slate": "153728",
    "date": "2026-11-01",
    "label": "NFL $2.5M Fantasy Football Millionaire [$1M to 1st, $50K Crown Cash Throne Eligible]",
@@ -135,13 +179,13 @@
   }
  ],
  "recent": {
-  "slates": 3,
-  "n": 1305,
-  "mae": 1.144,
-  "mae5": 4.886,
+  "slates": 4,
+  "n": 1766,
+  "mae": 1.077,
+  "mae5": 4.771,
   "chalk": {
-   "n": 26,
-   "caught": 12
+   "n": 36,
+   "caught": 19
   },
   "falseChalk": 1
  }
