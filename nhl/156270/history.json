@@ -1,0 +1,426 @@
+{
+  "sport": "nhl",
+  "slate": "156270",
+  "date": "2026-11-08",
+  "contest": {
+    "id": 197553001,
+    "label": "NHL $15K Overload  [$5K to 1st]",
+    "entries": 882
+  },
+  "generatedAt": "2026-11-09T09:40:40.371Z",
+  "winner": {
+    "rank": 1,
+    "name": "themtm (2/2)",
+    "points": 204.8,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44840399,
+        "name": "Mikael Granlund",
+        "team": "ANA",
+        "pos": "C",
+        "salary": 5000,
+        "fpts": 33.6,
+        "own": 28.12
+      },
+      {
+        "slot": "C",
+        "id": 44840563,
+        "name": "Brayden Yager",
+        "team": "WPG",
+        "pos": "C",
+        "salary": 2700,
+        "fpts": 10,
+        "own": 2.38
+      },
+      {
+        "slot": "W",
+        "id": 44840411,
+        "name": "Cutter Gauthier",
+        "team": "ANA",
+        "pos": "W",
+        "salary": 7700,
+        "fpts": 48.5,
+        "own": 40.7
+      },
+      {
+        "slot": "W",
+        "id": 44840579,
+        "name": "Cole Perfetti",
+        "team": "WPG",
+        "pos": "W",
+        "salary": 5300,
+        "fpts": 28.1,
+        "own": 4.88
+      },
+      {
+        "slot": "W",
+        "id": 44840581,
+        "name": "Dawson Mercer",
+        "team": "WPG",
+        "pos": "W",
+        "salary": 3500,
+        "fpts": 1.5,
+        "own": 3.97
+      },
+      {
+        "slot": "D",
+        "id": 44840431,
+        "name": "Jackson LaCombe",
+        "team": "ANA",
+        "pos": "D",
+        "salary": 5600,
+        "fpts": 29,
+        "own": 22.45
+      },
+      {
+        "slot": "D",
+        "id": 44840751,
+        "name": "Erik Karlsson",
+        "team": "PIT",
+        "pos": "D",
+        "salary": 5800,
+        "fpts": 20,
+        "own": 10.77
+      },
+      {
+        "slot": "G",
+        "id": 44840395,
+        "name": "Connor Hellebuyck",
+        "team": "NJD",
+        "pos": "G",
+        "salary": 7900,
+        "fpts": 26.1,
+        "own": 13.83
+      },
+      {
+        "slot": "UTIL",
+        "id": 44840413,
+        "name": "Beckett Sennecke",
+        "team": "ANA",
+        "pos": "W",
+        "salary": 6400,
+        "fpts": 8,
+        "own": 31.63
+      }
+    ]
+  },
+  "optimal": {
+    "points": 253.9,
+    "salary": 49700,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44840353,
+        "name": "Nico Hischier",
+        "team": "NJD",
+        "pos": "C",
+        "salary": 5400,
+        "fpts": 17.6,
+        "own": 15.08
+      },
+      {
+        "slot": "C",
+        "id": 44840399,
+        "name": "Mikael Granlund",
+        "team": "ANA",
+        "pos": "C",
+        "salary": 5000,
+        "fpts": 33.6,
+        "own": 28.12
+      },
+      {
+        "slot": "W",
+        "id": 44840579,
+        "name": "Cole Perfetti",
+        "team": "WPG",
+        "pos": "W",
+        "salary": 5300,
+        "fpts": 28.1,
+        "own": 4.88
+      },
+      {
+        "slot": "W",
+        "id": 44840636,
+        "name": "Pontus Holmberg",
+        "team": "TBL",
+        "pos": "W",
+        "salary": 3400,
+        "fpts": 23,
+        "own": 1.25
+      },
+      {
+        "slot": "W",
+        "id": 44840361,
+        "name": "Timo Meier",
+        "team": "NJD",
+        "pos": "W",
+        "salary": 5600,
+        "fpts": 28.8,
+        "own": 11.9
+      },
+      {
+        "slot": "D",
+        "id": 44840543,
+        "name": "Jamie Drysdale",
+        "team": "PHI",
+        "pos": "D",
+        "salary": 3800,
+        "fpts": 19.2,
+        "own": 7.03
+      },
+      {
+        "slot": "D",
+        "id": 44840431,
+        "name": "Jackson LaCombe",
+        "team": "ANA",
+        "pos": "D",
+        "salary": 5600,
+        "fpts": 29,
+        "own": 22.45
+      },
+      {
+        "slot": "G",
+        "id": 44840395,
+        "name": "Connor Hellebuyck",
+        "team": "NJD",
+        "pos": "G",
+        "salary": 7900,
+        "fpts": 26.1,
+        "own": 13.83
+      },
+      {
+        "slot": "UTIL",
+        "id": 44840411,
+        "name": "Cutter Gauthier",
+        "team": "ANA",
+        "pos": "W",
+        "salary": 7700,
+        "fpts": 48.5,
+        "own": 40.7
+      }
+    ],
+    "assumedZero": 69
+  },
+  "paper": {
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 440,
+    "pctile": 50.23,
+    "points": 104,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44840355,
+        "name": "Jack Hughes",
+        "team": "NJD",
+        "pos": "C",
+        "salary": 8200,
+        "fpts": 14.5,
+        "own": 26.87
+      },
+      {
+        "slot": "C",
+        "id": 44840397,
+        "name": "Leo Carlsson",
+        "team": "ANA",
+        "pos": "C",
+        "salary": 6500,
+        "fpts": 4.5,
+        "own": 21.77
+      },
+      {
+        "slot": "W",
+        "id": 44840367,
+        "name": "Arseny Gritsyuk",
+        "team": "NJD",
+        "pos": "W",
+        "salary": 5000,
+        "fpts": 0,
+        "own": 8.39
+      },
+      {
+        "slot": "W",
+        "id": 44840411,
+        "name": "Cutter Gauthier",
+        "team": "ANA",
+        "pos": "W",
+        "salary": 7700,
+        "fpts": 48.5,
+        "own": 40.7
+      },
+      {
+        "slot": "W",
+        "id": 44840739,
+        "name": "Nick Robertson",
+        "team": "PIT",
+        "pos": "W",
+        "salary": 3100,
+        "fpts": 1.3,
+        "own": 2.38
+      },
+      {
+        "slot": "D",
+        "id": 44840381,
+        "name": "Brett Pesce",
+        "team": "NJD",
+        "pos": "D",
+        "salary": 3400,
+        "fpts": 0,
+        "own": 6.8
+      },
+      {
+        "slot": "D",
+        "id": 44840431,
+        "name": "Jackson LaCombe",
+        "team": "ANA",
+        "pos": "D",
+        "salary": 5600,
+        "fpts": 29,
+        "own": 22.45
+      },
+      {
+        "slot": "G",
+        "id": 44840559,
+        "name": "Dan Vladar",
+        "team": "PHI",
+        "pos": "G",
+        "salary": 7600,
+        "fpts": 3.4,
+        "own": 20.63
+      },
+      {
+        "slot": "UTIL",
+        "id": 44840439,
+        "name": "Pavel Mintyukov",
+        "team": "ANA",
+        "pos": "D",
+        "salary": 2900,
+        "fpts": 2.8,
+        "own": 9.07
+      }
+    ],
+    "money": {
+      "fee": 20,
+      "one": {
+        "won": 0,
+        "net": -20
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -20
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 30,
+        "net": -370,
+        "cashed": 1
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "ANA": 4,
+        "WPG": 3,
+        "NJD": 1,
+        "PIT": 1
+      },
+      "games": {
+        "PIT@ANA": 5,
+        "TBL@WPG": 3,
+        "NJD@TOR": 1
+      },
+      "nGames": 3,
+      "lines": {
+        "ANA f2": 3,
+        "WPG f2": 3
+      },
+      "pp": {
+        "ANA pp1": 4,
+        "WPG pp2": 2
+      },
+      "goalie": {
+        "team": "NJD",
+        "opposing": 0
+      },
+      "summary": [
+        "ANA 4 · WPG 3",
+        "ANA f2 ×3",
+        "WPG f2 ×3",
+        "ANA pp1 ×4",
+        "WPG pp2 ×2",
+        "G NJD",
+        "3 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "ANA": 3,
+        "NJD": 3,
+        "PHI": 1,
+        "TBL": 1,
+        "WPG": 1
+      },
+      "games": {
+        "NJD@TOR": 3,
+        "PIT@ANA": 3,
+        "TBL@WPG": 2,
+        "PHI@CGY": 1
+      },
+      "nGames": 4,
+      "lines": {
+        "ANA f2": 2,
+        "NJD f1": 2
+      },
+      "pp": {
+        "ANA pp1": 3
+      },
+      "goalie": {
+        "team": "NJD",
+        "opposing": 0
+      },
+      "summary": [
+        "ANA 3 · NJD 3",
+        "ANA f2 ×2",
+        "NJD f1 ×2",
+        "ANA pp1 ×3",
+        "G NJD",
+        "4 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "ANA": 4,
+        "NJD": 3,
+        "PHI": 1,
+        "PIT": 1
+      },
+      "games": {
+        "PIT@ANA": 5,
+        "NJD@TOR": 3,
+        "PHI@CGY": 1
+      },
+      "nGames": 3,
+      "lines": {
+        "NJD f2": 2
+      },
+      "pp": {
+        "ANA pp1": 3
+      },
+      "goalie": {
+        "team": "PHI",
+        "opposing": 0
+      },
+      "summary": [
+        "ANA 4 · NJD 3",
+        "NJD f2 ×2",
+        "ANA pp1 ×3",
+        "G PHI",
+        "3 games"
+      ]
+    }
+  }
+}
