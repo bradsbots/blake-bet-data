@@ -2,6 +2,50 @@
  "sport": "nba",
  "slates": [
   {
+   "slate": "156338",
+   "date": "2026-11-08",
+   "label": "NBA $120K Fadeaway [$30K to 1st]",
+   "entries": 6751,
+   "source": "live",
+   "model": "v1",
+   "predictedAt": "2026-11-08T23:45:07+00:00",
+   "lockAt": "2026-11-09T00:00:00+00:00",
+   "minutesBeforeLock": 15,
+   "n": 159,
+   "mae": 3.316,
+   "mae5": 9.785,
+   "spearman": 0.9059,
+   "top10": 0.6,
+   "chalk": {
+    "n": 16,
+    "caught": 10
+   },
+   "falseChalk": 1,
+   "misses": [
+    {
+     "name": "Ayo Dosunmu",
+     "pos": "ALL",
+     "team": "MIN",
+     "pred": 4.04,
+     "actual": 42.29
+    },
+    {
+     "name": "Danny Wolf",
+     "pos": "ALL",
+     "team": "BKN",
+     "pred": 100.0,
+     "actual": 66.38
+    },
+    {
+     "name": "LaMelo Ball",
+     "pos": "ALL",
+     "team": "MIN",
+     "pred": 5.16,
+     "actual": 33.74
+    }
+   ]
+  },
+  {
    "slate": "156199",
    "date": "2026-11-07",
    "label": "NBA $200K Fadeaway [$50K to 1st]",
@@ -355,14 +399,14 @@
   }
  ],
  "recent": {
-  "slates": 8,
-  "n": 1542,
-  "mae": 2.776,
-  "mae5": 7.797,
+  "slates": 9,
+  "n": 1701,
+  "mae": 2.826,
+  "mae5": 7.975,
   "chalk": {
-   "n": 106,
-   "caught": 67
+   "n": 122,
+   "caught": 77
   },
-  "falseChalk": 3
+  "falseChalk": 4
  }
 }
