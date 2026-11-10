@@ -1,6 +1,24 @@
 [
   {
     "sport": "nba",
+    "site": "fd",
+    "slate": "136475",
+    "date": "2026-11-09",
+    "label": "$111K Mon NBA Shot ($20K to 1st)",
+    "contestId": 281475577,
+    "entries": 12951,
+    "winnerPoints": 457.3,
+    "optimalPoints": 490.2,
+    "paperPoints": 265.5,
+    "paperPctile": 10.11,
+    "paperNet1": -9,
+    "paperNet1Defaults": -9,
+    "portfolioNet": null,
+    "portfolioCashed": null,
+    "portfolioN": 3
+  },
+  {
+    "sport": "nba",
     "slate": "156358",
     "date": "2026-11-09",
     "label": "NBA $200K Fadeaway [$50K to 1st]",
