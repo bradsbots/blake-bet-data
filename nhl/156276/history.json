@@ -1,0 +1,423 @@
+{
+  "sport": "nhl",
+  "slate": "156276",
+  "date": "2026-11-09",
+  "contest": {
+    "id": 197628007,
+    "label": "NHL $30K Overload [$10K to 1st]",
+    "entries": 1764
+  },
+  "generatedAt": "2026-11-10T09:40:26.275Z",
+  "winner": {
+    "rank": 1,
+    "name": "chadf",
+    "points": 133.4,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44845795,
+        "name": "Connor McDavid",
+        "team": "EDM",
+        "pos": "C",
+        "salary": 9700,
+        "fpts": 15.8,
+        "own": 47.34
+      },
+      {
+        "slot": "C",
+        "id": 44845799,
+        "name": "Bo Horvat",
+        "team": "NYI",
+        "pos": "C",
+        "salary": 6700,
+        "fpts": 19.8,
+        "own": 31.69
+      },
+      {
+        "slot": "W",
+        "id": 44845873,
+        "name": "Leon Draisaitl",
+        "team": "EDM",
+        "pos": "W",
+        "salary": 9200,
+        "fpts": 26.3,
+        "own": 34.58
+      },
+      {
+        "slot": "W",
+        "id": 44845923,
+        "name": "Victor Eklund",
+        "team": "NYI",
+        "pos": "W",
+        "salary": 3300,
+        "fpts": 12.8,
+        "own": 17.86
+      },
+      {
+        "slot": "W",
+        "id": 44845929,
+        "name": "Tye Kartye",
+        "team": "NYR",
+        "pos": "W",
+        "salary": 3000,
+        "fpts": 11.8,
+        "own": 9.12
+      },
+      {
+        "slot": "D",
+        "id": 44846009,
+        "name": "Mattias Ekholm",
+        "team": "EDM",
+        "pos": "D",
+        "salary": 4100,
+        "fpts": 8,
+        "own": 9.35
+      },
+      {
+        "slot": "D",
+        "id": 44846053,
+        "name": "Eric Pohlkamp",
+        "team": "SJS",
+        "pos": "D",
+        "salary": 2600,
+        "fpts": 5,
+        "own": 4.25
+      },
+      {
+        "slot": "G",
+        "id": 44846097,
+        "name": "Devon Levi",
+        "team": "EDM",
+        "pos": "G",
+        "salary": 8200,
+        "fpts": 22.1,
+        "own": 16.04
+      },
+      {
+        "slot": "UTIL",
+        "id": 44845925,
+        "name": "Michael Misa",
+        "team": "SJS",
+        "pos": "W",
+        "salary": 3200,
+        "fpts": 11.8,
+        "own": 14.57
+      }
+    ]
+  },
+  "optimal": {
+    "points": 160,
+    "salary": 46000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44845799,
+        "name": "Bo Horvat",
+        "team": "NYI",
+        "pos": "C",
+        "salary": 6700,
+        "fpts": 19.8,
+        "own": 31.69
+      },
+      {
+        "slot": "C",
+        "id": 44845865,
+        "name": "Ty Dellandrea",
+        "team": "SJS",
+        "pos": "C",
+        "salary": 2500,
+        "fpts": 11.9,
+        "own": 0.23
+      },
+      {
+        "slot": "W",
+        "id": 44845873,
+        "name": "Leon Draisaitl",
+        "team": "EDM",
+        "pos": "W",
+        "salary": 9200,
+        "fpts": 26.3,
+        "own": 34.58
+      },
+      {
+        "slot": "W",
+        "id": 44845951,
+        "name": "Michael Bunting",
+        "team": "PHI",
+        "pos": "W",
+        "salary": 2500,
+        "fpts": 13,
+        "own": 0.74
+      },
+      {
+        "slot": "W",
+        "id": 44845905,
+        "name": "Tyler Toffoli",
+        "team": "SJS",
+        "pos": "W",
+        "salary": 3900,
+        "fpts": 18,
+        "own": 3.12
+      },
+      {
+        "slot": "D",
+        "id": 44845999,
+        "name": "Matthew Schaefer",
+        "team": "NYI",
+        "pos": "D",
+        "salary": 7200,
+        "fpts": 16.8,
+        "own": 37.47
+      },
+      {
+        "slot": "D",
+        "id": 44846071,
+        "name": "Ben Hutton",
+        "team": "NYI",
+        "pos": "D",
+        "salary": 2500,
+        "fpts": 15.8,
+        "own": 0.4
+      },
+      {
+        "slot": "G",
+        "id": 44846102,
+        "name": "Ilya Sorokin",
+        "team": "NYI",
+        "pos": "G",
+        "salary": 7800,
+        "fpts": 23.9,
+        "own": 28.34
+      },
+      {
+        "slot": "UTIL",
+        "id": 44845911,
+        "name": "Ivar Stenberg",
+        "team": "SJS",
+        "pos": "W",
+        "salary": 3700,
+        "fpts": 14.5,
+        "own": 4.93
+      }
+    ],
+    "assumedZero": 57
+  },
+  "paper": {
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 951,
+    "pctile": 45.98,
+    "points": 83.5,
+    "salary": 49300,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44845795,
+        "name": "Connor McDavid",
+        "team": "EDM",
+        "pos": "C",
+        "salary": 9700,
+        "fpts": 15.8,
+        "own": 47.34
+      },
+      {
+        "slot": "C",
+        "id": 44845801,
+        "name": "Ryan Nugent-Hopkins",
+        "team": "EDM",
+        "pos": "C",
+        "salary": 5700,
+        "fpts": 1.5,
+        "own": 9.3
+      },
+      {
+        "slot": "W",
+        "id": 44845873,
+        "name": "Leon Draisaitl",
+        "team": "EDM",
+        "pos": "W",
+        "salary": 9200,
+        "fpts": 26.3,
+        "own": 34.58
+      },
+      {
+        "slot": "W",
+        "id": 44845929,
+        "name": "Tye Kartye",
+        "team": "NYR",
+        "pos": "W",
+        "salary": 3000,
+        "fpts": 11.8,
+        "own": 9.12
+      },
+      {
+        "slot": "W",
+        "id": 44845935,
+        "name": "Oliver Bjorkstrand",
+        "team": "NYR",
+        "pos": "W",
+        "salary": 2800,
+        "fpts": 4.3,
+        "own": 5.16
+      },
+      {
+        "slot": "D",
+        "id": 44846001,
+        "name": "Adam Fox",
+        "team": "NYR",
+        "pos": "D",
+        "salary": 5500,
+        "fpts": 4.5,
+        "own": 16.61
+      },
+      {
+        "slot": "D",
+        "id": 44846053,
+        "name": "Eric Pohlkamp",
+        "team": "SJS",
+        "pos": "D",
+        "salary": 2600,
+        "fpts": 5,
+        "own": 4.25
+      },
+      {
+        "slot": "G",
+        "id": 44846107,
+        "name": "Leevi Merilainen",
+        "team": "VAN",
+        "pos": "G",
+        "salary": 7400,
+        "fpts": 2.8,
+        "own": 15.19
+      },
+      {
+        "slot": "UTIL",
+        "id": 44845921,
+        "name": "Jonathan Lekkerimaki",
+        "team": "VAN",
+        "pos": "W",
+        "salary": 3400,
+        "fpts": 11.5,
+        "own": 16.78
+      }
+    ],
+    "money": {
+      "fee": 20,
+      "one": {
+        "won": 0,
+        "net": -20
+      },
+      "oneDefaults": {
+        "won": 40,
+        "net": 20
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 231,
+        "net": -169,
+        "cashed": 5
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "EDM": 4,
+        "NYI": 2,
+        "SJS": 2,
+        "NYR": 1
+      },
+      "games": {
+        "NYR@EDM": 5,
+        "NYI@SJS": 4
+      },
+      "nGames": 2,
+      "lines": {
+        "EDM f1": 2
+      },
+      "pp": {
+        "EDM pp1": 2,
+        "NYI pp1": 2,
+        "SJS pp2": 2
+      },
+      "goalie": {
+        "team": "EDM",
+        "opposing": 1
+      },
+      "summary": [
+        "EDM 4 · NYI 2 · SJS 2",
+        "EDM f1 ×2",
+        "EDM pp1 ×2",
+        "NYI pp1 ×2",
+        "SJS pp2 ×2",
+        "G EDM · 1 skater vs G",
+        "2 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "NYI": 4,
+        "SJS": 3,
+        "EDM": 1,
+        "PHI": 1
+      },
+      "games": {
+        "NYI@SJS": 7,
+        "NYR@EDM": 1,
+        "PHI@VAN": 1
+      },
+      "nGames": 3,
+      "lines": {
+        "SJS f3": 3
+      },
+      "pp": {
+        "NYI pp1": 2
+      },
+      "goalie": {
+        "team": "NYI",
+        "opposing": 3
+      },
+      "summary": [
+        "NYI 4 · SJS 3",
+        "SJS f3 ×3",
+        "NYI pp1 ×2",
+        "G NYI · 3 skaters vs G",
+        "3 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "EDM": 3,
+        "NYR": 3,
+        "VAN": 2,
+        "SJS": 1
+      },
+      "games": {
+        "NYR@EDM": 6,
+        "PHI@VAN": 2,
+        "NYI@SJS": 1
+      },
+      "nGames": 3,
+      "lines": {
+        "EDM f1": 2
+      },
+      "pp": {
+        "EDM pp1": 3,
+        "NYR pp2": 2
+      },
+      "goalie": {
+        "team": "VAN",
+        "opposing": 0
+      },
+      "summary": [
+        "EDM 3 · NYR 3 · VAN 2",
+        "EDM f1 ×2",
+        "EDM pp1 ×3",
+        "NYR pp2 ×2",
+        "G VAN",
+        "3 games"
+      ]
+    }
+  }
+}
