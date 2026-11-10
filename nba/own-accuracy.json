@@ -2,6 +2,50 @@
  "sport": "nba",
  "slates": [
   {
+   "slate": "156358",
+   "date": "2026-11-09",
+   "label": "NBA $200K Fadeaway [$50K to 1st]",
+   "entries": 15686,
+   "source": "live",
+   "model": "v2",
+   "predictedAt": "2026-11-09T23:45:09+00:00",
+   "lockAt": "2026-11-10T00:00:00+00:00",
+   "minutesBeforeLock": 15,
+   "n": 203,
+   "mae": 2.482,
+   "mae5": 6.869,
+   "spearman": 0.8487,
+   "top10": 0.9,
+   "chalk": {
+    "n": 9,
+    "caught": 8
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Daniss Jenkins",
+     "pos": "ALL",
+     "team": "DET",
+     "pred": 9.83,
+     "actual": 43.66
+    },
+    {
+     "name": "Naz Reid",
+     "pos": "ALL",
+     "team": "CHA",
+     "pred": 17.96,
+     "actual": 35.83
+    },
+    {
+     "name": "Kyle Anderson",
+     "pos": "ALL",
+     "team": "TOR",
+     "pred": 0.26,
+     "actual": 17.84
+    }
+   ]
+  },
+  {
    "slate": "156338",
    "date": "2026-11-08",
    "label": "NBA $120K Fadeaway [$30K to 1st]",
@@ -399,13 +443,13 @@
   }
  ],
  "recent": {
-  "slates": 9,
-  "n": 1701,
-  "mae": 2.826,
-  "mae5": 7.975,
+  "slates": 10,
+  "n": 1904,
+  "mae": 2.789,
+  "mae5": 7.863,
   "chalk": {
-   "n": 122,
-   "caught": 77
+   "n": 131,
+   "caught": 85
   },
   "falseChalk": 4
  }
