@@ -1,0 +1,111 @@
+{
+ "archivedAt": "2026-11-10T00:00:33+00:00",
+ "days": 3,
+ "bytes": 466516,
+ "removed": [
+  {
+   "path": "snapshots/20261105T140008Z.json",
+   "bytes": 7776
+  },
+  {
+   "path": "snapshots/20261105T150021Z.json",
+   "bytes": 8996
+  },
+  {
+   "path": "snapshots/20261105T160017Z.json",
+   "bytes": 8998
+  },
+  {
+   "path": "snapshots/20261105T170021Z.json",
+   "bytes": 8787
+  },
+  {
+   "path": "snapshots/20261105T180011Z.json",
+   "bytes": 8788
+  },
+  {
+   "path": "snapshots/20261105T190016Z.json",
+   "bytes": 8801
+  },
+  {
+   "path": "snapshots/20261105T200020Z.json",
+   "bytes": 8801
+  },
+  {
+   "path": "snapshots/20261105T210017Z.json",
+   "bytes": 9055
+  },
+  {
+   "path": "snapshots/20261105T220010Z.json",
+   "bytes": 9109
+  },
+  {
+   "path": "snapshots/20261105T230047Z.json",
+   "bytes": 9109
+  },
+  {
+   "path": "snapshots/20261106T000010Z.json",
+   "bytes": 9109
+  },
+  {
+   "path": "snapshots/20261106T010006Z.json",
+   "bytes": 23320
+  },
+  {
+   "path": "snapshots/20261106T020005Z.json",
+   "bytes": 23320
+  },
+  {
+   "path": "snapshots/20261106T030006Z.json",
+   "bytes": 23320
+  },
+  {
+   "path": "snapshots/20261106T040007Z.json",
+   "bytes": 23320
+  },
+  {
+   "path": "snapshots/20261106T140005Z.json",
+   "bytes": 23336
+  },
+  {
+   "path": "snapshots/20261106T150005Z.json",
+   "bytes": 24857
+  },
+  {
+   "path": "snapshots/20261106T160015Z.json",
+   "bytes": 26733
+  },
+  {
+   "path": "snapshots/20261106T170006Z.json",
+   "bytes": 28139
+  },
+  {
+   "path": "snapshots/20261106T180006Z.json",
+   "bytes": 27938
+  },
+  {
+   "path": "snapshots/20261106T190015Z.json",
+   "bytes": 28193
+  },
+  {
+   "path": "snapshots/20261106T200007Z.json",
+   "bytes": 28325
+  },
+  {
+   "path": "snapshots/20261106T210018Z.json",
+   "bytes": 28579
+  },
+  {
+   "path": "snapshots/20261106T220014Z.json",
+   "bytes": 28579
+  },
+  {
+   "path": "snapshots/20261106T230007Z.json",
+   "bytes": 29288
+  },
+  {
+   "path": "timeline.json",
+   "bytes": 1940
+  }
+ ]
+}
