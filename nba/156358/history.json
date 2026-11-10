@@ -1,0 +1,354 @@
+{
+  "sport": "nba",
+  "slate": "156358",
+  "date": "2026-11-09",
+  "contest": {
+    "id": 197651018,
+    "label": "NBA $200K Fadeaway [$50K to 1st]",
+    "entries": 15686
+  },
+  "generatedAt": "2026-11-10T09:40:15.078Z",
+  "winner": {
+    "rank": 1,
+    "name": "cbrass34 (2/2)",
+    "points": 404,
+    "salary": 49400,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44847453,
+        "name": "Collin Sexton",
+        "team": "LAL",
+        "pos": "PG",
+        "salary": 4100,
+        "fpts": 32.5,
+        "own": 37.17
+      },
+      {
+        "slot": "SG",
+        "id": 44847406,
+        "name": "Daniss Jenkins",
+        "team": "DET",
+        "pos": "PG",
+        "salary": 4300,
+        "fpts": 49.5,
+        "own": 43.66
+      },
+      {
+        "slot": "SF",
+        "id": 44847268,
+        "name": "Grayson Allen",
+        "team": "CHA",
+        "pos": "SG",
+        "salary": 5200,
+        "fpts": 46.5,
+        "own": 40.08
+      },
+      {
+        "slot": "PF",
+        "id": 44847073,
+        "name": "Anthony Davis",
+        "team": "WAS",
+        "pos": "PF",
+        "salary": 8600,
+        "fpts": 64.75,
+        "own": 7.85
+      },
+      {
+        "slot": "C",
+        "id": 44847303,
+        "name": "Jakob Poeltl",
+        "team": "TOR",
+        "pos": "C",
+        "salary": 4900,
+        "fpts": 39.5,
+        "own": 43.8
+      },
+      {
+        "slot": "G",
+        "id": 44847241,
+        "name": "Jamal Shead",
+        "team": "TOR",
+        "pos": "PG",
+        "salary": 5500,
+        "fpts": 45,
+        "own": 40.76
+      },
+      {
+        "slot": "F",
+        "id": 44847155,
+        "name": "Naz Reid",
+        "team": "CHA",
+        "pos": "PF",
+        "salary": 6900,
+        "fpts": 53.25,
+        "own": 35.83
+      },
+      {
+        "slot": "UTIL",
+        "id": 44847055,
+        "name": "Cooper Flagg",
+        "team": "DAL",
+        "pos": "SF",
+        "salary": 9900,
+        "fpts": 73,
+        "own": 9.48
+      }
+    ]
+  },
+  "optimal": {
+    "points": 419.75,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44847406,
+        "name": "Daniss Jenkins",
+        "team": "DET",
+        "pos": "PG",
+        "salary": 4300,
+        "fpts": 49.5,
+        "own": 43.66
+      },
+      {
+        "slot": "SG",
+        "id": 44847268,
+        "name": "Grayson Allen",
+        "team": "CHA",
+        "pos": "SG",
+        "salary": 5200,
+        "fpts": 46.5,
+        "own": 40.08
+      },
+      {
+        "slot": "SF",
+        "id": 44847055,
+        "name": "Cooper Flagg",
+        "team": "DAL",
+        "pos": "SF",
+        "salary": 9900,
+        "fpts": 73,
+        "own": 9.48
+      },
+      {
+        "slot": "PF",
+        "id": 44847281,
+        "name": "John Collins",
+        "team": "DET",
+        "pos": "PF",
+        "salary": 5100,
+        "fpts": 49.5,
+        "own": 7.69
+      },
+      {
+        "slot": "C",
+        "id": 44847380,
+        "name": "Ryan Kalkbrenner",
+        "team": "CHA",
+        "pos": "C",
+        "salary": 4400,
+        "fpts": 38.25,
+        "own": 4.33
+      },
+      {
+        "slot": "G",
+        "id": 44847241,
+        "name": "Jamal Shead",
+        "team": "TOR",
+        "pos": "PG",
+        "salary": 5500,
+        "fpts": 45,
+        "own": 40.76
+      },
+      {
+        "slot": "F",
+        "id": 44847155,
+        "name": "Naz Reid",
+        "team": "CHA",
+        "pos": "PF",
+        "salary": 6900,
+        "fpts": 53.25,
+        "own": 35.83
+      },
+      {
+        "slot": "UTIL",
+        "id": 44847073,
+        "name": "Anthony Davis",
+        "team": "WAS",
+        "pos": "PF",
+        "salary": 8600,
+        "fpts": 64.75,
+        "own": 7.85
+      }
+    ],
+    "assumedZero": 76
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 10074,
+    "pctile": 35.64,
+    "points": 279.25,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44847061,
+        "name": "Cade Cunningham",
+        "team": "DET",
+        "pos": "PG",
+        "salary": 9500,
+        "fpts": 33.25,
+        "own": 19.22
+      },
+      {
+        "slot": "SG",
+        "id": 44847406,
+        "name": "Daniss Jenkins",
+        "team": "DET",
+        "pos": "PG",
+        "salary": 4300,
+        "fpts": 49.5,
+        "own": 43.66
+      },
+      {
+        "slot": "SF",
+        "id": 44847268,
+        "name": "Grayson Allen",
+        "team": "CHA",
+        "pos": "SG",
+        "salary": 5200,
+        "fpts": 46.5,
+        "own": 40.08
+      },
+      {
+        "slot": "PF",
+        "id": 44847155,
+        "name": "Naz Reid",
+        "team": "CHA",
+        "pos": "PF",
+        "salary": 6900,
+        "fpts": 53.25,
+        "own": 35.83
+      },
+      {
+        "slot": "C",
+        "id": 44847380,
+        "name": "Ryan Kalkbrenner",
+        "team": "CHA",
+        "pos": "C",
+        "salary": 4400,
+        "fpts": 38.25,
+        "own": 4.33
+      },
+      {
+        "slot": "G",
+        "id": 44847164,
+        "name": "Immanuel Quickley",
+        "team": "TOR",
+        "pos": "PG",
+        "salary": 6800,
+        "fpts": 0,
+        "own": 0.02
+      },
+      {
+        "slot": "F",
+        "id": 44847258,
+        "name": "Duncan Robinson",
+        "team": "DET",
+        "pos": "SG",
+        "salary": 5300,
+        "fpts": 30.75,
+        "own": 9.83
+      },
+      {
+        "slot": "UTIL",
+        "id": 44847118,
+        "name": "RJ Barrett",
+        "team": "TOR",
+        "pos": "SG",
+        "salary": 7600,
+        "fpts": 27.75,
+        "own": 50.65
+      }
+    ],
+    "money": {
+      "fee": 15,
+      "one": {
+        "won": 0,
+        "net": -15
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -15
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 0,
+        "net": -300,
+        "cashed": 0
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "CHA": 2,
+        "TOR": 2,
+        "DAL": 1,
+        "DET": 1,
+        "LAL": 1,
+        "WAS": 1
+      },
+      "games": {
+        "CLE@CHA": 2,
+        "MEM@TOR": 2,
+        "WAS@DET": 2,
+        "IND@DAL": 1,
+        "LAL@ATL": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "CHA 2 · TOR 2",
+        "5 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "CHA": 3,
+        "DET": 2,
+        "DAL": 1,
+        "TOR": 1,
+        "WAS": 1
+      },
+      "games": {
+        "CLE@CHA": 3,
+        "WAS@DET": 3,
+        "IND@DAL": 1,
+        "MEM@TOR": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "CHA 3 · DET 2",
+        "4 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "CHA": 3,
+        "DET": 3,
+        "TOR": 2
+      },
+      "games": {
+        "CLE@CHA": 3,
+        "WAS@DET": 3,
+        "MEM@TOR": 2
+      },
+      "nGames": 3,
+      "summary": [
+        "CHA 3 · DET 3 · TOR 2",
+        "3 games"
+      ]
+    }
+  }
+}
