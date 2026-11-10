@@ -1,0 +1,394 @@
+{
+  "sport": "nba",
+  "site": "fd",
+  "slate": "136405",
+  "date": "2026-11-08",
+  "contest": {
+    "id": 281454202,
+    "label": "$50K Sun NBA Shot ($10K to 1st)",
+    "entries": 6261
+  },
+  "generatedAt": "2026-11-10T15:29:15.168Z",
+  "winner": {
+    "rank": 1,
+    "name": "spagoni (1/1)",
+    "points": 372,
+    "salary": 59900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 228131,
+        "name": "Jeremiah Fears",
+        "team": "NOP",
+        "pos": "PG",
+        "salary": 5800,
+        "fpts": 43.7,
+        "own": 6.26
+      },
+      {
+        "slot": "SG",
+        "id": 158136,
+        "name": "Austin Reaves",
+        "team": "LAL",
+        "pos": "SG",
+        "salary": 7500,
+        "fpts": 54,
+        "own": 61.49
+      },
+      {
+        "slot": "SF",
+        "id": 157826,
+        "name": "Quentin Grimes",
+        "team": "LAL",
+        "pos": "SG/SF",
+        "salary": 3800,
+        "fpts": 23.2,
+        "own": 31.21
+      },
+      {
+        "slot": "PF",
+        "id": 40199,
+        "name": "Giannis Antetokounmpo",
+        "team": "MIA",
+        "pos": "PF",
+        "salary": 11700,
+        "fpts": 57.3,
+        "own": 43.78
+      },
+      {
+        "slot": "C",
+        "id": 171777,
+        "name": "Walker Kessler",
+        "team": "LAL",
+        "pos": "C",
+        "salary": 7700,
+        "fpts": 45.2,
+        "own": 14.47
+      },
+      {
+        "slot": "G/F",
+        "id": 248938,
+        "name": "Darryn Peterson",
+        "team": "UTA",
+        "pos": "SG",
+        "salary": 5600,
+        "fpts": 39.2,
+        "own": 21.63
+      },
+      {
+        "slot": "F/C",
+        "id": 228700,
+        "name": "Dylan Cardwell",
+        "team": "SAC",
+        "pos": "C",
+        "salary": 4000,
+        "fpts": 20.3,
+        "own": 8.16
+      },
+      {
+        "slot": "UTIL",
+        "id": 248954,
+        "name": "Darius Acuff",
+        "team": "SAC",
+        "pos": "PG",
+        "salary": 7900,
+        "fpts": 51,
+        "own": 43.6
+      },
+      {
+        "slot": "UTIL",
+        "id": 157812,
+        "name": "Davion Mitchell",
+        "team": "MIA",
+        "pos": "PG",
+        "salary": 5900,
+        "fpts": 38.1,
+        "own": 12.86
+      }
+    ]
+  },
+  "optimal": {
+    "points": 435.7,
+    "salary": 59500,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 248954,
+        "name": "Darius Acuff",
+        "team": "SAC",
+        "pos": "PG",
+        "salary": 7900,
+        "fpts": 51,
+        "own": 43.6
+      },
+      {
+        "slot": "SG",
+        "id": 158136,
+        "name": "Austin Reaves",
+        "team": "LAL",
+        "pos": "SG",
+        "salary": 7500,
+        "fpts": 54,
+        "own": 61.49
+      },
+      {
+        "slot": "SF",
+        "id": 228113,
+        "name": "Cooper Flagg",
+        "team": "DAL",
+        "pos": "SF",
+        "salary": 10100,
+        "fpts": 49,
+        "own": 15.14
+      },
+      {
+        "slot": "PF",
+        "id": 58377,
+        "name": "Kyle Kuzma",
+        "team": "MIL",
+        "pos": "SF/PF",
+        "salary": 4500,
+        "fpts": 39.8,
+        "own": 0.72
+      },
+      {
+        "slot": "C",
+        "id": 84709,
+        "name": "Mitchell Robinson",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 4000,
+        "fpts": 38.4,
+        "own": 0.06
+      },
+      {
+        "slot": "G/F",
+        "id": 228131,
+        "name": "Jeremiah Fears",
+        "team": "NOP",
+        "pos": "PG",
+        "salary": 5800,
+        "fpts": 43.7,
+        "own": 6.26
+      },
+      {
+        "slot": "F/C",
+        "id": 40199,
+        "name": "Giannis Antetokounmpo",
+        "team": "MIA",
+        "pos": "PF",
+        "salary": 11700,
+        "fpts": 57.3,
+        "own": 43.78
+      },
+      {
+        "slot": "UTIL",
+        "id": 84704,
+        "name": "Kevin Huerter",
+        "team": "DET",
+        "pos": "SG",
+        "salary": 3800,
+        "fpts": 57.5,
+        "own": 0.02
+      },
+      {
+        "slot": "UTIL",
+        "id": 203812,
+        "name": "Daniss Jenkins",
+        "team": "DET",
+        "pos": "PG",
+        "salary": 4200,
+        "fpts": 45,
+        "own": 0.99
+      }
+    ],
+    "assumedZero": 82
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 3378,
+    "pctile": 45.86,
+    "points": 295.7,
+    "salary": 60000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 157849,
+        "name": "Ayo Dosunmu",
+        "team": "MIN",
+        "pos": "SG/PG",
+        "salary": 6700,
+        "fpts": 33.3,
+        "own": 21.47
+      },
+      {
+        "slot": "SG",
+        "id": 248938,
+        "name": "Darryn Peterson",
+        "team": "UTA",
+        "pos": "SG",
+        "salary": 5600,
+        "fpts": 39.2,
+        "own": 21.63
+      },
+      {
+        "slot": "SF",
+        "id": 228113,
+        "name": "Cooper Flagg",
+        "team": "DAL",
+        "pos": "SF",
+        "salary": 10100,
+        "fpts": 49,
+        "own": 15.14
+      },
+      {
+        "slot": "PF",
+        "id": 110310,
+        "name": "Zion Williamson",
+        "team": "NOP",
+        "pos": "PF",
+        "salary": 7400,
+        "fpts": 30.8,
+        "own": 7.41
+      },
+      {
+        "slot": "C",
+        "id": 58253,
+        "name": "Myles Turner",
+        "team": "MIL",
+        "pos": "C",
+        "salary": 5000,
+        "fpts": 20.5,
+        "own": 2.59
+      },
+      {
+        "slot": "G/F",
+        "id": 145485,
+        "name": "LaMelo Ball",
+        "team": "MIN",
+        "pos": "PG",
+        "salary": 7600,
+        "fpts": 36.1,
+        "own": 39.75
+      },
+      {
+        "slot": "F/C",
+        "id": 80817,
+        "name": "Bam Adebayo",
+        "team": "MIA",
+        "pos": "C",
+        "salary": 8000,
+        "fpts": 41.6,
+        "own": 28.99
+      },
+      {
+        "slot": "UTIL",
+        "id": 23802,
+        "name": "Kris Dunn",
+        "team": "LAC",
+        "pos": "PG/SG",
+        "salary": 5000,
+        "fpts": 28,
+        "own": 2.87
+      },
+      {
+        "slot": "UTIL",
+        "id": 228110,
+        "name": "Nolan Traore",
+        "team": "BKN",
+        "pos": "PG",
+        "salary": 4600,
+        "fpts": 17.2,
+        "own": 12.86
+      }
+    ],
+    "money": {
+      "fee": 9,
+      "one": {
+        "won": 0,
+        "net": -9
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -9
+      },
+      "portfolio": {
+        "n": 3,
+        "won": 0,
+        "net": -27,
+        "cashed": 0
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "LAL": 3,
+        "MIA": 2,
+        "SAC": 2,
+        "NOP": 1,
+        "UTA": 1
+      },
+      "games": {
+        "MIA@SAC": 4,
+        "LAL@DET": 3,
+        "NOP@LAC": 1,
+        "UTA@MIN": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "LAL 3 · MIA 2 · SAC 2",
+        "4 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "DET": 2,
+        "BOS": 1,
+        "DAL": 1,
+        "LAL": 1,
+        "MIA": 1,
+        "MIL": 1,
+        "NOP": 1,
+        "SAC": 1
+      },
+      "games": {
+        "LAL@DET": 3,
+        "BOS@MIL": 2,
+        "MIA@SAC": 2,
+        "BKN@DAL": 1,
+        "NOP@LAC": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "DET 2",
+        "5 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "MIN": 2,
+        "BKN": 1,
+        "DAL": 1,
+        "LAC": 1,
+        "MIA": 1,
+        "MIL": 1,
+        "NOP": 1,
+        "UTA": 1
+      },
+      "games": {
+        "UTA@MIN": 3,
+        "BKN@DAL": 2,
+        "NOP@LAC": 2,
+        "BOS@MIL": 1,
+        "MIA@SAC": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "MIN 2",
+        "5 games"
+      ]
+    }
+  }
+}
