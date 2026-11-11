@@ -1,0 +1,387 @@
+{
+  "sport": "nba",
+  "site": "fd",
+  "slate": "136535",
+  "date": "2026-11-10",
+  "contest": {
+    "id": 281491886,
+    "label": "$175K Tue NBA Shot ($40K to 1st)",
+    "entries": 34722
+  },
+  "generatedAt": "2026-11-11T18:09:34.327Z",
+  "winner": {
+    "rank": 1,
+    "name": "dannylongisland (5/5)",
+    "points": 372.6,
+    "salary": 60000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 248954,
+        "name": "Darius Acuff",
+        "team": "SAC",
+        "pos": "PG",
+        "salary": 8300,
+        "fpts": 44.8,
+        "own": 28.28
+      },
+      {
+        "slot": "SG",
+        "id": 188408,
+        "name": "Anthony Black",
+        "team": "ORL",
+        "pos": "PG/SG",
+        "salary": 7000,
+        "fpts": 49.9,
+        "own": 24.2
+      },
+      {
+        "slot": "SF",
+        "id": 12341,
+        "name": "Paul George",
+        "team": "BOS",
+        "pos": "SF",
+        "salary": 7100,
+        "fpts": 42.5,
+        "own": 17.19
+      },
+      {
+        "slot": "PF",
+        "id": 157851,
+        "name": "Franz Wagner",
+        "team": "ORL",
+        "pos": "SF/PF",
+        "salary": 8900,
+        "fpts": 54.9,
+        "own": 47.96
+      },
+      {
+        "slot": "C",
+        "id": 84676,
+        "name": "Wendell Carter",
+        "team": "ORL",
+        "pos": "C",
+        "salary": 5900,
+        "fpts": 34.7,
+        "own": 31.65
+      },
+      {
+        "slot": "G/F",
+        "id": 157812,
+        "name": "Davion Mitchell",
+        "team": "MIA",
+        "pos": "PG",
+        "salary": 6100,
+        "fpts": 41,
+        "own": 23.33
+      },
+      {
+        "slot": "F/C",
+        "id": 228119,
+        "name": "Ace Bailey",
+        "team": "UTA",
+        "pos": "SF/SG",
+        "salary": 5100,
+        "fpts": 32.4,
+        "own": 47.58
+      },
+      {
+        "slot": "UTIL",
+        "id": 248938,
+        "name": "Darryn Peterson",
+        "team": "UTA",
+        "pos": "SG",
+        "salary": 6000,
+        "fpts": 33.8,
+        "own": 66.33
+      },
+      {
+        "slot": "UTIL",
+        "id": 40783,
+        "name": "Zach LaVine",
+        "team": "SAC",
+        "pos": "SG",
+        "salary": 5600,
+        "fpts": 38.6,
+        "own": 8.81
+      }
+    ]
+  },
+  "optimal": {
+    "points": 381.5,
+    "salary": 59900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 248954,
+        "name": "Darius Acuff",
+        "team": "SAC",
+        "pos": "PG",
+        "salary": 8300,
+        "fpts": 44.8,
+        "own": 28.28
+      },
+      {
+        "slot": "SG",
+        "id": 188408,
+        "name": "Anthony Black",
+        "team": "ORL",
+        "pos": "PG/SG",
+        "salary": 7000,
+        "fpts": 49.9,
+        "own": 24.2
+      },
+      {
+        "slot": "SF",
+        "id": 228129,
+        "name": "Hugo Gonzalez",
+        "team": "BOS",
+        "pos": "SG/SF",
+        "salary": 3600,
+        "fpts": 27.6,
+        "own": 0.01
+      },
+      {
+        "slot": "PF",
+        "id": 157851,
+        "name": "Franz Wagner",
+        "team": "ORL",
+        "pos": "SF/PF",
+        "salary": 8900,
+        "fpts": 54.9,
+        "own": 47.96
+      },
+      {
+        "slot": "C",
+        "id": 58462,
+        "name": "Karl-Anthony Towns",
+        "team": "NYK",
+        "pos": "C",
+        "salary": 8600,
+        "fpts": 50.7,
+        "own": 38.67
+      },
+      {
+        "slot": "G/F",
+        "id": 203726,
+        "name": "Isaiah Collier",
+        "team": "UTA",
+        "pos": "PG",
+        "salary": 4700,
+        "fpts": 31.5,
+        "own": 19.16
+      },
+      {
+        "slot": "F/C",
+        "id": 12341,
+        "name": "Paul George",
+        "team": "BOS",
+        "pos": "SF",
+        "salary": 7100,
+        "fpts": 42.5,
+        "own": 17.19
+      },
+      {
+        "slot": "UTIL",
+        "id": 40783,
+        "name": "Zach LaVine",
+        "team": "SAC",
+        "pos": "SG",
+        "salary": 5600,
+        "fpts": 38.6,
+        "own": 8.81
+      },
+      {
+        "slot": "UTIL",
+        "id": 157812,
+        "name": "Davion Mitchell",
+        "team": "MIA",
+        "pos": "PG",
+        "salary": 6100,
+        "fpts": 41,
+        "own": 23.33
+      }
+    ],
+    "assumedZero": 43
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 23679,
+    "pctile": 31.68,
+    "points": 265.3,
+    "salary": 59900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 84690,
+        "name": "Jalen Brunson",
+        "team": "NYK",
+        "pos": "PG",
+        "salary": 8200,
+        "fpts": 29.8,
+        "own": 26.63
+      },
+      {
+        "slot": "SG",
+        "id": 248938,
+        "name": "Darryn Peterson",
+        "team": "UTA",
+        "pos": "SG",
+        "salary": 6000,
+        "fpts": 33.8,
+        "own": 66.33
+      },
+      {
+        "slot": "SF",
+        "id": 188422,
+        "name": "Jaime Jaquez",
+        "team": "MIL",
+        "pos": "SF",
+        "salary": 4700,
+        "fpts": 25.5,
+        "own": 14.92
+      },
+      {
+        "slot": "PF",
+        "id": 40199,
+        "name": "Giannis Antetokounmpo",
+        "team": "MIA",
+        "pos": "PF",
+        "salary": 11800,
+        "fpts": 48.2,
+        "own": 26.07
+      },
+      {
+        "slot": "C",
+        "id": 58253,
+        "name": "Myles Turner",
+        "team": "MIL",
+        "pos": "C",
+        "salary": 4600,
+        "fpts": 10.6,
+        "own": 10.73
+      },
+      {
+        "slot": "G/F",
+        "id": 58460,
+        "name": "Devin Booker",
+        "team": "PHX",
+        "pos": "PG",
+        "salary": 7700,
+        "fpts": 24.1,
+        "own": 29.26
+      },
+      {
+        "slot": "F/C",
+        "id": 228119,
+        "name": "Ace Bailey",
+        "team": "UTA",
+        "pos": "SF/SG",
+        "salary": 5100,
+        "fpts": 32.4,
+        "own": 47.58
+      },
+      {
+        "slot": "UTIL",
+        "id": 84676,
+        "name": "Wendell Carter",
+        "team": "ORL",
+        "pos": "C",
+        "salary": 5900,
+        "fpts": 34.7,
+        "own": 31.65
+      },
+      {
+        "slot": "UTIL",
+        "id": 145334,
+        "name": "Desmond Bane",
+        "team": "ORL",
+        "pos": "SG",
+        "salary": 5900,
+        "fpts": 26.2,
+        "own": 34.78
+      }
+    ],
+    "money": {
+      "fee": 6,
+      "one": {
+        "won": 0,
+        "net": -6
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -6
+      },
+      "portfolio": {
+        "n": 3,
+        "won": 10,
+        "net": -8,
+        "cashed": 1
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "ORL": 3,
+        "SAC": 2,
+        "UTA": 2,
+        "BOS": 1,
+        "MIA": 1
+      },
+      "games": {
+        "ORL@SAC": 5,
+        "MIA@UTA": 3,
+        "BOS@PHI": 1
+      },
+      "nGames": 3,
+      "summary": [
+        "ORL 3 · SAC 2 · UTA 2",
+        "3 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "BOS": 2,
+        "ORL": 2,
+        "SAC": 2,
+        "MIA": 1,
+        "NYK": 1,
+        "UTA": 1
+      },
+      "games": {
+        "ORL@SAC": 4,
+        "BOS@PHI": 2,
+        "MIA@UTA": 2,
+        "MIL@NYK": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "BOS 2 · ORL 2 · SAC 2",
+        "4 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "MIL": 2,
+        "ORL": 2,
+        "UTA": 2,
+        "MIA": 1,
+        "NYK": 1,
+        "PHX": 1
+      },
+      "games": {
+        "MIA@UTA": 3,
+        "MIL@NYK": 3,
+        "ORL@SAC": 2,
+        "LAC@PHX": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "MIL 2 · ORL 2 · UTA 2",
+        "4 games"
+      ]
+    }
+  }
+}
