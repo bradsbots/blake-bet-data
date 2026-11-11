@@ -2,6 +2,50 @@
  "sport": "nhl",
  "slates": [
   {
+   "slate": "156282",
+   "date": "2026-11-10",
+   "label": "NHL $70K Overload [$20K to 1st]",
+   "entries": 4117,
+   "source": "live",
+   "model": "v2",
+   "predictedAt": "2026-11-10T23:45:23+00:00",
+   "lockAt": "2026-11-11T00:00:00+00:00",
+   "minutesBeforeLock": 15,
+   "n": 348,
+   "mae": 1.148,
+   "mae5": 3.261,
+   "spearman": 0.9232,
+   "top10": 0.4,
+   "chalk": {
+    "n": 1,
+    "caught": 1
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Jakob Chychrun",
+     "pos": "D",
+     "team": "WSH",
+     "pred": 14.73,
+     "actual": 3.62
+    },
+    {
+     "name": "Nico Daws",
+     "pos": "G",
+     "team": "WPG",
+     "pred": 2.14,
+     "actual": 12.99
+    },
+    {
+     "name": "Philip Broberg",
+     "pos": "D",
+     "team": "STL",
+     "pred": 17.86,
+     "actual": 7.41
+    }
+   ]
+  },
+  {
    "slate": "156276",
    "date": "2026-11-09",
    "label": "NHL $30K Overload [$10K to 1st]",
@@ -1104,12 +1148,12 @@
  ],
  "recent": {
   "slates": 10,
-  "n": 2707,
-  "mae": 1.466,
-  "mae5": 4.033,
+  "n": 2874,
+  "mae": 1.399,
+  "mae5": 3.928,
   "chalk": {
-   "n": 77,
-   "caught": 50
+   "n": 69,
+   "caught": 43
   },
   "falseChalk": 2
  }
