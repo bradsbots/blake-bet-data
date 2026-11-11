@@ -1,0 +1,428 @@
+{
+  "sport": "nhl",
+  "site": "fd",
+  "slate": "136505",
+  "date": "2026-11-10",
+  "contest": {
+    "id": 281487984,
+    "label": "$20K Tue NHL Breakaway ($5K to 1st)",
+    "entries": 5055
+  },
+  "generatedAt": "2026-11-11T18:09:25.856Z",
+  "winner": {
+    "rank": 1,
+    "name": "ivymoose (31/46)",
+    "points": 225.6,
+    "salary": 53600,
+    "players": [
+      {
+        "slot": "C",
+        "id": 70899,
+        "name": "Auston Matthews",
+        "team": "TOR",
+        "pos": "C",
+        "salary": 8000,
+        "fpts": 19.2,
+        "own": 10.43
+      },
+      {
+        "slot": "C",
+        "id": 81983,
+        "name": "Robert Thomas",
+        "team": "STL",
+        "pos": "C",
+        "salary": 5300,
+        "fpts": 19.2,
+        "own": 16.38
+      },
+      {
+        "slot": "W",
+        "id": 193036,
+        "name": "Easton Cowan",
+        "team": "TOR",
+        "pos": "W",
+        "salary": 5700,
+        "fpts": 26.4,
+        "own": 1.19
+      },
+      {
+        "slot": "W",
+        "id": 74047,
+        "name": "Jack Roslovic",
+        "team": "TOR",
+        "pos": "W",
+        "salary": 6000,
+        "fpts": 28,
+        "own": 2.67
+      },
+      {
+        "slot": "D",
+        "id": 59139,
+        "name": "Darren Raddysh",
+        "team": "TOR",
+        "pos": "D",
+        "salary": 5000,
+        "fpts": 24.8,
+        "own": 16.89
+      },
+      {
+        "slot": "D",
+        "id": 113276,
+        "name": "Moritz Seider",
+        "team": "DET",
+        "pos": "D",
+        "salary": 5600,
+        "fpts": 21.6,
+        "own": 5.88
+      },
+      {
+        "slot": "UTIL",
+        "id": 148701,
+        "name": "Dylan Holloway",
+        "team": "STL",
+        "pos": "W",
+        "salary": 5300,
+        "fpts": 24,
+        "own": 9.91
+      },
+      {
+        "slot": "UTIL",
+        "id": 222916,
+        "name": "Jimmy Snuggerud",
+        "team": "STL",
+        "pos": "W",
+        "salary": 5400,
+        "fpts": 24.8,
+        "own": 15.09
+      },
+      {
+        "slot": "G",
+        "id": 12283,
+        "name": "Jacob Markstrom",
+        "team": "FLA",
+        "pos": "G",
+        "salary": 7300,
+        "fpts": 37.6,
+        "own": 6.51
+      }
+    ]
+  },
+  "optimal": {
+    "points": 284.7,
+    "salary": 51500,
+    "players": [
+      {
+        "slot": "C",
+        "id": 58332,
+        "name": "Sam Bennett",
+        "team": "FLA",
+        "pos": "C",
+        "salary": 5500,
+        "fpts": 30.9,
+        "own": 5.52
+      },
+      {
+        "slot": "C",
+        "id": 62157,
+        "name": "Andrew Copp",
+        "team": "DET",
+        "pos": "C",
+        "salary": 4600,
+        "fpts": 28,
+        "own": 1.17
+      },
+      {
+        "slot": "W",
+        "id": 70125,
+        "name": "Kyle Connor",
+        "team": "WPG",
+        "pos": "W",
+        "salary": 7800,
+        "fpts": 37.3,
+        "own": 9.08
+      },
+      {
+        "slot": "W",
+        "id": 146124,
+        "name": "Dawson Mercer",
+        "team": "WPG",
+        "pos": "W",
+        "salary": 4500,
+        "fpts": 32.5,
+        "own": 0.75
+      },
+      {
+        "slot": "D",
+        "id": 59139,
+        "name": "Darren Raddysh",
+        "team": "TOR",
+        "pos": "D",
+        "salary": 5000,
+        "fpts": 24.8,
+        "own": 16.89
+      },
+      {
+        "slot": "D",
+        "id": 203918,
+        "name": "Cole Hutson",
+        "team": "WSH",
+        "pos": "D",
+        "salary": 5200,
+        "fpts": 28,
+        "own": 0.73
+      },
+      {
+        "slot": "UTIL",
+        "id": 14697,
+        "name": "Gabriel Landeskog",
+        "team": "COL",
+        "pos": "W",
+        "salary": 4800,
+        "fpts": 30.4,
+        "own": 0.87
+      },
+      {
+        "slot": "UTIL",
+        "id": 39253,
+        "name": "Filip Forsberg",
+        "team": "NSH",
+        "pos": "W",
+        "salary": 6500,
+        "fpts": 28.8,
+        "own": 8.49
+      },
+      {
+        "slot": "G",
+        "id": 66411,
+        "name": "Juuse Saros",
+        "team": "NSH",
+        "pos": "G",
+        "salary": 7600,
+        "fpts": 44,
+        "own": 6.79
+      }
+    ],
+    "assumedZero": 55
+  },
+  "paper": {
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 4215,
+    "pctile": 15.94,
+    "points": 80,
+    "salary": 54800,
+    "players": [
+      {
+        "slot": "C",
+        "id": 111493,
+        "name": "Jack Hughes",
+        "team": "NJD",
+        "pos": "C",
+        "salary": 8100,
+        "fpts": 12.8,
+        "own": 19.39
+      },
+      {
+        "slot": "C",
+        "id": 113279,
+        "name": "Dylan Cozens",
+        "team": "OTT",
+        "pos": "C",
+        "salary": 5400,
+        "fpts": 6.4,
+        "own": 8.27
+      },
+      {
+        "slot": "W",
+        "id": 82190,
+        "name": "Drake Batherson",
+        "team": "OTT",
+        "pos": "W",
+        "salary": 6200,
+        "fpts": 1.6,
+        "own": 5.7
+      },
+      {
+        "slot": "W",
+        "id": 148067,
+        "name": "Cole Caufield",
+        "team": "MTL",
+        "pos": "W",
+        "salary": 6600,
+        "fpts": 11.2,
+        "own": 12.52
+      },
+      {
+        "slot": "D",
+        "id": 113270,
+        "name": "Philip Broberg",
+        "team": "STL",
+        "pos": "D",
+        "salary": 5700,
+        "fpts": 3.2,
+        "own": 6.25
+      },
+      {
+        "slot": "D",
+        "id": 142019,
+        "name": "Jake Sanderson",
+        "team": "OTT",
+        "pos": "D",
+        "salary": 4400,
+        "fpts": 11.2,
+        "own": 37.71
+      },
+      {
+        "slot": "UTIL",
+        "id": 42772,
+        "name": "Josh Anderson",
+        "team": "MTL",
+        "pos": "W",
+        "salary": 5000,
+        "fpts": 1.6,
+        "own": 0.18
+      },
+      {
+        "slot": "UTIL",
+        "id": 82006,
+        "name": "Nick Suzuki",
+        "team": "MTL",
+        "pos": "C",
+        "salary": 6200,
+        "fpts": 18.4,
+        "own": 14.46
+      },
+      {
+        "slot": "G",
+        "id": 40023,
+        "name": "Anton Forsberg",
+        "team": "LAK",
+        "pos": "G",
+        "salary": 7200,
+        "fpts": 13.6,
+        "own": 9.85
+      }
+    ],
+    "money": {
+      "fee": 4.44,
+      "one": {
+        "won": 0,
+        "net": -4.44
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -4.44
+      },
+      "portfolio": {
+        "n": 6,
+        "won": 16,
+        "net": -10.64,
+        "cashed": 2
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "TOR": 4,
+        "STL": 3,
+        "DET": 1,
+        "FLA": 1
+      },
+      "games": {
+        "COL@TOR": 4,
+        "DET@STL": 4,
+        "FLA@CBJ": 1
+      },
+      "nGames": 3,
+      "lines": {
+        "STL f1": 3,
+        "TOR f1": 3
+      },
+      "pp": {
+        "TOR pp1": 3,
+        "STL pp1": 2
+      },
+      "goalie": {
+        "team": "FLA",
+        "opposing": 0
+      },
+      "summary": [
+        "TOR 4 · STL 3",
+        "STL f1 ×3",
+        "TOR f1 ×3",
+        "TOR pp1 ×3",
+        "STL pp1 ×2",
+        "G FLA",
+        "3 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "NSH": 2,
+        "WPG": 2,
+        "COL": 1,
+        "DET": 1,
+        "FLA": 1,
+        "TOR": 1,
+        "WSH": 1
+      },
+      "games": {
+        "COL@TOR": 2,
+        "NJD@WPG": 2,
+        "NSH@LAK": 2,
+        "DET@STL": 1,
+        "FLA@CBJ": 1,
+        "WSH@OTT": 1
+      },
+      "nGames": 6,
+      "lines": {},
+      "pp": {},
+      "goalie": {
+        "team": "NSH",
+        "opposing": 0
+      },
+      "summary": [
+        "NSH 2 · WPG 2",
+        "G NSH",
+        "6 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "MTL": 3,
+        "OTT": 3,
+        "LAK": 1,
+        "NJD": 1,
+        "STL": 1
+      },
+      "games": {
+        "MIN@MTL": 3,
+        "WSH@OTT": 3,
+        "DET@STL": 1,
+        "NJD@WPG": 1,
+        "NSH@LAK": 1
+      },
+      "nGames": 5,
+      "lines": {
+        "MTL f1": 2
+      },
+      "pp": {
+        "OTT pp1": 3,
+        "MTL pp1": 2
+      },
+      "goalie": {
+        "team": "LAK",
+        "opposing": 0
+      },
+      "summary": [
+        "MTL 3 · OTT 3",
+        "MTL f1 ×2",
+        "OTT pp1 ×3",
+        "MTL pp1 ×2",
+        "G LAK",
+        "5 games"
+      ]
+    }
+  }
+}
