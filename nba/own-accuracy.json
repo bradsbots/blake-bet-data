@@ -2,6 +2,50 @@
  "sport": "nba",
  "slates": [
   {
+   "slate": "156485",
+   "date": "2026-11-10",
+   "label": "NBA $300K Fadeaway [$100K to 1st]",
+   "entries": 23529,
+   "source": "live",
+   "model": "v2",
+   "predictedAt": "2026-11-11T00:00:09+00:00",
+   "lockAt": "2026-11-11T00:30:00+00:00",
+   "minutesBeforeLock": 30,
+   "n": 152,
+   "mae": 2.505,
+   "mae5": 6.148,
+   "spearman": 0.9313,
+   "top10": 0.7,
+   "chalk": {
+    "n": 11,
+    "caught": 10
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Brayden Burries",
+     "pos": "ALL",
+     "team": "MIL",
+     "pred": 34.21,
+     "actual": 58.81
+    },
+    {
+     "name": "Isaiah Collier",
+     "pos": "ALL",
+     "team": "UTA",
+     "pred": 21.61,
+     "actual": 44.7
+    },
+    {
+     "name": "Darryn Peterson",
+     "pos": "ALL",
+     "team": "UTA",
+     "pred": 38.68,
+     "actual": 57.47
+    }
+   ]
+  },
+  {
    "slate": "156358",
    "date": "2026-11-09",
    "label": "NBA $200K Fadeaway [$50K to 1st]",
@@ -444,12 +488,12 @@
  ],
  "recent": {
   "slates": 10,
-  "n": 1904,
-  "mae": 2.789,
-  "mae5": 7.863,
+  "n": 1825,
+  "mae": 2.858,
+  "mae5": 7.906,
   "chalk": {
-   "n": 131,
-   "caught": 85
+   "n": 130,
+   "caught": 86
   },
   "falseChalk": 4
  }
