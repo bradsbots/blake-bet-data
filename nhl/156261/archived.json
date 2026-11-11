@@ -1,0 +1,111 @@
+{
+ "archivedAt": "2026-11-11T00:00:25+00:00",
+ "days": 3,
+ "bytes": 1184609,
+ "removed": [
+  {
+   "path": "snapshots/20261106T140005Z.json",
+   "bytes": 7020
+  },
+  {
+   "path": "snapshots/20261106T150005Z.json",
+   "bytes": 8240
+  },
+  {
+   "path": "snapshots/20261106T160015Z.json",
+   "bytes": 8849
+  },
+  {
+   "path": "snapshots/20261106T170006Z.json",
+   "bytes": 9209
+  },
+  {
+   "path": "snapshots/20261106T180006Z.json",
+   "bytes": 9215
+  },
+  {
+   "path": "snapshots/20261106T190015Z.json",
+   "bytes": 9469
+  },
+  {
+   "path": "snapshots/20261106T200007Z.json",
+   "bytes": 9471
+  },
+  {
+   "path": "snapshots/20261106T210018Z.json",
+   "bytes": 9726
+  },
+  {
+   "path": "snapshots/20261106T220014Z.json",
+   "bytes": 9726
+  },
+  {
+   "path": "snapshots/20261106T230007Z.json",
+   "bytes": 9930
+  },
+  {
+   "path": "snapshots/20261107T000006Z.json",
+   "bytes": 9992
+  },
+  {
+   "path": "snapshots/20261107T010010Z.json",
+   "bytes": 54226
+  },
+  {
+   "path": "snapshots/20261107T020009Z.json",
+   "bytes": 54226
+  },
+  {
+   "path": "snapshots/20261107T030009Z.json",
+   "bytes": 69472
+  },
+  {
+   "path": "snapshots/20261107T040009Z.json",
+   "bytes": 69500
+  },
+  {
+   "path": "snapshots/20261107T140010Z.json",
+   "bytes": 70070
+  },
+  {
+   "path": "snapshots/20261107T150022Z.json",
+   "bytes": 77045
+  },
+  {
+   "path": "snapshots/20261107T160009Z.json",
+   "bytes": 83303
+  },
+  {
+   "path": "snapshots/20261107T170024Z.json",
+   "bytes": 83543
+  },
+  {
+   "path": "snapshots/20261107T180010Z.json",
+   "bytes": 83541
+  },
+  {
+   "path": "snapshots/20261107T190009Z.json",
+   "bytes": 84247
+  },
+  {
+   "path": "snapshots/20261107T200020Z.json",
+   "bytes": 88214
+  },
+  {
+   "path": "snapshots/20261107T210008Z.json",
+   "bytes": 87889
+  },
+  {
+   "path": "snapshots/20261107T220010Z.json",
+   "bytes": 88392
+  },
+  {
+   "path": "snapshots/20261107T230031Z.json",
+   "bytes": 88154
+  },
+  {
+   "path": "timeline.json",
+   "bytes": 1940
+  }
+ ]
+}
