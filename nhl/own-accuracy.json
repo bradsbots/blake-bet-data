@@ -2,6 +2,50 @@
  "sport": "nhl",
  "slates": [
   {
+   "slate": "156290",
+   "date": "2026-11-11",
+   "label": "NHL $35K Overload [$10K to 1st]",
+   "entries": 2058,
+   "source": "live",
+   "model": "v2",
+   "predictedAt": "2026-11-11T23:40:14+00:00",
+   "lockAt": "2026-11-12T00:00:00+00:00",
+   "minutesBeforeLock": 20,
+   "n": 299,
+   "mae": 1.521,
+   "mae5": 4.372,
+   "spearman": 0.8965,
+   "top10": 0.6,
+   "chalk": {
+    "n": 5,
+    "caught": 3
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Macklin Celebrini",
+     "pos": "C",
+     "team": "SJS",
+     "pred": 9.71,
+     "actual": 21.42
+    },
+    {
+     "name": "Michael Misa",
+     "pos": "W",
+     "team": "SJS",
+     "pred": 4.64,
+     "actual": 16.22
+    },
+    {
+     "name": "Cutter Gauthier",
+     "pos": "W",
+     "team": "ANA",
+     "pred": 18.6,
+     "actual": 29.94
+    }
+   ]
+  },
+  {
    "slate": "156282",
    "date": "2026-11-10",
    "label": "NHL $70K Overload [$20K to 1st]",
@@ -1148,12 +1192,12 @@
  ],
  "recent": {
   "slates": 10,
-  "n": 2874,
-  "mae": 1.399,
-  "mae5": 3.928,
+  "n": 2978,
+  "mae": 1.385,
+  "mae5": 3.961,
   "chalk": {
-   "n": 69,
-   "caught": 43
+   "n": 65,
+   "caught": 40
   },
   "falseChalk": 2
  }
