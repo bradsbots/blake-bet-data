@@ -153,8 +153,8 @@
     "paperPctile": 10.11,
     "paperNet1": -9,
     "paperNet1Defaults": -9,
-    "portfolioNet": null,
-    "portfolioCashed": null,
+    "portfolioNet": -27,
+    "portfolioCashed": 0,
     "portfolioN": 3
   },
   {
