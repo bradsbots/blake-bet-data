@@ -1,6 +1,23 @@
 [
   {
     "sport": "nba",
+    "slate": "156572",
+    "date": "2026-11-11",
+    "label": "NBA $333K Zone Special [$100K to 1st]",
+    "contestId": 197710851,
+    "entries": 74298,
+    "winnerPoints": 336.5,
+    "optimalPoints": 349.75,
+    "paperPoints": 254.75,
+    "paperPctile": 71.56,
+    "paperNet1": -5,
+    "paperNet1Defaults": -5,
+    "portfolioNet": -69,
+    "portfolioCashed": 3,
+    "portfolioN": 20
+  },
+  {
+    "sport": "nba",
     "site": "fd",
     "slate": "136535",
     "date": "2026-11-10",

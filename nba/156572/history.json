@@ -1,0 +1,357 @@
+{
+  "sport": "nba",
+  "slate": "156572",
+  "date": "2026-11-11",
+  "contest": {
+    "id": 197710851,
+    "label": "NBA $333K Zone Special [$100K to 1st]",
+    "entries": 74298
+  },
+  "generatedAt": "2026-11-12T09:40:17.839Z",
+  "winner": {
+    "rank": 1,
+    "name": "bgreseth (109/150)",
+    "points": 336.5,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44873391,
+        "name": "Jamal Murray",
+        "team": "DEN",
+        "pos": "PG",
+        "salary": 8300,
+        "fpts": 52.5,
+        "own": 17.74
+      },
+      {
+        "slot": "SG",
+        "id": 44873492,
+        "name": "Kyshawn George",
+        "team": "WAS",
+        "pos": "SG",
+        "salary": 6500,
+        "fpts": 40.25,
+        "own": 12.56
+      },
+      {
+        "slot": "SF",
+        "id": 44873655,
+        "name": "Keldon Johnson",
+        "team": "SAS",
+        "pos": "SF",
+        "salary": 4600,
+        "fpts": 27,
+        "own": 17.74
+      },
+      {
+        "slot": "PF",
+        "id": 44873413,
+        "name": "Pascal Siakam",
+        "team": "IND",
+        "pos": "PF",
+        "salary": 7900,
+        "fpts": 47.5,
+        "own": 11.03
+      },
+      {
+        "slot": "C",
+        "id": 44873567,
+        "name": "Day'Ron Sharpe",
+        "team": "BKN",
+        "pos": "C",
+        "salary": 5300,
+        "fpts": 37.5,
+        "own": 41.41
+      },
+      {
+        "slot": "G",
+        "id": 44873503,
+        "name": "De'Aaron Fox",
+        "team": "SAS",
+        "pos": "PG",
+        "salary": 6200,
+        "fpts": 42,
+        "own": 13.53
+      },
+      {
+        "slot": "F",
+        "id": 44873474,
+        "name": "Dylan Harper",
+        "team": "SAS",
+        "pos": "PG",
+        "salary": 6700,
+        "fpts": 53,
+        "own": 15.06
+      },
+      {
+        "slot": "UTIL",
+        "id": 44873692,
+        "name": "Danny Wolf",
+        "team": "BKN",
+        "pos": "C",
+        "salary": 4500,
+        "fpts": 36.75,
+        "own": 24.24
+      }
+    ]
+  },
+  "optimal": {
+    "points": 349.75,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44873451,
+        "name": "James Harden",
+        "team": "CLE",
+        "pos": "PG",
+        "salary": 7100,
+        "fpts": 46,
+        "own": 2.02
+      },
+      {
+        "slot": "SG",
+        "id": 44873687,
+        "name": "Cameron Johnson",
+        "team": "DEN",
+        "pos": "SG",
+        "salary": 4500,
+        "fpts": 36.5,
+        "own": 18.02
+      },
+      {
+        "slot": "SF",
+        "id": 44873741,
+        "name": "Kelly Oubre Jr.",
+        "team": "IND",
+        "pos": "SG",
+        "salary": 4200,
+        "fpts": 33,
+        "own": 5.33
+      },
+      {
+        "slot": "PF",
+        "id": 44873413,
+        "name": "Pascal Siakam",
+        "team": "IND",
+        "pos": "PF",
+        "salary": 7900,
+        "fpts": 47.5,
+        "own": 11.03
+      },
+      {
+        "slot": "C",
+        "id": 44873597,
+        "name": "Neemias Queta",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 5000,
+        "fpts": 39.25,
+        "own": 3.38
+      },
+      {
+        "slot": "G",
+        "id": 44873503,
+        "name": "De'Aaron Fox",
+        "team": "SAS",
+        "pos": "PG",
+        "salary": 6200,
+        "fpts": 42,
+        "own": 13.53
+      },
+      {
+        "slot": "F",
+        "id": 44873474,
+        "name": "Dylan Harper",
+        "team": "SAS",
+        "pos": "PG",
+        "salary": 6700,
+        "fpts": 53,
+        "own": 15.06
+      },
+      {
+        "slot": "UTIL",
+        "id": 44873391,
+        "name": "Jamal Murray",
+        "team": "DEN",
+        "pos": "PG",
+        "salary": 8300,
+        "fpts": 52.5,
+        "own": 17.74
+      }
+    ],
+    "assumedZero": 16
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 20892,
+    "pctile": 71.56,
+    "points": 254.75,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44873385,
+        "name": "Jalen Brunson",
+        "team": "NYK",
+        "pos": "PG",
+        "salary": 8700,
+        "fpts": 42.75,
+        "own": 5.08
+      },
+      {
+        "slot": "SG",
+        "id": 44873573,
+        "name": "Brayden Burries",
+        "team": "MIL",
+        "pos": "PG",
+        "salary": 5300,
+        "fpts": 19.25,
+        "own": 19.66
+      },
+      {
+        "slot": "SF",
+        "id": 44873629,
+        "name": "Christian Braun",
+        "team": "DEN",
+        "pos": "SG",
+        "salary": 4800,
+        "fpts": 29.25,
+        "own": 12.83
+      },
+      {
+        "slot": "PF",
+        "id": 44873612,
+        "name": "Kyle Kuzma",
+        "team": "MIL",
+        "pos": "PF",
+        "salary": 4900,
+        "fpts": 16.75,
+        "own": 9.62
+      },
+      {
+        "slot": "C",
+        "id": 44873581,
+        "name": "Jakob Poeltl",
+        "team": "TOR",
+        "pos": "C",
+        "salary": 5200,
+        "fpts": 19.25,
+        "own": 14.15
+      },
+      {
+        "slot": "G",
+        "id": 44873391,
+        "name": "Jamal Murray",
+        "team": "DEN",
+        "pos": "PG",
+        "salary": 8300,
+        "fpts": 52.5,
+        "own": 17.74
+      },
+      {
+        "slot": "F",
+        "id": 44873438,
+        "name": "Michael Porter Jr.",
+        "team": "BKN",
+        "pos": "SF",
+        "salary": 7500,
+        "fpts": 37.5,
+        "own": 28.75
+      },
+      {
+        "slot": "UTIL",
+        "id": 44873567,
+        "name": "Day'Ron Sharpe",
+        "team": "BKN",
+        "pos": "C",
+        "salary": 5300,
+        "fpts": 37.5,
+        "own": 41.41
+      }
+    ],
+    "money": {
+      "fee": 5,
+      "one": {
+        "won": 0,
+        "net": -5
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -5
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 31,
+        "net": -69,
+        "cashed": 3
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "SAS": 3,
+        "BKN": 2,
+        "DEN": 1,
+        "IND": 1,
+        "WAS": 1
+      },
+      "games": {
+        "SAS@CHI": 3,
+        "BKN@NOP": 2,
+        "WAS@IND": 2,
+        "DEN@MEM": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "SAS 3 · BKN 2",
+        "4 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "DEN": 2,
+        "IND": 2,
+        "SAS": 2,
+        "BOS": 1,
+        "CLE": 1
+      },
+      "games": {
+        "DEN@MEM": 2,
+        "SAS@CHI": 2,
+        "WAS@IND": 2,
+        "BOS@TOR": 1,
+        "CLE@NYK": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "DEN 2 · IND 2 · SAS 2",
+        "5 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "BKN": 2,
+        "DEN": 2,
+        "MIL": 2,
+        "NYK": 1,
+        "TOR": 1
+      },
+      "games": {
+        "BKN@NOP": 2,
+        "DEN@MEM": 2,
+        "LAL@MIL": 2,
+        "BOS@TOR": 1,
+        "CLE@NYK": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "BKN 2 · DEN 2 · MIL 2",
+        "5 games"
+      ]
+    }
+  }
+}
