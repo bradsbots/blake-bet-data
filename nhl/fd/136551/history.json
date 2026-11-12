@@ -1,0 +1,435 @@
+{
+  "sport": "nhl",
+  "site": "fd",
+  "slate": "136551",
+  "date": "2026-11-11",
+  "contest": {
+    "id": 281514050,
+    "label": "$20K Wed NHL Breakaway ($5K to 1st)",
+    "entries": 5362
+  },
+  "generatedAt": "2026-11-12T14:29:25.051Z",
+  "winner": {
+    "rank": 1,
+    "name": "swidb (98/150)",
+    "points": 259,
+    "salary": 54900,
+    "players": [
+      {
+        "slot": "C",
+        "id": 66713,
+        "name": "Anthony Cirelli",
+        "team": "TBL",
+        "pos": "C",
+        "salary": 4900,
+        "fpts": 27.2,
+        "own": 7.07
+      },
+      {
+        "slot": "C",
+        "id": 228951,
+        "name": "Benjamin Kindel",
+        "team": "PIT",
+        "pos": "C",
+        "salary": 4700,
+        "fpts": 18.9,
+        "own": 13.54
+      },
+      {
+        "slot": "W",
+        "id": 73894,
+        "name": "Brandon Hagel",
+        "team": "TBL",
+        "pos": "W",
+        "salary": 7700,
+        "fpts": 40,
+        "own": 7.12
+      },
+      {
+        "slot": "W",
+        "id": 43214,
+        "name": "Nikita Kucherov",
+        "team": "TBL",
+        "pos": "W",
+        "salary": 7600,
+        "fpts": 52.5,
+        "own": 18.37
+      },
+      {
+        "slot": "D",
+        "id": 9015,
+        "name": "John Carlson",
+        "team": "TBL",
+        "pos": "D",
+        "salary": 5900,
+        "fpts": 51.4,
+        "own": 3.88
+      },
+      {
+        "slot": "D",
+        "id": 8551,
+        "name": "Erik Karlsson",
+        "team": "PIT",
+        "pos": "D",
+        "salary": 6100,
+        "fpts": 16.5,
+        "own": 16.19
+      },
+      {
+        "slot": "UTIL",
+        "id": 15269,
+        "name": "Rickard Rakell",
+        "team": "PIT",
+        "pos": "W",
+        "salary": 5600,
+        "fpts": 13.3,
+        "own": 23.35
+      },
+      {
+        "slot": "UTIL",
+        "id": 8594,
+        "name": "Sidney Crosby",
+        "team": "PIT",
+        "pos": "C",
+        "salary": 5200,
+        "fpts": 11.2,
+        "own": 33.55
+      },
+      {
+        "slot": "G",
+        "id": 42868,
+        "name": "Tristan Jarry",
+        "team": "EDM",
+        "pos": "G",
+        "salary": 7200,
+        "fpts": 28,
+        "own": 21.69
+      }
+    ]
+  },
+  "optimal": {
+    "points": 327.3,
+    "salary": 54200,
+    "players": [
+      {
+        "slot": "C",
+        "id": 14565,
+        "name": "Mika Zibanejad",
+        "team": "NYR",
+        "pos": "C",
+        "salary": 5900,
+        "fpts": 30.9,
+        "own": 10.82
+      },
+      {
+        "slot": "C",
+        "id": 66713,
+        "name": "Anthony Cirelli",
+        "team": "TBL",
+        "pos": "C",
+        "salary": 4900,
+        "fpts": 27.2,
+        "own": 7.07
+      },
+      {
+        "slot": "W",
+        "id": 167209,
+        "name": "Jack McBain",
+        "team": "UTA",
+        "pos": "W",
+        "salary": 3600,
+        "fpts": 32.8,
+        "own": 0.56
+      },
+      {
+        "slot": "W",
+        "id": 173464,
+        "name": "Shane Wright",
+        "team": "NSH",
+        "pos": "W",
+        "salary": 4100,
+        "fpts": 36,
+        "own": 1.36
+      },
+      {
+        "slot": "D",
+        "id": 9015,
+        "name": "John Carlson",
+        "team": "TBL",
+        "pos": "D",
+        "salary": 5900,
+        "fpts": 51.4,
+        "own": 3.88
+      },
+      {
+        "slot": "D",
+        "id": 97129,
+        "name": "Evan Bouchard",
+        "team": "EDM",
+        "pos": "D",
+        "salary": 7400,
+        "fpts": 25.3,
+        "own": 22.25
+      },
+      {
+        "slot": "UTIL",
+        "id": 43214,
+        "name": "Nikita Kucherov",
+        "team": "TBL",
+        "pos": "W",
+        "salary": 7600,
+        "fpts": 52.5,
+        "own": 18.37
+      },
+      {
+        "slot": "UTIL",
+        "id": 73894,
+        "name": "Brandon Hagel",
+        "team": "TBL",
+        "pos": "W",
+        "salary": 7700,
+        "fpts": 40,
+        "own": 7.12
+      },
+      {
+        "slot": "G",
+        "id": 207440,
+        "name": "Sergei Murashov",
+        "team": "PIT",
+        "pos": "G",
+        "salary": 7100,
+        "fpts": 31.2,
+        "own": 13.73
+      }
+    ],
+    "assumedZero": 43
+  },
+  "paper": {
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 3246,
+    "pctile": 39.16,
+    "points": 115.7,
+    "salary": 55000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 64102,
+        "name": "Connor McDavid",
+        "team": "EDM",
+        "pos": "C",
+        "salary": 8500,
+        "fpts": 11.7,
+        "own": 37.82
+      },
+      {
+        "slot": "C",
+        "id": 128506,
+        "name": "Trevor Zegras",
+        "team": "PHI",
+        "pos": "C",
+        "salary": 5400,
+        "fpts": 8,
+        "own": 3.75
+      },
+      {
+        "slot": "W",
+        "id": 58331,
+        "name": "Leon Draisaitl",
+        "team": "EDM",
+        "pos": "W",
+        "salary": 8300,
+        "fpts": 14.4,
+        "own": 31.65
+      },
+      {
+        "slot": "W",
+        "id": 204199,
+        "name": "Matvei Michkov",
+        "team": "PHI",
+        "pos": "W",
+        "salary": 5500,
+        "fpts": 8,
+        "own": 1.83
+      },
+      {
+        "slot": "D",
+        "id": 142020,
+        "name": "Jamie Drysdale",
+        "team": "PHI",
+        "pos": "D",
+        "salary": 4800,
+        "fpts": 1.6,
+        "own": 2.91
+      },
+      {
+        "slot": "D",
+        "id": 117038,
+        "name": "Matthew Robertson",
+        "team": "NYR",
+        "pos": "D",
+        "salary": 3100,
+        "fpts": 1.6,
+        "own": 3.41
+      },
+      {
+        "slot": "UTIL",
+        "id": 198700,
+        "name": "Cutter Gauthier",
+        "team": "ANA",
+        "pos": "W",
+        "salary": 8000,
+        "fpts": 23.2,
+        "own": 17.98
+      },
+      {
+        "slot": "UTIL",
+        "id": 14456,
+        "name": "Mattias Ekholm",
+        "team": "EDM",
+        "pos": "D",
+        "salary": 4300,
+        "fpts": 16,
+        "own": 15.4
+      },
+      {
+        "slot": "G",
+        "id": 207440,
+        "name": "Sergei Murashov",
+        "team": "PIT",
+        "pos": "G",
+        "salary": 7100,
+        "fpts": 31.2,
+        "own": 13.73
+      }
+    ],
+    "money": {
+      "fee": 4.44,
+      "one": {
+        "won": 0,
+        "net": -4.44
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -4.44
+      },
+      "portfolio": {
+        "n": 6,
+        "won": 8,
+        "net": -18.64,
+        "cashed": 1
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "PIT": 4,
+        "TBL": 4,
+        "EDM": 1
+      },
+      "games": {
+        "PIT@SJS": 4,
+        "TBL@BUF": 4,
+        "PHI@EDM": 1
+      },
+      "nGames": 3,
+      "lines": {
+        "TBL f1": 3,
+        "PIT f1": 2
+      },
+      "pp": {
+        "PIT pp1": 4,
+        "TBL pp1": 2,
+        "TBL pp2": 2
+      },
+      "goalie": {
+        "team": "EDM",
+        "opposing": 0
+      },
+      "summary": [
+        "PIT 4 · TBL 4",
+        "TBL f1 ×3",
+        "PIT f1 ×2",
+        "PIT pp1 ×4",
+        "TBL pp1 ×2",
+        "TBL pp2 ×2",
+        "G EDM",
+        "3 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "TBL": 4,
+        "EDM": 1,
+        "NSH": 1,
+        "NYR": 1,
+        "PIT": 1,
+        "UTA": 1
+      },
+      "games": {
+        "TBL@BUF": 4,
+        "NSH@ANA": 1,
+        "NYR@CGY": 1,
+        "PHI@EDM": 1,
+        "PIT@SJS": 1,
+        "UTA@VGK": 1
+      },
+      "nGames": 6,
+      "lines": {
+        "TBL f1": 3
+      },
+      "pp": {
+        "TBL pp1": 2,
+        "TBL pp2": 2
+      },
+      "goalie": {
+        "team": "PIT",
+        "opposing": 0
+      },
+      "summary": [
+        "TBL 4",
+        "TBL f1 ×3",
+        "TBL pp1 ×2",
+        "TBL pp2 ×2",
+        "G PIT",
+        "6 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "EDM": 3,
+        "PHI": 3,
+        "ANA": 1,
+        "NYR": 1,
+        "PIT": 1
+      },
+      "games": {
+        "PHI@EDM": 6,
+        "NSH@ANA": 1,
+        "NYR@CGY": 1,
+        "PIT@SJS": 1
+      },
+      "nGames": 4,
+      "lines": {
+        "EDM f1": 2
+      },
+      "pp": {
+        "PHI pp1": 3,
+        "EDM pp1": 2
+      },
+      "goalie": {
+        "team": "PIT",
+        "opposing": 0
+      },
+      "summary": [
+        "EDM 3 · PHI 3",
+        "EDM f1 ×2",
+        "PHI pp1 ×3",
+        "EDM pp1 ×2",
+        "G PIT",
+        "4 games"
+      ]
+    }
+  }
+}
