@@ -1,0 +1,392 @@
+{
+  "sport": "nba",
+  "site": "fd",
+  "slate": "136553",
+  "date": "2026-11-11",
+  "contest": {
+    "id": 281514302,
+    "label": "$200K Wed NBA Shot ($50K to 1st)",
+    "entries": 36587
+  },
+  "generatedAt": "2026-11-12T14:29:34.806Z",
+  "winner": {
+    "rank": 1,
+    "name": "rynpak (45/100)",
+    "points": 397.8,
+    "salary": 60000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 80810,
+        "name": "De'Aaron Fox",
+        "team": "SAS",
+        "pos": "PG",
+        "salary": 6000,
+        "fpts": 43.3,
+        "own": 10.9
+      },
+      {
+        "slot": "SG",
+        "id": 49675,
+        "name": "Derrick White",
+        "team": "BOS",
+        "pos": "PG/SG",
+        "salary": 6200,
+        "fpts": 43.7,
+        "own": 8.45
+      },
+      {
+        "slot": "SF",
+        "id": 80808,
+        "name": "Jayson Tatum",
+        "team": "BOS",
+        "pos": "PF/SF",
+        "salary": 10000,
+        "fpts": 48.4,
+        "own": 17.28
+      },
+      {
+        "slot": "PF",
+        "id": 228111,
+        "name": "Danny Wolf",
+        "team": "BKN",
+        "pos": "PF",
+        "salary": 3800,
+        "fpts": 36.2,
+        "own": 32.55
+      },
+      {
+        "slot": "C",
+        "id": 70827,
+        "name": "Ivica Zubac",
+        "team": "IND",
+        "pos": "C",
+        "salary": 5600,
+        "fpts": 39.9,
+        "own": 16.43
+      },
+      {
+        "slot": "G/F",
+        "id": 228126,
+        "name": "Dylan Harper",
+        "team": "SAS",
+        "pos": "SG/SF",
+        "salary": 6500,
+        "fpts": 55.2,
+        "own": 16.26
+      },
+      {
+        "slot": "F/C",
+        "id": 157839,
+        "name": "Day'Ron Sharpe",
+        "team": "BKN",
+        "pos": "C",
+        "salary": 5400,
+        "fpts": 40.3,
+        "own": 34.23
+      },
+      {
+        "slot": "UTIL",
+        "id": 188414,
+        "name": "Victor Wembanyama",
+        "team": "SAS",
+        "pos": "C",
+        "salary": 12400,
+        "fpts": 64.3,
+        "own": 40.22
+      },
+      {
+        "slot": "UTIL",
+        "id": 203730,
+        "name": "Kel'el Ware",
+        "team": "MIL",
+        "pos": "C",
+        "salary": 4100,
+        "fpts": 26.5,
+        "own": 52.09
+      }
+    ]
+  },
+  "optimal": {
+    "points": 417.5,
+    "salary": 59900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 80810,
+        "name": "De'Aaron Fox",
+        "team": "SAS",
+        "pos": "PG",
+        "salary": 6000,
+        "fpts": 43.3,
+        "own": 10.9
+      },
+      {
+        "slot": "SG",
+        "id": 228126,
+        "name": "Dylan Harper",
+        "team": "SAS",
+        "pos": "SG/SF",
+        "salary": 6500,
+        "fpts": 55.2,
+        "own": 16.26
+      },
+      {
+        "slot": "SF",
+        "id": 188422,
+        "name": "Jaime Jaquez",
+        "team": "MIL",
+        "pos": "SF",
+        "salary": 4900,
+        "fpts": 40.5,
+        "own": 7.73
+      },
+      {
+        "slot": "PF",
+        "id": 228111,
+        "name": "Danny Wolf",
+        "team": "BKN",
+        "pos": "PF",
+        "salary": 3800,
+        "fpts": 36.2,
+        "own": 32.55
+      },
+      {
+        "slot": "C",
+        "id": 188414,
+        "name": "Victor Wembanyama",
+        "team": "SAS",
+        "pos": "C",
+        "salary": 12400,
+        "fpts": 64.3,
+        "own": 40.22
+      },
+      {
+        "slot": "G/F",
+        "id": 66108,
+        "name": "Jamal Murray",
+        "team": "DEN",
+        "pos": "PG",
+        "salary": 8500,
+        "fpts": 51.8,
+        "own": 11.39
+      },
+      {
+        "slot": "F/C",
+        "id": 157811,
+        "name": "Neemias Queta",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 4700,
+        "fpts": 38.1,
+        "own": 7.25
+      },
+      {
+        "slot": "UTIL",
+        "id": 9644,
+        "name": "James Harden",
+        "team": "CLE",
+        "pos": "PG",
+        "salary": 6900,
+        "fpts": 44.4,
+        "own": 2.48
+      },
+      {
+        "slot": "UTIL",
+        "id": 49675,
+        "name": "Derrick White",
+        "team": "BOS",
+        "pos": "PG/SG",
+        "salary": 6200,
+        "fpts": 43.7,
+        "own": 8.45
+      }
+    ],
+    "assumedZero": 52
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 29330,
+    "pctile": 19.72,
+    "points": 270.6,
+    "salary": 60000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 157905,
+        "name": "Josh Giddey",
+        "team": "CHI",
+        "pos": "PG",
+        "salary": 6400,
+        "fpts": 14.9,
+        "own": 26.27
+      },
+      {
+        "slot": "SG",
+        "id": 145335,
+        "name": "Payton Pritchard",
+        "team": "BOS",
+        "pos": "PG/SG",
+        "salary": 5400,
+        "fpts": 11.7,
+        "own": 12.61
+      },
+      {
+        "slot": "SF",
+        "id": 40562,
+        "name": "Josh Hart",
+        "team": "NYK",
+        "pos": "SF/PF",
+        "salary": 5400,
+        "fpts": 15.3,
+        "own": 10.51
+      },
+      {
+        "slot": "PF",
+        "id": 110310,
+        "name": "Zion Williamson",
+        "team": "NOP",
+        "pos": "PF",
+        "salary": 7500,
+        "fpts": 37.8,
+        "own": 11.44
+      },
+      {
+        "slot": "C",
+        "id": 58378,
+        "name": "Jakob Poeltl",
+        "team": "TOR",
+        "pos": "C",
+        "salary": 5300,
+        "fpts": 18.3,
+        "own": 15.47
+      },
+      {
+        "slot": "G/F",
+        "id": 84682,
+        "name": "Michael Porter",
+        "team": "BKN",
+        "pos": "SF",
+        "salary": 7100,
+        "fpts": 35.7,
+        "own": 30.82
+      },
+      {
+        "slot": "F/C",
+        "id": 188414,
+        "name": "Victor Wembanyama",
+        "team": "SAS",
+        "pos": "C",
+        "salary": 12400,
+        "fpts": 64.3,
+        "own": 40.22
+      },
+      {
+        "slot": "UTIL",
+        "id": 145322,
+        "name": "Jalen Smith",
+        "team": "CHI",
+        "pos": "C",
+        "salary": 5100,
+        "fpts": 32.3,
+        "own": 8.88
+      },
+      {
+        "slot": "UTIL",
+        "id": 157839,
+        "name": "Day'Ron Sharpe",
+        "team": "BKN",
+        "pos": "C",
+        "salary": 5400,
+        "fpts": 40.3,
+        "own": 34.23
+      }
+    ],
+    "money": {
+      "fee": 6,
+      "one": {
+        "won": 0,
+        "net": -6
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -6
+      },
+      "portfolio": {
+        "n": 3,
+        "won": 0,
+        "net": -18,
+        "cashed": 0
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "SAS": 3,
+        "BKN": 2,
+        "BOS": 2,
+        "IND": 1,
+        "MIL": 1
+      },
+      "games": {
+        "SAS@CHI": 3,
+        "BKN@NOP": 2,
+        "BOS@TOR": 2,
+        "LAL@MIL": 1,
+        "WAS@IND": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "SAS 3 · BKN 2 · BOS 2",
+        "5 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "SAS": 3,
+        "BOS": 2,
+        "BKN": 1,
+        "CLE": 1,
+        "DEN": 1,
+        "MIL": 1
+      },
+      "games": {
+        "SAS@CHI": 3,
+        "BOS@TOR": 2,
+        "BKN@NOP": 1,
+        "CLE@NYK": 1,
+        "DEN@MEM": 1,
+        "LAL@MIL": 1
+      },
+      "nGames": 6,
+      "summary": [
+        "SAS 3 · BOS 2",
+        "6 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "BKN": 2,
+        "CHI": 2,
+        "BOS": 1,
+        "NOP": 1,
+        "NYK": 1,
+        "SAS": 1,
+        "TOR": 1
+      },
+      "games": {
+        "BKN@NOP": 3,
+        "SAS@CHI": 3,
+        "BOS@TOR": 2,
+        "CLE@NYK": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "BKN 2 · CHI 2",
+        "4 games"
+      ]
+    }
+  }
+}
