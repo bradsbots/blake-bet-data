@@ -1,0 +1,382 @@
+{
+  "sport": "nba",
+  "site": "fd",
+  "slate": "136587",
+  "date": "2026-11-12",
+  "contest": {
+    "id": 281524520,
+    "label": "$100K Thu NBA Shot ($20K to 1st)",
+    "entries": 13227
+  },
+  "generatedAt": "2026-11-13T19:49:17.364Z",
+  "winner": {
+    "rank": 1,
+    "name": "air007 (1/7)",
+    "points": 413.9,
+    "salary": 60000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 157808,
+        "name": "Cade Cunningham",
+        "team": "DET",
+        "pos": "PG",
+        "salary": 9900,
+        "fpts": 80.5,
+        "own": 31.5
+      },
+      {
+        "slot": "SG",
+        "id": 228133,
+        "name": "VJ Edgecombe",
+        "team": "PHI",
+        "pos": "SG",
+        "salary": 6000,
+        "fpts": 48.6,
+        "own": 23.2
+      },
+      {
+        "slot": "SF",
+        "id": 248945,
+        "name": "AJ Dybantsa",
+        "team": "WAS",
+        "pos": "SF",
+        "salary": 6100,
+        "fpts": 22.6,
+        "own": 11.54
+      },
+      {
+        "slot": "PF",
+        "id": 66236,
+        "name": "John Collins",
+        "team": "DET",
+        "pos": "PF/C",
+        "salary": 4600,
+        "fpts": 14.8,
+        "own": 50.68
+      },
+      {
+        "slot": "C",
+        "id": 203764,
+        "name": "Alex Sarr",
+        "team": "WAS",
+        "pos": "C/PF",
+        "salary": 5900,
+        "fpts": 50.8,
+        "own": 3.37
+      },
+      {
+        "slot": "G/F",
+        "id": 203812,
+        "name": "Daniss Jenkins",
+        "team": "DET",
+        "pos": "PG/SG",
+        "salary": 5200,
+        "fpts": 34.2,
+        "own": 60.72
+      },
+      {
+        "slot": "F/C",
+        "id": 188426,
+        "name": "Ausar Thompson",
+        "team": "DET",
+        "pos": "SF/SG",
+        "salary": 6200,
+        "fpts": 61.7,
+        "own": 28.82
+      },
+      {
+        "slot": "UTIL",
+        "id": 110357,
+        "name": "RJ Barrett",
+        "team": "TOR",
+        "pos": "SG/SF",
+        "salary": 7400,
+        "fpts": 52.3,
+        "own": 30.32
+      },
+      {
+        "slot": "UTIL",
+        "id": 145331,
+        "name": "Tyrese Maxey",
+        "team": "PHI",
+        "pos": "PG",
+        "salary": 8700,
+        "fpts": 48.4,
+        "own": 39.66
+      }
+    ]
+  },
+  "optimal": {
+    "points": 485.1,
+    "salary": 59000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 157834,
+        "name": "Bones Hyland",
+        "team": "MIN",
+        "pos": "PG",
+        "salary": 3900,
+        "fpts": 44.6,
+        "own": 0.42
+      },
+      {
+        "slot": "SG",
+        "id": 228133,
+        "name": "VJ Edgecombe",
+        "team": "PHI",
+        "pos": "SG",
+        "salary": 6000,
+        "fpts": 48.6,
+        "own": 23.2
+      },
+      {
+        "slot": "SF",
+        "id": 203767,
+        "name": "Zaccharie Risacher",
+        "team": "DAL",
+        "pos": "SF/SG",
+        "salary": 3900,
+        "fpts": 41.7,
+        "own": 0.26
+      },
+      {
+        "slot": "PF",
+        "id": 15755,
+        "name": "Anthony Davis",
+        "team": "WAS",
+        "pos": "PF/C",
+        "salary": 9400,
+        "fpts": 55,
+        "own": 32.62
+      },
+      {
+        "slot": "C",
+        "id": 203764,
+        "name": "Alex Sarr",
+        "team": "WAS",
+        "pos": "C/PF",
+        "salary": 5900,
+        "fpts": 50.8,
+        "own": 3.37
+      },
+      {
+        "slot": "G/F",
+        "id": 157808,
+        "name": "Cade Cunningham",
+        "team": "DET",
+        "pos": "PG",
+        "salary": 9900,
+        "fpts": 80.5,
+        "own": 31.5
+      },
+      {
+        "slot": "F/C",
+        "id": 188426,
+        "name": "Ausar Thompson",
+        "team": "DET",
+        "pos": "SF/SG",
+        "salary": 6200,
+        "fpts": 61.7,
+        "own": 28.82
+      },
+      {
+        "slot": "UTIL",
+        "id": 84671,
+        "name": "Trae Young",
+        "team": "WAS",
+        "pos": "PG",
+        "salary": 7500,
+        "fpts": 56.4,
+        "own": 4.26
+      },
+      {
+        "slot": "UTIL",
+        "id": 145348,
+        "name": "Immanuel Quickley",
+        "team": "TOR",
+        "pos": "PG",
+        "salary": 6300,
+        "fpts": 45.8,
+        "own": 14.18
+      }
+    ],
+    "assumedZero": 51
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 4525,
+    "pctile": 65.71,
+    "points": 324.4,
+    "salary": 60000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 157808,
+        "name": "Cade Cunningham",
+        "team": "DET",
+        "pos": "PG",
+        "salary": 9900,
+        "fpts": 80.5,
+        "own": 31.5
+      },
+      {
+        "slot": "SG",
+        "id": 203812,
+        "name": "Daniss Jenkins",
+        "team": "DET",
+        "pos": "PG/SG",
+        "salary": 5200,
+        "fpts": 34.2,
+        "own": 60.72
+      },
+      {
+        "slot": "SF",
+        "id": 110357,
+        "name": "RJ Barrett",
+        "team": "TOR",
+        "pos": "SG/SF",
+        "salary": 7400,
+        "fpts": 52.3,
+        "own": 30.32
+      },
+      {
+        "slot": "PF",
+        "id": 66236,
+        "name": "John Collins",
+        "team": "DET",
+        "pos": "PF/C",
+        "salary": 4600,
+        "fpts": 14.8,
+        "own": 50.68
+      },
+      {
+        "slot": "C",
+        "id": 49111,
+        "name": "Joel Embiid",
+        "team": "PHI",
+        "pos": "C",
+        "salary": 7900,
+        "fpts": 33.3,
+        "own": 37.95
+      },
+      {
+        "slot": "G/F",
+        "id": 171765,
+        "name": "Moussa Diabate",
+        "team": "CHA",
+        "pos": "C/PF",
+        "salary": 5100,
+        "fpts": 24.6,
+        "own": 23.54
+      },
+      {
+        "slot": "F/C",
+        "id": 67026,
+        "name": "Jaylen Brown",
+        "team": "PHI",
+        "pos": "SF",
+        "salary": 7800,
+        "fpts": 32.2,
+        "own": 51.82
+      },
+      {
+        "slot": "UTIL",
+        "id": 84678,
+        "name": "Miles Bridges",
+        "team": "PHX",
+        "pos": "PF",
+        "salary": 6600,
+        "fpts": 25.7,
+        "own": 11.27
+      },
+      {
+        "slot": "UTIL",
+        "id": 84711,
+        "name": "Grayson Allen",
+        "team": "CHA",
+        "pos": "SG",
+        "salary": 5500,
+        "fpts": 26.8,
+        "own": 43.46
+      }
+    ],
+    "money": {
+      "fee": 9,
+      "one": {
+        "won": 0,
+        "net": -9
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -9
+      },
+      "portfolio": {
+        "n": 3,
+        "won": 0,
+        "net": -27,
+        "cashed": 0
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "DET": 4,
+        "PHI": 2,
+        "WAS": 2,
+        "TOR": 1
+      },
+      "games": {
+        "DET@WAS": 6,
+        "TOR@PHI": 3
+      },
+      "nGames": 2,
+      "summary": [
+        "DET 4 · PHI 2 · WAS 2",
+        "2 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "WAS": 3,
+        "DET": 2,
+        "DAL": 1,
+        "MIN": 1,
+        "PHI": 1,
+        "TOR": 1
+      },
+      "games": {
+        "DET@WAS": 5,
+        "DAL@MIN": 2,
+        "TOR@PHI": 2
+      },
+      "nGames": 3,
+      "summary": [
+        "WAS 3 · DET 2",
+        "3 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "DET": 3,
+        "CHA": 2,
+        "PHI": 2,
+        "PHX": 1,
+        "TOR": 1
+      },
+      "games": {
+        "CHA@PHX": 3,
+        "DET@WAS": 3,
+        "TOR@PHI": 3
+      },
+      "nGames": 3,
+      "summary": [
+        "DET 3 · CHA 2 · PHI 2",
+        "3 games"
+      ]
+    }
+  }
+}
