@@ -2,6 +2,50 @@
  "sport": "nhl",
  "slates": [
   {
+   "slate": "156591",
+   "date": "2026-11-12",
+   "label": "NHL $40K Overload [$10K to 1st]",
+   "entries": 2352,
+   "source": "live",
+   "model": "v2",
+   "predictedAt": "2026-11-12T23:55:17+00:00",
+   "lockAt": "2026-11-13T00:00:00+00:00",
+   "minutesBeforeLock": 5,
+   "n": 490,
+   "mae": 0.86,
+   "mae5": 3.163,
+   "spearman": 0.9141,
+   "top10": 0.4,
+   "chalk": {
+    "n": 1,
+    "caught": 0
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Connor Bedard",
+     "pos": "C",
+     "team": "CHI",
+     "pred": 7.09,
+     "actual": 28.83
+    },
+    {
+     "name": "Sam Rinzel",
+     "pos": "D",
+     "team": "CHI",
+     "pred": 0.92,
+     "actual": 17.47
+    },
+    {
+     "name": "Sam O'Reilly",
+     "pos": "C",
+     "team": "TBL",
+     "pred": 3.18,
+     "actual": 14.16
+    }
+   ]
+  },
+  {
    "slate": "156290",
    "date": "2026-11-11",
    "label": "NHL $35K Overload [$10K to 1st]",
@@ -1192,12 +1236,12 @@
  ],
  "recent": {
   "slates": 10,
-  "n": 2978,
-  "mae": 1.385,
-  "mae5": 3.961,
+  "n": 3281,
+  "mae": 1.294,
+  "mae5": 3.93,
   "chalk": {
-   "n": 65,
-   "caught": 40
+   "n": 58,
+   "caught": 34
   },
   "falseChalk": 2
  }
