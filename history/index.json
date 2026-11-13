@@ -1,6 +1,23 @@
 [
   {
     "sport": "nba",
+    "slate": "156641",
+    "date": "2026-11-12",
+    "label": "NBA $150K Fadeaway [$50K to 1st]",
+    "contestId": 197743865,
+    "entries": 9803,
+    "winnerPoints": 374.5,
+    "optimalPoints": 424.5,
+    "paperPoints": 253,
+    "paperPctile": 56.4,
+    "paperNet1": -18,
+    "paperNet1Defaults": -18,
+    "portfolioNet": -330,
+    "portfolioCashed": 1,
+    "portfolioN": 20
+  },
+  {
+    "sport": "nba",
     "site": "fd",
     "slate": "136553",
     "date": "2026-11-11",
