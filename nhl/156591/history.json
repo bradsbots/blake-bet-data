@@ -1,0 +1,430 @@
+{
+  "sport": "nhl",
+  "slate": "156591",
+  "date": "2026-11-12",
+  "contest": {
+    "id": 197720364,
+    "label": "NHL $40K Overload [$10K to 1st]",
+    "entries": 2352
+  },
+  "generatedAt": "2026-11-13T09:40:31.861Z",
+  "winner": {
+    "rank": 1,
+    "name": "Swamper92 (15/20)",
+    "points": 185.7,
+    "salary": 49600,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44890177,
+        "name": "Mark Scheifele",
+        "team": "WPG",
+        "pos": "C",
+        "salary": 6400,
+        "fpts": 30.6,
+        "own": 1.32
+      },
+      {
+        "slot": "C",
+        "id": 44890179,
+        "name": "Tim Stuetzle",
+        "team": "OTT",
+        "pos": "C",
+        "salary": 6300,
+        "fpts": 22.7,
+        "own": 8.38
+      },
+      {
+        "slot": "W",
+        "id": 44890399,
+        "name": "Kyle Connor",
+        "team": "WPG",
+        "pos": "W",
+        "salary": 7500,
+        "fpts": 27.5,
+        "own": 1.62
+      },
+      {
+        "slot": "W",
+        "id": 44890455,
+        "name": "Gabriel Vilardi",
+        "team": "WPG",
+        "pos": "W",
+        "salary": 5100,
+        "fpts": 28.8,
+        "own": 1.07
+      },
+      {
+        "slot": "W",
+        "id": 44890467,
+        "name": "Cole Perfetti",
+        "team": "WPG",
+        "pos": "W",
+        "salary": 4900,
+        "fpts": 12.8,
+        "own": 1.03
+      },
+      {
+        "slot": "D",
+        "id": 44890841,
+        "name": "Josh Morrissey",
+        "team": "WPG",
+        "pos": "D",
+        "salary": 5200,
+        "fpts": 16.2,
+        "own": 1.19
+      },
+      {
+        "slot": "D",
+        "id": 44890871,
+        "name": "Devon Toews",
+        "team": "COL",
+        "pos": "D",
+        "salary": 3900,
+        "fpts": 5,
+        "own": 3.92
+      },
+      {
+        "slot": "G",
+        "id": 44891211,
+        "name": "Stuart Skinner",
+        "team": "WPG",
+        "pos": "G",
+        "salary": 6900,
+        "fpts": 16.5,
+        "own": 3.49
+      },
+      {
+        "slot": "UTIL",
+        "id": 44890553,
+        "name": "Dawson Mercer",
+        "team": "WPG",
+        "pos": "W",
+        "salary": 3400,
+        "fpts": 25.6,
+        "own": 0.47
+      }
+    ]
+  },
+  "optimal": {
+    "points": 267.1,
+    "salary": 48500,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44890223,
+        "name": "Shane Pinto",
+        "team": "OTT",
+        "pos": "C",
+        "salary": 4600,
+        "fpts": 34.9,
+        "own": 2.05
+      },
+      {
+        "slot": "C",
+        "id": 44890177,
+        "name": "Mark Scheifele",
+        "team": "WPG",
+        "pos": "C",
+        "salary": 6400,
+        "fpts": 30.6,
+        "own": 1.32
+      },
+      {
+        "slot": "W",
+        "id": 44890393,
+        "name": "Matt Boldy",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 8000,
+        "fpts": 42,
+        "own": 13.78
+      },
+      {
+        "slot": "W",
+        "id": 44890403,
+        "name": "Brandon Hagel",
+        "team": "TBL",
+        "pos": "W",
+        "salary": 7200,
+        "fpts": 38.3,
+        "own": 8.29
+      },
+      {
+        "slot": "W",
+        "id": 44890455,
+        "name": "Gabriel Vilardi",
+        "team": "WPG",
+        "pos": "W",
+        "salary": 5100,
+        "fpts": 28.8,
+        "own": 1.07
+      },
+      {
+        "slot": "D",
+        "id": 44890913,
+        "name": "Dylan Samberg",
+        "team": "WPG",
+        "pos": "D",
+        "salary": 3300,
+        "fpts": 17.8,
+        "own": 0.09
+      },
+      {
+        "slot": "D",
+        "id": 44890925,
+        "name": "Ryan Pulock",
+        "team": "NYI",
+        "pos": "D",
+        "salary": 3200,
+        "fpts": 15.6,
+        "own": 0.3
+      },
+      {
+        "slot": "G",
+        "id": 44891198,
+        "name": "Joel Hofer",
+        "team": "STL",
+        "pos": "G",
+        "salary": 7400,
+        "fpts": 30.3,
+        "own": 19.43
+      },
+      {
+        "slot": "UTIL",
+        "id": 44890255,
+        "name": "Frank Nazar",
+        "team": "CHI",
+        "pos": "C",
+        "salary": 3300,
+        "fpts": 28.8,
+        "own": 2.94
+      }
+    ],
+    "assumedZero": 207
+  },
+  "paper": {
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 633,
+    "pctile": 73.04,
+    "points": 108,
+    "salary": 49700,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44890167,
+        "name": "Jack Hughes",
+        "team": "NJD",
+        "pos": "C",
+        "salary": 8700,
+        "fpts": 13,
+        "own": 8.8
+      },
+      {
+        "slot": "C",
+        "id": 44890207,
+        "name": "Roope Hintz",
+        "team": "DAL",
+        "pos": "C",
+        "salary": 5100,
+        "fpts": 18,
+        "own": 8.63
+      },
+      {
+        "slot": "W",
+        "id": 44890453,
+        "name": "Jack Roslovic",
+        "team": "TOR",
+        "pos": "W",
+        "salary": 5200,
+        "fpts": 4.5,
+        "own": 3.02
+      },
+      {
+        "slot": "W",
+        "id": 44890501,
+        "name": "Easton Cowan",
+        "team": "TOR",
+        "pos": "W",
+        "salary": 4000,
+        "fpts": 2.8,
+        "own": 2.13
+      },
+      {
+        "slot": "W",
+        "id": 44890401,
+        "name": "Jason Robertson",
+        "team": "DAL",
+        "pos": "W",
+        "salary": 7400,
+        "fpts": 9.3,
+        "own": 9.95
+      },
+      {
+        "slot": "D",
+        "id": 44890871,
+        "name": "Devon Toews",
+        "team": "COL",
+        "pos": "D",
+        "salary": 3900,
+        "fpts": 5,
+        "own": 3.92
+      },
+      {
+        "slot": "D",
+        "id": 44891003,
+        "name": "Troy Stecher",
+        "team": "TOR",
+        "pos": "D",
+        "salary": 2600,
+        "fpts": 12.3,
+        "own": 0.04
+      },
+      {
+        "slot": "G",
+        "id": 44891198,
+        "name": "Joel Hofer",
+        "team": "STL",
+        "pos": "G",
+        "salary": 7400,
+        "fpts": 30.3,
+        "own": 19.43
+      },
+      {
+        "slot": "UTIL",
+        "id": 44890835,
+        "name": "Thomas Harley",
+        "team": "DAL",
+        "pos": "D",
+        "salary": 5400,
+        "fpts": 12.8,
+        "own": 16.33
+      }
+    ],
+    "money": {
+      "fee": 20,
+      "one": {
+        "won": 0,
+        "net": -20
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -20
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 30,
+        "net": -370,
+        "cashed": 1
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "WPG": 7,
+        "COL": 1,
+        "OTT": 1
+      },
+      "games": {
+        "WPG@DAL": 7,
+        "COL@OTT": 2
+      },
+      "nGames": 2,
+      "lines": {
+        "WPG f1": 3,
+        "WPG f2": 2
+      },
+      "pp": {
+        "WPG pp1": 5
+      },
+      "goalie": {
+        "team": "WPG",
+        "opposing": 0
+      },
+      "summary": [
+        "WPG 7",
+        "WPG f1 ×3",
+        "WPG f2 ×2",
+        "WPG pp1 ×5",
+        "G WPG",
+        "2 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "WPG": 3,
+        "CHI": 1,
+        "MIN": 1,
+        "NYI": 1,
+        "OTT": 1,
+        "STL": 1,
+        "TBL": 1
+      },
+      "games": {
+        "WPG@DAL": 3,
+        "BUF@CHI": 1,
+        "COL@OTT": 1,
+        "MIN@TOR": 1,
+        "NYI@LAK": 1,
+        "STL@UTA": 1,
+        "TBL@CBJ": 1
+      },
+      "nGames": 7,
+      "lines": {
+        "WPG f1": 2
+      },
+      "pp": {
+        "WPG pp1": 2
+      },
+      "goalie": {
+        "team": "STL",
+        "opposing": 0
+      },
+      "summary": [
+        "WPG 3",
+        "WPG f1 ×2",
+        "WPG pp1 ×2",
+        "G STL",
+        "7 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "DAL": 3,
+        "TOR": 3,
+        "COL": 1,
+        "NJD": 1,
+        "STL": 1
+      },
+      "games": {
+        "MIN@TOR": 3,
+        "WPG@DAL": 3,
+        "COL@OTT": 1,
+        "STL@UTA": 1,
+        "WSH@NJD": 1
+      },
+      "nGames": 5,
+      "lines": {
+        "DAL f2": 2,
+        "TOR f1": 2
+      },
+      "pp": {
+        "DAL pp1": 3
+      },
+      "goalie": {
+        "team": "STL",
+        "opposing": 0
+      },
+      "summary": [
+        "DAL 3 · TOR 3",
+        "DAL f2 ×2",
+        "TOR f1 ×2",
+        "DAL pp1 ×3",
+        "G STL",
+        "5 games"
+      ]
+    }
+  }
+}
