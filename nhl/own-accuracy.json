@@ -2,6 +2,55 @@
  "sport": "nhl",
  "slates": [
   {
+   "slate": "156600",
+   "date": "2026-11-13",
+   "label": "NHL $30K Overload [$10K to 1st]",
+   "entries": 1764,
+   "source": "live",
+   "model": "v2",
+   "predictedAt": "2026-11-14T01:45:13+00:00",
+   "lockAt": "2026-11-14T02:00:00+00:00",
+   "minutesBeforeLock": 15,
+   "n": 101,
+   "mae": 3.242,
+   "mae5": 5.322,
+   "chalkMae": 8.104,
+   "spearman": 0.9257,
+   "top10": 0.5,
+   "chalk": {
+    "n": 20,
+    "caught": 19
+   },
+   "falseChalk": 1,
+   "misses": [
+    {
+     "name": "Pavel Dorofeyev",
+     "pos": "W",
+     "team": "NYR",
+     "pred": 18.7,
+     "actual": 45.64
+    },
+    {
+     "name": "Gabe Perreault",
+     "pos": "W",
+     "team": "NYR",
+     "pred": 1.41,
+     "actual": 25.28
+    },
+    {
+     "name": "Mika Zibanejad",
+     "pos": "C",
+     "team": "NYR",
+     "pred": 31.66,
+     "actual": 45.23
+    }
+   ],
+   "evenSplit": {
+    "mae": 9.921,
+    "chalkMae": 21.907
+   }
+  },
+  {
    "slate": "156591",
    "date": "2026-11-12",
    "label": "NHL $40K Overload [$10K to 1st]",
@@ -1376,18 +1425,18 @@
  ],
  "recent": {
   "slates": 10,
-  "n": 3281,
-  "mae": 1.294,
-  "mae5": 3.93,
-  "chalkMae": 9.495,
+  "n": 2856,
+  "mae": 1.43,
+  "mae5": 4.081,
+  "chalkMae": 9.019,
   "chalk": {
-   "n": 58,
-   "caught": 34
+   "n": 77,
+   "caught": 53
   },
-  "falseChalk": 2,
+  "falseChalk": 3,
   "evenSplit": {
-   "mae": 2.994,
-   "chalkMae": 22.504
+   "mae": 3.424,
+   "chalkMae": 22.359
   }
  }
 }
