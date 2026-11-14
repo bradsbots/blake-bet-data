@@ -14,6 +14,7 @@
    "n": 461,
    "mae": 0.887,
    "mae5": 4.433,
+   "chalkMae": 9.37,
    "spearman": 0.8871,
    "top10": 0.7,
    "chalk": {
@@ -43,7 +44,11 @@
      "pred": 14.7,
      "actual": 28.23
     }
-   ]
+   ],
+   "evenSplit": {
+    "mae": 2.75,
+    "chalkMae": 24.474
+   }
   },
   {
    "slate": "153728",
@@ -58,6 +63,7 @@
    "n": 466,
    "mae": 0.772,
    "mae5": 3.6,
+   "chalkMae": 7.632,
    "spearman": 0.8844,
    "top10": 0.5,
    "chalk": {
@@ -87,7 +93,11 @@
      "pred": 23.54,
      "actual": 35.95
     }
-   ]
+   ],
+   "evenSplit": {
+    "mae": 2.722,
+    "chalkMae": 23.589
+   }
   },
   {
    "slate": "155198",
@@ -102,6 +112,7 @@
    "n": 422,
    "mae": 1.299,
    "mae5": 5.91,
+   "chalkMae": 10.416,
    "spearman": 0.8084,
    "top10": 0.5,
    "chalk": {
@@ -131,7 +142,11 @@
      "pred": 38.08,
      "actual": 20.68
     }
-   ]
+   ],
+   "evenSplit": {
+    "mae": 2.981,
+    "chalkMae": 25.887
+   }
   },
   {
    "slate": "154941",
@@ -146,6 +161,7 @@
    "n": 417,
    "mae": 1.404,
    "mae5": 5.146,
+   "chalkMae": 15.644,
    "spearman": 0.8688,
    "top10": 0.4,
    "chalk": {
@@ -175,7 +191,11 @@
      "pred": 11.28,
      "actual": 31.76
     }
-   ]
+   ],
+   "evenSplit": {
+    "mae": 3.02,
+    "chalkMae": 25.02
+   }
   }
  ],
  "recent": {
@@ -183,10 +203,15 @@
   "n": 1766,
   "mae": 1.077,
   "mae5": 4.771,
+  "chalkMae": 11.036,
   "chalk": {
    "n": 36,
    "caught": 19
   },
-  "falseChalk": 1
+  "falseChalk": 1,
+  "evenSplit": {
+   "mae": 2.861,
+   "chalkMae": 24.807
+  }
  }
 }
