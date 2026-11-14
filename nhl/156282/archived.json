@@ -1,0 +1,111 @@
+{
+ "archivedAt": "2026-11-14T00:00:17+00:00",
+ "days": 3,
+ "bytes": 815365,
+ "removed": [
+  {
+   "path": "snapshots/20261109T140005Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261109T150009Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261109T160005Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261109T170015Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261109T180005Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261109T190014Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261109T200014Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261109T210005Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261109T220006Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261109T230006Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261110T000017Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261110T010005Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261110T020007Z.json",
+   "bytes": 54173
+  },
+  {
+   "path": "snapshots/20261110T030012Z.json",
+   "bytes": 54172
+  },
+  {
+   "path": "snapshots/20261110T040007Z.json",
+   "bytes": 54173
+  },
+  {
+   "path": "snapshots/20261110T140007Z.json",
+   "bytes": 54177
+  },
+  {
+   "path": "snapshots/20261110T150019Z.json",
+   "bytes": 61456
+  },
+  {
+   "path": "snapshots/20261110T160016Z.json",
+   "bytes": 65359
+  },
+  {
+   "path": "snapshots/20261110T170008Z.json",
+   "bytes": 65570
+  },
+  {
+   "path": "snapshots/20261110T180007Z.json",
+   "bytes": 65934
+  },
+  {
+   "path": "snapshots/20261110T190014Z.json",
+   "bytes": 67205
+  },
+  {
+   "path": "snapshots/20261110T200008Z.json",
+   "bytes": 67217
+  },
+  {
+   "path": "snapshots/20261110T210018Z.json",
+   "bytes": 67462
+  },
+  {
+   "path": "snapshots/20261110T220019Z.json",
+   "bytes": 67908
+  },
+  {
+   "path": "snapshots/20261110T230043Z.json",
+   "bytes": 67924
+  },
+  {
+   "path": "timeline.json",
+   "bytes": 1927
+  }
+ ]
+}
