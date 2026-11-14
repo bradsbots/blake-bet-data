@@ -1,6 +1,24 @@
 [
   {
     "sport": "nba",
+    "site": "fd",
+    "slate": "136655",
+    "date": "2026-11-13",
+    "label": "FD NBA 136655-281538663",
+    "contestId": 281538663,
+    "entries": 30746,
+    "winnerPoints": 447,
+    "optimalPoints": 474.7,
+    "paperPoints": 371.4,
+    "paperPctile": 81.31,
+    "paperNet1": null,
+    "paperNet1Defaults": null,
+    "portfolioNet": null,
+    "portfolioCashed": null,
+    "portfolioN": null
+  },
+  {
+    "sport": "nba",
     "slate": "156299",
     "date": "2026-11-13",
     "label": "NBA $300K Friday 8's [$100K to 1st]",

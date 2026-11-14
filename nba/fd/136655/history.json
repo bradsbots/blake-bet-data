@@ -1,0 +1,376 @@
+{
+  "sport": "nba",
+  "site": "fd",
+  "slate": "136655",
+  "date": "2026-11-13",
+  "contest": {
+    "id": 281538663,
+    "label": "FD NBA 136655-281538663",
+    "entries": 30746
+  },
+  "generatedAt": "2026-11-14T12:09:15.689Z",
+  "winner": {
+    "rank": 1,
+    "name": "sroberto (32/50)",
+    "points": 447,
+    "salary": 60000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 157905,
+        "name": "Josh Giddey",
+        "team": "CHI",
+        "pos": "PG",
+        "salary": 6300,
+        "fpts": 53,
+        "own": 33.53
+      },
+      {
+        "slot": "SG",
+        "id": 248938,
+        "name": "Darryn Peterson",
+        "team": "UTA",
+        "pos": "SG",
+        "salary": 6300,
+        "fpts": 46.4,
+        "own": 14.17
+      },
+      {
+        "slot": "SF",
+        "id": 145328,
+        "name": "Saddiq Bey",
+        "team": "NOP",
+        "pos": "SF",
+        "salary": 5400,
+        "fpts": 45,
+        "own": 16.94
+      },
+      {
+        "slot": "PF",
+        "id": 157851,
+        "name": "Franz Wagner",
+        "team": "ORL",
+        "pos": "SF/PF",
+        "salary": 8900,
+        "fpts": 66.8,
+        "own": 26.11
+      },
+      {
+        "slot": "C",
+        "id": 58462,
+        "name": "Karl-Anthony Towns",
+        "team": "NYK",
+        "pos": "C",
+        "salary": 8400,
+        "fpts": 56.5,
+        "own": 31.8
+      },
+      {
+        "slot": "G/F",
+        "id": 228131,
+        "name": "Jeremiah Fears",
+        "team": "NOP",
+        "pos": "PG",
+        "salary": 6000,
+        "fpts": 41.5,
+        "own": 52.9
+      },
+      {
+        "slot": "F/C",
+        "id": 145322,
+        "name": "Jalen Smith",
+        "team": "CHI",
+        "pos": "C",
+        "salary": 5300,
+        "fpts": 38.9,
+        "own": 39.12
+      },
+      {
+        "slot": "UTIL",
+        "id": 145307,
+        "name": "Isaiah Stewart",
+        "team": "MEM",
+        "pos": "C",
+        "salary": 4000,
+        "fpts": 29,
+        "own": 25.88
+      },
+      {
+        "slot": "UTIL",
+        "id": 157908,
+        "name": "Alperen Sengun",
+        "team": "HOU",
+        "pos": "C",
+        "salary": 9400,
+        "fpts": 69.9,
+        "own": 14.52
+      }
+    ]
+  },
+  "optimal": {
+    "points": 474.7,
+    "salary": 60000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 157905,
+        "name": "Josh Giddey",
+        "team": "CHI",
+        "pos": "PG",
+        "salary": 6300,
+        "fpts": 53,
+        "own": 33.53
+      },
+      {
+        "slot": "SG",
+        "id": 203723,
+        "name": "Stephon Castle",
+        "team": "SAS",
+        "pos": "SG/PG",
+        "salary": 6400,
+        "fpts": 49,
+        "own": 5.64
+      },
+      {
+        "slot": "SF",
+        "id": 157851,
+        "name": "Franz Wagner",
+        "team": "ORL",
+        "pos": "SF/PF",
+        "salary": 8900,
+        "fpts": 66.8,
+        "own": 26.11
+      },
+      {
+        "slot": "PF",
+        "id": 188444,
+        "name": "GG Jackson",
+        "team": "MEM",
+        "pos": "PF/SF",
+        "salary": 3700,
+        "fpts": 35.2,
+        "own": 0.07
+      },
+      {
+        "slot": "C",
+        "id": 157908,
+        "name": "Alperen Sengun",
+        "team": "HOU",
+        "pos": "C",
+        "salary": 9400,
+        "fpts": 69.9,
+        "own": 14.52
+      },
+      {
+        "slot": "G/F",
+        "id": 157812,
+        "name": "Davion Mitchell",
+        "team": "MIA",
+        "pos": "PG",
+        "salary": 6200,
+        "fpts": 55.5,
+        "own": 18.07
+      },
+      {
+        "slot": "F/C",
+        "id": 145328,
+        "name": "Saddiq Bey",
+        "team": "NOP",
+        "pos": "SF",
+        "salary": 5400,
+        "fpts": 45,
+        "own": 16.94
+      },
+      {
+        "slot": "UTIL",
+        "id": 16293,
+        "name": "Norman Powell",
+        "team": "CHI",
+        "pos": "SG",
+        "salary": 5600,
+        "fpts": 42,
+        "own": 8.8
+      },
+      {
+        "slot": "UTIL",
+        "id": 80817,
+        "name": "Bam Adebayo",
+        "team": "MIA",
+        "pos": "C",
+        "salary": 8100,
+        "fpts": 58.3,
+        "own": 13.04
+      }
+    ],
+    "assumedZero": 60
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 5732,
+    "pctile": 81.31,
+    "points": 371.4,
+    "salary": 60000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 228131,
+        "name": "Jeremiah Fears",
+        "team": "NOP",
+        "pos": "PG",
+        "salary": 6000,
+        "fpts": 41.5,
+        "own": 52.9
+      },
+      {
+        "slot": "SG",
+        "id": 66113,
+        "name": "Donovan Mitchell",
+        "team": "CLE",
+        "pos": "SG",
+        "salary": 8200,
+        "fpts": 37.3,
+        "own": 26.74
+      },
+      {
+        "slot": "SF",
+        "id": 49116,
+        "name": "Andrew Wiggins",
+        "team": "MIA",
+        "pos": "SF",
+        "salary": 3900,
+        "fpts": 17.6,
+        "own": 10.41
+      },
+      {
+        "slot": "PF",
+        "id": 157833,
+        "name": "Jalen Johnson",
+        "team": "ATL",
+        "pos": "PF",
+        "salary": 9100,
+        "fpts": 53.2,
+        "own": 40.05
+      },
+      {
+        "slot": "C",
+        "id": 145322,
+        "name": "Jalen Smith",
+        "team": "CHI",
+        "pos": "C",
+        "salary": 5300,
+        "fpts": 38.9,
+        "own": 39.12
+      },
+      {
+        "slot": "G/F",
+        "id": 157812,
+        "name": "Davion Mitchell",
+        "team": "MIA",
+        "pos": "PG",
+        "salary": 6200,
+        "fpts": 55.5,
+        "own": 18.07
+      },
+      {
+        "slot": "F/C",
+        "id": 110310,
+        "name": "Zion Williamson",
+        "team": "NOP",
+        "pos": "PF",
+        "salary": 7400,
+        "fpts": 44,
+        "own": 16.55
+      },
+      {
+        "slot": "UTIL",
+        "id": 80817,
+        "name": "Bam Adebayo",
+        "team": "MIA",
+        "pos": "C",
+        "salary": 8100,
+        "fpts": 58.3,
+        "own": 13.04
+      },
+      {
+        "slot": "UTIL",
+        "id": 80821,
+        "name": "Jarrett Allen",
+        "team": "CLE",
+        "pos": "C/PF",
+        "salary": 5800,
+        "fpts": 25.1,
+        "own": 42.92
+      }
+    ],
+    "money": null
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "CHI": 2,
+        "NOP": 2,
+        "HOU": 1,
+        "MEM": 1,
+        "NYK": 1,
+        "ORL": 1,
+        "UTA": 1
+      },
+      "games": {
+        "MEM@NOP": 3,
+        "ATL@CHI": 2,
+        "UTA@HOU": 2,
+        "MIL@ORL": 1,
+        "NYK@IND": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "CHI 2 · NOP 2",
+        "5 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "CHI": 2,
+        "MIA": 2,
+        "HOU": 1,
+        "MEM": 1,
+        "NOP": 1,
+        "ORL": 1,
+        "SAS": 1
+      },
+      "games": {
+        "ATL@CHI": 2,
+        "CLE@MIA": 2,
+        "MEM@NOP": 2,
+        "GSW@SAS": 1,
+        "MIL@ORL": 1,
+        "UTA@HOU": 1
+      },
+      "nGames": 6,
+      "summary": [
+        "CHI 2 · MIA 2",
+        "6 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "MIA": 3,
+        "CLE": 2,
+        "NOP": 2,
+        "ATL": 1,
+        "CHI": 1
+      },
+      "games": {
+        "CLE@MIA": 5,
+        "ATL@CHI": 2,
+        "MEM@NOP": 2
+      },
+      "nGames": 3,
+      "summary": [
+        "MIA 3 · CLE 2 · NOP 2",
+        "3 games"
+      ]
+    }
+  }
+}
