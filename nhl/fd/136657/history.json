@@ -1,0 +1,419 @@
+{
+  "sport": "nhl",
+  "site": "fd",
+  "slate": "136657",
+  "date": "2026-11-13",
+  "contest": {
+    "id": 281538953,
+    "label": "$10K Fri NHL Breakaway ($2K to 1st)",
+    "entries": 2681
+  },
+  "generatedAt": "2026-11-14T12:09:23.990Z",
+  "winner": {
+    "rank": 1,
+    "name": "lmfaoyourface (40/80)",
+    "points": 184,
+    "salary": 54200,
+    "players": [
+      {
+        "slot": "C",
+        "id": 14565,
+        "name": "Mika Zibanejad",
+        "team": "NYR",
+        "pos": "C",
+        "salary": 6800,
+        "fpts": 17.6,
+        "own": 39.87
+      },
+      {
+        "slot": "C",
+        "id": 9124,
+        "name": "Ryan O'Reilly",
+        "team": "NSH",
+        "pos": "C",
+        "salary": 6400,
+        "fpts": 30.4,
+        "own": 20.78
+      },
+      {
+        "slot": "W",
+        "id": 222903,
+        "name": "Gabe Perreault",
+        "team": "NYR",
+        "pos": "W",
+        "salary": 5200,
+        "fpts": 24.8,
+        "own": 23.24
+      },
+      {
+        "slot": "W",
+        "id": 142015,
+        "name": "Alexis Lafreniere",
+        "team": "NYR",
+        "pos": "W",
+        "salary": 6800,
+        "fpts": 23.2,
+        "own": 23.31
+      },
+      {
+        "slot": "D",
+        "id": 12262,
+        "name": "Roman Josi",
+        "team": "NSH",
+        "pos": "D",
+        "salary": 6500,
+        "fpts": 16,
+        "own": 39.91
+      },
+      {
+        "slot": "D",
+        "id": 66688,
+        "name": "Rasmus Andersson",
+        "team": "VGK",
+        "pos": "D",
+        "salary": 5100,
+        "fpts": 20,
+        "own": 14.02
+      },
+      {
+        "slot": "UTIL",
+        "id": 146741,
+        "name": "Pavel Dorofeyev",
+        "team": "NYR",
+        "pos": "W",
+        "salary": 5900,
+        "fpts": 8,
+        "own": 46.18
+      },
+      {
+        "slot": "UTIL",
+        "id": 147520,
+        "name": "Mavrik Bourque",
+        "team": "NSH",
+        "pos": "C",
+        "salary": 4100,
+        "fpts": 8,
+        "own": 31.56
+      },
+      {
+        "slot": "G",
+        "id": 66411,
+        "name": "Juuse Saros",
+        "team": "NSH",
+        "pos": "G",
+        "salary": 7400,
+        "fpts": 36,
+        "own": 22.72
+      }
+    ]
+  },
+  "optimal": {
+    "points": 201,
+    "salary": 54200,
+    "players": [
+      {
+        "slot": "C",
+        "id": 15360,
+        "name": "J.T. Miller",
+        "team": "NYR",
+        "pos": "C",
+        "salary": 5600,
+        "fpts": 21.3,
+        "own": 36.96
+      },
+      {
+        "slot": "C",
+        "id": 84409,
+        "name": "Elias Pettersson",
+        "team": "VAN",
+        "pos": "C",
+        "salary": 6200,
+        "fpts": 15.2,
+        "own": 29.13
+      },
+      {
+        "slot": "W",
+        "id": 142015,
+        "name": "Alexis Lafreniere",
+        "team": "NYR",
+        "pos": "W",
+        "salary": 6800,
+        "fpts": 23.2,
+        "own": 23.31
+      },
+      {
+        "slot": "W",
+        "id": 222903,
+        "name": "Gabe Perreault",
+        "team": "NYR",
+        "pos": "W",
+        "salary": 5200,
+        "fpts": 24.8,
+        "own": 23.24
+      },
+      {
+        "slot": "D",
+        "id": 12262,
+        "name": "Roman Josi",
+        "team": "NSH",
+        "pos": "D",
+        "salary": 6500,
+        "fpts": 16,
+        "own": 39.91
+      },
+      {
+        "slot": "D",
+        "id": 66688,
+        "name": "Rasmus Andersson",
+        "team": "VGK",
+        "pos": "D",
+        "salary": 5100,
+        "fpts": 20,
+        "own": 14.02
+      },
+      {
+        "slot": "UTIL",
+        "id": 9124,
+        "name": "Ryan O'Reilly",
+        "team": "NSH",
+        "pos": "C",
+        "salary": 6400,
+        "fpts": 30.4,
+        "own": 20.78
+      },
+      {
+        "slot": "UTIL",
+        "id": 42773,
+        "name": "Oliver Bjorkstrand",
+        "team": "NYR",
+        "pos": "W",
+        "salary": 5000,
+        "fpts": 14.1,
+        "own": 5.04
+      },
+      {
+        "slot": "G",
+        "id": 66411,
+        "name": "Juuse Saros",
+        "team": "NSH",
+        "pos": "G",
+        "salary": 7400,
+        "fpts": 36,
+        "own": 22.72
+      }
+    ],
+    "assumedZero": 7
+  },
+  "paper": {
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 1121,
+    "pctile": 57.89,
+    "points": 116.5,
+    "salary": 54800,
+    "players": [
+      {
+        "slot": "C",
+        "id": 9124,
+        "name": "Ryan O'Reilly",
+        "team": "NSH",
+        "pos": "C",
+        "salary": 6400,
+        "fpts": 30.4,
+        "own": 20.78
+      },
+      {
+        "slot": "C",
+        "id": 15360,
+        "name": "J.T. Miller",
+        "team": "NYR",
+        "pos": "C",
+        "salary": 5600,
+        "fpts": 21.3,
+        "own": 36.96
+      },
+      {
+        "slot": "W",
+        "id": 97069,
+        "name": "Ross Colton",
+        "team": "NSH",
+        "pos": "W",
+        "salary": 5100,
+        "fpts": 3.2,
+        "own": 1.79
+      },
+      {
+        "slot": "W",
+        "id": 162302,
+        "name": "Tye Kartye",
+        "team": "NYR",
+        "pos": "W",
+        "salary": 5600,
+        "fpts": 1.6,
+        "own": 19.06
+      },
+      {
+        "slot": "D",
+        "id": 12262,
+        "name": "Roman Josi",
+        "team": "NSH",
+        "pos": "D",
+        "salary": 6500,
+        "fpts": 16,
+        "own": 39.91
+      },
+      {
+        "slot": "D",
+        "id": 200002,
+        "name": "Scott Morrow",
+        "team": "NYR",
+        "pos": "D",
+        "salary": 3400,
+        "fpts": 3.2,
+        "own": 2.09
+      },
+      {
+        "slot": "UTIL",
+        "id": 39253,
+        "name": "Filip Forsberg",
+        "team": "NSH",
+        "pos": "W",
+        "salary": 7400,
+        "fpts": 1.6,
+        "own": 19.32
+      },
+      {
+        "slot": "UTIL",
+        "id": 66683,
+        "name": "Mitch Marner",
+        "team": "VGK",
+        "pos": "W",
+        "salary": 7000,
+        "fpts": 9.6,
+        "own": 28.68
+      },
+      {
+        "slot": "G",
+        "id": 161891,
+        "name": "Dylan Garand",
+        "team": "NYR",
+        "pos": "G",
+        "salary": 7800,
+        "fpts": 29.6,
+        "own": 24.58
+      }
+    ],
+    "money": {
+      "fee": 4.44,
+      "one": {
+        "won": 0,
+        "net": -4.44
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -4.44
+      },
+      "portfolio": {
+        "n": 6,
+        "won": 0,
+        "net": -26.64,
+        "cashed": 0
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "NSH": 4,
+        "NYR": 4,
+        "VGK": 1
+      },
+      "games": {
+        "NSH@VGK": 5,
+        "NYR@VAN": 4
+      },
+      "nGames": 2,
+      "lines": {
+        "NSH f1": 2,
+        "NYR f1": 2
+      },
+      "pp": {
+        "NSH pp1": 3,
+        "NYR pp1": 3
+      },
+      "goalie": {
+        "team": "NSH",
+        "opposing": 1
+      },
+      "summary": [
+        "NSH 4 · NYR 4",
+        "NSH f1 ×2",
+        "NYR f1 ×2",
+        "NSH pp1 ×3",
+        "NYR pp1 ×3",
+        "G NSH · 1 skater vs G",
+        "2 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "NYR": 4,
+        "NSH": 3,
+        "VAN": 1,
+        "VGK": 1
+      },
+      "games": {
+        "NYR@VAN": 5,
+        "NSH@VGK": 4
+      },
+      "nGames": 2,
+      "lines": {},
+      "pp": {
+        "NSH pp1": 2,
+        "NYR pp2": 2
+      },
+      "goalie": {
+        "team": "NSH",
+        "opposing": 1
+      },
+      "summary": [
+        "NYR 4 · NSH 3",
+        "NSH pp1 ×2",
+        "NYR pp2 ×2",
+        "G NSH · 1 skater vs G",
+        "2 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "NSH": 4,
+        "NYR": 4,
+        "VGK": 1
+      },
+      "games": {
+        "NSH@VGK": 5,
+        "NYR@VAN": 4
+      },
+      "nGames": 2,
+      "lines": {
+        "NYR f2": 2
+      },
+      "pp": {
+        "NSH pp1": 3,
+        "NYR pp2": 2
+      },
+      "goalie": {
+        "team": "NYR",
+        "opposing": 0
+      },
+      "summary": [
+        "NSH 4 · NYR 4",
+        "NYR f2 ×2",
+        "NSH pp1 ×3",
+        "NYR pp2 ×2",
+        "G NYR",
+        "2 games"
+      ]
+    }
+  }
+}
