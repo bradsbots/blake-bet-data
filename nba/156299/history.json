@@ -1,0 +1,361 @@
+{
+  "sport": "nba",
+  "slate": "156299",
+  "date": "2026-11-13",
+  "contest": {
+    "id": 197771988,
+    "label": "NBA $300K Friday 8's [$100K to 1st]",
+    "entries": 44117
+  },
+  "generatedAt": "2026-11-14T09:40:16.888Z",
+  "winner": {
+    "rank": 1,
+    "name": "samspadoni2011 (5/8)",
+    "points": 365.75,
+    "salary": 49800,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44907025,
+        "name": "Davion Mitchell",
+        "team": "MIA",
+        "pos": "PG",
+        "salary": 6900,
+        "fpts": 58.25,
+        "own": 10.67
+      },
+      {
+        "slot": "SG",
+        "id": 44907347,
+        "name": "Javon Small",
+        "team": "MEM",
+        "pos": "PG",
+        "salary": 3800,
+        "fpts": 21,
+        "own": 1.05
+      },
+      {
+        "slot": "SF",
+        "id": 44906926,
+        "name": "Franz Wagner",
+        "team": "ORL",
+        "pos": "SF",
+        "salary": 9500,
+        "fpts": 69.75,
+        "own": 11.05
+      },
+      {
+        "slot": "PF",
+        "id": 44907325,
+        "name": "Isaiah Stewart",
+        "team": "MEM",
+        "pos": "PF",
+        "salary": 3900,
+        "fpts": 25.75,
+        "own": 56.09
+      },
+      {
+        "slot": "C",
+        "id": 44907082,
+        "name": "Jalen Smith",
+        "team": "CHI",
+        "pos": "C",
+        "salary": 5900,
+        "fpts": 40.5,
+        "own": 28.64
+      },
+      {
+        "slot": "G",
+        "id": 44907006,
+        "name": "James Harden",
+        "team": "CLE",
+        "pos": "PG",
+        "salary": 7000,
+        "fpts": 47.5,
+        "own": 16.7
+      },
+      {
+        "slot": "F",
+        "id": 44906930,
+        "name": "Alperen Sengun",
+        "team": "HOU",
+        "pos": "PF",
+        "salary": 9400,
+        "fpts": 71,
+        "own": 9.82
+      },
+      {
+        "slot": "UTIL",
+        "id": 44907408,
+        "name": "Taylor Hendricks",
+        "team": "MEM",
+        "pos": "C",
+        "salary": 3400,
+        "fpts": 32,
+        "own": 0.54
+      }
+    ]
+  },
+  "optimal": {
+    "points": 397.25,
+    "salary": 49300,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44907230,
+        "name": "Tyrese Proctor",
+        "team": "CLE",
+        "pos": "PG",
+        "salary": 4400,
+        "fpts": 36,
+        "own": 0.3
+      },
+      {
+        "slot": "SG",
+        "id": 44907069,
+        "name": "Norman Powell",
+        "team": "CHI",
+        "pos": "SG",
+        "salary": 6000,
+        "fpts": 44.75,
+        "own": 14.64
+      },
+      {
+        "slot": "SF",
+        "id": 44907376,
+        "name": "Gregory Jackson",
+        "team": "MEM",
+        "pos": "SF",
+        "salary": 3500,
+        "fpts": 36.5,
+        "own": 0.54
+      },
+      {
+        "slot": "PF",
+        "id": 44906926,
+        "name": "Franz Wagner",
+        "team": "ORL",
+        "pos": "SF",
+        "salary": 9500,
+        "fpts": 69.75,
+        "own": 11.05
+      },
+      {
+        "slot": "C",
+        "id": 44907408,
+        "name": "Taylor Hendricks",
+        "team": "MEM",
+        "pos": "C",
+        "salary": 3400,
+        "fpts": 32,
+        "own": 0.54
+      },
+      {
+        "slot": "G",
+        "id": 44907025,
+        "name": "Davion Mitchell",
+        "team": "MIA",
+        "pos": "PG",
+        "salary": 6900,
+        "fpts": 58.25,
+        "own": 10.67
+      },
+      {
+        "slot": "F",
+        "id": 44907060,
+        "name": "Saddiq Bey",
+        "team": "NOP",
+        "pos": "SF",
+        "salary": 6200,
+        "fpts": 49,
+        "own": 9.48
+      },
+      {
+        "slot": "UTIL",
+        "id": 44906930,
+        "name": "Alperen Sengun",
+        "team": "HOU",
+        "pos": "PF",
+        "salary": 9400,
+        "fpts": 71,
+        "own": 9.82
+      }
+    ],
+    "assumedZero": 41
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 25181,
+    "pctile": 42.53,
+    "points": 265.5,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44907009,
+        "name": "Tyler Herro",
+        "team": "MIL",
+        "pos": "PG",
+        "salary": 7000,
+        "fpts": 28.75,
+        "own": 16.65
+      },
+      {
+        "slot": "SG",
+        "id": 44907079,
+        "name": "Cedric Coward",
+        "team": "MEM",
+        "pos": "SG",
+        "salary": 5900,
+        "fpts": 33.75,
+        "own": 15.59
+      },
+      {
+        "slot": "SF",
+        "id": 44907069,
+        "name": "Norman Powell",
+        "team": "CHI",
+        "pos": "SG",
+        "salary": 6000,
+        "fpts": 44.75,
+        "own": 14.64
+      },
+      {
+        "slot": "PF",
+        "id": 44907325,
+        "name": "Isaiah Stewart",
+        "team": "MEM",
+        "pos": "PF",
+        "salary": 3900,
+        "fpts": 25.75,
+        "own": 56.09
+      },
+      {
+        "slot": "C",
+        "id": 44907104,
+        "name": "Jarrett Allen",
+        "team": "CLE",
+        "pos": "C",
+        "salary": 5700,
+        "fpts": 24,
+        "own": 43.35
+      },
+      {
+        "slot": "G",
+        "id": 44907041,
+        "name": "Jeremiah Fears",
+        "team": "NOP",
+        "pos": "PG",
+        "salary": 6800,
+        "fpts": 39.75,
+        "own": 37.85
+      },
+      {
+        "slot": "F",
+        "id": 44907046,
+        "name": "Dyson Daniels",
+        "team": "ATL",
+        "pos": "PG",
+        "salary": 6600,
+        "fpts": 27.25,
+        "own": 31.02
+      },
+      {
+        "slot": "UTIL",
+        "id": 44906952,
+        "name": "Donovan Mitchell",
+        "team": "CLE",
+        "pos": "SG",
+        "salary": 8100,
+        "fpts": 41.5,
+        "own": 31
+      }
+    ],
+    "money": {
+      "fee": 8,
+      "one": {
+        "won": 0,
+        "net": -8
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -8
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 84.94,
+        "net": -75.06,
+        "cashed": 6
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "MEM": 3,
+        "CHI": 1,
+        "CLE": 1,
+        "HOU": 1,
+        "MIA": 1,
+        "ORL": 1
+      },
+      "games": {
+        "MEM@NOP": 3,
+        "CLE@MIA": 2,
+        "ATL@CHI": 1,
+        "MIL@ORL": 1,
+        "UTA@HOU": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "MEM 3",
+        "5 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "MEM": 2,
+        "CHI": 1,
+        "CLE": 1,
+        "HOU": 1,
+        "MIA": 1,
+        "NOP": 1,
+        "ORL": 1
+      },
+      "games": {
+        "MEM@NOP": 3,
+        "CLE@MIA": 2,
+        "ATL@CHI": 1,
+        "MIL@ORL": 1,
+        "UTA@HOU": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "MEM 2",
+        "5 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "CLE": 2,
+        "MEM": 2,
+        "ATL": 1,
+        "CHI": 1,
+        "MIL": 1,
+        "NOP": 1
+      },
+      "games": {
+        "MEM@NOP": 3,
+        "ATL@CHI": 2,
+        "CLE@MIA": 2,
+        "MIL@ORL": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "CLE 2 · MEM 2",
+        "4 games"
+      ]
+    }
+  }
+}
