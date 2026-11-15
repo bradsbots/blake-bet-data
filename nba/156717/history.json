@@ -1,0 +1,351 @@
+{
+  "sport": "nba",
+  "slate": "156717",
+  "date": "2026-11-14",
+  "contest": {
+    "id": 197796934,
+    "label": "NBA $150K Fadeaway [$50K to 1st]",
+    "entries": 9803
+  },
+  "generatedAt": "2026-11-15T09:40:15.915Z",
+  "winner": {
+    "rank": 1,
+    "name": "AaronCosta (84/150)",
+    "points": 390.25,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44912322,
+        "name": "Tyrese Proctor",
+        "team": "CLE",
+        "pos": "PG",
+        "salary": 4300,
+        "fpts": 58.75,
+        "own": 45.13
+      },
+      {
+        "slot": "SG",
+        "id": 44912116,
+        "name": "Kyrie Irving",
+        "team": "DAL",
+        "pos": "PG",
+        "salary": 7800,
+        "fpts": 60,
+        "own": 10.37
+      },
+      {
+        "slot": "SF",
+        "id": 44912357,
+        "name": "Jaylon Tyson",
+        "team": "CLE",
+        "pos": "SG",
+        "salary": 4100,
+        "fpts": 29.5,
+        "own": 61.27
+      },
+      {
+        "slot": "PF",
+        "id": 44912328,
+        "name": "Mario Hezonja",
+        "team": "CLE",
+        "pos": "SF",
+        "salary": 4200,
+        "fpts": 36.75,
+        "own": 54.13
+      },
+      {
+        "slot": "C",
+        "id": 44912377,
+        "name": "Thomas Bryant",
+        "team": "CLE",
+        "pos": "C",
+        "salary": 4000,
+        "fpts": 39.25,
+        "own": 41.88
+      },
+      {
+        "slot": "G",
+        "id": 44912183,
+        "name": "Cedric Coward",
+        "team": "MEM",
+        "pos": "SG",
+        "salary": 6000,
+        "fpts": 54.5,
+        "own": 17.97
+      },
+      {
+        "slot": "F",
+        "id": 44912083,
+        "name": "Giannis Antetokounmpo",
+        "team": "MIA",
+        "pos": "PF",
+        "salary": 11500,
+        "fpts": 72,
+        "own": 23.05
+      },
+      {
+        "slot": "UTIL",
+        "id": 44912110,
+        "name": "Cameron Boozer",
+        "team": "MEM",
+        "pos": "PF",
+        "salary": 8000,
+        "fpts": 39.5,
+        "own": 23.27
+      }
+    ]
+  },
+  "optimal": {
+    "points": 409.75,
+    "salary": 49800,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44912322,
+        "name": "Tyrese Proctor",
+        "team": "CLE",
+        "pos": "PG",
+        "salary": 4300,
+        "fpts": 58.75,
+        "own": 45.13
+      },
+      {
+        "slot": "SG",
+        "id": 44912116,
+        "name": "Kyrie Irving",
+        "team": "DAL",
+        "pos": "PG",
+        "salary": 7800,
+        "fpts": 60,
+        "own": 10.37
+      },
+      {
+        "slot": "SF",
+        "id": 44912336,
+        "name": "Kevin Huerter",
+        "team": "DET",
+        "pos": "SG",
+        "salary": 4200,
+        "fpts": 43,
+        "own": 2.67
+      },
+      {
+        "slot": "PF",
+        "id": 44912431,
+        "name": "Noah Clowney",
+        "team": "BKN",
+        "pos": "SF",
+        "salary": 3600,
+        "fpts": 34.75,
+        "own": 1.14
+      },
+      {
+        "slot": "C",
+        "id": 44912377,
+        "name": "Thomas Bryant",
+        "team": "CLE",
+        "pos": "C",
+        "salary": 4000,
+        "fpts": 39.25,
+        "own": 41.88
+      },
+      {
+        "slot": "G",
+        "id": 44912183,
+        "name": "Cedric Coward",
+        "team": "MEM",
+        "pos": "SG",
+        "salary": 6000,
+        "fpts": 54.5,
+        "own": 17.97
+      },
+      {
+        "slot": "F",
+        "id": 44912083,
+        "name": "Giannis Antetokounmpo",
+        "team": "MIA",
+        "pos": "PF",
+        "salary": 11500,
+        "fpts": 72,
+        "own": 23.05
+      },
+      {
+        "slot": "UTIL",
+        "id": 44912098,
+        "name": "LaMelo Ball",
+        "team": "MIN",
+        "pos": "PG",
+        "salary": 8400,
+        "fpts": 47.5,
+        "own": 13.77
+      }
+    ],
+    "assumedZero": 53
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 6046,
+    "pctile": 38.11,
+    "points": 303.25,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44912274,
+        "name": "Cam Spencer",
+        "team": "MEM",
+        "pos": "PG",
+        "salary": 4600,
+        "fpts": 34.25,
+        "own": 44.64
+      },
+      {
+        "slot": "SG",
+        "id": 44912353,
+        "name": "Jordan Poole",
+        "team": "NOP",
+        "pos": "PG",
+        "salary": 4100,
+        "fpts": 24,
+        "own": 2.68
+      },
+      {
+        "slot": "SF",
+        "id": 44912282,
+        "name": "Cameron Johnson",
+        "team": "DEN",
+        "pos": "SG",
+        "salary": 4600,
+        "fpts": 23.75,
+        "own": 8.27
+      },
+      {
+        "slot": "PF",
+        "id": 44912177,
+        "name": "Saddiq Bey",
+        "team": "NOP",
+        "pos": "SF",
+        "salary": 6100,
+        "fpts": 32.5,
+        "own": 18.1
+      },
+      {
+        "slot": "C",
+        "id": 44912081,
+        "name": "Nikola Jokic",
+        "team": "DEN",
+        "pos": "C",
+        "salary": 11700,
+        "fpts": 57,
+        "own": 61.37
+      },
+      {
+        "slot": "G",
+        "id": 44912183,
+        "name": "Cedric Coward",
+        "team": "MEM",
+        "pos": "SG",
+        "salary": 6000,
+        "fpts": 54.5,
+        "own": 17.97
+      },
+      {
+        "slot": "F",
+        "id": 44912250,
+        "name": "Christian Braun",
+        "team": "DEN",
+        "pos": "SG",
+        "salary": 4900,
+        "fpts": 37.75,
+        "own": 8.1
+      },
+      {
+        "slot": "UTIL",
+        "id": 44912110,
+        "name": "Cameron Boozer",
+        "team": "MEM",
+        "pos": "PF",
+        "salary": 8000,
+        "fpts": 39.5,
+        "own": 23.27
+      }
+    ],
+    "money": {
+      "fee": 18,
+      "one": {
+        "won": 0,
+        "net": -18
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -18
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 0,
+        "net": -360,
+        "cashed": 0
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "CLE": 4,
+        "MEM": 2,
+        "DAL": 1,
+        "MIA": 1
+      },
+      "games": {
+        "DAL@CLE": 5,
+        "BKN@MEM": 2,
+        "DET@MIA": 1
+      },
+      "nGames": 3,
+      "summary": [
+        "CLE 4 · MEM 2",
+        "3 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "CLE": 2,
+        "BKN": 1,
+        "DAL": 1,
+        "DET": 1,
+        "MEM": 1,
+        "MIA": 1,
+        "MIN": 1
+      },
+      "games": {
+        "DAL@CLE": 3,
+        "BKN@MEM": 2,
+        "DET@MIA": 2,
+        "CHI@MIN": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "CLE 2",
+        "4 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "DEN": 3,
+        "MEM": 3,
+        "NOP": 2
+      },
+      "games": {
+        "DEN@NOP": 5,
+        "BKN@MEM": 3
+      },
+      "nGames": 2,
+      "summary": [
+        "DEN 3 · MEM 3 · NOP 2",
+        "2 games"
+      ]
+    }
+  }
+}
