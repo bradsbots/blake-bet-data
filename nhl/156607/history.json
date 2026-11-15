@@ -1,0 +1,430 @@
+{
+  "sport": "nhl",
+  "slate": "156607",
+  "date": "2026-11-14",
+  "contest": {
+    "id": 197783767,
+    "label": "NHL $30K Overload [$10K to 1st]",
+    "entries": 1764
+  },
+  "generatedAt": "2026-11-15T09:40:29.260Z",
+  "winner": {
+    "rank": 1,
+    "name": "Hunter4ever89 (32/52)",
+    "points": 162.1,
+    "salary": 49300,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44916017,
+        "name": "Vincent Trocheck",
+        "team": "UTA",
+        "pos": "C",
+        "salary": 4400,
+        "fpts": 8.8,
+        "own": 17.63
+      },
+      {
+        "slot": "C",
+        "id": 44916053,
+        "name": "Barrett Hayton",
+        "team": "UTA",
+        "pos": "C",
+        "salary": 3200,
+        "fpts": 11.5,
+        "own": 18.31
+      },
+      {
+        "slot": "W",
+        "id": 44916247,
+        "name": "Clayton Keller",
+        "team": "UTA",
+        "pos": "W",
+        "salary": 6600,
+        "fpts": 13,
+        "own": 21.88
+      },
+      {
+        "slot": "W",
+        "id": 44916327,
+        "name": "Simon Holmstrom",
+        "team": "NYI",
+        "pos": "W",
+        "salary": 4500,
+        "fpts": 36,
+        "own": 1.64
+      },
+      {
+        "slot": "W",
+        "id": 44916335,
+        "name": "Kyle Palmieri",
+        "team": "NYI",
+        "pos": "W",
+        "salary": 4400,
+        "fpts": 11.3,
+        "own": 1.47
+      },
+      {
+        "slot": "D",
+        "id": 44916741,
+        "name": "Jake Sanderson",
+        "team": "OTT",
+        "pos": "D",
+        "salary": 6000,
+        "fpts": 13.1,
+        "own": 3.74
+      },
+      {
+        "slot": "D",
+        "id": 44916751,
+        "name": "Mikhail Sergachev",
+        "team": "UTA",
+        "pos": "D",
+        "salary": 5500,
+        "fpts": 25.3,
+        "own": 19.33
+      },
+      {
+        "slot": "G",
+        "id": 44917174,
+        "name": "Connor Hellebuyck",
+        "team": "NJD",
+        "pos": "G",
+        "salary": 7900,
+        "fpts": 25.1,
+        "own": 5.84
+      },
+      {
+        "slot": "UTIL",
+        "id": 44915951,
+        "name": "Bo Horvat",
+        "team": "NYI",
+        "pos": "C",
+        "salary": 6800,
+        "fpts": 18,
+        "own": 4.99
+      }
+    ]
+  },
+  "optimal": {
+    "points": 248.5,
+    "salary": 39900,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44916049,
+        "name": "Danila Yurov",
+        "team": "MIN",
+        "pos": "C",
+        "salary": 3300,
+        "fpts": 24.1,
+        "own": 0.57
+      },
+      {
+        "slot": "C",
+        "id": 44916055,
+        "name": "Ryan Hartman",
+        "team": "MIN",
+        "pos": "C",
+        "salary": 3200,
+        "fpts": 23,
+        "own": 0.79
+      },
+      {
+        "slot": "W",
+        "id": 44916231,
+        "name": "David Pastrnak",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 7900,
+        "fpts": 25.5,
+        "own": 2.83
+      },
+      {
+        "slot": "W",
+        "id": 44916431,
+        "name": "Connor Brown",
+        "team": "NJD",
+        "pos": "W",
+        "salary": 3200,
+        "fpts": 27.8,
+        "own": 0.96
+      },
+      {
+        "slot": "W",
+        "id": 44916327,
+        "name": "Simon Holmstrom",
+        "team": "NYI",
+        "pos": "W",
+        "salary": 4500,
+        "fpts": 36,
+        "own": 1.64
+      },
+      {
+        "slot": "D",
+        "id": 44916751,
+        "name": "Mikhail Sergachev",
+        "team": "UTA",
+        "pos": "D",
+        "salary": 5500,
+        "fpts": 25.3,
+        "own": 19.33
+      },
+      {
+        "slot": "D",
+        "id": 44916907,
+        "name": "Dmitry Orlov",
+        "team": "SJS",
+        "pos": "D",
+        "salary": 2900,
+        "fpts": 29.5,
+        "own": 0.28
+      },
+      {
+        "slot": "G",
+        "id": 44917212,
+        "name": "Daniil Tarasov",
+        "team": "DET",
+        "pos": "G",
+        "salary": 6900,
+        "fpts": 31.7,
+        "own": 1.53
+      },
+      {
+        "slot": "UTIL",
+        "id": 44917135,
+        "name": "Zac Jones",
+        "team": "UTA",
+        "pos": "D",
+        "salary": 2500,
+        "fpts": 25.6,
+        "own": 0.45
+      }
+    ],
+    "assumedZero": 260
+  },
+  "paper": {
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 1082,
+    "pctile": 38.61,
+    "points": 73.9,
+    "salary": 49700,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44915995,
+        "name": "Nazem Kadri",
+        "team": "COL",
+        "pos": "C",
+        "salary": 5100,
+        "fpts": 11,
+        "own": 3.57
+      },
+      {
+        "slot": "C",
+        "id": 44915979,
+        "name": "Mikael Granlund",
+        "team": "ANA",
+        "pos": "C",
+        "salary": 5400,
+        "fpts": 4.1,
+        "own": 7.94
+      },
+      {
+        "slot": "W",
+        "id": 44916299,
+        "name": "Artturi Lehkonen",
+        "team": "COL",
+        "pos": "W",
+        "salary": 5100,
+        "fpts": 19.3,
+        "own": 4.02
+      },
+      {
+        "slot": "W",
+        "id": 44916301,
+        "name": "Jack Roslovic",
+        "team": "TOR",
+        "pos": "W",
+        "salary": 5000,
+        "fpts": 3,
+        "own": 4.65
+      },
+      {
+        "slot": "W",
+        "id": 44916225,
+        "name": "Cutter Gauthier",
+        "team": "ANA",
+        "pos": "W",
+        "salary": 8300,
+        "fpts": 13,
+        "own": 11.28
+      },
+      {
+        "slot": "D",
+        "id": 44916789,
+        "name": "Devon Toews",
+        "team": "COL",
+        "pos": "D",
+        "salary": 4100,
+        "fpts": 2.8,
+        "own": 8.33
+      },
+      {
+        "slot": "D",
+        "id": 44916797,
+        "name": "Tristan Luneau",
+        "team": "ANA",
+        "pos": "D",
+        "salary": 3900,
+        "fpts": 10.8,
+        "own": 1.02
+      },
+      {
+        "slot": "G",
+        "id": 44917189,
+        "name": "Joel Hofer",
+        "team": "STL",
+        "pos": "G",
+        "salary": 7500,
+        "fpts": 2.8,
+        "own": 11.11
+      },
+      {
+        "slot": "UTIL",
+        "id": 44916291,
+        "name": "Joel Farabee",
+        "team": "CGY",
+        "pos": "W",
+        "salary": 5300,
+        "fpts": 7.1,
+        "own": 3.29
+      }
+    ],
+    "money": {
+      "fee": 20,
+      "one": {
+        "won": 0,
+        "net": -20
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -20
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 0,
+        "net": -400,
+        "cashed": 0
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "UTA": 4,
+        "NYI": 3,
+        "NJD": 1,
+        "OTT": 1
+      },
+      "games": {
+        "SJS@UTA": 4,
+        "NYI@ANA": 3,
+        "NJD@WSH": 1,
+        "OTT@PIT": 1
+      },
+      "nGames": 4,
+      "lines": {
+        "NYI f1": 3,
+        "UTA f1": 2
+      },
+      "pp": {
+        "UTA pp1": 4,
+        "NYI pp2": 2
+      },
+      "goalie": {
+        "team": "NJD",
+        "opposing": 0
+      },
+      "summary": [
+        "UTA 4 · NYI 3",
+        "NYI f1 ×3",
+        "UTA f1 ×2",
+        "UTA pp1 ×4",
+        "NYI pp2 ×2",
+        "G NJD",
+        "4 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "MIN": 2,
+        "UTA": 2,
+        "BOS": 1,
+        "DET": 1,
+        "NJD": 1,
+        "NYI": 1,
+        "SJS": 1
+      },
+      "games": {
+        "MIN@BOS": 3,
+        "SJS@UTA": 3,
+        "DET@TBL": 1,
+        "NJD@WSH": 1,
+        "NYI@ANA": 1
+      },
+      "nGames": 5,
+      "lines": {},
+      "pp": {
+        "MIN pp2": 2
+      },
+      "goalie": {
+        "team": "DET",
+        "opposing": 0
+      },
+      "summary": [
+        "MIN 2 · UTA 2",
+        "MIN pp2 ×2",
+        "G DET",
+        "5 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "ANA": 3,
+        "COL": 3,
+        "CGY": 1,
+        "STL": 1,
+        "TOR": 1
+      },
+      "games": {
+        "COL@MTL": 3,
+        "NYI@ANA": 3,
+        "CGY@LAK": 1,
+        "EDM@TOR": 1,
+        "FLA@STL": 1
+      },
+      "nGames": 5,
+      "lines": {
+        "ANA f2": 2
+      },
+      "pp": {
+        "COL pp1": 3,
+        "ANA pp1": 2
+      },
+      "goalie": {
+        "team": "STL",
+        "opposing": 0
+      },
+      "summary": [
+        "ANA 3 · COL 3",
+        "ANA f2 ×2",
+        "COL pp1 ×3",
+        "ANA pp1 ×2",
+        "G STL",
+        "5 games"
+      ]
+    }
+  }
+}
