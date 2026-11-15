@@ -2,6 +2,55 @@
  "sport": "nba",
  "slates": [
   {
+   "slate": "156717",
+   "date": "2026-11-14",
+   "label": "NBA $150K Fadeaway [$50K to 1st]",
+   "entries": 9803,
+   "source": "live",
+   "model": "v2",
+   "predictedAt": "2026-11-14T23:45:28+00:00",
+   "lockAt": "2026-11-15T00:00:00+00:00",
+   "minutesBeforeLock": 15,
+   "n": 145,
+   "mae": 4.739,
+   "mae5": 11.953,
+   "chalkMae": 28.995,
+   "spearman": 0.8724,
+   "top10": 0.3,
+   "chalk": {
+    "n": 11,
+    "caught": 4
+   },
+   "falseChalk": 2,
+   "misses": [
+    {
+     "name": "Jaylon Tyson",
+     "pos": "ALL",
+     "team": "CLE",
+     "pred": 9.15,
+     "actual": 61.27
+    },
+    {
+     "name": "Mario Hezonja",
+     "pos": "ALL",
+     "team": "CLE",
+     "pred": 9.32,
+     "actual": 54.13
+    },
+    {
+     "name": "Tyrese Proctor",
+     "pos": "ALL",
+     "team": "CLE",
+     "pred": 7.69,
+     "actual": 45.13
+    }
+   ],
+   "evenSplit": {
+    "mae": 7.418,
+    "chalkMae": 37.272
+   }
+  },
+  {
    "slate": "156299",
    "date": "2026-11-13",
    "label": "NBA $300K Friday 8's [$100K to 1st]",
@@ -690,18 +739,18 @@
  ],
  "recent": {
   "slates": 10,
-  "n": 1754,
-  "mae": 2.644,
-  "mae5": 7.234,
-  "chalkMae": 14.27,
+  "n": 1569,
+  "mae": 3.03,
+  "mae5": 7.845,
+  "chalkMae": 15.172,
   "chalk": {
-   "n": 128,
-   "caught": 90
+   "n": 129,
+   "caught": 91
   },
-  "falseChalk": 2,
+  "falseChalk": 4,
   "evenSplit": {
-   "mae": 5.789,
-   "chalkMae": 27.27
+   "mae": 6.476,
+   "chalkMae": 28.32
   }
  }
 }
