@@ -1,0 +1,2987 @@
+{
+  "slate": "156416",
+  "sport": "nfl",
+  "swappedAt": "2026-11-15T20:30:07.726Z",
+  "source": "2026-11-15T20:30:04+00:00",
+  "base": "2026-11-15.json",
+  "slateSize": {
+    "nGames": 10,
+    "minGames": 0,
+    "observationOnly": false
+  },
+  "lockedGames": [
+    "BUF@NYJ",
+    "CAR@NO",
+    "HOU@CLE",
+    "JAX@TEN",
+    "KC@ATL",
+    "MIA@IND",
+    "MIN@GB"
+  ],
+  "openGames": [
+    "LAR@ARI",
+    "SEA@LV",
+    "SF@DAL"
+  ],
+  "note": "Paper only, never entered. Late swap of the pre-lock record: in each lineup a player whose game had not kicked off and whose DK status turned OUT/IR after lock is replaced; every other player keeps his slot; the vacated slots are re-solved with the frozen pre-lock projections under the variant's settings (DK rules only when those are infeasible: `relaxed`). Grade with pipeline/ownership.py --paper.",
+  "lineups": [
+    {
+      "variant": "defaults",
+      "index": 1,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 143.42,
+      "sumOwnPred": 177.35,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44850801,
+          "name": "Tyler Shough",
+          "team": "NO",
+          "pos": "QB",
+          "salary": 5600,
+          "proj": 20.38,
+          "own": 10.469
+        },
+        {
+          "slot": "RB",
+          "id": 44850868,
+          "name": "Chuba Hubbard",
+          "team": "CAR",
+          "pos": "RB",
+          "salary": 7200,
+          "proj": 19.32,
+          "own": 20.972
+        },
+        {
+          "slot": "RB",
+          "id": 44850924,
+          "name": "Emmett Johnson",
+          "team": "KC",
+          "pos": "RB",
+          "salary": 4700,
+          "proj": 18.8,
+          "own": 50
+        },
+        {
+          "slot": "WR",
+          "id": 44851102,
+          "name": "Chris Olave",
+          "team": "NO",
+          "pos": "WR",
+          "salary": 7000,
+          "proj": 16.2,
+          "own": 16.373
+        },
+        {
+          "slot": "WR",
+          "id": 44851106,
+          "name": "Justin Jefferson",
+          "team": "MIN",
+          "pos": "WR",
+          "salary": 6800,
+          "proj": 19.72,
+          "own": 24.827
+        },
+        {
+          "slot": "WR",
+          "id": 44851096,
+          "name": "CeeDee Lamb",
+          "team": "DAL",
+          "pos": "WR",
+          "salary": 8800,
+          "proj": 21.69,
+          "own": 17.474
+        },
+        {
+          "slot": "TE",
+          "id": 44851490,
+          "name": "Tyler Warren",
+          "team": "IND",
+          "pos": "TE",
+          "salary": 4400,
+          "proj": 12.53,
+          "own": 16.061
+        },
+        {
+          "slot": "FLEX",
+          "id": 44851518,
+          "name": "Colby Parkinson",
+          "team": "LAR",
+          "pos": "TE",
+          "salary": 3000,
+          "proj": 8.48,
+          "own": 14.716
+        },
+        {
+          "slot": "DST",
+          "id": 44851714,
+          "name": "Browns",
+          "team": "CLE",
+          "pos": "DST",
+          "salary": 2500,
+          "proj": 6.3,
+          "own": 6.458
+        }
+      ]
+    },
+    {
+      "variant": "defaults",
+      "index": 2,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 130,
+      "sumOwnPred": 97.39,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44850793,
+          "name": "Brock Purdy",
+          "team": "SF",
+          "pos": "QB",
+          "salary": 7000,
+          "proj": 23.02,
+          "own": 7.442
+        },
+        {
+          "slot": "RB",
+          "id": 44850860,
+          "name": "Bijan Robinson",
+          "team": "ATL",
+          "pos": "RB",
+          "salary": 8200,
+          "proj": 22.08,
+          "own": 22.564
+        },
+        {
+          "slot": "RB",
+          "id": 44850858,
+          "name": "Christian McCaffrey",
+          "team": "SF",
+          "pos": "RB",
+          "salary": 8500,
+          "proj": 21.45,
+          "own": 13.897
+        },
+        {
+          "slot": "WR",
+          "id": 44851110,
+          "name": "Drake London",
+          "team": "ATL",
+          "pos": "WR",
+          "salary": 6600,
+          "proj": 15.8,
+          "own": 17.495
+        },
+        {
+          "slot": "WR",
+          "id": 44851304,
+          "name": "Chimere Dike",
+          "team": "TEN",
+          "pos": "WR",
+          "salary": 3000,
+          "proj": 6.84,
+          "own": 3.942
+        },
+        {
+          "slot": "WR",
+          "id": 44851312,
+          "name": "Laquon Treadwell",
+          "team": "IND",
+          "pos": "WR",
+          "salary": 3000,
+          "proj": 6.96,
+          "own": 6.698
+        },
+        {
+          "slot": "TE",
+          "id": 44851502,
+          "name": "Kyle Pitts Sr.",
+          "team": "ATL",
+          "pos": "TE",
+          "salary": 3800,
+          "proj": 9.35,
+          "own": 10.155
+        },
+        {
+          "slot": "FLEX",
+          "id": 44851480,
+          "name": "George Kittle",
+          "team": "SF",
+          "pos": "TE",
+          "salary": 6500,
+          "proj": 15.4,
+          "own": 5.611
+        },
+        {
+          "slot": "DST",
+          "id": 44851704,
+          "name": "Texans",
+          "team": "HOU",
+          "pos": "DST",
+          "salary": 3400,
+          "proj": 9.1,
+          "own": 9.585
+        }
+      ]
+    },
+    {
+      "variant": "defaults",
+      "index": 3,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 49900,
+      "proj": 125.86,
+      "sumOwnPred": 100.47,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44850792,
+          "name": "Josh Allen",
+          "team": "BUF",
+          "pos": "QB",
+          "salary": 7500,
+          "proj": 25.57,
+          "own": 8.529
+        },
+        {
+          "slot": "RB",
+          "id": 44850866,
+          "name": "James Cook III",
+          "team": "BUF",
+          "pos": "RB",
+          "salary": 7400,
+          "proj": 18.38,
+          "own": 15.034
+        },
+        {
+          "slot": "RB",
+          "id": 44850870,
+          "name": "Kyren Williams",
+          "team": "LAR",
+          "pos": "RB",
+          "salary": 7100,
+          "proj": 17.1,
+          "own": 8.655
+        },
+        {
+          "slot": "WR",
+          "id": 44851118,
+          "name": "Parker Washington",
+          "team": "JAX",
+          "pos": "WR",
+          "salary": 6200,
+          "proj": 14.65,
+          "own": 11.408
+        },
+        {
+          "slot": "WR",
+          "id": 44851152,
+          "name": "KC Concepcion Jr.",
+          "team": "CLE",
+          "pos": "WR",
+          "salary": 4800,
+          "proj": 11.2,
+          "own": 15.34
+        },
+        {
+          "slot": "WR",
+          "id": 44851170,
+          "name": "Jakobi Meyers",
+          "team": "JAX",
+          "pos": "WR",
+          "salary": 4200,
+          "proj": 9.93,
+          "own": 16.496
+        },
+        {
+          "slot": "TE",
+          "id": 44851482,
+          "name": "Dalton Kincaid",
+          "team": "BUF",
+          "pos": "TE",
+          "salary": 5100,
+          "proj": 10.09,
+          "own": 4.485
+        },
+        {
+          "slot": "FLEX",
+          "id": 44851488,
+          "name": "Travis Kelce",
+          "team": "KC",
+          "pos": "TE",
+          "salary": 4700,
+          "proj": 11.24,
+          "own": 8.454
+        },
+        {
+          "slot": "DST",
+          "id": 44851709,
+          "name": "Packers",
+          "team": "GB",
+          "pos": "DST",
+          "salary": 2900,
+          "proj": 7.7,
+          "own": 12.071
+        }
+      ]
+    },
+    {
+      "variant": "stack",
+      "index": 1,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 143.42,
+      "sumOwnPred": 177.35,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44850801,
+          "name": "Tyler Shough",
+          "team": "NO",
+          "pos": "QB",
+          "salary": 5600,
+          "proj": 20.38,
+          "own": 10.469
+        },
+        {
+          "slot": "RB",
+          "id": 44850868,
+          "name": "Chuba Hubbard",
+          "team": "CAR",
+          "pos": "RB",
+          "salary": 7200,
+          "proj": 19.32,
+          "own": 20.972
+        },
+        {
+          "slot": "RB",
+          "id": 44850924,
+          "name": "Emmett Johnson",
+          "team": "KC",
+          "pos": "RB",
+          "salary": 4700,
+          "proj": 18.8,
+          "own": 50
+        },
+        {
+          "slot": "WR",
+          "id": 44851102,
+          "name": "Chris Olave",
+          "team": "NO",
+          "pos": "WR",
+          "salary": 7000,
+          "proj": 16.2,
+          "own": 16.373
+        },
+        {
+          "slot": "WR",
+          "id": 44851106,
+          "name": "Justin Jefferson",
+          "team": "MIN",
+          "pos": "WR",
+          "salary": 6800,
+          "proj": 19.72,
+          "own": 24.827
+        },
+        {
+          "slot": "WR",
+          "id": 44851096,
+          "name": "CeeDee Lamb",
+          "team": "DAL",
+          "pos": "WR",
+          "salary": 8800,
+          "proj": 21.69,
+          "own": 17.474
+        },
+        {
+          "slot": "TE",
+          "id": 44851490,
+          "name": "Tyler Warren",
+          "team": "IND",
+          "pos": "TE",
+          "salary": 4400,
+          "proj": 12.53,
+          "own": 16.061
+        },
+        {
+          "slot": "FLEX",
+          "id": 44851518,
+          "name": "Colby Parkinson",
+          "team": "LAR",
+          "pos": "TE",
+          "salary": 3000,
+          "proj": 8.48,
+          "own": 14.716
+        },
+        {
+          "slot": "DST",
+          "id": 44851714,
+          "name": "Browns",
+          "team": "CLE",
+          "pos": "DST",
+          "salary": 2500,
+          "proj": 6.3,
+          "own": 6.458
+        }
+      ]
+    },
+    {
+      "variant": "stack",
+      "index": 2,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 129.12,
+      "sumOwnPred": 101.83,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44850794,
+          "name": "Trevor Lawrence",
+          "team": "JAX",
+          "pos": "QB",
+          "salary": 6600,
+          "proj": 20.44,
+          "own": 5.33
+        },
+        {
+          "slot": "RB",
+          "id": 44850860,
+          "name": "Bijan Robinson",
+          "team": "ATL",
+          "pos": "RB",
+          "salary": 8200,
+          "proj": 22.08,
+          "own": 22.564
+        },
+        {
+          "slot": "RB",
+          "id": 44850866,
+          "name": "James Cook III",
+          "team": "BUF",
+          "pos": "RB",
+          "salary": 7400,
+          "proj": 18.38,
+          "own": 15.034
+        },
+        {
+          "slot": "WR",
+          "id": 44851118,
+          "name": "Parker Washington",
+          "team": "JAX",
+          "pos": "WR",
+          "salary": 6200,
+          "proj": 14.65,
+          "own": 11.408
+        },
+        {
+          "slot": "WR",
+          "id": 44851170,
+          "name": "Jakobi Meyers",
+          "team": "JAX",
+          "pos": "WR",
+          "salary": 4200,
+          "proj": 9.93,
+          "own": 16.496
+        },
+        {
+          "slot": "WR",
+          "id": 44851304,
+          "name": "Chimere Dike",
+          "team": "TEN",
+          "pos": "WR",
+          "salary": 3000,
+          "proj": 6.84,
+          "own": 3.942
+        },
+        {
+          "slot": "TE",
+          "id": 44851636,
+          "name": "Gavin Bartholomew",
+          "team": "MIN",
+          "pos": "TE",
+          "salary": 2500,
+          "proj": 6.25,
+          "own": 3.573
+        },
+        {
+          "slot": "FLEX",
+          "id": 44850858,
+          "name": "Christian McCaffrey",
+          "team": "SF",
+          "pos": "RB",
+          "salary": 8500,
+          "proj": 21.45,
+          "own": 13.897
+        },
+        {
+          "slot": "DST",
+          "id": 44851704,
+          "name": "Texans",
+          "team": "HOU",
+          "pos": "DST",
+          "salary": 3400,
+          "proj": 9.1,
+          "own": 9.585
+        }
+      ]
+    },
+    {
+      "variant": "stack",
+      "index": 3,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 124.41,
+      "sumOwnPred": 93.92,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44850798,
+          "name": "Patrick Mahomes",
+          "team": "KC",
+          "pos": "QB",
+          "salary": 6000,
+          "proj": 19.3,
+          "own": 6.272
+        },
+        {
+          "slot": "RB",
+          "id": 44850880,
+          "name": "Ollie Gordon II",
+          "team": "MIA",
+          "pos": "RB",
+          "salary": 5800,
+          "proj": 13.73,
+          "own": 8.161
+        },
+        {
+          "slot": "RB",
+          "id": 44850870,
+          "name": "Kyren Williams",
+          "team": "LAR",
+          "pos": "RB",
+          "salary": 7100,
+          "proj": 17.1,
+          "own": 8.655
+        },
+        {
+          "slot": "WR",
+          "id": 44851110,
+          "name": "Drake London",
+          "team": "ATL",
+          "pos": "WR",
+          "salary": 6600,
+          "proj": 15.8,
+          "own": 17.495
+        },
+        {
+          "slot": "WR",
+          "id": 44851180,
+          "name": "Tank Dell",
+          "team": "HOU",
+          "pos": "WR",
+          "salary": 3900,
+          "proj": 8.82,
+          "own": 12.984
+        },
+        {
+          "slot": "WR",
+          "id": 44851092,
+          "name": "Jaxon Smith-Njigba",
+          "team": "SEA",
+          "pos": "WR",
+          "salary": 9300,
+          "proj": 21.67,
+          "own": 7.402
+        },
+        {
+          "slot": "TE",
+          "id": 44851488,
+          "name": "Travis Kelce",
+          "team": "KC",
+          "pos": "TE",
+          "salary": 4700,
+          "proj": 11.24,
+          "own": 8.454
+        },
+        {
+          "slot": "FLEX",
+          "id": 44851502,
+          "name": "Kyle Pitts Sr.",
+          "team": "ATL",
+          "pos": "TE",
+          "salary": 3800,
+          "proj": 9.35,
+          "own": 10.155
+        },
+        {
+          "slot": "DST",
+          "id": 44851710,
+          "name": "Vikings",
+          "team": "MIN",
+          "pos": "DST",
+          "salary": 2800,
+          "proj": 7.4,
+          "own": 14.344
+        }
+      ]
+    },
+    {
+      "variant": "leverage",
+      "index": 1,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 141.94,
+      "sumOwnPred": 168.15,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44850801,
+          "name": "Tyler Shough",
+          "team": "NO",
+          "pos": "QB",
+          "salary": 5600,
+          "proj": 20.38,
+          "own": 10.469
+        },
+        {
+          "slot": "RB",
+          "id": 44850868,
+          "name": "Chuba Hubbard",
+          "team": "CAR",
+          "pos": "RB",
+          "salary": 7200,
+          "proj": 19.32,
+          "own": 20.972
+        },
+        {
+          "slot": "RB",
+          "id": 44850924,
+          "name": "Emmett Johnson",
+          "team": "KC",
+          "pos": "RB",
+          "salary": 4700,
+          "proj": 18.8,
+          "own": 50
+        },
+        {
+          "slot": "WR",
+          "id": 44851102,
+          "name": "Chris Olave",
+          "team": "NO",
+          "pos": "WR",
+          "salary": 7000,
+          "proj": 16.2,
+          "own": 16.373
+        },
+        {
+          "slot": "WR",
+          "id": 44851106,
+          "name": "Justin Jefferson",
+          "team": "MIN",
+          "pos": "WR",
+          "salary": 6800,
+          "proj": 19.72,
+          "own": 24.827
+        },
+        {
+          "slot": "WR",
+          "id": 44851118,
+          "name": "Parker Washington",
+          "team": "JAX",
+          "pos": "WR",
+          "salary": 6200,
+          "proj": 14.65,
+          "own": 11.408
+        },
+        {
+          "slot": "TE",
+          "id": 44851488,
+          "name": "Travis Kelce",
+          "team": "KC",
+          "pos": "TE",
+          "salary": 4700,
+          "proj": 11.24,
+          "own": 8.454
+        },
+        {
+          "slot": "FLEX",
+          "id": 44851490,
+          "name": "Tyler Warren",
+          "team": "IND",
+          "pos": "TE",
+          "salary": 4400,
+          "proj": 12.53,
+          "own": 16.061
+        },
+        {
+          "slot": "DST",
+          "id": 44851704,
+          "name": "Texans",
+          "team": "HOU",
+          "pos": "DST",
+          "salary": 3400,
+          "proj": 9.1,
+          "own": 9.585
+        }
+      ]
+    },
+    {
+      "variant": "leverage",
+      "index": 2,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 131.12,
+      "sumOwnPred": 100.4,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44850793,
+          "name": "Brock Purdy",
+          "team": "SF",
+          "pos": "QB",
+          "salary": 7000,
+          "proj": 23.02,
+          "own": 7.442
+        },
+        {
+          "slot": "RB",
+          "id": 44850860,
+          "name": "Bijan Robinson",
+          "team": "ATL",
+          "pos": "RB",
+          "salary": 8200,
+          "proj": 22.08,
+          "own": 22.564
+        },
+        {
+          "slot": "RB",
+          "id": 44850858,
+          "name": "Christian McCaffrey",
+          "team": "SF",
+          "pos": "RB",
+          "salary": 8500,
+          "proj": 21.45,
+          "own": 13.897
+        },
+        {
+          "slot": "WR",
+          "id": 44851304,
+          "name": "Chimere Dike",
+          "team": "TEN",
+          "pos": "WR",
+          "salary": 3000,
+          "proj": 6.84,
+          "own": 3.942
+        },
+        {
+          "slot": "WR",
+          "id": 44851312,
+          "name": "Laquon Treadwell",
+          "team": "IND",
+          "pos": "WR",
+          "salary": 3000,
+          "proj": 6.96,
+          "own": 6.698
+        },
+        {
+          "slot": "WR",
+          "id": 44851096,
+          "name": "CeeDee Lamb",
+          "team": "DAL",
+          "pos": "WR",
+          "salary": 8800,
+          "proj": 21.69,
+          "own": 17.474
+        },
+        {
+          "slot": "TE",
+          "id": 44851518,
+          "name": "Colby Parkinson",
+          "team": "LAR",
+          "pos": "TE",
+          "salary": 3000,
+          "proj": 8.48,
+          "own": 14.716
+        },
+        {
+          "slot": "FLEX",
+          "id": 44851480,
+          "name": "George Kittle",
+          "team": "SF",
+          "pos": "TE",
+          "salary": 6500,
+          "proj": 15.4,
+          "own": 5.611
+        },
+        {
+          "slot": "DST",
+          "id": 44851719,
+          "name": "Titans",
+          "team": "TEN",
+          "pos": "DST",
+          "salary": 2000,
+          "proj": 5.2,
+          "own": 8.055
+        }
+      ]
+    },
+    {
+      "variant": "leverage",
+      "index": 3,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 124.65,
+      "sumOwnPred": 85.14,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44850792,
+          "name": "Josh Allen",
+          "team": "BUF",
+          "pos": "QB",
+          "salary": 7500,
+          "proj": 25.57,
+          "own": 8.529
+        },
+        {
+          "slot": "RB",
+          "id": 44850866,
+          "name": "James Cook III",
+          "team": "BUF",
+          "pos": "RB",
+          "salary": 7400,
+          "proj": 18.38,
+          "own": 15.034
+        },
+        {
+          "slot": "RB",
+          "id": 44850870,
+          "name": "Kyren Williams",
+          "team": "LAR",
+          "pos": "RB",
+          "salary": 7100,
+          "proj": 17.1,
+          "own": 8.655
+        },
+        {
+          "slot": "WR",
+          "id": 44851132,
+          "name": "Khalil Shakir",
+          "team": "BUF",
+          "pos": "WR",
+          "salary": 5300,
+          "proj": 10.16,
+          "own": 5.904
+        },
+        {
+          "slot": "WR",
+          "id": 44851180,
+          "name": "Tank Dell",
+          "team": "HOU",
+          "pos": "WR",
+          "salary": 3900,
+          "proj": 8.82,
+          "own": 12.984
+        },
+        {
+          "slot": "WR",
+          "id": 44851092,
+          "name": "Jaxon Smith-Njigba",
+          "team": "SEA",
+          "pos": "WR",
+          "salary": 9300,
+          "proj": 21.67,
+          "own": 7.402
+        },
+        {
+          "slot": "TE",
+          "id": 44851502,
+          "name": "Kyle Pitts Sr.",
+          "team": "ATL",
+          "pos": "TE",
+          "salary": 3800,
+          "proj": 9.35,
+          "own": 10.155
+        },
+        {
+          "slot": "FLEX",
+          "id": 44851528,
+          "name": "Kenyon Sadiq",
+          "team": "NYJ",
+          "pos": "TE",
+          "salary": 2800,
+          "proj": 5.9,
+          "own": 4.406
+        },
+        {
+          "slot": "DST",
+          "id": 44851709,
+          "name": "Packers",
+          "team": "GB",
+          "pos": "DST",
+          "salary": 2900,
+          "proj": 7.7,
+          "own": 12.071
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 1,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 141.94,
+      "sumOwnPred": 168.15,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44850801,
+          "name": "Tyler Shough",
+          "team": "NO",
+          "pos": "QB",
+          "salary": 5600,
+          "proj": 20.38,
+          "own": 10.469
+        },
+        {
+          "slot": "RB",
+          "id": 44850868,
+          "name": "Chuba Hubbard",
+          "team": "CAR",
+          "pos": "RB",
+          "salary": 7200,
+          "proj": 19.32,
+          "own": 20.972
+        },
+        {
+          "slot": "RB",
+          "id": 44850924,
+          "name": "Emmett Johnson",
+          "team": "KC",
+          "pos": "RB",
+          "salary": 4700,
+          "proj": 18.8,
+          "own": 50
+        },
+        {
+          "slot": "WR",
+          "id": 44851102,
+          "name": "Chris Olave",
+          "team": "NO",
+          "pos": "WR",
+          "salary": 7000,
+          "proj": 16.2,
+          "own": 16.373
+        },
+        {
+          "slot": "WR",
+          "id": 44851106,
+          "name": "Justin Jefferson",
+          "team": "MIN",
+          "pos": "WR",
+          "salary": 6800,
+          "proj": 19.72,
+          "own": 24.827
+        },
+        {
+          "slot": "WR",
+          "id": 44851118,
+          "name": "Parker Washington",
+          "team": "JAX",
+          "pos": "WR",
+          "salary": 6200,
+          "proj": 14.65,
+          "own": 11.408
+        },
+        {
+          "slot": "TE",
+          "id": 44851488,
+          "name": "Travis Kelce",
+          "team": "KC",
+          "pos": "TE",
+          "salary": 4700,
+          "proj": 11.24,
+          "own": 8.454
+        },
+        {
+          "slot": "FLEX",
+          "id": 44851490,
+          "name": "Tyler Warren",
+          "team": "IND",
+          "pos": "TE",
+          "salary": 4400,
+          "proj": 12.53,
+          "own": 16.061
+        },
+        {
+          "slot": "DST",
+          "id": 44851704,
+          "name": "Texans",
+          "team": "HOU",
+          "pos": "DST",
+          "salary": 3400,
+          "proj": 9.1,
+          "own": 9.585
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 2,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 142.3,
+      "sumOwnPred": 168.88,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44850801,
+          "name": "Tyler Shough",
+          "team": "NO",
+          "pos": "QB",
+          "salary": 5600,
+          "proj": 20.38,
+          "own": 10.469
+        },
+        {
+          "slot": "RB",
+          "id": 44850868,
+          "name": "Chuba Hubbard",
+          "team": "CAR",
+          "pos": "RB",
+          "salary": 7200,
+          "proj": 19.32,
+          "own": 20.972
+        },
+        {
+          "slot": "RB",
+          "id": 44850924,
+          "name": "Emmett Johnson",
+          "team": "KC",
+          "pos": "RB",
+          "salary": 4700,
+          "proj": 18.8,
+          "own": 50
+        },
+        {
+          "slot": "WR",
+          "id": 44851102,
+          "name": "Chris Olave",
+          "team": "NO",
+          "pos": "WR",
+          "salary": 7000,
+          "proj": 16.2,
+          "own": 16.373
+        },
+        {
+          "slot": "WR",
+          "id": 44851106,
+          "name": "Justin Jefferson",
+          "team": "MIN",
+          "pos": "WR",
+          "salary": 6800,
+          "proj": 19.72,
+          "own": 24.827
+        },
+        {
+          "slot": "WR",
+          "id": 44851092,
+          "name": "Jaxon Smith-Njigba",
+          "team": "SEA",
+          "pos": "WR",
+          "salary": 9300,
+          "proj": 21.67,
+          "own": 7.402
+        },
+        {
+          "slot": "TE",
+          "id": 44851490,
+          "name": "Tyler Warren",
+          "team": "IND",
+          "pos": "TE",
+          "salary": 4400,
+          "proj": 12.53,
+          "own": 16.061
+        },
+        {
+          "slot": "FLEX",
+          "id": 44851518,
+          "name": "Colby Parkinson",
+          "team": "LAR",
+          "pos": "TE",
+          "salary": 3000,
+          "proj": 8.48,
+          "own": 14.716
+        },
+        {
+          "slot": "DST",
+          "id": 44851719,
+          "name": "Titans",
+          "team": "TEN",
+          "pos": "DST",
+          "salary": 2000,
+          "proj": 5.2,
+          "own": 8.055
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 3,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 143.42,
+      "sumOwnPred": 177.35,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44850801,
+          "name": "Tyler Shough",
+          "team": "NO",
+          "pos": "QB",
+          "salary": 5600,
+          "proj": 20.38,
+          "own": 10.469
+        },
+        {
+          "slot": "RB",
+          "id": 44850868,
+          "name": "Chuba Hubbard",
+          "team": "CAR",
+          "pos": "RB",
+          "salary": 7200,
+          "proj": 19.32,
+          "own": 20.972
+        },
+        {
+          "slot": "RB",
+          "id": 44850924,
+          "name": "Emmett Johnson",
+          "team": "KC",
+          "pos": "RB",
+          "salary": 4700,
+          "proj": 18.8,
+          "own": 50
+        },
+        {
+          "slot": "WR",
+          "id": 44851102,
+          "name": "Chris Olave",
+          "team": "NO",
+          "pos": "WR",
+          "salary": 7000,
+          "proj": 16.2,
+          "own": 16.373
+        },
+        {
+          "slot": "WR",
+          "id": 44851106,
+          "name": "Justin Jefferson",
+          "team": "MIN",
+          "pos": "WR",
+          "salary": 6800,
+          "proj": 19.72,
+          "own": 24.827
+        },
+        {
+          "slot": "WR",
+          "id": 44851096,
+          "name": "CeeDee Lamb",
+          "team": "DAL",
+          "pos": "WR",
+          "salary": 8800,
+          "proj": 21.69,
+          "own": 17.474
+        },
+        {
+          "slot": "TE",
+          "id": 44851490,
+          "name": "Tyler Warren",
+          "team": "IND",
+          "pos": "TE",
+          "salary": 4400,
+          "proj": 12.53,
+          "own": 16.061
+        },
+        {
+          "slot": "FLEX",
+          "id": 44851518,
+          "name": "Colby Parkinson",
+          "team": "LAR",
+          "pos": "TE",
+          "salary": 3000,
+          "proj": 8.48,
+          "own": 14.716
+        },
+        {
+          "slot": "DST",
+          "id": 44851714,
+          "name": "Browns",
+          "team": "CLE",
+          "pos": "DST",
+          "salary": 2500,
+          "proj": 6.3,
+          "own": 6.458
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 4,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 141.28,
+      "sumOwnPred": 162.98,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44850801,
+          "name": "Tyler Shough",
+          "team": "NO",
+          "pos": "QB",
+          "salary": 5600,
+          "proj": 20.38,
+          "own": 10.469
+        },
+        {
+          "slot": "RB",
+          "id": 44850868,
+          "name": "Chuba Hubbard",
+          "team": "CAR",
+          "pos": "RB",
+          "salary": 7200,
+          "proj": 19.32,
+          "own": 20.972
+        },
+        {
+          "slot": "RB",
+          "id": 44850924,
+          "name": "Emmett Johnson",
+          "team": "KC",
+          "pos": "RB",
+          "salary": 4700,
+          "proj": 18.8,
+          "own": 50
+        },
+        {
+          "slot": "WR",
+          "id": 44851102,
+          "name": "Chris Olave",
+          "team": "NO",
+          "pos": "WR",
+          "salary": 7000,
+          "proj": 16.2,
+          "own": 16.373
+        },
+        {
+          "slot": "WR",
+          "id": 44851106,
+          "name": "Justin Jefferson",
+          "team": "MIN",
+          "pos": "WR",
+          "salary": 6800,
+          "proj": 19.72,
+          "own": 24.827
+        },
+        {
+          "slot": "WR",
+          "id": 44851312,
+          "name": "Laquon Treadwell",
+          "team": "IND",
+          "pos": "WR",
+          "salary": 3000,
+          "proj": 6.96,
+          "own": 6.698
+        },
+        {
+          "slot": "TE",
+          "id": 44851502,
+          "name": "Kyle Pitts Sr.",
+          "team": "ATL",
+          "pos": "TE",
+          "salary": 3800,
+          "proj": 9.35,
+          "own": 10.155
+        },
+        {
+          "slot": "FLEX",
+          "id": 44850858,
+          "name": "Christian McCaffrey",
+          "team": "SF",
+          "pos": "RB",
+          "salary": 8500,
+          "proj": 21.45,
+          "own": 13.897
+        },
+        {
+          "slot": "DST",
+          "id": 44851704,
+          "name": "Texans",
+          "team": "HOU",
+          "pos": "DST",
+          "salary": 3400,
+          "proj": 9.1,
+          "own": 9.585
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 5,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 49800,
+      "proj": 140.6,
+      "sumOwnPred": 157.37,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44850796,
+          "name": "Dak Prescott",
+          "team": "DAL",
+          "pos": "QB",
+          "salary": 6400,
+          "proj": 21,
+          "own": 8.669
+        },
+        {
+          "slot": "RB",
+          "id": 44850924,
+          "name": "Emmett Johnson",
+          "team": "KC",
+          "pos": "RB",
+          "salary": 4700,
+          "proj": 18.8,
+          "own": 50
+        },
+        {
+          "slot": "RB",
+          "id": 44850858,
+          "name": "Christian McCaffrey",
+          "team": "SF",
+          "pos": "RB",
+          "salary": 8500,
+          "proj": 21.45,
+          "own": 13.897
+        },
+        {
+          "slot": "WR",
+          "id": 44851106,
+          "name": "Justin Jefferson",
+          "team": "MIN",
+          "pos": "WR",
+          "salary": 6800,
+          "proj": 19.72,
+          "own": 24.827
+        },
+        {
+          "slot": "WR",
+          "id": 44851312,
+          "name": "Laquon Treadwell",
+          "team": "IND",
+          "pos": "WR",
+          "salary": 3000,
+          "proj": 6.96,
+          "own": 6.698
+        },
+        {
+          "slot": "WR",
+          "id": 44851096,
+          "name": "CeeDee Lamb",
+          "team": "DAL",
+          "pos": "WR",
+          "salary": 8800,
+          "proj": 21.69,
+          "own": 17.474
+        },
+        {
+          "slot": "TE",
+          "id": 44851490,
+          "name": "Tyler Warren",
+          "team": "IND",
+          "pos": "TE",
+          "salary": 4400,
+          "proj": 12.53,
+          "own": 16.061
+        },
+        {
+          "slot": "FLEX",
+          "id": 44851502,
+          "name": "Kyle Pitts Sr.",
+          "team": "ATL",
+          "pos": "TE",
+          "salary": 3800,
+          "proj": 9.35,
+          "own": 10.155
+        },
+        {
+          "slot": "DST",
+          "id": 44851704,
+          "name": "Texans",
+          "team": "HOU",
+          "pos": "DST",
+          "salary": 3400,
+          "proj": 9.1,
+          "own": 9.585
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 6,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 142.76,
+      "sumOwnPred": 173.64,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44850801,
+          "name": "Tyler Shough",
+          "team": "NO",
+          "pos": "QB",
+          "salary": 5600,
+          "proj": 20.38,
+          "own": 10.469
+        },
+        {
+          "slot": "RB",
+          "id": 44850868,
+          "name": "Chuba Hubbard",
+          "team": "CAR",
+          "pos": "RB",
+          "salary": 7200,
+          "proj": 19.32,
+          "own": 20.972
+        },
+        {
+          "slot": "RB",
+          "id": 44850924,
+          "name": "Emmett Johnson",
+          "team": "KC",
+          "pos": "RB",
+          "salary": 4700,
+          "proj": 18.8,
+          "own": 50
+        },
+        {
+          "slot": "WR",
+          "id": 44851102,
+          "name": "Chris Olave",
+          "team": "NO",
+          "pos": "WR",
+          "salary": 7000,
+          "proj": 16.2,
+          "own": 16.373
+        },
+        {
+          "slot": "WR",
+          "id": 44851106,
+          "name": "Justin Jefferson",
+          "team": "MIN",
+          "pos": "WR",
+          "salary": 6800,
+          "proj": 19.72,
+          "own": 24.827
+        },
+        {
+          "slot": "WR",
+          "id": 44851312,
+          "name": "Laquon Treadwell",
+          "team": "IND",
+          "pos": "WR",
+          "salary": 3000,
+          "proj": 6.96,
+          "own": 6.698
+        },
+        {
+          "slot": "TE",
+          "id": 44851490,
+          "name": "Tyler Warren",
+          "team": "IND",
+          "pos": "TE",
+          "salary": 4400,
+          "proj": 12.53,
+          "own": 16.061
+        },
+        {
+          "slot": "FLEX",
+          "id": 44850858,
+          "name": "Christian McCaffrey",
+          "team": "SF",
+          "pos": "RB",
+          "salary": 8500,
+          "proj": 21.45,
+          "own": 13.897
+        },
+        {
+          "slot": "DST",
+          "id": 44851710,
+          "name": "Vikings",
+          "team": "MIN",
+          "pos": "DST",
+          "salary": 2800,
+          "proj": 7.4,
+          "own": 14.344
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 7,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 49900,
+      "proj": 141.59,
+      "sumOwnPred": 168.21,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44850796,
+          "name": "Dak Prescott",
+          "team": "DAL",
+          "pos": "QB",
+          "salary": 6400,
+          "proj": 21,
+          "own": 8.669
+        },
+        {
+          "slot": "RB",
+          "id": 44850924,
+          "name": "Emmett Johnson",
+          "team": "KC",
+          "pos": "RB",
+          "salary": 4700,
+          "proj": 18.8,
+          "own": 50
+        },
+        {
+          "slot": "RB",
+          "id": 44850858,
+          "name": "Christian McCaffrey",
+          "team": "SF",
+          "pos": "RB",
+          "salary": 8500,
+          "proj": 21.45,
+          "own": 13.897
+        },
+        {
+          "slot": "WR",
+          "id": 44851106,
+          "name": "Justin Jefferson",
+          "team": "MIN",
+          "pos": "WR",
+          "salary": 6800,
+          "proj": 19.72,
+          "own": 24.827
+        },
+        {
+          "slot": "WR",
+          "id": 44851180,
+          "name": "Tank Dell",
+          "team": "HOU",
+          "pos": "WR",
+          "salary": 3900,
+          "proj": 8.82,
+          "own": 12.984
+        },
+        {
+          "slot": "WR",
+          "id": 44851096,
+          "name": "CeeDee Lamb",
+          "team": "DAL",
+          "pos": "WR",
+          "salary": 8800,
+          "proj": 21.69,
+          "own": 17.474
+        },
+        {
+          "slot": "TE",
+          "id": 44851490,
+          "name": "Tyler Warren",
+          "team": "IND",
+          "pos": "TE",
+          "salary": 4400,
+          "proj": 12.53,
+          "own": 16.061
+        },
+        {
+          "slot": "FLEX",
+          "id": 44851518,
+          "name": "Colby Parkinson",
+          "team": "LAR",
+          "pos": "TE",
+          "salary": 3000,
+          "proj": 8.48,
+          "own": 14.716
+        },
+        {
+          "slot": "DST",
+          "id": 44851704,
+          "name": "Texans",
+          "team": "HOU",
+          "pos": "DST",
+          "salary": 3400,
+          "proj": 9.1,
+          "own": 9.585
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 8,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 140.75,
+      "sumOwnPred": 156.66,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44850796,
+          "name": "Dak Prescott",
+          "team": "DAL",
+          "pos": "QB",
+          "salary": 6400,
+          "proj": 21,
+          "own": 8.669
+        },
+        {
+          "slot": "RB",
+          "id": 44850924,
+          "name": "Emmett Johnson",
+          "team": "KC",
+          "pos": "RB",
+          "salary": 4700,
+          "proj": 18.8,
+          "own": 50
+        },
+        {
+          "slot": "RB",
+          "id": 44850858,
+          "name": "Christian McCaffrey",
+          "team": "SF",
+          "pos": "RB",
+          "salary": 8500,
+          "proj": 21.45,
+          "own": 13.897
+        },
+        {
+          "slot": "WR",
+          "id": 44851106,
+          "name": "Justin Jefferson",
+          "team": "MIN",
+          "pos": "WR",
+          "salary": 6800,
+          "proj": 19.72,
+          "own": 24.827
+        },
+        {
+          "slot": "WR",
+          "id": 44851162,
+          "name": "Wan'Dale Robinson",
+          "team": "TEN",
+          "pos": "WR",
+          "salary": 4500,
+          "proj": 10.21,
+          "own": 12.577
+        },
+        {
+          "slot": "WR",
+          "id": 44851096,
+          "name": "CeeDee Lamb",
+          "team": "DAL",
+          "pos": "WR",
+          "salary": 8800,
+          "proj": 21.69,
+          "own": 17.474
+        },
+        {
+          "slot": "TE",
+          "id": 44851490,
+          "name": "Tyler Warren",
+          "team": "IND",
+          "pos": "TE",
+          "salary": 4400,
+          "proj": 12.53,
+          "own": 16.061
+        },
+        {
+          "slot": "FLEX",
+          "id": 44851636,
+          "name": "Gavin Bartholomew",
+          "team": "MIN",
+          "pos": "TE",
+          "salary": 2500,
+          "proj": 6.25,
+          "own": 3.573
+        },
+        {
+          "slot": "DST",
+          "id": 44851704,
+          "name": "Texans",
+          "team": "HOU",
+          "pos": "DST",
+          "salary": 3400,
+          "proj": 9.1,
+          "own": 9.585
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 9,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 140.29,
+      "sumOwnPred": 153.96,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44850796,
+          "name": "Dak Prescott",
+          "team": "DAL",
+          "pos": "QB",
+          "salary": 6400,
+          "proj": 21,
+          "own": 8.669
+        },
+        {
+          "slot": "RB",
+          "id": 44850924,
+          "name": "Emmett Johnson",
+          "team": "KC",
+          "pos": "RB",
+          "salary": 4700,
+          "proj": 18.8,
+          "own": 50
+        },
+        {
+          "slot": "RB",
+          "id": 44850858,
+          "name": "Christian McCaffrey",
+          "team": "SF",
+          "pos": "RB",
+          "salary": 8500,
+          "proj": 21.45,
+          "own": 13.897
+        },
+        {
+          "slot": "WR",
+          "id": 44851106,
+          "name": "Justin Jefferson",
+          "team": "MIN",
+          "pos": "WR",
+          "salary": 6800,
+          "proj": 19.72,
+          "own": 24.827
+        },
+        {
+          "slot": "WR",
+          "id": 44851312,
+          "name": "Laquon Treadwell",
+          "team": "IND",
+          "pos": "WR",
+          "salary": 3000,
+          "proj": 6.96,
+          "own": 6.698
+        },
+        {
+          "slot": "WR",
+          "id": 44851096,
+          "name": "CeeDee Lamb",
+          "team": "DAL",
+          "pos": "WR",
+          "salary": 8800,
+          "proj": 21.69,
+          "own": 17.474
+        },
+        {
+          "slot": "TE",
+          "id": 44851488,
+          "name": "Travis Kelce",
+          "team": "KC",
+          "pos": "TE",
+          "salary": 4700,
+          "proj": 11.24,
+          "own": 8.454
+        },
+        {
+          "slot": "FLEX",
+          "id": 44851490,
+          "name": "Tyler Warren",
+          "team": "IND",
+          "pos": "TE",
+          "salary": 4400,
+          "proj": 12.53,
+          "own": 16.061
+        },
+        {
+          "slot": "DST",
+          "id": 44851711,
+          "name": "Saints",
+          "team": "NO",
+          "pos": "DST",
+          "salary": 2700,
+          "proj": 6.9,
+          "own": 7.878
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 10,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 141.35,
+      "sumOwnPred": 157.39,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44850793,
+          "name": "Brock Purdy",
+          "team": "SF",
+          "pos": "QB",
+          "salary": 7000,
+          "proj": 23.02,
+          "own": 7.442
+        },
+        {
+          "slot": "RB",
+          "id": 44850860,
+          "name": "Bijan Robinson",
+          "team": "ATL",
+          "pos": "RB",
+          "salary": 8200,
+          "proj": 22.08,
+          "own": 22.564
+        },
+        {
+          "slot": "RB",
+          "id": 44850924,
+          "name": "Emmett Johnson",
+          "team": "KC",
+          "pos": "RB",
+          "salary": 4700,
+          "proj": 18.8,
+          "own": 50
+        },
+        {
+          "slot": "WR",
+          "id": 44851106,
+          "name": "Justin Jefferson",
+          "team": "MIN",
+          "pos": "WR",
+          "salary": 6800,
+          "proj": 19.72,
+          "own": 24.827
+        },
+        {
+          "slot": "WR",
+          "id": 44851312,
+          "name": "Laquon Treadwell",
+          "team": "IND",
+          "pos": "WR",
+          "salary": 3000,
+          "proj": 6.96,
+          "own": 6.698
+        },
+        {
+          "slot": "WR",
+          "id": 44851096,
+          "name": "CeeDee Lamb",
+          "team": "DAL",
+          "pos": "WR",
+          "salary": 8800,
+          "proj": 21.69,
+          "own": 17.474
+        },
+        {
+          "slot": "TE",
+          "id": 44851518,
+          "name": "Colby Parkinson",
+          "team": "LAR",
+          "pos": "TE",
+          "salary": 3000,
+          "proj": 8.48,
+          "own": 14.716
+        },
+        {
+          "slot": "FLEX",
+          "id": 44851480,
+          "name": "George Kittle",
+          "team": "SF",
+          "pos": "TE",
+          "salary": 6500,
+          "proj": 15.4,
+          "own": 5.611
+        },
+        {
+          "slot": "DST",
+          "id": 44851719,
+          "name": "Titans",
+          "team": "TEN",
+          "pos": "DST",
+          "salary": 2000,
+          "proj": 5.2,
+          "own": 8.055
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 11,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 131.83,
+      "sumOwnPred": 113.92,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44850801,
+          "name": "Tyler Shough",
+          "team": "NO",
+          "pos": "QB",
+          "salary": 5600,
+          "proj": 20.38,
+          "own": 10.469
+        },
+        {
+          "slot": "RB",
+          "id": 44850868,
+          "name": "Chuba Hubbard",
+          "team": "CAR",
+          "pos": "RB",
+          "salary": 7200,
+          "proj": 19.32,
+          "own": 20.972
+        },
+        {
+          "slot": "RB",
+          "id": 44850858,
+          "name": "Christian McCaffrey",
+          "team": "SF",
+          "pos": "RB",
+          "salary": 8500,
+          "proj": 21.45,
+          "own": 13.897
+        },
+        {
+          "slot": "WR",
+          "id": 44851102,
+          "name": "Chris Olave",
+          "team": "NO",
+          "pos": "WR",
+          "salary": 7000,
+          "proj": 16.2,
+          "own": 16.373
+        },
+        {
+          "slot": "WR",
+          "id": 44851118,
+          "name": "Parker Washington",
+          "team": "JAX",
+          "pos": "WR",
+          "salary": 6200,
+          "proj": 14.65,
+          "own": 11.408
+        },
+        {
+          "slot": "WR",
+          "id": 44851312,
+          "name": "Laquon Treadwell",
+          "team": "IND",
+          "pos": "WR",
+          "salary": 3000,
+          "proj": 6.96,
+          "own": 6.698
+        },
+        {
+          "slot": "TE",
+          "id": 44851488,
+          "name": "Travis Kelce",
+          "team": "KC",
+          "pos": "TE",
+          "salary": 4700,
+          "proj": 11.24,
+          "own": 8.454
+        },
+        {
+          "slot": "FLEX",
+          "id": 44851490,
+          "name": "Tyler Warren",
+          "team": "IND",
+          "pos": "TE",
+          "salary": 4400,
+          "proj": 12.53,
+          "own": 16.061
+        },
+        {
+          "slot": "DST",
+          "id": 44851704,
+          "name": "Texans",
+          "team": "HOU",
+          "pos": "DST",
+          "salary": 3400,
+          "proj": 9.1,
+          "own": 9.585
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 12,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 131.74,
+      "sumOwnPred": 110.93,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44850801,
+          "name": "Tyler Shough",
+          "team": "NO",
+          "pos": "QB",
+          "salary": 5600,
+          "proj": 20.38,
+          "own": 10.469
+        },
+        {
+          "slot": "RB",
+          "id": 44850868,
+          "name": "Chuba Hubbard",
+          "team": "CAR",
+          "pos": "RB",
+          "salary": 7200,
+          "proj": 19.32,
+          "own": 20.972
+        },
+        {
+          "slot": "RB",
+          "id": 44850870,
+          "name": "Kyren Williams",
+          "team": "LAR",
+          "pos": "RB",
+          "salary": 7100,
+          "proj": 17.1,
+          "own": 8.655
+        },
+        {
+          "slot": "WR",
+          "id": 44851102,
+          "name": "Chris Olave",
+          "team": "NO",
+          "pos": "WR",
+          "salary": 7000,
+          "proj": 16.2,
+          "own": 16.373
+        },
+        {
+          "slot": "WR",
+          "id": 44851312,
+          "name": "Laquon Treadwell",
+          "team": "IND",
+          "pos": "WR",
+          "salary": 3000,
+          "proj": 6.96,
+          "own": 6.698
+        },
+        {
+          "slot": "WR",
+          "id": 44851092,
+          "name": "Jaxon Smith-Njigba",
+          "team": "SEA",
+          "pos": "WR",
+          "salary": 9300,
+          "proj": 21.67,
+          "own": 7.402
+        },
+        {
+          "slot": "TE",
+          "id": 44851490,
+          "name": "Tyler Warren",
+          "team": "IND",
+          "pos": "TE",
+          "salary": 4400,
+          "proj": 12.53,
+          "own": 16.061
+        },
+        {
+          "slot": "FLEX",
+          "id": 44851518,
+          "name": "Colby Parkinson",
+          "team": "LAR",
+          "pos": "TE",
+          "salary": 3000,
+          "proj": 8.48,
+          "own": 14.716
+        },
+        {
+          "slot": "DST",
+          "id": 44851704,
+          "name": "Texans",
+          "team": "HOU",
+          "pos": "DST",
+          "salary": 3400,
+          "proj": 9.1,
+          "own": 9.585
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 13,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 133.56,
+      "sumOwnPred": 129.01,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44850801,
+          "name": "Tyler Shough",
+          "team": "NO",
+          "pos": "QB",
+          "salary": 5600,
+          "proj": 20.38,
+          "own": 10.469
+        },
+        {
+          "slot": "RB",
+          "id": 44850860,
+          "name": "Bijan Robinson",
+          "team": "ATL",
+          "pos": "RB",
+          "salary": 8200,
+          "proj": 22.08,
+          "own": 22.564
+        },
+        {
+          "slot": "RB",
+          "id": 44850868,
+          "name": "Chuba Hubbard",
+          "team": "CAR",
+          "pos": "RB",
+          "salary": 7200,
+          "proj": 19.32,
+          "own": 20.972
+        },
+        {
+          "slot": "WR",
+          "id": 44851102,
+          "name": "Chris Olave",
+          "team": "NO",
+          "pos": "WR",
+          "salary": 7000,
+          "proj": 16.2,
+          "own": 16.373
+        },
+        {
+          "slot": "WR",
+          "id": 44851312,
+          "name": "Laquon Treadwell",
+          "team": "IND",
+          "pos": "WR",
+          "salary": 3000,
+          "proj": 6.96,
+          "own": 6.698
+        },
+        {
+          "slot": "WR",
+          "id": 44851096,
+          "name": "CeeDee Lamb",
+          "team": "DAL",
+          "pos": "WR",
+          "salary": 8800,
+          "proj": 21.69,
+          "own": 17.474
+        },
+        {
+          "slot": "TE",
+          "id": 44851502,
+          "name": "Kyle Pitts Sr.",
+          "team": "ATL",
+          "pos": "TE",
+          "salary": 3800,
+          "proj": 9.35,
+          "own": 10.155
+        },
+        {
+          "slot": "FLEX",
+          "id": 44851518,
+          "name": "Colby Parkinson",
+          "team": "LAR",
+          "pos": "TE",
+          "salary": 3000,
+          "proj": 8.48,
+          "own": 14.716
+        },
+        {
+          "slot": "DST",
+          "id": 44851704,
+          "name": "Texans",
+          "team": "HOU",
+          "pos": "DST",
+          "salary": 3400,
+          "proj": 9.1,
+          "own": 9.585
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 14,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 131.66,
+      "sumOwnPred": 108.58,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44850796,
+          "name": "Dak Prescott",
+          "team": "DAL",
+          "pos": "QB",
+          "salary": 6400,
+          "proj": 21,
+          "own": 8.669
+        },
+        {
+          "slot": "RB",
+          "id": 44850860,
+          "name": "Bijan Robinson",
+          "team": "ATL",
+          "pos": "RB",
+          "salary": 8200,
+          "proj": 22.08,
+          "own": 22.564
+        },
+        {
+          "slot": "RB",
+          "id": 44850858,
+          "name": "Christian McCaffrey",
+          "team": "SF",
+          "pos": "RB",
+          "salary": 8500,
+          "proj": 21.45,
+          "own": 13.897
+        },
+        {
+          "slot": "WR",
+          "id": 44851118,
+          "name": "Parker Washington",
+          "team": "JAX",
+          "pos": "WR",
+          "salary": 6200,
+          "proj": 14.65,
+          "own": 11.408
+        },
+        {
+          "slot": "WR",
+          "id": 44851312,
+          "name": "Laquon Treadwell",
+          "team": "IND",
+          "pos": "WR",
+          "salary": 3000,
+          "proj": 6.96,
+          "own": 6.698
+        },
+        {
+          "slot": "WR",
+          "id": 44851096,
+          "name": "CeeDee Lamb",
+          "team": "DAL",
+          "pos": "WR",
+          "salary": 8800,
+          "proj": 21.69,
+          "own": 17.474
+        },
+        {
+          "slot": "TE",
+          "id": 44851636,
+          "name": "Gavin Bartholomew",
+          "team": "MIN",
+          "pos": "TE",
+          "salary": 2500,
+          "proj": 6.25,
+          "own": 3.573
+        },
+        {
+          "slot": "FLEX",
+          "id": 44851518,
+          "name": "Colby Parkinson",
+          "team": "LAR",
+          "pos": "TE",
+          "salary": 3000,
+          "proj": 8.48,
+          "own": 14.716
+        },
+        {
+          "slot": "DST",
+          "id": 44851704,
+          "name": "Texans",
+          "team": "HOU",
+          "pos": "DST",
+          "salary": 3400,
+          "proj": 9.1,
+          "own": 9.585
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 15,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 130.67,
+      "sumOwnPred": 96.69,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44850793,
+          "name": "Brock Purdy",
+          "team": "SF",
+          "pos": "QB",
+          "salary": 7000,
+          "proj": 23.02,
+          "own": 7.442
+        },
+        {
+          "slot": "RB",
+          "id": 44850860,
+          "name": "Bijan Robinson",
+          "team": "ATL",
+          "pos": "RB",
+          "salary": 8200,
+          "proj": 22.08,
+          "own": 22.564
+        },
+        {
+          "slot": "RB",
+          "id": 44850870,
+          "name": "Kyren Williams",
+          "team": "LAR",
+          "pos": "RB",
+          "salary": 7100,
+          "proj": 17.1,
+          "own": 8.655
+        },
+        {
+          "slot": "WR",
+          "id": 44851304,
+          "name": "Chimere Dike",
+          "team": "TEN",
+          "pos": "WR",
+          "salary": 3000,
+          "proj": 6.84,
+          "own": 3.942
+        },
+        {
+          "slot": "WR",
+          "id": 44851312,
+          "name": "Laquon Treadwell",
+          "team": "IND",
+          "pos": "WR",
+          "salary": 3000,
+          "proj": 6.96,
+          "own": 6.698
+        },
+        {
+          "slot": "WR",
+          "id": 44851096,
+          "name": "CeeDee Lamb",
+          "team": "DAL",
+          "pos": "WR",
+          "salary": 8800,
+          "proj": 21.69,
+          "own": 17.474
+        },
+        {
+          "slot": "TE",
+          "id": 44851518,
+          "name": "Colby Parkinson",
+          "team": "LAR",
+          "pos": "TE",
+          "salary": 3000,
+          "proj": 8.48,
+          "own": 14.716
+        },
+        {
+          "slot": "FLEX",
+          "id": 44851480,
+          "name": "George Kittle",
+          "team": "SF",
+          "pos": "TE",
+          "salary": 6500,
+          "proj": 15.4,
+          "own": 5.611
+        },
+        {
+          "slot": "DST",
+          "id": 44851704,
+          "name": "Texans",
+          "team": "HOU",
+          "pos": "DST",
+          "salary": 3400,
+          "proj": 9.1,
+          "own": 9.585
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 16,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 132.02,
+      "sumOwnPred": 118.66,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44850801,
+          "name": "Tyler Shough",
+          "team": "NO",
+          "pos": "QB",
+          "salary": 5600,
+          "proj": 20.38,
+          "own": 10.469
+        },
+        {
+          "slot": "RB",
+          "id": 44850860,
+          "name": "Bijan Robinson",
+          "team": "ATL",
+          "pos": "RB",
+          "salary": 8200,
+          "proj": 22.08,
+          "own": 22.564
+        },
+        {
+          "slot": "RB",
+          "id": 44850868,
+          "name": "Chuba Hubbard",
+          "team": "CAR",
+          "pos": "RB",
+          "salary": 7200,
+          "proj": 19.32,
+          "own": 20.972
+        },
+        {
+          "slot": "WR",
+          "id": 44851102,
+          "name": "Chris Olave",
+          "team": "NO",
+          "pos": "WR",
+          "salary": 7000,
+          "proj": 16.2,
+          "own": 16.373
+        },
+        {
+          "slot": "WR",
+          "id": 44851304,
+          "name": "Chimere Dike",
+          "team": "TEN",
+          "pos": "WR",
+          "salary": 3000,
+          "proj": 6.84,
+          "own": 3.942
+        },
+        {
+          "slot": "WR",
+          "id": 44851092,
+          "name": "Jaxon Smith-Njigba",
+          "team": "SEA",
+          "pos": "WR",
+          "salary": 9300,
+          "proj": 21.67,
+          "own": 7.402
+        },
+        {
+          "slot": "TE",
+          "id": 44851502,
+          "name": "Kyle Pitts Sr.",
+          "team": "ATL",
+          "pos": "TE",
+          "salary": 3800,
+          "proj": 9.35,
+          "own": 10.155
+        },
+        {
+          "slot": "FLEX",
+          "id": 44851518,
+          "name": "Colby Parkinson",
+          "team": "LAR",
+          "pos": "TE",
+          "salary": 3000,
+          "proj": 8.48,
+          "own": 14.716
+        },
+        {
+          "slot": "DST",
+          "id": 44851709,
+          "name": "Packers",
+          "team": "GB",
+          "pos": "DST",
+          "salary": 2900,
+          "proj": 7.7,
+          "own": 12.071
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 17,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 131.44,
+      "sumOwnPred": 110.61,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44850801,
+          "name": "Tyler Shough",
+          "team": "NO",
+          "pos": "QB",
+          "salary": 5600,
+          "proj": 20.38,
+          "own": 10.469
+        },
+        {
+          "slot": "RB",
+          "id": 44850860,
+          "name": "Bijan Robinson",
+          "team": "ATL",
+          "pos": "RB",
+          "salary": 8200,
+          "proj": 22.08,
+          "own": 22.564
+        },
+        {
+          "slot": "RB",
+          "id": 44850868,
+          "name": "Chuba Hubbard",
+          "team": "CAR",
+          "pos": "RB",
+          "salary": 7200,
+          "proj": 19.32,
+          "own": 20.972
+        },
+        {
+          "slot": "WR",
+          "id": 44851118,
+          "name": "Parker Washington",
+          "team": "JAX",
+          "pos": "WR",
+          "salary": 6200,
+          "proj": 14.65,
+          "own": 11.408
+        },
+        {
+          "slot": "WR",
+          "id": 44851146,
+          "name": "Jordyn Tyson",
+          "team": "NO",
+          "pos": "WR",
+          "salary": 5000,
+          "proj": 10.14,
+          "own": 6.359
+        },
+        {
+          "slot": "WR",
+          "id": 44851304,
+          "name": "Chimere Dike",
+          "team": "TEN",
+          "pos": "WR",
+          "salary": 3000,
+          "proj": 6.84,
+          "own": 3.942
+        },
+        {
+          "slot": "TE",
+          "id": 44851518,
+          "name": "Colby Parkinson",
+          "team": "LAR",
+          "pos": "TE",
+          "salary": 3000,
+          "proj": 8.48,
+          "own": 14.716
+        },
+        {
+          "slot": "FLEX",
+          "id": 44850858,
+          "name": "Christian McCaffrey",
+          "team": "SF",
+          "pos": "RB",
+          "salary": 8500,
+          "proj": 21.45,
+          "own": 13.897
+        },
+        {
+          "slot": "DST",
+          "id": 44851705,
+          "name": "Seahawks",
+          "team": "SEA",
+          "pos": "DST",
+          "salary": 3300,
+          "proj": 8.1,
+          "own": 6.284
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 18,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 49900,
+      "proj": 129.61,
+      "sumOwnPred": 98.14,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44850796,
+          "name": "Dak Prescott",
+          "team": "DAL",
+          "pos": "QB",
+          "salary": 6400,
+          "proj": 21,
+          "own": 8.669
+        },
+        {
+          "slot": "RB",
+          "id": 44850860,
+          "name": "Bijan Robinson",
+          "team": "ATL",
+          "pos": "RB",
+          "salary": 8200,
+          "proj": 22.08,
+          "own": 22.564
+        },
+        {
+          "slot": "RB",
+          "id": 44850858,
+          "name": "Christian McCaffrey",
+          "team": "SF",
+          "pos": "RB",
+          "salary": 8500,
+          "proj": 21.45,
+          "own": 13.897
+        },
+        {
+          "slot": "WR",
+          "id": 44851118,
+          "name": "Parker Washington",
+          "team": "JAX",
+          "pos": "WR",
+          "salary": 6200,
+          "proj": 14.65,
+          "own": 11.408
+        },
+        {
+          "slot": "WR",
+          "id": 44851304,
+          "name": "Chimere Dike",
+          "team": "TEN",
+          "pos": "WR",
+          "salary": 3000,
+          "proj": 6.84,
+          "own": 3.942
+        },
+        {
+          "slot": "WR",
+          "id": 44851096,
+          "name": "CeeDee Lamb",
+          "team": "DAL",
+          "pos": "WR",
+          "salary": 8800,
+          "proj": 21.69,
+          "own": 17.474
+        },
+        {
+          "slot": "TE",
+          "id": 44851502,
+          "name": "Kyle Pitts Sr.",
+          "team": "ATL",
+          "pos": "TE",
+          "salary": 3800,
+          "proj": 9.35,
+          "own": 10.155
+        },
+        {
+          "slot": "FLEX",
+          "id": 44851636,
+          "name": "Gavin Bartholomew",
+          "team": "MIN",
+          "pos": "TE",
+          "salary": 2500,
+          "proj": 6.25,
+          "own": 3.573
+        },
+        {
+          "slot": "DST",
+          "id": 44851714,
+          "name": "Browns",
+          "team": "CLE",
+          "pos": "DST",
+          "salary": 2500,
+          "proj": 6.3,
+          "own": 6.458
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 19,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 127.31,
+      "sumOwnPred": 86.53,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44850798,
+          "name": "Patrick Mahomes",
+          "team": "KC",
+          "pos": "QB",
+          "salary": 6000,
+          "proj": 19.3,
+          "own": 6.272
+        },
+        {
+          "slot": "RB",
+          "id": 44850860,
+          "name": "Bijan Robinson",
+          "team": "ATL",
+          "pos": "RB",
+          "salary": 8200,
+          "proj": 22.08,
+          "own": 22.564
+        },
+        {
+          "slot": "RB",
+          "id": 44850866,
+          "name": "James Cook III",
+          "team": "BUF",
+          "pos": "RB",
+          "salary": 7400,
+          "proj": 18.38,
+          "own": 15.034
+        },
+        {
+          "slot": "WR",
+          "id": 44851118,
+          "name": "Parker Washington",
+          "team": "JAX",
+          "pos": "WR",
+          "salary": 6200,
+          "proj": 14.65,
+          "own": 11.408
+        },
+        {
+          "slot": "WR",
+          "id": 44851304,
+          "name": "Chimere Dike",
+          "team": "TEN",
+          "pos": "WR",
+          "salary": 3000,
+          "proj": 6.84,
+          "own": 3.942
+        },
+        {
+          "slot": "WR",
+          "id": 44851092,
+          "name": "Jaxon Smith-Njigba",
+          "team": "SEA",
+          "pos": "WR",
+          "salary": 9300,
+          "proj": 21.67,
+          "own": 7.402
+        },
+        {
+          "slot": "TE",
+          "id": 44851488,
+          "name": "Travis Kelce",
+          "team": "KC",
+          "pos": "TE",
+          "salary": 4700,
+          "proj": 11.24,
+          "own": 8.454
+        },
+        {
+          "slot": "FLEX",
+          "id": 44851636,
+          "name": "Gavin Bartholomew",
+          "team": "MIN",
+          "pos": "TE",
+          "salary": 2500,
+          "proj": 6.25,
+          "own": 3.573
+        },
+        {
+          "slot": "DST",
+          "id": 44851711,
+          "name": "Saints",
+          "team": "NO",
+          "pos": "DST",
+          "salary": 2700,
+          "proj": 6.9,
+          "own": 7.878
+        }
+      ]
+    },
+    {
+      "variant": "portfolio",
+      "index": 20,
+      "swapped": false,
+      "out": [],
+      "in": [],
+      "salary": 50000,
+      "proj": 126.48,
+      "sumOwnPred": 79.31,
+      "players": [
+        {
+          "slot": "QB",
+          "id": 44850794,
+          "name": "Trevor Lawrence",
+          "team": "JAX",
+          "pos": "QB",
+          "salary": 6600,
+          "proj": 20.44,
+          "own": 5.33
+        },
+        {
+          "slot": "RB",
+          "id": 44850860,
+          "name": "Bijan Robinson",
+          "team": "ATL",
+          "pos": "RB",
+          "salary": 8200,
+          "proj": 22.08,
+          "own": 22.564
+        },
+        {
+          "slot": "RB",
+          "id": 44850870,
+          "name": "Kyren Williams",
+          "team": "LAR",
+          "pos": "RB",
+          "salary": 7100,
+          "proj": 17.1,
+          "own": 8.655
+        },
+        {
+          "slot": "WR",
+          "id": 44851118,
+          "name": "Parker Washington",
+          "team": "JAX",
+          "pos": "WR",
+          "salary": 6200,
+          "proj": 14.65,
+          "own": 11.408
+        },
+        {
+          "slot": "WR",
+          "id": 44851304,
+          "name": "Chimere Dike",
+          "team": "TEN",
+          "pos": "WR",
+          "salary": 3000,
+          "proj": 6.84,
+          "own": 3.942
+        },
+        {
+          "slot": "WR",
+          "id": 44851092,
+          "name": "Jaxon Smith-Njigba",
+          "team": "SEA",
+          "pos": "WR",
+          "salary": 9300,
+          "proj": 21.67,
+          "own": 7.402
+        },
+        {
+          "slot": "TE",
+          "id": 44851502,
+          "name": "Kyle Pitts Sr.",
+          "team": "ATL",
+          "pos": "TE",
+          "salary": 3800,
+          "proj": 9.35,
+          "own": 10.155
+        },
+        {
+          "slot": "FLEX",
+          "id": 44851636,
+          "name": "Gavin Bartholomew",
+          "team": "MIN",
+          "pos": "TE",
+          "salary": 2500,
+          "proj": 6.25,
+          "own": 3.573
+        },
+        {
+          "slot": "DST",
+          "id": 44851705,
+          "name": "Seahawks",
+          "team": "SEA",
+          "pos": "DST",
+          "salary": 3300,
+          "proj": 8.1,
+          "own": 6.284
+        }
+      ]
+    }
+  ]
+}
