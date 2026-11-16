@@ -2,6 +2,55 @@
  "sport": "nba",
  "slates": [
   {
+   "slate": "156734",
+   "date": "2026-11-15",
+   "label": "NBA $80K Fadeaway [$20K to 1st]",
+   "entries": 5630,
+   "source": "live",
+   "model": "v2",
+   "predictedAt": "2026-11-15T22:45:07+00:00",
+   "lockAt": "2026-11-15T23:00:00+00:00",
+   "minutesBeforeLock": 15,
+   "n": 146,
+   "mae": 3.146,
+   "mae5": 7.734,
+   "chalkMae": 13.634,
+   "spearman": 0.8917,
+   "top10": 0.8,
+   "chalk": {
+    "n": 13,
+    "caught": 9
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Walter Clayton Jr.",
+     "pos": "ALL",
+     "team": "DAL",
+     "pred": 2.13,
+     "actual": 31.07
+    },
+    {
+     "name": "Reed Sheppard",
+     "pos": "ALL",
+     "team": "HOU",
+     "pred": 42.02,
+     "actual": 63.64
+    },
+    {
+     "name": "Naji Marshall",
+     "pos": "ALL",
+     "team": "DAL",
+     "pred": 14.71,
+     "actual": 32.75
+    }
+   ],
+   "evenSplit": {
+    "mae": 7.013,
+    "chalkMae": 28.497
+   }
+  },
+  {
    "slate": "156717",
    "date": "2026-11-14",
    "label": "NBA $150K Fadeaway [$50K to 1st]",
@@ -739,18 +788,18 @@
  ],
  "recent": {
   "slates": 10,
-  "n": 1569,
-  "mae": 3.03,
-  "mae5": 7.845,
-  "chalkMae": 15.172,
+  "n": 1658,
+  "mae": 2.923,
+  "mae5": 7.688,
+  "chalkMae": 15.056,
   "chalk": {
-   "n": 129,
-   "caught": 91
+   "n": 126,
+   "caught": 86
   },
   "falseChalk": 4,
   "evenSplit": {
-   "mae": 6.476,
-   "chalkMae": 28.32
+   "mae": 6.277,
+   "chalkMae": 28.986
   }
  }
 }
