@@ -1,0 +1,91 @@
+{
+ "sport": "nhl",
+ "slate": "156621",
+ "llm": "gpt-oss:20b",
+ "promptVersion": 1,
+ "calledAt": "2026-11-16T14:30:01+00:00",
+ "finishedAt": "2026-11-16T14:30:31+00:00",
+ "lockAt": "2026-11-17T00:30:00+00:00",
+ "minutesBeforeLock": 599,
+ "slateExportedAt": "2026-11-16T14:00:17.229297+00:00",
+ "modelCall": {
+  "model": "v2",
+  "predictedAt": "2026-11-16T14:00:18+00:00"
+ },
+ "cap": 100.0,
+ "complete": true,
+ "seconds": 29.1,
+ "asked": 30,
+ "kept": 20,
+ "echo": 15,
+ "searches": [
+  "MTL vs NYR November 16 2026 lineup injury news",
+  "VAN vs UTA November 16 2026 lineup injury news",
+  "Mikhail Sergachev injury November 2026",
+  "Utah Jazz vs Vancouver game November 16 2026 lineup"
+ ],
+ "dropped": [
+  {
+   "id": "44938058",
+   "why": "missing"
+  },
+  {
+   "id": "44937974",
+   "why": "missing"
+  },
+  {
+   "id": "44937936",
+   "why": "missing"
+  },
+  {
+   "id": "44937928",
+   "why": "missing"
+  },
+  {
+   "id": "44937942",
+   "why": "missing"
+  },
+  {
+   "id": "44938132",
+   "why": "missing"
+  },
+  {
+   "id": "44937994",
+   "why": "missing"
+  },
+  {
+   "id": "44938129",
+   "why": "missing"
+  },
+  {
+   "id": "44938060",
+   "why": "missing"
+  },
+  {
+   "id": "44937934",
+   "why": "missing"
+  }
+ ],
+ "players": {
+  "44937976": {"name": "Cole Caufield", "pos": "W", "team": "MTL", "model": 28.02, "llm": 30.0, "reason": "Caufield is a top scorer for MTL and likely to be drafted above the model."},
+  "44938131": {"name": "Joonas Korpisalo", "pos": "G", "team": "NYR", "model": 26.76, "llm": 25.0, "reason": "Korpisalo is a backup goalie with low projected usage, so ownership should be lower."},
+  "44938006": {"name": "Jonathan Lekkerimaki", "pos": "W", "team": "VAN", "model": 22.68, "llm": 23.0, "reason": "Lekkerimaki has moderate upside but not a high\u2011draft pick in this slate."},
+  "44937990": {"name": "Juraj Slafkovsky", "pos": "W", "team": "MTL", "model": 21.06, "llm": 21.0, "reason": "Slafkovsky is a solid winger for MTL but not a top draft target."},
+  "44937930": {"name": "Mika Zibanejad", "pos": "C", "team": "NYR", "model": 19.21, "llm": 20.0, "reason": "Zibanejad is a key player for NYR but still below the model due to depth at center."},
+  "44938062": {"name": "Filip Hronek", "pos": "D", "team": "VAN", "model": 18.44, "llm": 18.0, "reason": "Hronek is a role defenseman with limited upside, so ownership stays low."},
+  "44938056": {"name": "Adam Fox", "pos": "D", "team": "NYR", "model": 18.43, "llm": 19.0, "reason": "Adam Fox is a top defenseman for NYR and likely to be drafted slightly above the model."},
+  "44937998": {"name": "Anders Lee", "pos": "W", "team": "UTA", "model": 17.41, "llm": 17.0, "reason": "Anders Lee has moderate usage; ownership remains below the model."},
+  "44937988": {"name": "Jake DeBrusk", "pos": "W", "team": "VAN", "model": 15.45, "llm": 15.0, "reason": "DeBrusk is a depth winger, so ownership stays low."},
+  "44937986": {"name": "Brock Boeser", "pos": "W", "team": "VAN", "model": 15.43, "llm": 16.0, "reason": "Boeser is a key scorer for VAN but still below the model due to competition at wing."},
+  "44938066": {"name": "Noah Dobson", "pos": "D", "team": "MTL", "model": 15.21, "llm": 15.21, "reason": "Model aligns with current data"},
+  "44937938": {"name": "J.T. Miller", "pos": "C", "team": "NYR", "model": 14.99, "llm": 14.99, "reason": "No new info to adjust"},
+  "44938064": {"name": "MacKenzie Weegar", "pos": "D", "team": "UTA", "model": 13.22, "llm": 13.22, "reason": "Stable projection"},
+  "44937980": {"name": "Alexis Lafreniere", "pos": "W", "team": "NYR", "model": 12.82, "llm": 12.82, "reason": "Consistent with slate structure"},
+  "44938004": {"name": "Zack Bolduc", "pos": "W", "team": "MTL", "model": 12.11, "llm": 12.11, "reason": "Model reflects value"},
+  "44938008": {"name": "Daniil But", "pos": "W", "team": "UTA", "model": 11.56, "llm": 11.56, "reason": "No change warranted"},
+  "44937996": {"name": "Tye Kartye", "pos": "W", "team": "NYR", "model": 10.22, "llm": 10.22, "reason": "Projection solid"},
+  "44938124": {"name": "Artem Duda", "pos": "D", "team": "UTA", "model": 9.74, "llm": 9.74, "reason": "Low ownership typical for this spot"},
+  "44937940": {"name": "Filip Chytil", "pos": "C", "team": "VAN", "model": 9.47, "llm": 9.47, "reason": "Model fits current outlook"},
+  "44938086": {"name": "Zeev Buium", "pos": "D", "team": "VAN", "model": 8.96, "llm": 8.96, "reason": "No new developments"}
+ }
+}
