@@ -5,10 +5,10 @@
   "date": "2026-11-13",
   "contest": {
     "id": 281538663,
-    "label": "FD NBA 136655-281538663",
+    "label": "$175K Fri NBA Shot ($40K to 1st)",
     "entries": 30746
   },
-  "generatedAt": "2026-11-16T16:29:32.003Z",
+  "generatedAt": "2026-11-16T16:49:55.472Z",
   "winner": {
     "rank": 1,
     "name": "sroberto (32/50)",
@@ -303,7 +303,23 @@
         "own": 42.92
       }
     ],
-    "money": null
+    "money": {
+      "fee": 6,
+      "one": {
+        "won": 10,
+        "net": 4
+      },
+      "oneDefaults": {
+        "won": 10,
+        "net": 4
+      },
+      "portfolio": {
+        "n": 3,
+        "won": 30,
+        "net": 12,
+        "cashed": 3
+      }
+    }
   },
   "stacks": {
     "winner": {
