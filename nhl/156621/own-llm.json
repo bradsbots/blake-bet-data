@@ -3,89 +3,58 @@
  "slate": "156621",
  "llm": "gpt-oss:20b",
  "promptVersion": 1,
- "calledAt": "2026-11-16T20:45:02+00:00",
- "finishedAt": "2026-11-16T20:45:27+00:00",
+ "calledAt": "2026-11-16T23:00:02+00:00",
+ "finishedAt": "2026-11-16T23:00:37+00:00",
  "lockAt": "2026-11-17T00:30:00+00:00",
- "minutesBeforeLock": 225,
- "slateExportedAt": "2026-11-16T20:00:31.063982+00:00",
+ "minutesBeforeLock": 89,
+ "slateExportedAt": "2026-11-16T22:00:27.406742+00:00",
  "modelCall": {
   "model": "v2",
-  "predictedAt": "2026-11-16T20:00:32+00:00"
+  "predictedAt": "2026-11-16T22:00:28+00:00"
  },
  "cap": 100.0,
  "complete": true,
- "seconds": 25.0,
+ "seconds": 35.4,
  "asked": 30,
- "kept": 20,
- "echo": 17,
+ "kept": 30,
+ "echo": 30,
  "searches": [
-  "MTL vs NYR November 16 2026 lineup injuries DraftKings ownership",
-  "Vancouver vs UTA November 16 2026 lineup injuries DraftKings ownership",
-  "DraftKings ownership Mikhail Sergachev November 16 2026",
-  "Montreal Canadiens vs New York Rangers November 16 2026 lineup injuries"
+  "MTL vs NYR November 16 2026 lineup injury news",
+  "NYR vs MTL November 16 2026 lineup injury news",
+  "Adam Fox injury November 2026",
+  "Vincent Trocheck injury November 2026"
  ],
- "dropped": [
-  {
-   "id": "44938058",
-   "why": "missing"
-  },
-  {
-   "id": "44937974",
-   "why": "missing"
-  },
-  {
-   "id": "44937936",
-   "why": "missing"
-  },
-  {
-   "id": "44937942",
-   "why": "missing"
-  },
-  {
-   "id": "44937928",
-   "why": "missing"
-  },
-  {
-   "id": "44937994",
-   "why": "missing"
-  },
-  {
-   "id": "44938132",
-   "why": "missing"
-  },
-  {
-   "id": "44937934",
-   "why": "missing"
-  },
-  {
-   "id": "44938060",
-   "why": "missing"
-  },
-  {
-   "id": "44937976",
-   "why": "missing"
-  }
- ],
+ "dropped": [],
  "players": {
-  "44938131": {"name": "Joonas Korpisalo", "pos": "G", "team": "NYR", "model": 26.38, "llm": 26.4, "reason": "Model aligns with current injury outlook"},
-  "44938128": {"name": "Karel Vejmelka", "pos": "G", "team": "UTA", "model": 23.66, "llm": 23.7, "reason": "Stable goalie status, no change"},
-  "44938006": {"name": "Jonathan Lekkerimaki", "pos": "W", "team": "VAN", "model": 23.24, "llm": 23.2, "reason": "Projected high usage but no lineup shifts"},
-  "44937990": {"name": "Juraj Slafkovsky", "pos": "W", "team": "MTL", "model": 20.96, "llm": 21.0, "reason": "Consistent role, no news to alter ownership"},
-  "44937930": {"name": "Mika Zibanejad", "pos": "C", "team": "NYR", "model": 19.82, "llm": 20.0, "reason": "Strong projection but still below 100% threshold"},
-  "44938056": {"name": "Adam Fox", "pos": "D", "team": "NYR", "model": 18.39, "llm": 18.5, "reason": "Defensive upside remains steady"},
-  "44937998": {"name": "Anders Lee", "pos": "W", "team": "UTA", "model": 17.9, "llm": 17.9, "reason": "No recent injury updates"},
-  "44938062": {"name": "Filip Hronek", "pos": "D", "team": "VAN", "model": 17.82, "llm": 17.8, "reason": "Model reflects current defensive role"},
-  "44937988": {"name": "Jake DeBrusk", "pos": "W", "team": "VAN", "model": 15.83, "llm": 15.8, "reason": "Low projected points, ownership unlikely to rise"},
-  "44937986": {"name": "Brock Boeser", "pos": "W", "team": "VAN", "model": 15.8, "llm": 16.0, "reason": "High upside but still below 100%"},
-  "44937938": {"name": "J.T. Miller", "pos": "C", "team": "NYR", "model": 15.45, "llm": 16.0, "reason": "tight game, slight bump"},
-  "44938066": {"name": "Noah Dobson", "pos": "D", "team": "MTL", "model": 14.36, "llm": 14.0, "reason": "stable defense"},
-  "44937980": {"name": "Alexis Lafreniere", "pos": "W", "team": "NYR", "model": 13.59, "llm": 13.0, "reason": "no lineup change"},
-  "44938064": {"name": "MacKenzie Weegar", "pos": "D", "team": "UTA", "model": 12.81, "llm": 13.0, "reason": "solid UTA defense"},
-  "44938084": {"name": "Zac Jones", "pos": "D", "team": "UTA", "model": 12.53, "llm": 12.0, "reason": "high upside"},
-  "44949650": {"name": "Nikita Tolopilo", "pos": "G", "team": "VAN", "model": 12.18, "llm": 12.0, "reason": "goalie likely"},
-  "44938004": {"name": "Zack Bolduc", "pos": "W", "team": "MTL", "model": 12.0, "llm": 12.0, "reason": "consistent starter"},
-  "44937996": {"name": "Tye Kartye", "pos": "W", "team": "NYR", "model": 10.82, "llm": 11.0, "reason": "stable lineup"},
-  "44937940": {"name": "Filip Chytil", "pos": "C", "team": "VAN", "model": 9.47, "llm": 9.0, "reason": "no news"},
-  "44937982": {"name": "Pavel Dorofeyev", "pos": "W", "team": "NYR", "model": 9.27, "llm": 9.0, "reason": "unchanged"}
+  "44938058": {"name": "Mikhail Sergachev", "pos": "D", "team": "UTA", "model": 60.85, "llm": 60.85, "reason": "No injury or lineup change"},
+  "44937974": {"name": "Clayton Keller", "pos": "W", "team": "UTA", "model": 51.32, "llm": 51.32, "reason": "Stable usage on top line"},
+  "44937936": {"name": "Vincent Trocheck", "pos": "C", "team": "UTA", "model": 45.93, "llm": 45.93, "reason": "Consistent power\u2011play role"},
+  "44937942": {"name": "Barrett Hayton", "pos": "C", "team": "UTA", "model": 35.74, "llm": 35.74, "reason": "Solid top\u2011line center spot"},
+  "44937928": {"name": "Nick Suzuki", "pos": "C", "team": "MTL", "model": 35.21, "llm": 35.21, "reason": "Leading scorer expected to start"},
+  "44937994": {"name": "Kailer Yamamoto", "pos": "W", "team": "UTA", "model": 34.1, "llm": 34.1, "reason": "High\u2011usage winger on UTA"},
+  "44938132": {"name": "Jacob Fowler", "pos": "G", "team": "MTL", "model": 32.79, "llm": 32.79, "reason": "Confirmed starter, no injury"},
+  "44937934": {"name": "Elias Pettersson", "pos": "C", "team": "VAN", "model": 28.48, "llm": 28.48, "reason": "Top center with power\u2011play role"},
+  "44938060": {"name": "Lane Hutson", "pos": "D", "team": "MTL", "model": 28.39, "llm": 28.39, "reason": "Key defenseman in top line"},
+  "44937976": {"name": "Cole Caufield", "pos": "W", "team": "MTL", "model": 27.91, "llm": 27.91, "reason": "High\u2011usage winger on MTL"},
+  "44938131": {"name": "Joonas Korpisalo", "pos": "G", "team": "NYR", "model": 26.42, "llm": 26.4, "reason": "No change"},
+  "44938128": {"name": "Karel Vejmelka", "pos": "G", "team": "UTA", "model": 23.73, "llm": 23.7, "reason": "Stable lineup"},
+  "44938006": {"name": "Jonathan Lekkerimaki", "pos": "W", "team": "VAN", "model": 23.23, "llm": 23.2, "reason": "Consistent usage"},
+  "44937990": {"name": "Juraj Slafkovsky", "pos": "W", "team": "MTL", "model": 20.97, "llm": 21.0, "reason": "High usage maintained"},
+  "44937930": {"name": "Mika Zibanejad", "pos": "C", "team": "NYR", "model": 19.83, "llm": 19.8, "reason": "Projected role unchanged"},
+  "44938056": {"name": "Adam Fox", "pos": "D", "team": "NYR", "model": 18.41, "llm": 18.4, "reason": "Top defense spot secure"},
+  "44937998": {"name": "Anders Lee", "pos": "W", "team": "UTA", "model": 17.9, "llm": 17.9, "reason": "No lineup shift"},
+  "44938062": {"name": "Filip Hronek", "pos": "D", "team": "VAN", "model": 17.81, "llm": 17.8, "reason": "Defensive role stable"},
+  "44937988": {"name": "Jake DeBrusk", "pos": "W", "team": "VAN", "model": 15.82, "llm": 15.8, "reason": "Usage unchanged"},
+  "44937986": {"name": "Brock Boeser", "pos": "W", "team": "VAN", "model": 15.8, "llm": 15.8, "reason": "Power\u2011play role confirmed"},
+  "44937938": {"name": "J.T. Miller", "pos": "C", "team": "NYR", "model": 15.46, "llm": 15.46, "reason": "No injury or lineup change"},
+  "44938066": {"name": "Noah Dobson", "pos": "D", "team": "MTL", "model": 14.37, "llm": 14.37, "reason": "Stable defense role"},
+  "44937980": {"name": "Alexis Lafreniere", "pos": "W", "team": "NYR", "model": 13.6, "llm": 13.6, "reason": "Consistent top\u2011line winger"},
+  "44938064": {"name": "MacKenzie Weegar", "pos": "D", "team": "UTA", "model": 12.81, "llm": 12.81, "reason": "High usage on UTA line"},
+  "44938084": {"name": "Zac Jones", "pos": "D", "team": "UTA", "model": 12.53, "llm": 12.53, "reason": "Solid defensive presence"},
+  "44949650": {"name": "Nikita Tolopilo", "pos": "G", "team": "VAN", "model": 12.16, "llm": 12.16, "reason": "Starter goalie, no concerns"},
+  "44938004": {"name": "Zack Bolduc", "pos": "W", "team": "MTL", "model": 12.01, "llm": 12.01, "reason": "Regular winger, stable role"},
+  "44937996": {"name": "Tye Kartye", "pos": "W", "team": "NYR", "model": 10.83, "llm": 10.83, "reason": "High usage but limited upside"},
+  "44937940": {"name": "Filip Chytil", "pos": "C", "team": "VAN", "model": 9.46, "llm": 9.46, "reason": "Solid center, moderate ownership"},
+  "44937982": {"name": "Pavel Dorofeyev", "pos": "W", "team": "NYR", "model": 9.28, "llm": 9.28, "reason": "Consistent top\u2011line forward"}
  }
 }
