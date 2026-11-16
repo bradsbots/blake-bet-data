@@ -2,6 +2,55 @@
  "sport": "nfl",
  "slates": [
   {
+   "slate": "156416",
+   "date": "2026-11-15",
+   "label": "NFL $2.5M Fantasy Football Millionaire [$1M to 1st]",
+   "entries": 147058,
+   "source": "live",
+   "model": "v2",
+   "predictedAt": "2026-11-15T17:30:47+00:00",
+   "lockAt": "2026-11-15T18:00:00+00:00",
+   "minutesBeforeLock": 29,
+   "n": 411,
+   "mae": 0.987,
+   "mae5": 4.032,
+   "chalkMae": 10.546,
+   "spearman": 0.8882,
+   "top10": 0.6,
+   "chalk": {
+    "n": 8,
+    "caught": 3
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Christian McCaffrey",
+     "pos": "RB",
+     "team": "SF",
+     "pred": 12.62,
+     "actual": 30.84
+    },
+    {
+     "name": "Emmett Johnson",
+     "pos": "RB",
+     "team": "KC",
+     "pred": 50.0,
+     "actual": 64.78
+    },
+    {
+     "name": "Chris Olave",
+     "pos": "WR",
+     "team": "NO",
+     "pred": 11.97,
+     "actual": 24.67
+    }
+   ],
+   "evenSplit": {
+    "mae": 3.021,
+    "chalkMae": 30.043
+   }
+  },
+  {
    "slate": "155994",
    "date": "2026-11-08",
    "label": "NFL $2.5M Fantasy Football Millionaire [$1M to 1st]",
@@ -199,19 +248,19 @@
   }
  ],
  "recent": {
-  "slates": 4,
-  "n": 1766,
-  "mae": 1.077,
-  "mae5": 4.771,
-  "chalkMae": 11.036,
+  "slates": 5,
+  "n": 2177,
+  "mae": 1.06,
+  "mae5": 4.626,
+  "chalkMae": 10.947,
   "chalk": {
-   "n": 36,
-   "caught": 19
+   "n": 44,
+   "caught": 22
   },
   "falseChalk": 1,
   "evenSplit": {
-   "mae": 2.861,
-   "chalkMae": 24.807
+   "mae": 2.892,
+   "chalkMae": 25.759
   }
  }
 }
