@@ -1,0 +1,352 @@
+{
+  "sport": "nba",
+  "slate": "156734",
+  "date": "2026-11-15",
+  "contest": {
+    "id": 197828368,
+    "label": "NBA $80K Fadeaway [$20K to 1st]",
+    "entries": 5630
+  },
+  "generatedAt": "2026-11-16T09:40:16.166Z",
+  "winner": {
+    "rank": 1,
+    "name": "ruff_endz14 (6/11)",
+    "points": 322,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44934900,
+        "name": "Amen Thompson",
+        "team": "HOU",
+        "pos": "PG",
+        "salary": 6900,
+        "fpts": 49.25,
+        "own": 36.11
+      },
+      {
+        "slot": "SG",
+        "id": 44935065,
+        "name": "Reed Sheppard",
+        "team": "HOU",
+        "pos": "SG",
+        "salary": 4500,
+        "fpts": 26.25,
+        "own": 63.64
+      },
+      {
+        "slot": "SF",
+        "id": 44935174,
+        "name": "Caleb Martin",
+        "team": "DAL",
+        "pos": "SG",
+        "salary": 3600,
+        "fpts": 31.25,
+        "own": 19.45
+      },
+      {
+        "slot": "PF",
+        "id": 44934848,
+        "name": "Karl-Anthony Towns",
+        "team": "NYK",
+        "pos": "PF",
+        "salary": 9100,
+        "fpts": 56.75,
+        "own": 18.03
+      },
+      {
+        "slot": "C",
+        "id": 44934961,
+        "name": "Alexandre Sarr",
+        "team": "WAS",
+        "pos": "C",
+        "salary": 5800,
+        "fpts": 46.25,
+        "own": 3.19
+      },
+      {
+        "slot": "G",
+        "id": 44934980,
+        "name": "CJ McCollum",
+        "team": "ATL",
+        "pos": "PG",
+        "salary": 5500,
+        "fpts": 36.5,
+        "own": 44.81
+      },
+      {
+        "slot": "F",
+        "id": 44934881,
+        "name": "Kevin Durant",
+        "team": "HOU",
+        "pos": "SF",
+        "salary": 7500,
+        "fpts": 39.5,
+        "own": 33.23
+      },
+      {
+        "slot": "UTIL",
+        "id": 44934891,
+        "name": "Nickeil Alexander-Walker",
+        "team": "ATL",
+        "pos": "PG",
+        "salary": 7100,
+        "fpts": 36.25,
+        "own": 15.03
+      }
+    ]
+  },
+  "optimal": {
+    "points": 369,
+    "salary": 49800,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44934863,
+        "name": "Jalen Brunson",
+        "team": "NYK",
+        "pos": "PG",
+        "salary": 8400,
+        "fpts": 45.25,
+        "own": 11.81
+      },
+      {
+        "slot": "SG",
+        "id": 44934900,
+        "name": "Amen Thompson",
+        "team": "HOU",
+        "pos": "PG",
+        "salary": 6900,
+        "fpts": 49.25,
+        "own": 36.11
+      },
+      {
+        "slot": "SF",
+        "id": 44934858,
+        "name": "Scottie Barnes",
+        "team": "TOR",
+        "pos": "PG",
+        "salary": 8800,
+        "fpts": 55.25,
+        "own": 2.89
+      },
+      {
+        "slot": "PF",
+        "id": 44934848,
+        "name": "Karl-Anthony Towns",
+        "team": "NYK",
+        "pos": "PF",
+        "salary": 9100,
+        "fpts": 56.75,
+        "own": 18.03
+      },
+      {
+        "slot": "C",
+        "id": 44934961,
+        "name": "Alexandre Sarr",
+        "team": "WAS",
+        "pos": "C",
+        "salary": 5800,
+        "fpts": 46.25,
+        "own": 3.19
+      },
+      {
+        "slot": "G",
+        "id": 44935179,
+        "name": "Kasparas Jakucionis",
+        "team": "MIL",
+        "pos": "PG",
+        "salary": 3500,
+        "fpts": 45.75,
+        "own": 3.13
+      },
+      {
+        "slot": "F",
+        "id": 44935203,
+        "name": "Leaky Black",
+        "team": "SAC",
+        "pos": "SF",
+        "salary": 3400,
+        "fpts": 37.25,
+        "own": 1.93
+      },
+      {
+        "slot": "UTIL",
+        "id": 44935127,
+        "name": "Malik Monk",
+        "team": "SAC",
+        "pos": "PG",
+        "salary": 3900,
+        "fpts": 33.25,
+        "own": 4.48
+      }
+    ],
+    "assumedZero": 53
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 895,
+    "pctile": 83.71,
+    "points": 264,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44934900,
+        "name": "Amen Thompson",
+        "team": "HOU",
+        "pos": "PG",
+        "salary": 6900,
+        "fpts": 49.25,
+        "own": 36.11
+      },
+      {
+        "slot": "SG",
+        "id": 44935065,
+        "name": "Reed Sheppard",
+        "team": "HOU",
+        "pos": "SG",
+        "salary": 4500,
+        "fpts": 26.25,
+        "own": 63.64
+      },
+      {
+        "slot": "SF",
+        "id": 44934881,
+        "name": "Kevin Durant",
+        "team": "HOU",
+        "pos": "SF",
+        "salary": 7500,
+        "fpts": 39.5,
+        "own": 33.23
+      },
+      {
+        "slot": "PF",
+        "id": 44935003,
+        "name": "Tari Eason",
+        "team": "HOU",
+        "pos": "SF",
+        "salary": 5300,
+        "fpts": 36.25,
+        "own": 16.76
+      },
+      {
+        "slot": "C",
+        "id": 44935040,
+        "name": "Myles Turner",
+        "team": "MIL",
+        "pos": "C",
+        "salary": 4800,
+        "fpts": 20.75,
+        "own": 37.27
+      },
+      {
+        "slot": "G",
+        "id": 44934980,
+        "name": "CJ McCollum",
+        "team": "ATL",
+        "pos": "PG",
+        "salary": 5500,
+        "fpts": 36.5,
+        "own": 44.81
+      },
+      {
+        "slot": "F",
+        "id": 44934954,
+        "name": "Jaime Jaquez Jr.",
+        "team": "MIL",
+        "pos": "SF",
+        "salary": 5900,
+        "fpts": 20.75,
+        "own": 20.29
+      },
+      {
+        "slot": "UTIL",
+        "id": 44934838,
+        "name": "Jalen Johnson",
+        "team": "ATL",
+        "pos": "PF",
+        "salary": 9600,
+        "fpts": 34.75,
+        "own": 35.11
+      }
+    ],
+    "money": {
+      "fee": 15,
+      "one": {
+        "won": 25,
+        "net": 10
+      },
+      "oneDefaults": {
+        "won": 25,
+        "net": 10
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 80,
+        "net": -220,
+        "cashed": 3
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "HOU": 3,
+        "ATL": 2,
+        "DAL": 1,
+        "NYK": 1,
+        "WAS": 1
+      },
+      "games": {
+        "HOU@WAS": 4,
+        "ATL@MIL": 2,
+        "DAL@BOS": 1,
+        "NYK@TOR": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "HOU 3 · ATL 2",
+        "4 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "NYK": 2,
+        "SAC": 2,
+        "HOU": 1,
+        "MIL": 1,
+        "TOR": 1,
+        "WAS": 1
+      },
+      "games": {
+        "NYK@TOR": 3,
+        "HOU@WAS": 2,
+        "OKC@SAC": 2,
+        "ATL@MIL": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "NYK 2 · SAC 2",
+        "4 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "HOU": 4,
+        "ATL": 2,
+        "MIL": 2
+      },
+      "games": {
+        "ATL@MIL": 4,
+        "HOU@WAS": 4
+      },
+      "nGames": 2,
+      "summary": [
+        "HOU 4 · ATL 2 · MIL 2",
+        "2 games"
+      ]
+    }
+  }
+}
