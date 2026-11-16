@@ -1,0 +1,425 @@
+{
+  "sport": "nhl",
+  "site": "fd",
+  "slate": "136705",
+  "date": "2026-11-15",
+  "contest": {
+    "id": 281560731,
+    "label": "$5K Sun NHL Breakaway ($1K to 1st)",
+    "entries": 1340
+  },
+  "generatedAt": "2026-11-16T16:29:40.465Z",
+  "winner": {
+    "rank": 1,
+    "name": "lmfaoyourface (27/40)",
+    "points": 204.2,
+    "salary": 54900,
+    "players": [
+      {
+        "slot": "C",
+        "id": 232795,
+        "name": "Michael Misa",
+        "team": "SJS",
+        "pos": "C",
+        "salary": 4700,
+        "fpts": 14.4,
+        "own": 2.54
+      },
+      {
+        "slot": "C",
+        "id": 204627,
+        "name": "Macklin Celebrini",
+        "team": "SJS",
+        "pos": "C",
+        "salary": 7700,
+        "fpts": 36,
+        "own": 21.87
+      },
+      {
+        "slot": "W",
+        "id": 58331,
+        "name": "Leon Draisaitl",
+        "team": "EDM",
+        "pos": "W",
+        "salary": 8400,
+        "fpts": 40.5,
+        "own": 16.04
+      },
+      {
+        "slot": "W",
+        "id": 250029,
+        "name": "Ivar Stenberg",
+        "team": "SJS",
+        "pos": "W",
+        "salary": 4900,
+        "fpts": 24.8,
+        "own": 12.46
+      },
+      {
+        "slot": "D",
+        "id": 97129,
+        "name": "Evan Bouchard",
+        "team": "EDM",
+        "pos": "D",
+        "salary": 7400,
+        "fpts": 19.7,
+        "own": 14.25
+      },
+      {
+        "slot": "D",
+        "id": 60674,
+        "name": "Gustav Forsling",
+        "team": "FLA",
+        "pos": "D",
+        "salary": 4000,
+        "fpts": 0,
+        "own": 4.78
+      },
+      {
+        "slot": "UTIL",
+        "id": 202257,
+        "name": "Will Smith",
+        "team": "SJS",
+        "pos": "W",
+        "salary": 6100,
+        "fpts": 32.8,
+        "own": 7.69
+      },
+      {
+        "slot": "UTIL",
+        "id": 147520,
+        "name": "Mavrik Bourque",
+        "team": "NSH",
+        "pos": "C",
+        "salary": 4100,
+        "fpts": 4.8,
+        "own": 34.48
+      },
+      {
+        "slot": "G",
+        "id": 42868,
+        "name": "Tristan Jarry",
+        "team": "EDM",
+        "pos": "G",
+        "salary": 7600,
+        "fpts": 31.2,
+        "own": 13.66
+      }
+    ]
+  },
+  "optimal": {
+    "points": 262.9,
+    "salary": 54700,
+    "players": [
+      {
+        "slot": "C",
+        "id": 9189,
+        "name": "Mikael Backlund",
+        "team": "CGY",
+        "pos": "C",
+        "salary": 4600,
+        "fpts": 20,
+        "own": 5.67
+      },
+      {
+        "slot": "C",
+        "id": 204627,
+        "name": "Macklin Celebrini",
+        "team": "SJS",
+        "pos": "C",
+        "salary": 7700,
+        "fpts": 36,
+        "own": 21.87
+      },
+      {
+        "slot": "W",
+        "id": 202257,
+        "name": "Will Smith",
+        "team": "SJS",
+        "pos": "W",
+        "salary": 6100,
+        "fpts": 32.8,
+        "own": 7.69
+      },
+      {
+        "slot": "W",
+        "id": 204508,
+        "name": "Beckett Sennecke",
+        "team": "ANA",
+        "pos": "W",
+        "salary": 7300,
+        "fpts": 38.4,
+        "own": 6.04
+      },
+      {
+        "slot": "D",
+        "id": 74014,
+        "name": "Dylan Coghlan",
+        "team": "VGK",
+        "pos": "D",
+        "salary": 3700,
+        "fpts": 14.4,
+        "own": 1.42
+      },
+      {
+        "slot": "D",
+        "id": 138806,
+        "name": "Ryan Shea",
+        "team": "EDM",
+        "pos": "D",
+        "salary": 4200,
+        "fpts": 14.4,
+        "own": 0.97
+      },
+      {
+        "slot": "UTIL",
+        "id": 58331,
+        "name": "Leon Draisaitl",
+        "team": "EDM",
+        "pos": "W",
+        "salary": 8400,
+        "fpts": 40.5,
+        "own": 16.04
+      },
+      {
+        "slot": "UTIL",
+        "id": 102690,
+        "name": "Linus Karlsson",
+        "team": "VAN",
+        "pos": "W",
+        "salary": 5100,
+        "fpts": 35.2,
+        "own": 0.37
+      },
+      {
+        "slot": "G",
+        "id": 42868,
+        "name": "Tristan Jarry",
+        "team": "EDM",
+        "pos": "G",
+        "salary": 7600,
+        "fpts": 31.2,
+        "own": 13.66
+      }
+    ],
+    "assumedZero": 37
+  },
+  "paper": {
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 665,
+    "pctile": 50.3,
+    "points": 109.6,
+    "salary": 54900,
+    "players": [
+      {
+        "slot": "C",
+        "id": 161910,
+        "name": "Wyatt Johnston",
+        "team": "DAL",
+        "pos": "C",
+        "salary": 6300,
+        "fpts": 16.8,
+        "own": 14.48
+      },
+      {
+        "slot": "C",
+        "id": 189783,
+        "name": "Leo Carlsson",
+        "team": "ANA",
+        "pos": "C",
+        "salary": 7200,
+        "fpts": 4.8,
+        "own": 10.82
+      },
+      {
+        "slot": "W",
+        "id": 8640,
+        "name": "David Perron",
+        "team": "DAL",
+        "pos": "W",
+        "salary": 3200,
+        "fpts": 0,
+        "own": 1.19
+      },
+      {
+        "slot": "W",
+        "id": 198700,
+        "name": "Cutter Gauthier",
+        "team": "ANA",
+        "pos": "W",
+        "salary": 8000,
+        "fpts": 20,
+        "own": 19.25
+      },
+      {
+        "slot": "D",
+        "id": 116900,
+        "name": "Thomas Harley",
+        "team": "DAL",
+        "pos": "D",
+        "salary": 5900,
+        "fpts": 16,
+        "own": 18.51
+      },
+      {
+        "slot": "D",
+        "id": 180226,
+        "name": "Tristan Luneau",
+        "team": "ANA",
+        "pos": "D",
+        "salary": 5600,
+        "fpts": 6.4,
+        "own": 1.34
+      },
+      {
+        "slot": "UTIL",
+        "id": 80286,
+        "name": "Roope Hintz",
+        "team": "DAL",
+        "pos": "C",
+        "salary": 5900,
+        "fpts": 8,
+        "own": 9.03
+      },
+      {
+        "slot": "UTIL",
+        "id": 152882,
+        "name": "Anton Lundell",
+        "team": "FLA",
+        "pos": "C",
+        "salary": 5200,
+        "fpts": 6.4,
+        "own": 6.64
+      },
+      {
+        "slot": "G",
+        "id": 42868,
+        "name": "Tristan Jarry",
+        "team": "EDM",
+        "pos": "G",
+        "salary": 7600,
+        "fpts": 31.2,
+        "own": 13.66
+      }
+    ],
+    "money": {
+      "fee": 4.44,
+      "one": {
+        "won": 0,
+        "net": -4.44
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -4.44
+      },
+      "portfolio": {
+        "n": 6,
+        "won": 19,
+        "net": -7.64,
+        "cashed": 2
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "SJS": 4,
+        "EDM": 3,
+        "FLA": 1,
+        "NSH": 1
+      },
+      "games": {
+        "NSH@SJS": 5,
+        "EDM@PHI": 3,
+        "FLA@DAL": 1
+      },
+      "nGames": 3,
+      "lines": {
+        "SJS f1": 3
+      },
+      "pp": {
+        "EDM pp1": 2,
+        "SJS pp1": 2,
+        "SJS pp2": 2
+      },
+      "goalie": {
+        "team": "EDM",
+        "opposing": 0
+      },
+      "summary": [
+        "SJS 4 · EDM 3",
+        "SJS f1 ×3",
+        "EDM pp1 ×2",
+        "SJS pp1 ×2",
+        "SJS pp2 ×2",
+        "G EDM",
+        "3 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "EDM": 3,
+        "SJS": 2,
+        "ANA": 1,
+        "CGY": 1,
+        "VAN": 1,
+        "VGK": 1
+      },
+      "games": {
+        "EDM@PHI": 3,
+        "CGY@ANA": 2,
+        "NSH@SJS": 2,
+        "VAN@VGK": 2
+      },
+      "nGames": 4,
+      "lines": {
+        "SJS f1": 2
+      },
+      "pp": {},
+      "goalie": {
+        "team": "EDM",
+        "opposing": 0
+      },
+      "summary": [
+        "EDM 3 · SJS 2",
+        "SJS f1 ×2",
+        "G EDM",
+        "4 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "DAL": 4,
+        "ANA": 3,
+        "EDM": 1,
+        "FLA": 1
+      },
+      "games": {
+        "FLA@DAL": 5,
+        "CGY@ANA": 3,
+        "EDM@PHI": 1
+      },
+      "nGames": 3,
+      "lines": {
+        "ANA f1": 2
+      },
+      "pp": {
+        "DAL pp1": 3,
+        "ANA pp1": 2
+      },
+      "goalie": {
+        "team": "EDM",
+        "opposing": 0
+      },
+      "summary": [
+        "DAL 4 · ANA 3",
+        "ANA f1 ×2",
+        "DAL pp1 ×3",
+        "ANA pp1 ×2",
+        "G EDM",
+        "3 games"
+      ]
+    }
+  }
+}
