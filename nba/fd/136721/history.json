@@ -1,0 +1,387 @@
+{
+  "sport": "nba",
+  "site": "fd",
+  "slate": "136721",
+  "date": "2026-11-15",
+  "contest": {
+    "id": 281563857,
+    "label": "$40K Sun NBA Shot ($10K to 1st)",
+    "entries": 5169
+  },
+  "generatedAt": "2026-11-16T16:29:48.689Z",
+  "winner": {
+    "rank": 1,
+    "name": "flip262 (1/1)",
+    "points": 390.5,
+    "salary": 59700,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 203723,
+        "name": "Stephon Castle",
+        "team": "SAS",
+        "pos": "SG/PG",
+        "salary": 6400,
+        "fpts": 48.3,
+        "own": 33.51
+      },
+      {
+        "slot": "SG",
+        "id": 113267,
+        "name": "Caleb Martin",
+        "team": "DAL",
+        "pos": "SG",
+        "salary": 3700,
+        "fpts": 30.5,
+        "own": 2.32
+      },
+      {
+        "slot": "SF",
+        "id": 228126,
+        "name": "Dylan Harper",
+        "team": "SAS",
+        "pos": "SG/SF",
+        "salary": 6500,
+        "fpts": 47.8,
+        "own": 29.56
+      },
+      {
+        "slot": "PF",
+        "id": 171769,
+        "name": "Tari Eason",
+        "team": "HOU",
+        "pos": "PF/SF",
+        "salary": 5200,
+        "fpts": 33.9,
+        "own": 6.29
+      },
+      {
+        "slot": "C",
+        "id": 188414,
+        "name": "Victor Wembanyama",
+        "team": "SAS",
+        "pos": "C",
+        "salary": 12400,
+        "fpts": 63,
+        "own": 32.87
+      },
+      {
+        "slot": "G/F",
+        "id": 84690,
+        "name": "Jalen Brunson",
+        "team": "NYK",
+        "pos": "PG",
+        "salary": 8100,
+        "fpts": 43.7,
+        "own": 12.96
+      },
+      {
+        "slot": "F/C",
+        "id": 84675,
+        "name": "Mo Bamba",
+        "team": "UTA",
+        "pos": "C",
+        "salary": 4600,
+        "fpts": 46,
+        "own": 13.74
+      },
+      {
+        "slot": "UTIL",
+        "id": 188413,
+        "name": "Brice Sensabaugh",
+        "team": "UTA",
+        "pos": "SF",
+        "salary": 4000,
+        "fpts": 25.4,
+        "own": 0.81
+      },
+      {
+        "slot": "UTIL",
+        "id": 58462,
+        "name": "Karl-Anthony Towns",
+        "team": "NYK",
+        "pos": "C",
+        "salary": 8800,
+        "fpts": 51.9,
+        "own": 22.21
+      }
+    ]
+  },
+  "optimal": {
+    "points": 439.9,
+    "salary": 58700,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 203723,
+        "name": "Stephon Castle",
+        "team": "SAS",
+        "pos": "SG/PG",
+        "salary": 6400,
+        "fpts": 48.3,
+        "own": 33.51
+      },
+      {
+        "slot": "SG",
+        "id": 228114,
+        "name": "Kasparas Jakucionis",
+        "team": "MIL",
+        "pos": "SG/PG",
+        "salary": 3600,
+        "fpts": 45.5,
+        "own": 0.08
+      },
+      {
+        "slot": "SF",
+        "id": 228126,
+        "name": "Dylan Harper",
+        "team": "SAS",
+        "pos": "SG/SF",
+        "salary": 6500,
+        "fpts": 47.8,
+        "own": 29.56
+      },
+      {
+        "slot": "PF",
+        "id": 203764,
+        "name": "Alex Sarr",
+        "team": "WAS",
+        "pos": "C/PF",
+        "salary": 5800,
+        "fpts": 46.8,
+        "own": 3.37
+      },
+      {
+        "slot": "C",
+        "id": 188414,
+        "name": "Victor Wembanyama",
+        "team": "SAS",
+        "pos": "C",
+        "salary": 12400,
+        "fpts": 63,
+        "own": 32.87
+      },
+      {
+        "slot": "G/F",
+        "id": 188405,
+        "name": "Amen Thompson",
+        "team": "HOU",
+        "pos": "SG/PG",
+        "salary": 6700,
+        "fpts": 47.9,
+        "own": 47.55
+      },
+      {
+        "slot": "F/C",
+        "id": 190094,
+        "name": "Leaky Black",
+        "team": "SAC",
+        "pos": "SF",
+        "salary": 3700,
+        "fpts": 38.8,
+        "own": 0.29
+      },
+      {
+        "slot": "UTIL",
+        "id": 84675,
+        "name": "Mo Bamba",
+        "team": "UTA",
+        "pos": "C",
+        "salary": 4600,
+        "fpts": 46,
+        "own": 13.74
+      },
+      {
+        "slot": "UTIL",
+        "id": 157822,
+        "name": "Scottie Barnes",
+        "team": "TOR",
+        "pos": "PF",
+        "salary": 9000,
+        "fpts": 55.8,
+        "own": 2.32
+      }
+    ],
+    "assumedZero": 79
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 4318,
+    "pctile": 16.41,
+    "points": 272.2,
+    "salary": 60000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 188405,
+        "name": "Amen Thompson",
+        "team": "HOU",
+        "pos": "SG/PG",
+        "salary": 6700,
+        "fpts": 47.9,
+        "own": 47.55
+      },
+      {
+        "slot": "SG",
+        "id": 203713,
+        "name": "Reed Sheppard",
+        "team": "HOU",
+        "pos": "SG/PG",
+        "salary": 4500,
+        "fpts": 26.2,
+        "own": 45.81
+      },
+      {
+        "slot": "SF",
+        "id": 9646,
+        "name": "Kevin Durant",
+        "team": "HOU",
+        "pos": "SF",
+        "salary": 7100,
+        "fpts": 38.3,
+        "own": 44.63
+      },
+      {
+        "slot": "PF",
+        "id": 157833,
+        "name": "Jalen Johnson",
+        "team": "ATL",
+        "pos": "PF",
+        "salary": 9500,
+        "fpts": 30.7,
+        "own": 38.61
+      },
+      {
+        "slot": "C",
+        "id": 157908,
+        "name": "Alperen Sengun",
+        "team": "HOU",
+        "pos": "C",
+        "salary": 9800,
+        "fpts": 45.6,
+        "own": 25.11
+      },
+      {
+        "slot": "G/F",
+        "id": 110312,
+        "name": "Tyler Herro",
+        "team": "MIL",
+        "pos": "SG/PG",
+        "salary": 7000,
+        "fpts": 13.5,
+        "own": 18.22
+      },
+      {
+        "slot": "F/C",
+        "id": 188422,
+        "name": "Jaime Jaquez",
+        "team": "MIL",
+        "pos": "SF",
+        "salary": 5100,
+        "fpts": 19,
+        "own": 23.89
+      },
+      {
+        "slot": "UTIL",
+        "id": 203808,
+        "name": "Ajay Mitchell",
+        "team": "OKC",
+        "pos": "SG/PG",
+        "salary": 5600,
+        "fpts": 30.1,
+        "own": 19.97
+      },
+      {
+        "slot": "UTIL",
+        "id": 58253,
+        "name": "Myles Turner",
+        "team": "MIL",
+        "pos": "C",
+        "salary": 4700,
+        "fpts": 20.9,
+        "own": 27.59
+      }
+    ],
+    "money": {
+      "fee": 9,
+      "one": {
+        "won": 0,
+        "net": -9
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -9
+      },
+      "portfolio": {
+        "n": 3,
+        "won": 0,
+        "net": -27,
+        "cashed": 0
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "SAS": 3,
+        "NYK": 2,
+        "UTA": 2,
+        "DAL": 1,
+        "HOU": 1
+      },
+      "games": {
+        "SAS@UTA": 5,
+        "NYK@TOR": 2,
+        "DAL@BOS": 1,
+        "HOU@WAS": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "SAS 3 · NYK 2 · UTA 2",
+        "4 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "SAS": 3,
+        "HOU": 1,
+        "MIL": 1,
+        "SAC": 1,
+        "TOR": 1,
+        "UTA": 1,
+        "WAS": 1
+      },
+      "games": {
+        "SAS@UTA": 4,
+        "HOU@WAS": 2,
+        "ATL@MIL": 1,
+        "NYK@TOR": 1,
+        "OKC@SAC": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "SAS 3",
+        "5 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "HOU": 4,
+        "MIL": 3,
+        "ATL": 1,
+        "OKC": 1
+      },
+      "games": {
+        "ATL@MIL": 4,
+        "HOU@WAS": 4,
+        "OKC@SAC": 1
+      },
+      "nGames": 3,
+      "summary": [
+        "HOU 4 · MIL 3",
+        "3 games"
+      ]
+    }
+  }
+}
