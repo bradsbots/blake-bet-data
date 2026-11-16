@@ -1,0 +1,417 @@
+{
+  "sport": "nfl",
+  "slate": "156416",
+  "date": "2026-11-15",
+  "contest": {
+    "id": 197645153,
+    "label": "NFL $2.5M Fantasy Football Millionaire [$1M to 1st]",
+    "entries": 147058
+  },
+  "generatedAt": "2026-11-16T09:40:31.713Z",
+  "winner": {
+    "rank": 1,
+    "name": "mgm11 (1/2)",
+    "points": 270.26,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "QB",
+        "id": 44850793,
+        "name": "Brock Purdy",
+        "team": "SF",
+        "pos": "QB",
+        "salary": 7000,
+        "fpts": 34.66,
+        "own": 11.8
+      },
+      {
+        "slot": "RB",
+        "id": 44850868,
+        "name": "Chuba Hubbard",
+        "team": "CAR",
+        "pos": "RB",
+        "salary": 7200,
+        "fpts": 34.2,
+        "own": 25.39
+      },
+      {
+        "slot": "RB",
+        "id": 44850924,
+        "name": "Emmett Johnson",
+        "team": "KC",
+        "pos": "RB",
+        "salary": 4700,
+        "fpts": 38.1,
+        "own": 64.78
+      },
+      {
+        "slot": "WR",
+        "id": 44851116,
+        "name": "George Pickens",
+        "team": "DAL",
+        "pos": "WR",
+        "salary": 6300,
+        "fpts": 46.5,
+        "own": 10.39
+      },
+      {
+        "slot": "WR",
+        "id": 44851128,
+        "name": "Deebo Samuel Sr.",
+        "team": "SF",
+        "pos": "WR",
+        "salary": 5500,
+        "fpts": 25.9,
+        "own": 9.13
+      },
+      {
+        "slot": "WR",
+        "id": 44851146,
+        "name": "Jordyn Tyson",
+        "team": "NO",
+        "pos": "WR",
+        "salary": 5000,
+        "fpts": 19,
+        "own": 7.57
+      },
+      {
+        "slot": "TE",
+        "id": 44851636,
+        "name": "Gavin Bartholomew",
+        "team": "MIN",
+        "pos": "TE",
+        "salary": 2500,
+        "fpts": 12.6,
+        "own": 4.22
+      },
+      {
+        "slot": "FLEX",
+        "id": 44850858,
+        "name": "Christian McCaffrey",
+        "team": "SF",
+        "pos": "RB",
+        "salary": 8500,
+        "fpts": 49.3,
+        "own": 30.84
+      },
+      {
+        "slot": "DST",
+        "id": 44851705,
+        "name": "Seahawks",
+        "team": "SEA",
+        "pos": "DST",
+        "salary": 3300,
+        "fpts": 10,
+        "own": 13.05
+      }
+    ]
+  },
+  "optimal": {
+    "points": 296.22,
+    "salary": 49700,
+    "players": [
+      {
+        "slot": "QB",
+        "id": 44850798,
+        "name": "Patrick Mahomes",
+        "team": "KC",
+        "pos": "QB",
+        "salary": 6000,
+        "fpts": 38.42,
+        "own": 6.24
+      },
+      {
+        "slot": "RB",
+        "id": 44850868,
+        "name": "Chuba Hubbard",
+        "team": "CAR",
+        "pos": "RB",
+        "salary": 7200,
+        "fpts": 34.2,
+        "own": 25.39
+      },
+      {
+        "slot": "RB",
+        "id": 44850924,
+        "name": "Emmett Johnson",
+        "team": "KC",
+        "pos": "RB",
+        "salary": 4700,
+        "fpts": 38.1,
+        "own": 64.78
+      },
+      {
+        "slot": "WR",
+        "id": 44851118,
+        "name": "Parker Washington",
+        "team": "JAX",
+        "pos": "WR",
+        "salary": 6200,
+        "fpts": 31.2,
+        "own": 22.56
+      },
+      {
+        "slot": "WR",
+        "id": 44851116,
+        "name": "George Pickens",
+        "team": "DAL",
+        "pos": "WR",
+        "salary": 6300,
+        "fpts": 46.5,
+        "own": 10.39
+      },
+      {
+        "slot": "WR",
+        "id": 44851128,
+        "name": "Deebo Samuel Sr.",
+        "team": "SF",
+        "pos": "WR",
+        "salary": 5500,
+        "fpts": 25.9,
+        "own": 9.13
+      },
+      {
+        "slot": "TE",
+        "id": 44851636,
+        "name": "Gavin Bartholomew",
+        "team": "MIN",
+        "pos": "TE",
+        "salary": 2500,
+        "fpts": 12.6,
+        "own": 4.22
+      },
+      {
+        "slot": "FLEX",
+        "id": 44850858,
+        "name": "Christian McCaffrey",
+        "team": "SF",
+        "pos": "RB",
+        "salary": 8500,
+        "fpts": 49.3,
+        "own": 30.84
+      },
+      {
+        "slot": "DST",
+        "id": 44851710,
+        "name": "Vikings",
+        "team": "MIN",
+        "pos": "DST",
+        "salary": 2800,
+        "fpts": 20,
+        "own": 5.69
+      }
+    ],
+    "assumedZero": 163
+  },
+  "paper": {
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 108834,
+    "pctile": 25.96,
+    "points": 135.38,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "QB",
+        "id": 44850801,
+        "name": "Tyler Shough",
+        "team": "NO",
+        "pos": "QB",
+        "salary": 5600,
+        "fpts": 11.98,
+        "own": 14.71
+      },
+      {
+        "slot": "RB",
+        "id": 44850868,
+        "name": "Chuba Hubbard",
+        "team": "CAR",
+        "pos": "RB",
+        "salary": 7200,
+        "fpts": 34.2,
+        "own": 25.39
+      },
+      {
+        "slot": "RB",
+        "id": 44850924,
+        "name": "Emmett Johnson",
+        "team": "KC",
+        "pos": "RB",
+        "salary": 4700,
+        "fpts": 38.1,
+        "own": 64.78
+      },
+      {
+        "slot": "WR",
+        "id": 44851102,
+        "name": "Chris Olave",
+        "team": "NO",
+        "pos": "WR",
+        "salary": 7000,
+        "fpts": 6,
+        "own": 24.67
+      },
+      {
+        "slot": "WR",
+        "id": 44851106,
+        "name": "Justin Jefferson",
+        "team": "MIN",
+        "pos": "WR",
+        "salary": 6800,
+        "fpts": 16.4,
+        "own": 40.94
+      },
+      {
+        "slot": "WR",
+        "id": 44851096,
+        "name": "CeeDee Lamb",
+        "team": "DAL",
+        "pos": "WR",
+        "salary": 8800,
+        "fpts": 20.2,
+        "own": 16.98
+      },
+      {
+        "slot": "TE",
+        "id": 44851490,
+        "name": "Tyler Warren",
+        "team": "IND",
+        "pos": "TE",
+        "salary": 4400,
+        "fpts": 2.4,
+        "own": 25.34
+      },
+      {
+        "slot": "FLEX",
+        "id": 44851518,
+        "name": "Colby Parkinson",
+        "team": "LAR",
+        "pos": "TE",
+        "salary": 3000,
+        "fpts": 3.1,
+        "own": 13.31
+      },
+      {
+        "slot": "DST",
+        "id": 44851714,
+        "name": "Browns",
+        "team": "CLE",
+        "pos": "DST",
+        "salary": 2500,
+        "fpts": 3,
+        "own": 4.63
+      }
+    ],
+    "money": {
+      "fee": 20,
+      "one": {
+        "won": 0,
+        "net": -20
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -20
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 180,
+        "net": -220,
+        "cashed": 6
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "SF": 3,
+        "CAR": 1,
+        "DAL": 1,
+        "KC": 1,
+        "MIN": 1,
+        "NO": 1,
+        "SEA": 1
+      },
+      "games": {
+        "SF@DAL": 4,
+        "CAR@NO": 2,
+        "KC@ATL": 1,
+        "MIN@GB": 1,
+        "SEA@LV": 1
+      },
+      "nGames": 5,
+      "qb": {
+        "team": "SF",
+        "catchers": 1,
+        "bringBack": 1
+      },
+      "rbDst": [],
+      "summary": [
+        "QB SF + 1 · bring-back 1",
+        "SF 3",
+        "5 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "KC": 2,
+        "MIN": 2,
+        "SF": 2,
+        "CAR": 1,
+        "DAL": 1,
+        "JAX": 1
+      },
+      "games": {
+        "SF@DAL": 3,
+        "KC@ATL": 2,
+        "MIN@GB": 2,
+        "CAR@NO": 1,
+        "JAX@TEN": 1
+      },
+      "nGames": 5,
+      "qb": {
+        "team": "KC",
+        "catchers": 0,
+        "bringBack": 0
+      },
+      "rbDst": [],
+      "summary": [
+        "QB KC naked",
+        "KC 2 · MIN 2 · SF 2",
+        "5 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "NO": 2,
+        "CAR": 1,
+        "CLE": 1,
+        "DAL": 1,
+        "IND": 1,
+        "KC": 1,
+        "LAR": 1,
+        "MIN": 1
+      },
+      "games": {
+        "CAR@NO": 3,
+        "HOU@CLE": 1,
+        "KC@ATL": 1,
+        "LAR@ARI": 1,
+        "MIA@IND": 1,
+        "MIN@GB": 1,
+        "SF@DAL": 1
+      },
+      "nGames": 7,
+      "qb": {
+        "team": "NO",
+        "catchers": 1,
+        "bringBack": 1
+      },
+      "rbDst": [],
+      "summary": [
+        "QB NO + 1 · bring-back 1",
+        "NO 2",
+        "7 games"
+      ]
+    }
+  }
+}
