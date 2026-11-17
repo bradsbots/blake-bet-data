@@ -2,6 +2,55 @@
  "sport": "nba",
  "slates": [
   {
+   "slate": "156745",
+   "date": "2026-11-16",
+   "label": "NBA $200K Fadeaway [$50K to 1st]",
+   "entries": 13071,
+   "source": "live",
+   "model": "v2",
+   "predictedAt": "2026-11-16T23:45:21+00:00",
+   "lockAt": "2026-11-17T00:00:00+00:00",
+   "minutesBeforeLock": 15,
+   "n": 199,
+   "mae": 2.416,
+   "mae5": 6.523,
+   "chalkMae": 15.553,
+   "spearman": 0.9088,
+   "top10": 0.8,
+   "chalk": {
+    "n": 10,
+    "caught": 6
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Yaxel Lendeborg",
+     "pos": "ALL",
+     "team": "GSW",
+     "pred": 22.12,
+     "actual": 53.45
+    },
+    {
+     "name": "Tari Eason",
+     "pos": "ALL",
+     "team": "HOU",
+     "pred": 11.47,
+     "actual": 39.28
+    },
+    {
+     "name": "Cam Spencer",
+     "pos": "ALL",
+     "team": "MEM",
+     "pred": 52.26,
+     "actual": 73.81
+    }
+   ],
+   "evenSplit": {
+    "mae": 5.303,
+    "chalkMae": 35.089
+   }
+  },
+  {
    "slate": "156734",
    "date": "2026-11-15",
    "label": "NBA $80K Fadeaway [$20K to 1st]",
@@ -788,18 +837,18 @@
  ],
  "recent": {
   "slates": 10,
-  "n": 1658,
-  "mae": 2.923,
-  "mae5": 7.688,
-  "chalkMae": 15.056,
+  "n": 1653,
+  "mae": 2.935,
+  "mae5": 7.726,
+  "chalkMae": 15.102,
   "chalk": {
-   "n": 126,
-   "caught": 86
+   "n": 122,
+   "caught": 83
   },
   "falseChalk": 4,
   "evenSplit": {
-   "mae": 6.277,
-   "chalkMae": 28.986
+   "mae": 6.286,
+   "chalkMae": 29.741
   }
  }
 }
