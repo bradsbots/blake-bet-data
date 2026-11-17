@@ -1,0 +1,391 @@
+{
+  "sport": "nba",
+  "site": "fd",
+  "slate": "136772",
+  "date": "2026-11-16",
+  "contest": {
+    "id": 281584743,
+    "label": "$100K Mon NBA Shot ($20K to 1st)",
+    "entries": 13227
+  },
+  "generatedAt": "2026-11-17T20:29:37.956Z",
+  "winner": {
+    "rank": 1,
+    "name": "westbrook4mvp (8/150)",
+    "points": 399.9,
+    "salary": 60000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 203777,
+        "name": "Cam Spencer",
+        "team": "MEM",
+        "pos": "SG/PG",
+        "salary": 5100,
+        "fpts": 31.7,
+        "own": 58.34
+      },
+      {
+        "slot": "SG",
+        "id": 66113,
+        "name": "Donovan Mitchell",
+        "team": "CLE",
+        "pos": "SG",
+        "salary": 8300,
+        "fpts": 55.8,
+        "own": 34.01
+      },
+      {
+        "slot": "SF",
+        "id": 228127,
+        "name": "Cedric Coward",
+        "team": "MEM",
+        "pos": "SG/SF",
+        "salary": 6100,
+        "fpts": 40.6,
+        "own": 38.26
+      },
+      {
+        "slot": "PF",
+        "id": 248939,
+        "name": "Cameron Boozer",
+        "team": "MEM",
+        "pos": "PF",
+        "salary": 7700,
+        "fpts": 45.9,
+        "own": 24.7
+      },
+      {
+        "slot": "C",
+        "id": 203734,
+        "name": "Zach Edey",
+        "team": "MEM",
+        "pos": "C",
+        "salary": 4600,
+        "fpts": 37.5,
+        "own": 6.52
+      },
+      {
+        "slot": "G/F",
+        "id": 228131,
+        "name": "Jeremiah Fears",
+        "team": "NOP",
+        "pos": "PG",
+        "salary": 6500,
+        "fpts": 43,
+        "own": 31.14
+      },
+      {
+        "slot": "F/C",
+        "id": 67026,
+        "name": "Jaylen Brown",
+        "team": "PHI",
+        "pos": "SF",
+        "salary": 7900,
+        "fpts": 57.6,
+        "own": 15.42
+      },
+      {
+        "slot": "UTIL",
+        "id": 145328,
+        "name": "Saddiq Bey",
+        "team": "NOP",
+        "pos": "SF",
+        "salary": 5800,
+        "fpts": 40.7,
+        "own": 24.34
+      },
+      {
+        "slot": "UTIL",
+        "id": 248956,
+        "name": "Yaxel Lendeborg",
+        "team": "GSW",
+        "pos": "PF/SF",
+        "salary": 8000,
+        "fpts": 47.1,
+        "own": 41.2
+      }
+    ]
+  },
+  "optimal": {
+    "points": 440.6,
+    "salary": 59500,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 157812,
+        "name": "Davion Mitchell",
+        "team": "MIA",
+        "pos": "PG",
+        "salary": 6700,
+        "fpts": 46.6,
+        "own": 7.52
+      },
+      {
+        "slot": "SG",
+        "id": 145334,
+        "name": "Desmond Bane",
+        "team": "ORL",
+        "pos": "SG",
+        "salary": 6300,
+        "fpts": 43.1,
+        "own": 1.78
+      },
+      {
+        "slot": "SF",
+        "id": 203719,
+        "name": "Terrence Shannon",
+        "team": "MIN",
+        "pos": "SF",
+        "salary": 3900,
+        "fpts": 45.6,
+        "own": 0.23
+      },
+      {
+        "slot": "PF",
+        "id": 42669,
+        "name": "Julius Randle",
+        "team": "BKN",
+        "pos": "PF",
+        "salary": 7200,
+        "fpts": 49.7,
+        "own": 6.07
+      },
+      {
+        "slot": "C",
+        "id": 145322,
+        "name": "Jalen Smith",
+        "team": "CHI",
+        "pos": "C",
+        "salary": 5700,
+        "fpts": 45.7,
+        "own": 11.7
+      },
+      {
+        "slot": "G/F",
+        "id": 66113,
+        "name": "Donovan Mitchell",
+        "team": "CLE",
+        "pos": "SG",
+        "salary": 8300,
+        "fpts": 55.8,
+        "own": 34.01
+      },
+      {
+        "slot": "F/C",
+        "id": 67026,
+        "name": "Jaylen Brown",
+        "team": "PHI",
+        "pos": "SF",
+        "salary": 7900,
+        "fpts": 57.6,
+        "own": 15.42
+      },
+      {
+        "slot": "UTIL",
+        "id": 40203,
+        "name": "Rudy Gobert",
+        "team": "MIN",
+        "pos": "C",
+        "salary": 5700,
+        "fpts": 46,
+        "own": 6.85
+      },
+      {
+        "slot": "UTIL",
+        "id": 49111,
+        "name": "Joel Embiid",
+        "team": "PHI",
+        "pos": "C",
+        "salary": 7800,
+        "fpts": 50.5,
+        "own": 27.07
+      }
+    ],
+    "assumedZero": 91
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 9960,
+    "pctile": 24.56,
+    "points": 295.3,
+    "salary": 60000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 188405,
+        "name": "Amen Thompson",
+        "team": "HOU",
+        "pos": "SG/PG",
+        "salary": 6600,
+        "fpts": 0,
+        "own": 0.38
+      },
+      {
+        "slot": "SG",
+        "id": 203777,
+        "name": "Cam Spencer",
+        "team": "MEM",
+        "pos": "SG/PG",
+        "salary": 5100,
+        "fpts": 31.7,
+        "own": 58.34
+      },
+      {
+        "slot": "SF",
+        "id": 228127,
+        "name": "Cedric Coward",
+        "team": "MEM",
+        "pos": "SG/SF",
+        "salary": 6100,
+        "fpts": 40.6,
+        "own": 38.26
+      },
+      {
+        "slot": "PF",
+        "id": 80821,
+        "name": "Jarrett Allen",
+        "team": "CLE",
+        "pos": "C/PF",
+        "salary": 6100,
+        "fpts": 36.3,
+        "own": 48.11
+      },
+      {
+        "slot": "C",
+        "id": 80817,
+        "name": "Bam Adebayo",
+        "team": "MIA",
+        "pos": "C",
+        "salary": 8400,
+        "fpts": 13.2,
+        "own": 7.3
+      },
+      {
+        "slot": "G/F",
+        "id": 228131,
+        "name": "Jeremiah Fears",
+        "team": "NOP",
+        "pos": "PG",
+        "salary": 6500,
+        "fpts": 43,
+        "own": 31.14
+      },
+      {
+        "slot": "F/C",
+        "id": 67026,
+        "name": "Jaylen Brown",
+        "team": "PHI",
+        "pos": "SF",
+        "salary": 7900,
+        "fpts": 57.6,
+        "own": 15.42
+      },
+      {
+        "slot": "UTIL",
+        "id": 110310,
+        "name": "Zion Williamson",
+        "team": "NOP",
+        "pos": "PF",
+        "salary": 7500,
+        "fpts": 32.2,
+        "own": 11.41
+      },
+      {
+        "slot": "UTIL",
+        "id": 145328,
+        "name": "Saddiq Bey",
+        "team": "NOP",
+        "pos": "SF",
+        "salary": 5800,
+        "fpts": 40.7,
+        "own": 24.34
+      }
+    ],
+    "money": {
+      "fee": 9,
+      "one": {
+        "won": 0,
+        "net": -9
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -9
+      },
+      "portfolio": {
+        "n": 3,
+        "won": 15,
+        "net": -12,
+        "cashed": 1
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "MEM": 4,
+        "NOP": 2,
+        "CLE": 1,
+        "GSW": 1,
+        "PHI": 1
+      },
+      "games": {
+        "MEM@WAS": 4,
+        "GSW@NOP": 3,
+        "CHI@CLE": 1,
+        "PHI@BKN": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "MEM 4 · NOP 2",
+        "4 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "MIN": 2,
+        "PHI": 2,
+        "BKN": 1,
+        "CHI": 1,
+        "CLE": 1,
+        "MIA": 1,
+        "ORL": 1
+      },
+      "games": {
+        "PHI@BKN": 3,
+        "CHI@CLE": 2,
+        "POR@MIN": 2,
+        "HOU@MIA": 1,
+        "ORL@BOS": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "MIN 2 · PHI 2",
+        "5 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "NOP": 3,
+        "MEM": 2,
+        "CLE": 1,
+        "HOU": 1,
+        "MIA": 1,
+        "PHI": 1
+      },
+      "games": {
+        "GSW@NOP": 3,
+        "HOU@MIA": 2,
+        "MEM@WAS": 2,
+        "CHI@CLE": 1,
+        "PHI@BKN": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "NOP 3 · MEM 2",
+        "5 games"
+      ]
+    }
+  }
+}
