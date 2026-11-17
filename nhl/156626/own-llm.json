@@ -3,56 +3,91 @@
  "slate": "156626",
  "llm": "gpt-oss:20b",
  "promptVersion": 1,
- "calledAt": "2026-11-17T14:00:02+00:00",
- "finishedAt": "2026-11-17T14:00:35+00:00",
+ "calledAt": "2026-11-17T16:00:02+00:00",
+ "finishedAt": "2026-11-17T16:00:21+00:00",
  "lockAt": "2026-11-18T00:00:00+00:00",
- "minutesBeforeLock": 599,
- "slateExportedAt": "2026-11-17T04:00:24.341606+00:00",
+ "minutesBeforeLock": 480,
+ "slateExportedAt": "2026-11-17T15:50:18.714791+00:00",
  "modelCall": {
   "model": "v2",
-  "predictedAt": "2026-11-17T04:00:25+00:00"
+  "predictedAt": "2026-11-17T15:50:19+00:00"
  },
  "cap": 100.0,
  "complete": true,
- "seconds": 32.9,
+ "seconds": 19.0,
  "asked": 30,
- "kept": 30,
- "echo": 16,
+ "kept": 19,
+ "echo": 19,
  "searches": [
-  "DraftKings NHL classic slate 156626 ownership Quinn Hughes news",
-  "Quinn Hughes ownership DraftKings NHL classic slate 156626"
+  "BUF vs PHI November 17 2026 lineup injuries Quinn Hughes news",
+  "Quinn Hughes injury November 17 2026 NHL news",
+  "Quinn Hughes injury update November 2026"
  ],
- "dropped": [],
+ "dropped": [
+  {
+   "id": "44954361",
+   "why": "missing"
+  },
+  {
+   "id": "44953961",
+   "why": "missing"
+  },
+  {
+   "id": "44953629",
+   "why": "missing"
+  },
+  {
+   "id": "44953893",
+   "why": "missing"
+  },
+  {
+   "id": "44953889",
+   "why": "missing"
+  },
+  {
+   "id": "44953901",
+   "why": "missing"
+  },
+  {
+   "id": "44953655",
+   "why": "missing"
+  },
+  {
+   "id": "44953899",
+   "why": "missing"
+  },
+  {
+   "id": "44954373",
+   "why": "missing"
+  },
+  {
+   "id": "44954757",
+   "why": "missing"
+  },
+  {
+   "id": "44954391",
+   "why": "missing"
+  }
+ ],
  "players": {
-  "44954361": {"name": "Quinn Hughes", "pos": "D", "team": "MIN", "model": 16.73, "llm": 15.5, "reason": "Minor dip due to strong NSH defense"},
-  "44954383": {"name": "John Carlson", "pos": "D", "team": "TBL", "model": 14.81, "llm": 13.8, "reason": "TBL vs WSH matchup may limit points"},
-  "44953961": {"name": "Jack Roslovic", "pos": "W", "team": "TOR", "model": 14.56, "llm": 13.6, "reason": "CHI\u2019s tough defense could curb upside"},
-  "44953631": {"name": "Jake Guentzel", "pos": "C", "team": "TBL", "model": 14.03, "llm": 13.0, "reason": "WSH top scorers may reduce Guentzel\u2019s point chances"},
-  "44953891": {"name": "Nikita Kucherov", "pos": "W", "team": "TBL", "model": 13.68, "llm": 12.8, "reason": "TBL defensive slump may limit Kucherov\u2019s goal output"},
-  "44953893": {"name": "Kirill Kaprizov", "pos": "W", "team": "MIN", "model": 13.1, "llm": 12.5, "reason": "Strong NSH attack could dampen Kaprizov\u2019s line role"},
-  "44953629": {"name": "Auston Matthews", "pos": "C", "team": "TOR", "model": 13.0, "llm": 12.3, "reason": "Chicago defense may cut Matthews\u2019 ice time"},
-  "44954407": {"name": "Charle-Edouard D'Astous", "pos": "D", "team": "TBL", "model": 12.84, "llm": 11.8, "reason": "TBL depth may keep D\u2019Astous on lower line"},
-  "44953889": {"name": "Cutter Gauthier", "pos": "W", "team": "ANA", "model": 12.37, "llm": 11.5, "reason": "ANA\u2019s attack could limit Gauthier\u2019s point upside"},
-  "44953899": {"name": "Matt Boldy", "pos": "W", "team": "MIN", "model": 11.57, "llm": 10.9, "reason": "NSH offense may reduce Boldy\u2019s scoring chances"},
-  "44953655": {"name": "Joel Eriksson Ek", "pos": "C", "team": "MIN", "model": 11.37, "llm": 9.0, "reason": "Minor dampening from strong NSH defense"},
-  "44953901": {"name": "David Pastrnak", "pos": "W", "team": "BOS", "model": 10.73, "llm": 10.5, "reason": "Boston\u2019s solid defense may limit Pastrnak\u2019s goal output"},
-  "44954373": {"name": "Darren Raddysh", "pos": "D", "team": "TOR", "model": 10.5, "llm": 9.8, "reason": "Strong CHI defense could reduce Raddysh ice time"},
-  "44954391": {"name": "Philip Broberg", "pos": "D", "team": "STL", "model": 10.43, "llm": 10.0, "reason": "ANA attack may curb Broberg\u2019s point upside"},
-  "44954757": {"name": "Ilya Sorokin", "pos": "G", "team": "NYI", "model": 9.46, "llm": 9.2, "reason": "NYI vs CBJ series limits Sorokin goal opportunities"},
-  "44953625": {"name": "Macklin Celebrini", "pos": "C", "team": "SJS", "model": 9.23, "llm": 8.5, "reason": "CGY defense could reduce Celebrini scoring chances"},
-  "44953665": {"name": "Robert Thomas", "pos": "C", "team": "STL", "model": 8.94, "llm": 8.0, "reason": "ANA attack may limit Thomas ice time"},
-  "44954357": {"name": "Matthew Schaefer", "pos": "D", "team": "NYI", "model": 8.79, "llm": 9.0, "reason": "CBJ defense may curb Schaefer\u2019s point output"},
-  "44954417": {"name": "Brock Faber", "pos": "D", "team": "MIN", "model": 8.51, "llm": 8.7, "reason": "Strong NSH offense could reduce Faber\u2019s point upside"},
-  "44953643": {"name": "Tim Stuetzle", "pos": "C", "team": "OTT", "model": 8.43, "llm": 8.3, "reason": "WPG defense may limit Stuetzle\u2019s scoring chances"},
-  "44953669": {"name": "Pavel Zacha", "pos": "C", "team": "BOS", "model": 8.22, "llm": 8.2, "reason": "Steady ownership per model"},
-  "44954375": {"name": "Jake Sanderson", "pos": "D", "team": "OTT", "model": 8.15, "llm": 7.9, "reason": "Ott defense may limit upside"},
-  "44953941": {"name": "Jimmy Snuggerud", "pos": "W", "team": "STL", "model": 7.92, "llm": 7.5, "reason": "ANA line match\u2011ups dampen point chances"},
-  "44953897": {"name": "Tage Thompson", "pos": "W", "team": "BUF", "model": 7.76, "llm": 7.8, "reason": "Model holds, no news"},
-  "44953955": {"name": "Zach Benson", "pos": "W", "team": "BUF", "model": 7.73, "llm": 7.6, "reason": "PHI defense could curb scoring"},
-  "44954365": {"name": "Jakob Chychrun", "pos": "D", "team": "WSH", "model": 7.47, "llm": 7.3, "reason": "WSH vs TBL line match\u2011ups reduce upside"},
-  "44953641": {"name": "Connor Bedard", "pos": "C", "team": "CHI", "model": 7.2, "llm": 7.2, "reason": "Model unchanged, no injury news"},
-  "44954766": {"name": "Yaroslav Askarov", "pos": "G", "team": "SJS", "model": 7.14, "llm": 7.1, "reason": "Model holds, no change"},
-  "44954037": {"name": "Jake Neighbours", "pos": "W", "team": "STL", "model": 7.14, "llm": 7.0, "reason": "Model holds, no change"},
-  "44953905": {"name": "Brady Tkachuk", "pos": "W", "team": "FLA", "model": 7.1, "llm": 6.9, "reason": "FLA defense may limit goal output"}
+  "44953625": {"name": "Macklin Celebrini", "pos": "C", "team": "SJS", "model": 9.56, "llm": 9.56, "reason": "model"},
+  "44953669": {"name": "Pavel Zacha", "pos": "C", "team": "BOS", "model": 9.4, "llm": 9.4, "reason": "model"},
+  "44953665": {"name": "Robert Thomas", "pos": "C", "team": "STL", "model": 9.27, "llm": 9.27, "reason": "model"},
+  "44954357": {"name": "Matthew Schaefer", "pos": "D", "team": "NYI", "model": 8.99, "llm": 8.99, "reason": "model"},
+  "44953643": {"name": "Tim Stuetzle", "pos": "C", "team": "OTT", "model": 8.94, "llm": 8.94, "reason": "model"},
+  "44954375": {"name": "Jake Sanderson", "pos": "D", "team": "OTT", "model": 8.8, "llm": 8.8, "reason": "model"},
+  "44954417": {"name": "Brock Faber", "pos": "D", "team": "MIN", "model": 8.53, "llm": 8.53, "reason": "model"},
+  "44954365": {"name": "Jakob Chychrun", "pos": "D", "team": "WSH", "model": 8.3, "llm": 8.3, "reason": "model"},
+  "44953941": {"name": "Jimmy Snuggerud", "pos": "W", "team": "STL", "model": 8.12, "llm": 8.12, "reason": "model"},
+  "44953897": {"name": "Tage Thompson", "pos": "W", "team": "BUF", "model": 7.91, "llm": 7.9, "reason": "Model aligns with current usage"},
+  "44953955": {"name": "Zach Benson", "pos": "W", "team": "BUF", "model": 7.87, "llm": 7.8, "reason": "No change needed"},
+  "44953905": {"name": "Brady Tkachuk", "pos": "W", "team": "FLA", "model": 7.49, "llm": 7.5, "reason": "Consistent with model"},
+  "44954385": {"name": "Charlie McAvoy", "pos": "D", "team": "BOS", "model": 7.44, "llm": 7.4, "reason": "Model reflects recent playtime"},
+  "44953641": {"name": "Connor Bedard", "pos": "C", "team": "CHI", "model": 7.43, "llm": 7.4, "reason": "Model matches projected usage"},
+  "44954037": {"name": "Jake Neighbours", "pos": "W", "team": "STL", "model": 7.32, "llm": 7.3, "reason": "No significant news to alter"},
+  "44954369": {"name": "Jackson LaCombe", "pos": "D", "team": "ANA", "model": 7.28, "llm": 7.3, "reason": "Model aligns with role"},
+  "44954383": {"name": "John Carlson", "pos": "D", "team": "TBL", "model": 7.24, "llm": 7.2, "reason": "Consistent with recent minutes"},
+  "44953631": {"name": "Jake Guentzel", "pos": "C", "team": "TBL", "model": 7.05, "llm": 7.1, "reason": "Model reflects current usage"},
+  "44953633": {"name": "Mark Scheifele", "pos": "C", "team": "WPG", "model": 6.98, "llm": 7.0, "reason": "No change needed"}
  }
 }
