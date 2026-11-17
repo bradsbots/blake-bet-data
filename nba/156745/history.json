@@ -1,0 +1,360 @@
+{
+  "sport": "nba",
+  "slate": "156745",
+  "date": "2026-11-16",
+  "contest": {
+    "id": 197884465,
+    "label": "NBA $200K Fadeaway [$50K to 1st]",
+    "entries": 13071
+  },
+  "generatedAt": "2026-11-17T09:40:16.371Z",
+  "winner": {
+    "rank": 1,
+    "name": "cheddabisque (103/150)",
+    "points": 361.5,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44938999,
+        "name": "Cam Spencer",
+        "team": "MEM",
+        "pos": "PG",
+        "salary": 5100,
+        "fpts": 33,
+        "own": 73.81
+      },
+      {
+        "slot": "SG",
+        "id": 44939103,
+        "name": "Javon Small",
+        "team": "MEM",
+        "pos": "PG",
+        "salary": 4400,
+        "fpts": 36.75,
+        "own": 17.32
+      },
+      {
+        "slot": "SF",
+        "id": 44938925,
+        "name": "Norman Powell",
+        "team": "CHI",
+        "pos": "SG",
+        "salary": 6100,
+        "fpts": 38.5,
+        "own": 29.59
+      },
+      {
+        "slot": "PF",
+        "id": 44938792,
+        "name": "Cameron Boozer",
+        "team": "MEM",
+        "pos": "PF",
+        "salary": 8100,
+        "fpts": 51.25,
+        "own": 14.96
+      },
+      {
+        "slot": "C",
+        "id": 44938963,
+        "name": "Jarrett Allen",
+        "team": "CLE",
+        "pos": "C",
+        "salary": 5600,
+        "fpts": 38.5,
+        "own": 58.94
+      },
+      {
+        "slot": "G",
+        "id": 44938781,
+        "name": "Donovan Mitchell",
+        "team": "CLE",
+        "pos": "SG",
+        "salary": 8400,
+        "fpts": 55.5,
+        "own": 26.65
+      },
+      {
+        "slot": "F",
+        "id": 44938795,
+        "name": "Jaylen Brown",
+        "team": "PHI",
+        "pos": "SG",
+        "salary": 8000,
+        "fpts": 59.75,
+        "own": 11.31
+      },
+      {
+        "slot": "UTIL",
+        "id": 44939141,
+        "name": "Terrence Shannon Jr.",
+        "team": "MIN",
+        "pos": "SG",
+        "salary": 4200,
+        "fpts": 48.25,
+        "own": 0.84
+      }
+    ]
+  },
+  "optimal": {
+    "points": 385.75,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44938893,
+        "name": "Jeremiah Fears",
+        "team": "NOP",
+        "pos": "PG",
+        "salary": 6500,
+        "fpts": 50,
+        "own": 31.08
+      },
+      {
+        "slot": "SG",
+        "id": 44938781,
+        "name": "Donovan Mitchell",
+        "team": "CLE",
+        "pos": "SG",
+        "salary": 8400,
+        "fpts": 55.5,
+        "own": 26.65
+      },
+      {
+        "slot": "SF",
+        "id": 44939380,
+        "name": "Isaiah Crawford",
+        "team": "HOU",
+        "pos": "SF",
+        "salary": 3000,
+        "fpts": 29.5,
+        "own": 0.01
+      },
+      {
+        "slot": "PF",
+        "id": 44938792,
+        "name": "Cameron Boozer",
+        "team": "MEM",
+        "pos": "PF",
+        "salary": 8100,
+        "fpts": 51.25,
+        "own": 14.96
+      },
+      {
+        "slot": "C",
+        "id": 44938951,
+        "name": "Jalen Smith",
+        "team": "CHI",
+        "pos": "C",
+        "salary": 5800,
+        "fpts": 45.75,
+        "own": 12.55
+      },
+      {
+        "slot": "G",
+        "id": 44939141,
+        "name": "Terrence Shannon Jr.",
+        "team": "MIN",
+        "pos": "SG",
+        "salary": 4200,
+        "fpts": 48.25,
+        "own": 0.84
+      },
+      {
+        "slot": "F",
+        "id": 44938795,
+        "name": "Jaylen Brown",
+        "team": "PHI",
+        "pos": "SG",
+        "salary": 8000,
+        "fpts": 59.75,
+        "own": 11.31
+      },
+      {
+        "slot": "UTIL",
+        "id": 44938933,
+        "name": "Rudy Gobert",
+        "team": "MIN",
+        "pos": "C",
+        "salary": 6000,
+        "fpts": 45.75,
+        "own": 1.88
+      }
+    ],
+    "assumedZero": 84
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 1811,
+    "pctile": 85.83,
+    "points": 299.75,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44938999,
+        "name": "Cam Spencer",
+        "team": "MEM",
+        "pos": "PG",
+        "salary": 5100,
+        "fpts": 33,
+        "own": 73.81
+      },
+      {
+        "slot": "SG",
+        "id": 44938899,
+        "name": "Cedric Coward",
+        "team": "MEM",
+        "pos": "SG",
+        "salary": 6500,
+        "fpts": 41,
+        "own": 25.35
+      },
+      {
+        "slot": "SF",
+        "id": 44938925,
+        "name": "Norman Powell",
+        "team": "CHI",
+        "pos": "SG",
+        "salary": 6100,
+        "fpts": 38.5,
+        "own": 29.59
+      },
+      {
+        "slot": "PF",
+        "id": 44938984,
+        "name": "Tari Eason",
+        "team": "HOU",
+        "pos": "SF",
+        "salary": 5300,
+        "fpts": 20.75,
+        "own": 39.28
+      },
+      {
+        "slot": "C",
+        "id": 44938963,
+        "name": "Jarrett Allen",
+        "team": "CLE",
+        "pos": "C",
+        "salary": 5600,
+        "fpts": 38.5,
+        "own": 58.94
+      },
+      {
+        "slot": "G",
+        "id": 44938893,
+        "name": "Jeremiah Fears",
+        "team": "NOP",
+        "pos": "PG",
+        "salary": 6500,
+        "fpts": 50,
+        "own": 31.08
+      },
+      {
+        "slot": "F",
+        "id": 44938847,
+        "name": "Zion Williamson",
+        "team": "NOP",
+        "pos": "PF",
+        "salary": 7200,
+        "fpts": 30.5,
+        "own": 15.45
+      },
+      {
+        "slot": "UTIL",
+        "id": 44938812,
+        "name": "Yaxel Lendeborg",
+        "team": "GSW",
+        "pos": "SF",
+        "salary": 7700,
+        "fpts": 47.5,
+        "own": 53.45
+      }
+    ],
+    "money": {
+      "fee": 18,
+      "one": {
+        "won": 30,
+        "net": 12
+      },
+      "oneDefaults": {
+        "won": 30,
+        "net": 12
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 260,
+        "net": -100,
+        "cashed": 7
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "MEM": 3,
+        "CLE": 2,
+        "CHI": 1,
+        "MIN": 1,
+        "PHI": 1
+      },
+      "games": {
+        "CHI@CLE": 3,
+        "MEM@WAS": 3,
+        "PHI@BKN": 1,
+        "POR@MIN": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "MEM 3 · CLE 2",
+        "4 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "MIN": 2,
+        "CHI": 1,
+        "CLE": 1,
+        "HOU": 1,
+        "MEM": 1,
+        "NOP": 1,
+        "PHI": 1
+      },
+      "games": {
+        "CHI@CLE": 2,
+        "POR@MIN": 2,
+        "GSW@NOP": 1,
+        "HOU@MIA": 1,
+        "MEM@WAS": 1,
+        "PHI@BKN": 1
+      },
+      "nGames": 6,
+      "summary": [
+        "MIN 2",
+        "6 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "MEM": 2,
+        "NOP": 2,
+        "CHI": 1,
+        "CLE": 1,
+        "GSW": 1,
+        "HOU": 1
+      },
+      "games": {
+        "GSW@NOP": 3,
+        "CHI@CLE": 2,
+        "MEM@WAS": 2,
+        "HOU@MIA": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "MEM 2 · NOP 2",
+        "4 games"
+      ]
+    }
+  }
+}
