@@ -3,87 +3,56 @@
  "slate": "156850",
  "llm": "gpt-oss:20b",
  "promptVersion": 1,
- "calledAt": "2026-11-17T16:15:02+00:00",
- "finishedAt": "2026-11-17T16:15:16+00:00",
+ "calledAt": "2026-11-17T18:15:26+00:00",
+ "finishedAt": "2026-11-17T18:15:51+00:00",
  "lockAt": "2026-11-18T00:30:00+00:00",
- "minutesBeforeLock": 495,
- "slateExportedAt": "2026-11-17T16:00:06.799307+00:00",
+ "minutesBeforeLock": 374,
+ "slateExportedAt": "2026-11-17T18:00:08.059609+00:00",
  "modelCall": {
   "model": "v2",
-  "predictedAt": "2026-11-17T16:00:07+00:00"
+  "predictedAt": "2026-11-17T18:00:09+00:00"
  },
  "cap": 70.0,
  "complete": true,
- "seconds": 14.1,
+ "seconds": 25.7,
  "asked": 30,
- "kept": 20,
- "echo": 20,
+ "kept": 30,
+ "echo": 23,
  "searches": [
-  "NYK vs TOR lineup 2026-11-17 lock DraftKings ownership Terrence Shannon Jr news",
-  "Terrence Shannon Jr injury status 2026-11-17 DraftKings ownership"
+  "NYK vs TOR lineup 2026-11-17 injury news",
+  "Luka Doncic injury news 2026-11-17"
  ],
- "dropped": [
-  {
-   "id": "44956014",
-   "why": "missing"
-  },
-  {
-   "id": "44956054",
-   "why": "missing"
-  },
-  {
-   "id": "44955946",
-   "why": "missing"
-  },
-  {
-   "id": "44956113",
-   "why": "missing"
-  },
-  {
-   "id": "44956059",
-   "why": "missing"
-  },
-  {
-   "id": "44956021",
-   "why": "missing"
-  },
-  {
-   "id": "44956064",
-   "why": "missing"
-  },
-  {
-   "id": "44956124",
-   "why": "missing"
-  },
-  {
-   "id": "44955981",
-   "why": "missing"
-  },
-  {
-   "id": "44956132",
-   "why": "missing"
-  }
- ],
+ "dropped": [],
  "players": {
-  "44956219": {"name": "Terrence Shannon Jr.", "pos": "SG", "team": "MIN", "model": 57.79, "llm": 57.79, "reason": "Model aligns with current projections and no new info"},
-  "44956164": {"name": "Kevin Huerter", "pos": "SG", "team": "DET", "model": 33.56, "llm": 33.56, "reason": "Stable starter, model reflects typical ownership"},
-  "44955918": {"name": "Luka Doncic", "pos": "PG", "team": "LAL", "model": 33.54, "llm": 33.54, "reason": "High value but still within model range"},
-  "44955921": {"name": "Victor Wembanyama", "pos": "C", "team": "SAS", "model": 26.01, "llm": 26.01, "reason": "Model captures Wembanyama\u2019s moderate GPP appeal"},
-  "44955941": {"name": "Scottie Barnes", "pos": "PG", "team": "TOR", "model": 23.79, "llm": 23.79, "reason": "Barnes is a solid starter, no change needed"},
-  "44956012": {"name": "Donovan Clingan", "pos": "C", "team": "POR", "model": 20.91, "llm": 20.91, "reason": "Clingan\u2019s role stable, model appropriate"},
-  "44955985": {"name": "Darryn Peterson", "pos": "PG", "team": "UTA", "model": 19.88, "llm": 19.88, "reason": "Peterson\u2019s usage steady, model fits"},
-  "44956043": {"name": "Rudy Gobert", "pos": "C", "team": "MIN", "model": 19.43, "llm": 19.43, "reason": "Gobert\u2019s GPP value unchanged"},
-  "44955933": {"name": "Deni Avdija", "pos": "PG", "team": "POR", "model": 19.43, "llm": 19.43, "reason": "Avdija\u2019s role consistent, model remains"},
-  "44956139": {"name": "Sandro Mamukelashvili", "pos": "PF", "team": "LAL", "model": 19.28, "llm": 19.28, "reason": "Mamukelashvili\u2019s usage stable, no adjustment"},
-  "44955923": {"name": "Cade Cunningham", "pos": "PG", "team": "DET", "model": 18.7, "llm": 18.7, "reason": "No change"},
-  "44955926": {"name": "Karl-Anthony Towns", "pos": "PF", "team": "NYK", "model": 17.19, "llm": 17.19, "reason": "No change"},
-  "44955938": {"name": "Jalen Brunson", "pos": "PG", "team": "NYK", "model": 17.1, "llm": 17.1, "reason": "No change"},
-  "44955957": {"name": "Keyonte George", "pos": "PG", "team": "UTA", "model": 16.58, "llm": 16.58, "reason": "No change"},
-  "44955993": {"name": "Stephon Castle", "pos": "SG", "team": "SAS", "model": 15.3, "llm": 15.3, "reason": "No change"},
-  "44955996": {"name": "Damian Lillard", "pos": "PG", "team": "POR", "model": 15.14, "llm": 15.14, "reason": "No change"},
-  "44956000": {"name": "Ayo Dosunmu", "pos": "PG", "team": "MIN", "model": 14.69, "llm": 14.69, "reason": "No change"},
-  "44956024": {"name": "Ausar Thompson", "pos": "SF", "team": "DET", "model": 14.19, "llm": 14.19, "reason": "No change"},
-  "44955949": {"name": "Darius Garland", "pos": "PG", "team": "LAC", "model": 13.89, "llm": 13.89, "reason": "No change"},
-  "44956048": {"name": "Daniss Jenkins", "pos": "PG", "team": "DET", "model": 13.84, "llm": 13.84, "reason": "No change"}
+  "44956219": {"name": "Terrence Shannon Jr.", "pos": "SG", "team": "MIN", "model": 62.38, "llm": 55.0, "reason": "High upside and no injury chatter"},
+  "44955918": {"name": "Luka Doncic", "pos": "PG", "team": "LAL", "model": 35.22, "llm": 48.0, "reason": "Top scorer, healthy, high value"},
+  "44956164": {"name": "Kevin Huerter", "pos": "SG", "team": "DET", "model": 31.45, "llm": 50.0, "reason": "Solid starter, healthy, good projection"},
+  "44955985": {"name": "Darryn Peterson", "pos": "PG", "team": "UTA", "model": 27.03, "llm": 52.0, "reason": "Key playmaker, healthy, strong value"},
+  "44955921": {"name": "Victor Wembanyama", "pos": "C", "team": "SAS", "model": 25.86, "llm": 47.0, "reason": "Elite big man, healthy, high upside"},
+  "44956012": {"name": "Donovan Clingan", "pos": "C", "team": "POR", "model": 21.3, "llm": 22.0, "reason": "Solid but low model, keep conservative"},
+  "44956139": {"name": "Sandro Mamukelashvili", "pos": "PF", "team": "LAL", "model": 19.89, "llm": 20.0, "reason": "Low model, no injury, stay low"},
+  "44955923": {"name": "Cade Cunningham", "pos": "PG", "team": "DET", "model": 19.45, "llm": 21.0, "reason": "Model low, keep conservative"},
+  "44956043": {"name": "Rudy Gobert", "pos": "C", "team": "MIN", "model": 19.28, "llm": 19.0, "reason": "Model low, keep conservative"},
+  "44955933": {"name": "Deni Avdija", "pos": "PG", "team": "POR", "model": 18.38, "llm": 18.0, "reason": "Model low, keep conservative"},
+  "44955926": {"name": "Karl-Anthony Towns", "pos": "PF", "team": "NYK", "model": 17.03, "llm": 17.03, "reason": "No injury or rest concerns; model aligns with field."},
+  "44955938": {"name": "Jalen Brunson", "pos": "PG", "team": "NYK", "model": 16.13, "llm": 16.13, "reason": "Healthy, starting lineup confirmed; keep model."},
+  "44955957": {"name": "Keyonte George", "pos": "PG", "team": "UTA", "model": 15.77, "llm": 15.77, "reason": "Clear PG slot, no rest news; model stands."},
+  "44955993": {"name": "Stephon Castle", "pos": "SG", "team": "SAS", "model": 15.3, "llm": 15.3, "reason": "Starter status unchanged; model acceptable."},
+  "44956000": {"name": "Ayo Dosunmu", "pos": "PG", "team": "MIN", "model": 14.52, "llm": 14.52, "reason": "No injury chatter; keep model."},
+  "44956024": {"name": "Ausar Thompson", "pos": "SF", "team": "DET", "model": 14.32, "llm": 14.32, "reason": "Healthy, starting SF; model remains."},
+  "44955996": {"name": "Damian Lillard", "pos": "PG", "team": "POR", "model": 14.13, "llm": 14.13, "reason": "Lillard healthy and starts; model fine."},
+  "44956124": {"name": "John Collins", "pos": "PF", "team": "DET", "model": 14.09, "llm": 14.09, "reason": "Collins in lineup, no rest; keep model."},
+  "44955949": {"name": "Darius Garland", "pos": "PG", "team": "LAC", "model": 13.75, "llm": 13.75, "reason": "Garland starting, no injury; model stands."},
+  "44956014": {"name": "Immanuel Quickley", "pos": "PG", "team": "TOR", "model": 13.71, "llm": 13.71, "reason": "Quickley healthy and starts; keep model."},
+  "44956048": {"name": "Daniss Jenkins", "pos": "PG", "team": "DET", "model": 13.43, "llm": 13.4, "reason": "Model aligns with healthy starter"},
+  "44956054": {"name": "Moussa Diabate", "pos": "C", "team": "CHA", "model": 13.17, "llm": 13.2, "reason": "No injury or rest concerns"},
+  "44956113": {"name": "Mo Bamba", "pos": "C", "team": "UTA", "model": 12.97, "llm": 12.9, "reason": "Stable starting role, model accurate"},
+  "44955941": {"name": "Scottie Barnes", "pos": "PG", "team": "TOR", "model": 12.17, "llm": 12.2, "reason": "Projected high usage but Q status keeps ownership low"},
+  "44956021": {"name": "De'Aaron Fox", "pos": "PG", "team": "SAS", "model": 11.76, "llm": 11.8, "reason": "Consistent starter, no news to adjust"},
+  "44955946": {"name": "LaMelo Ball", "pos": "PG", "team": "MIN", "model": 11.48, "llm": 11.5, "reason": "Healthy and starting, model reasonable"},
+  "44955989": {"name": "Jaden McDaniels", "pos": "SF", "team": "MIN", "model": 11.37, "llm": 11.4, "reason": "No injury chatter, model holds"},
+  "44956064": {"name": "Brook Lopez", "pos": "C", "team": "LAC", "model": 11.23, "llm": 11.2, "reason": "Stable role, model appropriate"},
+  "44955976": {"name": "Dylan Harper", "pos": "PG", "team": "SAS", "model": 10.9, "llm": 10.9, "reason": "Starting but no standout news"},
+  "44955981": {"name": "Naz Reid", "pos": "PF", "team": "CHA", "model": 10.66, "llm": 10.7, "reason": "Model reflects current field expectations"}
  }
 }
