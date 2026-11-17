@@ -1,0 +1,119 @@
+{
+ "archivedAt": "2026-11-17T02:00:27+00:00",
+ "days": 3,
+ "bytes": 287837,
+ "removed": [
+  {
+   "path": "snapshots/20261112T140010Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261112T150024Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261112T160009Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261112T170009Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261112T180017Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261112T190013Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261112T200009Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261112T210021Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261112T220018Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261112T230020Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261113T000022Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261113T010005Z.json",
+   "bytes": 15803
+  },
+  {
+   "path": "snapshots/20261113T020005Z.json",
+   "bytes": 15803
+  },
+  {
+   "path": "snapshots/20261113T030004Z.json",
+   "bytes": 15663
+  },
+  {
+   "path": "snapshots/20261113T040005Z.json",
+   "bytes": 15803
+  },
+  {
+   "path": "snapshots/20261113T140005Z.json",
+   "bytes": 15803
+  },
+  {
+   "path": "snapshots/20261113T150029Z.json",
+   "bytes": 18091
+  },
+  {
+   "path": "snapshots/20261113T160014Z.json",
+   "bytes": 18084
+  },
+  {
+   "path": "snapshots/20261113T170006Z.json",
+   "bytes": 18082
+  },
+  {
+   "path": "snapshots/20261113T180015Z.json",
+   "bytes": 18080
+  },
+  {
+   "path": "snapshots/20261113T190014Z.json",
+   "bytes": 18081
+  },
+  {
+   "path": "snapshots/20261113T200015Z.json",
+   "bytes": 18771
+  },
+  {
+   "path": "snapshots/20261113T210017Z.json",
+   "bytes": 19250
+  },
+  {
+   "path": "snapshots/20261113T220018Z.json",
+   "bytes": 19254
+  },
+  {
+   "path": "snapshots/20261113T230042Z.json",
+   "bytes": 19372
+  },
+  {
+   "path": "snapshots/20261114T000005Z.json",
+   "bytes": 19592
+  },
+  {
+   "path": "snapshots/20261114T010007Z.json",
+   "bytes": 19587
+  },
+  {
+   "path": "timeline.json",
+   "bytes": 2069
+  }
+ ]
+}
