@@ -1,0 +1,423 @@
+{
+  "sport": "nhl",
+  "slate": "156621",
+  "date": "2026-11-16",
+  "contest": {
+    "id": 197882442,
+    "label": "NHL $20K Overload [$5K to 1st]",
+    "entries": 1016
+  },
+  "generatedAt": "2026-11-17T09:40:27.973Z",
+  "winner": {
+    "rank": 1,
+    "name": "Roach713 (2/3)",
+    "points": 150.2,
+    "salary": 49500,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44937936,
+        "name": "Vincent Trocheck",
+        "team": "UTA",
+        "pos": "C",
+        "salary": 5400,
+        "fpts": 15.8,
+        "own": 44.58
+      },
+      {
+        "slot": "C",
+        "id": 44937940,
+        "name": "Filip Chytil",
+        "team": "VAN",
+        "pos": "C",
+        "salary": 4300,
+        "fpts": 15.6,
+        "own": 11.03
+      },
+      {
+        "slot": "W",
+        "id": 44937974,
+        "name": "Clayton Keller",
+        "team": "UTA",
+        "pos": "W",
+        "salary": 7600,
+        "fpts": 11,
+        "own": 59.26
+      },
+      {
+        "slot": "W",
+        "id": 44937986,
+        "name": "Brock Boeser",
+        "team": "VAN",
+        "pos": "W",
+        "salary": 5600,
+        "fpts": 24.5,
+        "own": 13.39
+      },
+      {
+        "slot": "W",
+        "id": 44938000,
+        "name": "Will Cuylle",
+        "team": "NYR",
+        "pos": "W",
+        "salary": 3900,
+        "fpts": 26.3,
+        "own": 8.47
+      },
+      {
+        "slot": "D",
+        "id": 44938058,
+        "name": "Mikhail Sergachev",
+        "team": "UTA",
+        "pos": "D",
+        "salary": 6000,
+        "fpts": 18.9,
+        "own": 59.94
+      },
+      {
+        "slot": "D",
+        "id": 44938062,
+        "name": "Filip Hronek",
+        "team": "VAN",
+        "pos": "D",
+        "salary": 5300,
+        "fpts": 7.3,
+        "own": 10.33
+      },
+      {
+        "slot": "G",
+        "id": 44938131,
+        "name": "Joonas Korpisalo",
+        "team": "NYR",
+        "pos": "G",
+        "salary": 7800,
+        "fpts": 19.3,
+        "own": 23.13
+      },
+      {
+        "slot": "UTIL",
+        "id": 44938006,
+        "name": "Jonathan Lekkerimaki",
+        "team": "VAN",
+        "pos": "W",
+        "salary": 3600,
+        "fpts": 11.5,
+        "own": 18.01
+      }
+    ]
+  },
+  "optimal": {
+    "points": 186.2,
+    "salary": 46600,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44937950,
+        "name": "Phillip Danault",
+        "team": "MTL",
+        "pos": "C",
+        "salary": 2900,
+        "fpts": 19,
+        "own": 3.55
+      },
+      {
+        "slot": "C",
+        "id": 44937936,
+        "name": "Vincent Trocheck",
+        "team": "UTA",
+        "pos": "C",
+        "salary": 5400,
+        "fpts": 15.8,
+        "own": 44.58
+      },
+      {
+        "slot": "W",
+        "id": 44938000,
+        "name": "Will Cuylle",
+        "team": "NYR",
+        "pos": "W",
+        "salary": 3900,
+        "fpts": 26.3,
+        "own": 8.47
+      },
+      {
+        "slot": "W",
+        "id": 44937986,
+        "name": "Brock Boeser",
+        "team": "VAN",
+        "pos": "W",
+        "salary": 5600,
+        "fpts": 24.5,
+        "own": 13.39
+      },
+      {
+        "slot": "W",
+        "id": 44937988,
+        "name": "Jake DeBrusk",
+        "team": "VAN",
+        "pos": "W",
+        "salary": 5100,
+        "fpts": 25.3,
+        "own": 12.4
+      },
+      {
+        "slot": "D",
+        "id": 44938056,
+        "name": "Adam Fox",
+        "team": "NYR",
+        "pos": "D",
+        "salary": 6300,
+        "fpts": 18,
+        "own": 25.69
+      },
+      {
+        "slot": "D",
+        "id": 44938058,
+        "name": "Mikhail Sergachev",
+        "team": "UTA",
+        "pos": "D",
+        "salary": 6000,
+        "fpts": 18.9,
+        "own": 59.94
+      },
+      {
+        "slot": "G",
+        "id": 44949650,
+        "name": "Nikita Tolopilo",
+        "team": "VAN",
+        "pos": "G",
+        "salary": 7100,
+        "fpts": 22.8,
+        "own": 8.86
+      },
+      {
+        "slot": "UTIL",
+        "id": 44937940,
+        "name": "Filip Chytil",
+        "team": "VAN",
+        "pos": "C",
+        "salary": 4300,
+        "fpts": 15.6,
+        "own": 11.03
+      }
+    ],
+    "assumedZero": 33
+  },
+  "paper": {
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 590,
+    "pctile": 42.03,
+    "points": 78.4,
+    "salary": 49800,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44937928,
+        "name": "Nick Suzuki",
+        "team": "MTL",
+        "pos": "C",
+        "salary": 6800,
+        "fpts": 3,
+        "own": 36.91
+      },
+      {
+        "slot": "C",
+        "id": 44937934,
+        "name": "Elias Pettersson",
+        "team": "VAN",
+        "pos": "C",
+        "salary": 5800,
+        "fpts": 2.6,
+        "own": 26.18
+      },
+      {
+        "slot": "W",
+        "id": 44937976,
+        "name": "Cole Caufield",
+        "team": "MTL",
+        "pos": "W",
+        "salary": 7100,
+        "fpts": 3,
+        "own": 42.52
+      },
+      {
+        "slot": "W",
+        "id": 44937986,
+        "name": "Brock Boeser",
+        "team": "VAN",
+        "pos": "W",
+        "salary": 5600,
+        "fpts": 24.5,
+        "own": 13.39
+      },
+      {
+        "slot": "W",
+        "id": 44938006,
+        "name": "Jonathan Lekkerimaki",
+        "team": "VAN",
+        "pos": "W",
+        "salary": 3600,
+        "fpts": 11.5,
+        "own": 18.01
+      },
+      {
+        "slot": "D",
+        "id": 44938066,
+        "name": "Noah Dobson",
+        "team": "MTL",
+        "pos": "D",
+        "salary": 4300,
+        "fpts": 7.8,
+        "own": 19.79
+      },
+      {
+        "slot": "D",
+        "id": 44938058,
+        "name": "Mikhail Sergachev",
+        "team": "UTA",
+        "pos": "D",
+        "salary": 6000,
+        "fpts": 18.9,
+        "own": 59.94
+      },
+      {
+        "slot": "G",
+        "id": 44938132,
+        "name": "Jacob Fowler",
+        "team": "MTL",
+        "pos": "G",
+        "salary": 7600,
+        "fpts": 5.6,
+        "own": 40.85
+      },
+      {
+        "slot": "UTIL",
+        "id": 44938084,
+        "name": "Zac Jones",
+        "team": "UTA",
+        "pos": "D",
+        "salary": 3000,
+        "fpts": 1.5,
+        "own": 7.68
+      }
+    ],
+    "money": {
+      "fee": 20,
+      "one": {
+        "won": 0,
+        "net": -20
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -20
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 40,
+        "net": -360,
+        "cashed": 1
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "VAN": 4,
+        "UTA": 3,
+        "NYR": 2
+      },
+      "games": {
+        "VAN@UTA": 7,
+        "MTL@NYR": 2
+      },
+      "nGames": 2,
+      "lines": {
+        "UTA f1": 2,
+        "VAN f2": 2
+      },
+      "pp": {
+        "UTA pp1": 3,
+        "VAN pp1": 3
+      },
+      "goalie": {
+        "team": "NYR",
+        "opposing": 0
+      },
+      "summary": [
+        "VAN 4 · UTA 3 · NYR 2",
+        "UTA f1 ×2",
+        "VAN f2 ×2",
+        "UTA pp1 ×3",
+        "VAN pp1 ×3",
+        "G NYR",
+        "2 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "VAN": 4,
+        "NYR": 2,
+        "UTA": 2,
+        "MTL": 1
+      },
+      "games": {
+        "VAN@UTA": 6,
+        "MTL@NYR": 3
+      },
+      "nGames": 2,
+      "lines": {
+        "VAN f2": 2
+      },
+      "pp": {
+        "UTA pp1": 2,
+        "VAN pp1": 2
+      },
+      "goalie": {
+        "team": "VAN",
+        "opposing": 2
+      },
+      "summary": [
+        "VAN 4 · NYR 2 · UTA 2",
+        "VAN f2 ×2",
+        "UTA pp1 ×2",
+        "VAN pp1 ×2",
+        "G VAN · 2 skaters vs G",
+        "2 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "MTL": 4,
+        "VAN": 3,
+        "UTA": 2
+      },
+      "games": {
+        "VAN@UTA": 5,
+        "MTL@NYR": 4
+      },
+      "nGames": 2,
+      "lines": {
+        "MTL f1": 2,
+        "VAN f1": 2
+      },
+      "pp": {
+        "VAN pp1": 3,
+        "MTL pp1": 2
+      },
+      "goalie": {
+        "team": "MTL",
+        "opposing": 0
+      },
+      "summary": [
+        "MTL 4 · VAN 3 · UTA 2",
+        "MTL f1 ×2",
+        "VAN f1 ×2",
+        "VAN pp1 ×3",
+        "MTL pp1 ×2",
+        "G MTL",
+        "2 games"
+      ]
+    }
+  }
+}
