@@ -2,6 +2,55 @@
  "sport": "nba",
  "slates": [
   {
+   "slate": "156850",
+   "date": "2026-11-17",
+   "label": "NBA $300K Fadeaway [$100K to 1st]",
+   "entries": 23529,
+   "source": "live",
+   "model": "v2",
+   "predictedAt": "2026-11-18T00:00:07+00:00",
+   "lockAt": "2026-11-18T00:30:00+00:00",
+   "minutesBeforeLock": 30,
+   "n": 146,
+   "mae": 2.617,
+   "mae5": 6.04,
+   "chalkMae": 11.363,
+   "spearman": 0.9008,
+   "top10": 0.8,
+   "chalk": {
+    "n": 11,
+    "caught": 8
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Bones Hyland",
+     "pos": "ALL",
+     "team": "MIN",
+     "pred": 2.43,
+     "actual": 33.29
+    },
+    {
+     "name": "Sandro Mamukelashvili",
+     "pos": "ALL",
+     "team": "LAL",
+     "pred": 24.03,
+     "actual": 42.95
+    },
+    {
+     "name": "Luka Doncic",
+     "pos": "ALL",
+     "team": "LAL",
+     "pred": 32.65,
+     "actual": 49.88
+    }
+   ],
+   "evenSplit": {
+    "mae": 6.79,
+    "chalkMae": 32.723
+   }
+  },
+  {
    "slate": "156745",
    "date": "2026-11-16",
    "label": "NBA $200K Fadeaway [$50K to 1st]",
@@ -837,18 +886,18 @@
  ],
  "recent": {
   "slates": 10,
-  "n": 1653,
-  "mae": 2.935,
-  "mae5": 7.726,
-  "chalkMae": 15.102,
+  "n": 1657,
+  "mae": 2.874,
+  "mae5": 7.563,
+  "chalkMae": 14.736,
   "chalk": {
-   "n": 122,
-   "caught": 83
+   "n": 119,
+   "caught": 81
   },
   "falseChalk": 4,
   "evenSplit": {
-   "mae": 6.286,
-   "chalkMae": 29.741
+   "mae": 6.261,
+   "chalkMae": 30.36
   }
  }
 }
