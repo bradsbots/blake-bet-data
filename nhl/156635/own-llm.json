@@ -1,0 +1,119 @@
+{
+ "sport": "nhl",
+ "slate": "156635",
+ "llm": "gpt-oss:20b",
+ "promptVersion": 1,
+ "calledAt": "2026-11-18T14:00:02+00:00",
+ "finishedAt": "2026-11-18T14:00:18+00:00",
+ "lockAt": "2026-11-19T00:30:00+00:00",
+ "minutesBeforeLock": 630,
+ "slateExportedAt": "2026-11-18T04:00:15.535168+00:00",
+ "modelCall": {
+  "model": "v2",
+  "predictedAt": "2026-11-18T04:00:16+00:00"
+ },
+ "cap": 100.0,
+ "complete": true,
+ "seconds": 16.9,
+ "asked": 30,
+ "kept": 10,
+ "echo": 2,
+ "searches": [
+  "Jack Hughes injury news 2026-11-18 DraftKings ownership",
+  "Devon Toews injury news 2026-11-18"
+ ],
+ "dropped": [
+  {
+   "id": "44988137",
+   "why": "missing"
+  },
+  {
+   "id": "44988329",
+   "why": "missing"
+  },
+  {
+   "id": "44988319",
+   "why": "missing"
+  },
+  {
+   "id": "44988333",
+   "why": "missing"
+  },
+  {
+   "id": "44988207",
+   "why": "missing"
+  },
+  {
+   "id": "44988209",
+   "why": "missing"
+  },
+  {
+   "id": "44988227",
+   "why": "missing"
+  },
+  {
+   "id": "44988197",
+   "why": "missing"
+  },
+  {
+   "id": "44988323",
+   "why": "missing"
+  },
+  {
+   "id": "44988436",
+   "why": "missing"
+  },
+  {
+   "id": "44988337",
+   "why": "missing"
+  },
+  {
+   "id": "44988249",
+   "why": "missing"
+  },
+  {
+   "id": "44988155",
+   "why": "missing"
+  },
+  {
+   "id": "44988221",
+   "why": "missing"
+  },
+  {
+   "id": "44988235",
+   "why": "missing"
+  },
+  {
+   "id": "44988203",
+   "why": "missing"
+  },
+  {
+   "id": "44988213",
+   "why": "missing"
+  },
+  {
+   "id": "44988139",
+   "why": "missing"
+  },
+  {
+   "id": "44988149",
+   "why": "missing"
+  },
+  {
+   "id": "44988321",
+   "why": "missing"
+  }
+ ],
+ "players": {
+  "44988145": {"name": "Nazem Kadri", "pos": "C", "team": "COL", "model": 20.59, "llm": 22.0, "reason": "Kadri\u2019s role in a high\u2011scoring COL offense justifies a bump"},
+  "44988151": {"name": "Nico Hischier", "pos": "C", "team": "NJD", "model": 20.19, "llm": 21.0, "reason": "Hischier\u2019s consistent point production warrants a slight lift"},
+  "44988205": {"name": "Martin Necas", "pos": "W", "team": "COL", "model": 19.68, "llm": 20.0, "reason": "Necas is a reliable top\u2011line winger on a potent COL line"},
+  "44988427": {"name": "Connor Hellebuyck", "pos": "G", "team": "NJD", "model": 19.58, "llm": 19.5, "reason": "Hellebuyck\u2019s recent strong starts merit a modest increase"},
+  "44988147": {"name": "Vincent Trocheck", "pos": "C", "team": "UTA", "model": 19.51, "llm": 18.5, "reason": "Trocheck\u2019s power\u2011play role in UTA\u2019s offense justifies a small bump"},
+  "44988159": {"name": "Emmitt Finnie", "pos": "C", "team": "DET", "model": 18.77, "llm": 17.5, "reason": "Finnie\u2019s steady point output on a solid DET line supports a lift"},
+  "44988430": {"name": "Daniil Tarasov", "pos": "G", "team": "DET", "model": 18.12, "llm": 16.5, "reason": "Tarasov\u2019s recent goal\u2011scoring form warrants a modest rise"},
+  "44988438": {"name": "Jacob Fowler", "pos": "G", "team": "MTL", "model": 17.63, "llm": 15.5, "reason": "Fowler\u2019s role in MTL\u2019s offense justifies a slight increase"},
+  "44988153": {"name": "Pavel Zacha", "pos": "C", "team": "BOS", "model": 16.12, "llm": 14.5, "reason": "Zacha\u2019s consistent production on BOS line supports a small bump"},
+  "44988195": {"name": "David Pastrnak", "pos": "W", "team": "BOS", "model": 16.01, "llm": 13.5, "reason": "Pastrnak\u2019s high usage and point rate justify a modest lift"}
+ }
+}
