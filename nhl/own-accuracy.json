@@ -2,6 +2,55 @@
  "sport": "nhl",
  "slates": [
   {
+   "slate": "156626",
+   "date": "2026-11-17",
+   "label": "NHL $60K Overload [$20K to 1st]",
+   "entries": 3529,
+   "source": "live",
+   "model": "v2",
+   "predictedAt": "2026-11-17T23:51:18+00:00",
+   "lockAt": "2026-11-18T00:00:00+00:00",
+   "minutesBeforeLock": 9,
+   "n": 556,
+   "mae": 0.773,
+   "mae5": 3.251,
+   "chalkMae": 14.173,
+   "spearman": 0.9177,
+   "top10": 0.4,
+   "chalk": {
+    "n": 2,
+    "caught": 0
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Macklin Celebrini",
+     "pos": "C",
+     "team": "SJS",
+     "pred": 8.42,
+     "actual": 23.32
+    },
+    {
+     "name": "Ivar Stenberg",
+     "pos": "W",
+     "team": "SJS",
+     "pred": 6.78,
+     "actual": 20.23
+    },
+    {
+     "name": "Sam Dickinson",
+     "pos": "D",
+     "team": "SJS",
+     "pred": 2.46,
+     "actual": 13.63
+    }
+   ],
+   "evenSplit": {
+    "mae": 1.894,
+    "chalkMae": 19.993
+   }
+  },
+  {
    "slate": "156621",
    "date": "2026-11-16",
    "label": "NHL $20K Overload [$5K to 1st]",
@@ -1572,18 +1621,18 @@
  ],
  "recent": {
   "slates": 10,
-  "n": 2931,
-  "mae": 1.372,
-  "mae5": 4.093,
-  "chalkMae": 8.104,
+  "n": 3061,
+  "mae": 1.283,
+  "mae5": 3.996,
+  "chalkMae": 7.887,
   "chalk": {
-   "n": 76,
-   "caught": 60
+   "n": 71,
+   "caught": 56
   },
   "falseChalk": 4,
   "evenSplit": {
-   "mae": 3.396,
-   "chalkMae": 22.578
+   "mae": 3.264,
+   "chalkMae": 22.48
   }
  }
 }
