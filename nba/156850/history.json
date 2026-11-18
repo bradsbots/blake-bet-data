@@ -1,0 +1,359 @@
+{
+  "sport": "nba",
+  "slate": "156850",
+  "date": "2026-11-17",
+  "contest": {
+    "id": 197910672,
+    "label": "NBA $300K Fadeaway [$100K to 1st]",
+    "entries": 23529
+  },
+  "generatedAt": "2026-11-18T14:51:26.260Z",
+  "winner": {
+    "rank": 1,
+    "name": "phils44 (89/100)",
+    "points": 381.75,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44956206,
+        "name": "Bones Hyland",
+        "team": "MIN",
+        "pos": "PG",
+        "salary": 4200,
+        "fpts": 21,
+        "own": 33.29
+      },
+      {
+        "slot": "SG",
+        "id": 44956096,
+        "name": "Coby White",
+        "team": "CHA",
+        "pos": "PG",
+        "salary": 5400,
+        "fpts": 33.75,
+        "own": 5.74
+      },
+      {
+        "slot": "SF",
+        "id": 44956079,
+        "name": "Jrue Holiday",
+        "team": "POR",
+        "pos": "PG",
+        "salary": 5500,
+        "fpts": 45.75,
+        "own": 18.95
+      },
+      {
+        "slot": "PF",
+        "id": 44956184,
+        "name": "Brice Sensabaugh",
+        "team": "UTA",
+        "pos": "PF",
+        "salary": 4500,
+        "fpts": 67.75,
+        "own": 21.87
+      },
+      {
+        "slot": "C",
+        "id": 44955921,
+        "name": "Victor Wembanyama",
+        "team": "SAS",
+        "pos": "C",
+        "salary": 11700,
+        "fpts": 58,
+        "own": 25
+      },
+      {
+        "slot": "G",
+        "id": 44955957,
+        "name": "Keyonte George",
+        "team": "UTA",
+        "pos": "PG",
+        "salary": 7900,
+        "fpts": 55.5,
+        "own": 16.59
+      },
+      {
+        "slot": "F",
+        "id": 44956089,
+        "name": "Quentin Grimes",
+        "team": "LAL",
+        "pos": "SG",
+        "salary": 5400,
+        "fpts": 64.5,
+        "own": 14.33
+      },
+      {
+        "slot": "UTIL",
+        "id": 44956113,
+        "name": "Mo Bamba",
+        "team": "UTA",
+        "pos": "C",
+        "salary": 5300,
+        "fpts": 35.5,
+        "own": 50.61
+      }
+    ]
+  },
+  "optimal": {
+    "points": 426.5,
+    "salary": 49800,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44955957,
+        "name": "Keyonte George",
+        "team": "UTA",
+        "pos": "PG",
+        "salary": 7900,
+        "fpts": 55.5,
+        "own": 16.59
+      },
+      {
+        "slot": "SG",
+        "id": 44956000,
+        "name": "Ayo Dosunmu",
+        "team": "MIN",
+        "pos": "PG",
+        "salary": 7000,
+        "fpts": 46,
+        "own": 6.14
+      },
+      {
+        "slot": "SF",
+        "id": 44956079,
+        "name": "Jrue Holiday",
+        "team": "POR",
+        "pos": "PG",
+        "salary": 5500,
+        "fpts": 45.75,
+        "own": 18.95
+      },
+      {
+        "slot": "PF",
+        "id": 44956024,
+        "name": "Ausar Thompson",
+        "team": "DET",
+        "pos": "SF",
+        "salary": 6500,
+        "fpts": 53.75,
+        "own": 13.8
+      },
+      {
+        "slot": "C",
+        "id": 44956064,
+        "name": "Brook Lopez",
+        "team": "LAC",
+        "pos": "C",
+        "salary": 5600,
+        "fpts": 39,
+        "own": 10.12
+      },
+      {
+        "slot": "G",
+        "id": 44956089,
+        "name": "Quentin Grimes",
+        "team": "LAL",
+        "pos": "SG",
+        "salary": 5400,
+        "fpts": 64.5,
+        "own": 14.33
+      },
+      {
+        "slot": "F",
+        "id": 44956184,
+        "name": "Brice Sensabaugh",
+        "team": "UTA",
+        "pos": "PF",
+        "salary": 4500,
+        "fpts": 67.75,
+        "own": 21.87
+      },
+      {
+        "slot": "UTIL",
+        "id": 44955981,
+        "name": "Naz Reid",
+        "team": "CHA",
+        "pos": "PF",
+        "salary": 7400,
+        "fpts": 54.25,
+        "own": 9.92
+      }
+    ],
+    "assumedZero": 41
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 21178,
+    "pctile": 9.8,
+    "points": 217,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44955985,
+        "name": "Darryn Peterson",
+        "team": "UTA",
+        "pos": "PG",
+        "salary": 7300,
+        "fpts": 23.75,
+        "own": 22.2
+      },
+      {
+        "slot": "SG",
+        "id": 44956164,
+        "name": "Kevin Huerter",
+        "team": "DET",
+        "pos": "SG",
+        "salary": 4700,
+        "fpts": 17.25,
+        "own": 47.85
+      },
+      {
+        "slot": "SF",
+        "id": 44956219,
+        "name": "Terrence Shannon Jr.",
+        "team": "MIN",
+        "pos": "SG",
+        "salary": 4100,
+        "fpts": 19.25,
+        "own": 72.39
+      },
+      {
+        "slot": "PF",
+        "id": 44956180,
+        "name": "Max Strus",
+        "team": "LAC",
+        "pos": "SF",
+        "salary": 4600,
+        "fpts": 13.5,
+        "own": 10.51
+      },
+      {
+        "slot": "C",
+        "id": 44956012,
+        "name": "Donovan Clingan",
+        "team": "POR",
+        "pos": "C",
+        "salary": 6700,
+        "fpts": 38.5,
+        "own": 23.67
+      },
+      {
+        "slot": "G",
+        "id": 44955918,
+        "name": "Luka Doncic",
+        "team": "LAL",
+        "pos": "PG",
+        "salary": 12200,
+        "fpts": 58,
+        "own": 49.88
+      },
+      {
+        "slot": "F",
+        "id": 44956139,
+        "name": "Sandro Mamukelashvili",
+        "team": "LAL",
+        "pos": "PF",
+        "salary": 5000,
+        "fpts": 11.25,
+        "own": 42.95
+      },
+      {
+        "slot": "UTIL",
+        "id": 44956113,
+        "name": "Mo Bamba",
+        "team": "UTA",
+        "pos": "C",
+        "salary": 5300,
+        "fpts": 35.5,
+        "own": 50.61
+      }
+    ],
+    "money": {
+      "fee": 15,
+      "one": {
+        "won": 0,
+        "net": -15
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -15
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 165,
+        "net": -135,
+        "cashed": 5
+      }
+    }
+  },
+  "stacks": {
+    "winner": {
+      "teams": {
+        "UTA": 3,
+        "CHA": 1,
+        "LAL": 1,
+        "MIN": 1,
+        "POR": 1,
+        "SAS": 1
+      },
+      "games": {
+        "UTA@LAC": 3,
+        "CHA@LAL": 2,
+        "POR@MIN": 2,
+        "DET@SAS": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "UTA 3",
+        "4 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "UTA": 2,
+        "CHA": 1,
+        "DET": 1,
+        "LAC": 1,
+        "LAL": 1,
+        "MIN": 1,
+        "POR": 1
+      },
+      "games": {
+        "UTA@LAC": 3,
+        "CHA@LAL": 2,
+        "POR@MIN": 2,
+        "DET@SAS": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "UTA 2",
+        "4 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "LAL": 2,
+        "UTA": 2,
+        "DET": 1,
+        "LAC": 1,
+        "MIN": 1,
+        "POR": 1
+      },
+      "games": {
+        "UTA@LAC": 3,
+        "CHA@LAL": 2,
+        "POR@MIN": 2,
+        "DET@SAS": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "LAL 2 · UTA 2",
+        "4 games"
+      ]
+    }
+  }
+}

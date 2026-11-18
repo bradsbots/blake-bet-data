@@ -18,6 +18,23 @@
     "portfolioN": 3
   },
   {
+    "sport": "nba",
+    "slate": "156850",
+    "date": "2026-11-17",
+    "label": "NBA $300K Fadeaway [$100K to 1st]",
+    "contestId": 197910672,
+    "entries": 23529,
+    "winnerPoints": 381.75,
+    "optimalPoints": 426.5,
+    "paperPoints": 217,
+    "paperPctile": 9.8,
+    "paperNet1": -15,
+    "paperNet1Defaults": -15,
+    "portfolioNet": -135,
+    "portfolioCashed": 5,
+    "portfolioN": 20
+  },
+  {
     "sport": "nhl",
     "site": "fd",
     "slate": "136826",
