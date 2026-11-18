@@ -7,7 +7,7 @@
     "label": "NBA $150K Fadeaway [$50K to 1st]",
     "entries": 9803
   },
-  "generatedAt": "2026-11-15T09:40:15.915Z",
+  "generatedAt": "2026-11-18T23:43:37.374Z",
   "winner": {
     "rank": 1,
     "name": "AaronCosta (84/150)",
@@ -290,6 +290,7 @@
       }
     }
   },
+  "observationOnly": false,
   "stacks": {
     "winner": {
       "teams": {

@@ -7,7 +7,7 @@
     "label": "NHL $60K Kick Save [$20K to 1st]",
     "entries": 4705
   },
-  "generatedAt": "2026-11-07T19:40:24.230Z",
+  "generatedAt": "2026-11-18T23:43:37.374Z",
   "winner": {
     "rank": 1,
     "name": "wiseowl00 (44/64)",
@@ -315,6 +315,7 @@
       "portfolio": null
     }
   },
+  "observationOnly": false,
   "stacks": {
     "winner": {
       "teams": {

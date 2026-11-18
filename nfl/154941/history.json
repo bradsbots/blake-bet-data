@@ -7,7 +7,7 @@
     "label": "NFL $2.75M Fantasy Football Millionaire [$1M to 1st, $100K Leaderboard Eligible]",
     "entries": 158904
   },
-  "generatedAt": "2026-11-07T19:40:24.230Z",
+  "generatedAt": "2026-11-18T23:43:37.374Z",
   "winner": {
     "rank": 1,
     "name": "CMACXIMUS (2/17)",
@@ -315,6 +315,7 @@
       "portfolio": null
     }
   },
+  "observationOnly": false,
   "stacks": {
     "winner": {
       "teams": {

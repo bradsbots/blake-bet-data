@@ -7,7 +7,7 @@
     "label": "NHL $30K Overload [$10K to 1st]",
     "entries": 1764
   },
-  "generatedAt": "2026-11-07T19:40:24.230Z",
+  "generatedAt": "2026-11-18T23:43:37.374Z",
   "winner": {
     "rank": 1,
     "name": "papas1175",
@@ -320,6 +320,7 @@
       }
     }
   },
+  "observationOnly": false,
   "stacks": {
     "winner": {
       "teams": {

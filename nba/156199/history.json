@@ -7,7 +7,7 @@
     "label": "NBA $200K Fadeaway [$50K to 1st]",
     "entries": 12335
   },
-  "generatedAt": "2026-11-08T09:40:17.029Z",
+  "generatedAt": "2026-11-18T23:43:37.374Z",
   "winner": {
     "rank": 1,
     "name": "opatlion (13/50)",
@@ -290,6 +290,7 @@
       }
     }
   },
+  "observationOnly": false,
   "stacks": {
     "winner": {
       "teams": {

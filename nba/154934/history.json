@@ -7,7 +7,7 @@
     "label": "NBA $6K Fadeaway [$2K to 1st]",
     "entries": 470
   },
-  "generatedAt": "2026-11-07T19:40:24.230Z",
+  "generatedAt": "2026-11-18T23:43:37.374Z",
   "winner": {
     "rank": 1,
     "name": "gators070 (3/3)",
@@ -184,6 +184,7 @@
     "assumedZero": 98
   },
   "paper": null,
+  "observationOnly": false,
   "stacks": {
     "winner": {
       "teams": {

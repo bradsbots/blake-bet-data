@@ -8,7 +8,7 @@
     "label": "$175K Tue NBA Shot ($40K to 1st)",
     "entries": 34722
   },
-  "generatedAt": "2026-11-11T18:09:34.327Z",
+  "generatedAt": "2026-11-18T23:43:37.374Z",
   "winner": {
     "rank": 1,
     "name": "dannylongisland (5/5)",
@@ -321,6 +321,7 @@
       }
     }
   },
+  "observationOnly": false,
   "stacks": {
     "winner": {
       "teams": {

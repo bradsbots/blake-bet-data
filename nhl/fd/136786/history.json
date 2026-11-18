@@ -8,7 +8,7 @@
     "label": "$8K Mon NHL Breakaway ($2K to 1st)",
     "entries": 1878
   },
-  "generatedAt": "2026-11-17T20:29:47.291Z",
+  "generatedAt": "2026-11-18T23:43:37.374Z",
   "winner": {
     "rank": 1,
     "name": "cb1umthal (26/64)",
@@ -321,6 +321,7 @@
       }
     }
   },
+  "observationOnly": true,
   "stacks": {
     "winner": {
       "teams": {

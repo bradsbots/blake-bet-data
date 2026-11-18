@@ -8,7 +8,7 @@
     "label": "$15K Thu NHL Breakaway ($5K to 1st)",
     "entries": 4021
   },
-  "generatedAt": "2026-11-13T19:49:26.861Z",
+  "generatedAt": "2026-11-18T23:43:37.374Z",
   "winner": {
     "rank": 1,
     "name": "giantsquid (79/120)",
@@ -321,6 +321,7 @@
       }
     }
   },
+  "observationOnly": false,
   "stacks": {
     "winner": {
       "teams": {

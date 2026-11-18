@@ -7,7 +7,7 @@
     "label": "NHL $35K Overload [$10K to 1st]",
     "entries": 2058
   },
-  "generatedAt": "2026-11-12T09:40:29.097Z",
+  "generatedAt": "2026-11-18T23:43:37.374Z",
   "winner": {
     "rank": 1,
     "name": "kodyray91 (40/40)",
@@ -320,6 +320,7 @@
       }
     }
   },
+  "observationOnly": false,
   "stacks": {
     "winner": {
       "teams": {

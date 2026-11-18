@@ -7,7 +7,7 @@
     "label": "NBA $120K Fadeaway [$30K to 1st]",
     "entries": 6751
   },
-  "generatedAt": "2026-11-09T09:40:14.214Z",
+  "generatedAt": "2026-11-18T23:43:37.374Z",
   "winner": {
     "rank": 1,
     "name": "Italopg5 (2/2)",
@@ -290,6 +290,7 @@
       }
     }
   },
+  "observationOnly": false,
   "stacks": {
     "winner": {
       "teams": {

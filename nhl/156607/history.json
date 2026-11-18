@@ -7,7 +7,7 @@
     "label": "NHL $30K Overload [$10K to 1st]",
     "entries": 1764
   },
-  "generatedAt": "2026-11-15T09:40:29.260Z",
+  "generatedAt": "2026-11-18T23:43:37.374Z",
   "winner": {
     "rank": 1,
     "name": "Hunter4ever89 (32/52)",
@@ -320,6 +320,7 @@
       }
     }
   },
+  "observationOnly": false,
   "stacks": {
     "winner": {
       "teams": {

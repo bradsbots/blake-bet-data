@@ -7,7 +7,7 @@
     "label": "NFL $2.75M Millionaire $20",
     "entries": 161557
   },
-  "generatedAt": "2026-11-07T19:40:24.230Z",
+  "generatedAt": "2026-11-18T23:43:37.374Z",
   "winner": null,
   "optimal": {
     "points": 284.76,
@@ -107,6 +107,7 @@
     "assumedZero": 215
   },
   "paper": null,
+  "observationOnly": false,
   "stacks": {
     "winner": null,
     "optimal": {

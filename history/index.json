@@ -15,7 +15,8 @@
     "paperNet1Defaults": -6,
     "portfolioNet": -18,
     "portfolioCashed": 0,
-    "portfolioN": 3
+    "portfolioN": 3,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -32,7 +33,8 @@
     "paperNet1Defaults": -15,
     "portfolioNet": -135,
     "portfolioCashed": 5,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -50,7 +52,8 @@
     "paperNet1Defaults": 3.56,
     "portfolioNet": -10.64,
     "portfolioCashed": 2,
-    "portfolioN": 6
+    "portfolioN": 6,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -67,7 +70,8 @@
     "paperNet1Defaults": -20,
     "portfolioNet": -280,
     "portfolioCashed": 4,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -85,7 +89,8 @@
     "paperNet1Defaults": -9,
     "portfolioNet": -12,
     "portfolioCashed": 1,
-    "portfolioN": 3
+    "portfolioN": 3,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -102,7 +107,8 @@
     "paperNet1Defaults": 12,
     "portfolioNet": -100,
     "portfolioCashed": 7,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -120,7 +126,8 @@
     "paperNet1Defaults": -4.44,
     "portfolioNet": -7.76,
     "portfolioCashed": 1,
-    "portfolioN": 4
+    "portfolioN": 4,
+    "observationOnly": true
   },
   {
     "sport": "nhl",
@@ -137,7 +144,8 @@
     "paperNet1Defaults": -20,
     "portfolioNet": -360,
     "portfolioCashed": 1,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": true
   },
   {
     "sport": "nba",
@@ -155,7 +163,8 @@
     "paperNet1Defaults": -9,
     "portfolioNet": -27,
     "portfolioCashed": 0,
-    "portfolioN": 3
+    "portfolioN": 3,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -172,7 +181,8 @@
     "paperNet1Defaults": 10,
     "portfolioNet": -220,
     "portfolioCashed": 3,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nfl",
@@ -190,7 +200,8 @@
     "paperNet1Defaults": -15,
     "portfolioNet": -90,
     "portfolioCashed": 0,
-    "portfolioN": 6
+    "portfolioN": 6,
+    "observationOnly": false
   },
   {
     "sport": "nfl",
@@ -207,7 +218,8 @@
     "paperNet1Defaults": -20,
     "portfolioNet": -220,
     "portfolioCashed": 6,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -225,7 +237,8 @@
     "paperNet1Defaults": -4.44,
     "portfolioNet": -7.64,
     "portfolioCashed": 2,
-    "portfolioN": 6
+    "portfolioN": 6,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -242,7 +255,8 @@
     "paperNet1Defaults": -20,
     "portfolioNet": -340,
     "portfolioCashed": 2,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -260,7 +274,8 @@
     "paperNet1Defaults": -9,
     "portfolioNet": -27,
     "portfolioCashed": 0,
-    "portfolioN": 3
+    "portfolioN": 3,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -277,7 +292,8 @@
     "paperNet1Defaults": -18,
     "portfolioNet": -360,
     "portfolioCashed": 0,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -295,7 +311,8 @@
     "paperNet1Defaults": -4.44,
     "portfolioNet": -26.64,
     "portfolioCashed": 0,
-    "portfolioN": 6
+    "portfolioN": 6,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -312,7 +329,8 @@
     "paperNet1Defaults": -20,
     "portfolioNet": -400,
     "portfolioCashed": 0,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -330,7 +348,8 @@
     "paperNet1Defaults": 4,
     "portfolioNet": 12,
     "portfolioCashed": 3,
-    "portfolioN": 3
+    "portfolioN": 3,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -347,7 +366,8 @@
     "paperNet1Defaults": -8,
     "portfolioNet": -75.06,
     "portfolioCashed": 6,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -365,7 +385,8 @@
     "paperNet1Defaults": -4.44,
     "portfolioNet": -26.64,
     "portfolioCashed": 0,
-    "portfolioN": 6
+    "portfolioN": 6,
+    "observationOnly": true
   },
   {
     "sport": "nhl",
@@ -382,7 +403,8 @@
     "paperNet1Defaults": -20,
     "portfolioNet": -400,
     "portfolioCashed": 0,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": true
   },
   {
     "sport": "nba",
@@ -400,7 +422,8 @@
     "paperNet1Defaults": -9,
     "portfolioNet": -27,
     "portfolioCashed": 0,
-    "portfolioN": 3
+    "portfolioN": 3,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -417,7 +440,8 @@
     "paperNet1Defaults": -18,
     "portfolioNet": -330,
     "portfolioCashed": 1,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -435,7 +459,8 @@
     "paperNet1Defaults": -4.44,
     "portfolioNet": -18.64,
     "portfolioCashed": 1,
-    "portfolioN": 6
+    "portfolioN": 6,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -452,7 +477,8 @@
     "paperNet1Defaults": -20,
     "portfolioNet": -370,
     "portfolioCashed": 1,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -470,7 +496,8 @@
     "paperNet1Defaults": -6,
     "portfolioNet": -18,
     "portfolioCashed": 0,
-    "portfolioN": 3
+    "portfolioN": 3,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -487,7 +514,8 @@
     "paperNet1Defaults": -5,
     "portfolioNet": -69,
     "portfolioCashed": 3,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -505,7 +533,8 @@
     "paperNet1Defaults": -4.44,
     "portfolioNet": -18.64,
     "portfolioCashed": 1,
-    "portfolioN": 6
+    "portfolioN": 6,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -522,7 +551,8 @@
     "paperNet1Defaults": -20,
     "portfolioNet": -400,
     "portfolioCashed": 0,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -540,7 +570,8 @@
     "paperNet1Defaults": -6,
     "portfolioNet": -8,
     "portfolioCashed": 1,
-    "portfolioN": 3
+    "portfolioN": 3,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -557,7 +588,8 @@
     "paperNet1Defaults": -15,
     "portfolioNet": -300,
     "portfolioCashed": 0,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -575,7 +607,8 @@
     "paperNet1Defaults": -4.44,
     "portfolioNet": -10.64,
     "portfolioCashed": 2,
-    "portfolioN": 6
+    "portfolioN": 6,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -592,7 +625,8 @@
     "paperNet1Defaults": -20,
     "portfolioNet": -370,
     "portfolioCashed": 1,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -610,7 +644,8 @@
     "paperNet1Defaults": -9,
     "portfolioNet": -27,
     "portfolioCashed": 0,
-    "portfolioN": 3
+    "portfolioN": 3,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -627,7 +662,8 @@
     "paperNet1Defaults": -15,
     "portfolioNet": -300,
     "portfolioCashed": 0,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -645,7 +681,8 @@
     "paperNet1Defaults": -4.44,
     "portfolioNet": -26.64,
     "portfolioCashed": 0,
-    "portfolioN": 6
+    "portfolioN": 6,
+    "observationOnly": true
   },
   {
     "sport": "nhl",
@@ -662,7 +699,8 @@
     "paperNet1Defaults": 20,
     "portfolioNet": -169,
     "portfolioCashed": 5,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": true
   },
   {
     "sport": "nba",
@@ -680,7 +718,8 @@
     "paperNet1Defaults": -9,
     "portfolioNet": -27,
     "portfolioCashed": 0,
-    "portfolioN": 3
+    "portfolioN": 3,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -697,7 +736,8 @@
     "paperNet1Defaults": -18,
     "portfolioNet": -360,
     "portfolioCashed": 0,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nfl",
@@ -715,7 +755,8 @@
     "paperNet1Defaults": -15,
     "portfolioNet": 30,
     "portfolioCashed": 3,
-    "portfolioN": 6
+    "portfolioN": 6,
+    "observationOnly": false
   },
   {
     "sport": "nfl",
@@ -732,7 +773,8 @@
     "paperNet1Defaults": -20,
     "portfolioNet": -370,
     "portfolioCashed": 1,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -750,7 +792,8 @@
     "paperNet1Defaults": -4.44,
     "portfolioNet": -26.64,
     "portfolioCashed": 0,
-    "portfolioN": 6
+    "portfolioN": 6,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -767,7 +810,8 @@
     "paperNet1Defaults": -20,
     "portfolioNet": -370,
     "portfolioCashed": 1,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -785,7 +829,8 @@
     "paperNet1Defaults": 7,
     "portfolioNet": 5,
     "portfolioCashed": 2,
-    "portfolioN": 3
+    "portfolioN": 3,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -802,7 +847,8 @@
     "paperNet1Defaults": 17,
     "portfolioNet": -220,
     "portfolioCashed": 4,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -820,7 +866,8 @@
     "paperNet1Defaults": -4.44,
     "portfolioNet": -26.64,
     "portfolioCashed": 0,
-    "portfolioN": 6
+    "portfolioN": 6,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -837,7 +884,8 @@
     "paperNet1Defaults": -20,
     "portfolioNet": -400,
     "portfolioCashed": 0,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -855,7 +903,8 @@
     "paperNet1Defaults": -6,
     "portfolioNet": -18,
     "portfolioCashed": 0,
-    "portfolioN": 3
+    "portfolioN": 3,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -872,7 +921,8 @@
     "paperNet1Defaults": -8,
     "portfolioNet": -128,
     "portfolioCashed": 2,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -890,7 +940,8 @@
     "paperNet1Defaults": -4.44,
     "portfolioNet": -26.64,
     "portfolioCashed": 0,
-    "portfolioN": 6
+    "portfolioN": 6,
+    "observationOnly": true
   },
   {
     "sport": "nhl",
@@ -907,7 +958,8 @@
     "paperNet1Defaults": -20,
     "portfolioNet": -400,
     "portfolioCashed": 0,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": true
   },
   {
     "sport": "nba",
@@ -924,7 +976,8 @@
     "paperNet1Defaults": null,
     "portfolioNet": null,
     "portfolioCashed": null,
-    "portfolioN": null
+    "portfolioN": null,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -942,7 +995,8 @@
     "paperNet1Defaults": 3.56,
     "portfolioNet": -2.64,
     "portfolioCashed": 3,
-    "portfolioN": 6
+    "portfolioN": 6,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -959,7 +1013,8 @@
     "paperNet1Defaults": -20,
     "portfolioNet": -280,
     "portfolioCashed": 4,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -977,7 +1032,8 @@
     "paperNet1Defaults": -6,
     "portfolioNet": -18,
     "portfolioCashed": 0,
-    "portfolioN": 3
+    "portfolioN": 3,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -994,7 +1050,8 @@
     "paperNet1Defaults": -5,
     "portfolioNet": -35,
     "portfolioCashed": 7,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -1012,7 +1069,8 @@
     "paperNet1Defaults": -4.44,
     "portfolioNet": -26.64,
     "portfolioCashed": 0,
-    "portfolioN": 6
+    "portfolioN": 6,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -1029,7 +1087,8 @@
     "paperNet1Defaults": -20,
     "portfolioNet": -400,
     "portfolioCashed": 0,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -1047,7 +1106,8 @@
     "paperNet1Defaults": -4.44,
     "portfolioNet": -26.64,
     "portfolioCashed": 0,
-    "portfolioN": 6
+    "portfolioN": 6,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -1064,7 +1124,8 @@
     "paperNet1Defaults": -20,
     "portfolioNet": -400,
     "portfolioCashed": 0,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -1082,7 +1143,8 @@
     "paperNet1Defaults": -9,
     "portfolioNet": -27,
     "portfolioCashed": 0,
-    "portfolioN": 3
+    "portfolioN": 3,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -1099,7 +1161,8 @@
     "paperNet1Defaults": -15,
     "portfolioNet": -300,
     "portfolioCashed": 0,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -1117,7 +1180,8 @@
     "paperNet1Defaults": -4.44,
     "portfolioNet": -18.64,
     "portfolioCashed": 1,
-    "portfolioN": 6
+    "portfolioN": 6,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -1134,7 +1198,8 @@
     "paperNet1Defaults": -20,
     "portfolioNet": -240,
     "portfolioCashed": 5,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -1152,7 +1217,8 @@
     "paperNet1Defaults": 241,
     "portfolioNet": 223,
     "portfolioCashed": 1,
-    "portfolioN": 3
+    "portfolioN": 3,
+    "observationOnly": true
   },
   {
     "sport": "nba",
@@ -1169,7 +1235,8 @@
     "paperNet1Defaults": 32,
     "portfolioNet": -360,
     "portfolioCashed": 0,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nfl",
@@ -1186,7 +1253,8 @@
     "paperNet1Defaults": -20,
     "portfolioNet": 60,
     "portfolioCashed": 12,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -1204,7 +1272,8 @@
     "paperNet1Defaults": -4.44,
     "portfolioNet": -26.64,
     "portfolioCashed": 0,
-    "portfolioN": 6
+    "portfolioN": 6,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -1221,7 +1290,8 @@
     "paperNet1Defaults": -20,
     "portfolioNet": -400,
     "portfolioCashed": 0,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -1238,7 +1308,8 @@
     "paperNet1Defaults": -18,
     "portfolioNet": -265,
     "portfolioCashed": 3,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -1256,7 +1327,8 @@
     "paperNet1Defaults": -4.44,
     "portfolioNet": -26.64,
     "portfolioCashed": 0,
-    "portfolioN": 6
+    "portfolioN": 6,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -1273,7 +1345,8 @@
     "paperNet1Defaults": -20,
     "portfolioNet": -400,
     "portfolioCashed": 0,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -1290,7 +1363,8 @@
     "paperNet1Defaults": -8,
     "portfolioNet": -98,
     "portfolioCashed": 4,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -1307,7 +1381,8 @@
     "paperNet1Defaults": 10,
     "portfolioNet": -100,
     "portfolioCashed": 10,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": true
   },
   {
     "sport": "nba",
@@ -1324,7 +1399,8 @@
     "paperNet1Defaults": -15,
     "portfolioNet": -135,
     "portfolioCashed": 6,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": true
   },
   {
     "sport": "nhl",
@@ -1341,7 +1417,8 @@
     "paperNet1Defaults": -20,
     "portfolioNet": -340,
     "portfolioCashed": 2,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -1358,7 +1435,8 @@
     "paperNet1Defaults": -5,
     "portfolioNet": -15,
     "portfolioCashed": 8,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -1375,7 +1453,8 @@
     "paperNet1Defaults": -20,
     "portfolioNet": -400,
     "portfolioCashed": 0,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -1392,7 +1471,8 @@
     "paperNet1Defaults": -15,
     "portfolioNet": -220,
     "portfolioCashed": 3,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -1409,7 +1489,8 @@
     "paperNet1Defaults": -20,
     "portfolioNet": -400,
     "portfolioCashed": 0,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -1426,7 +1507,8 @@
     "paperNet1Defaults": -15,
     "portfolioNet": -75.65,
     "portfolioCashed": 6,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -1443,7 +1525,8 @@
     "paperNet1Defaults": -20,
     "portfolioNet": -370,
     "portfolioCashed": 1,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": true
   },
   {
     "sport": "nba",
@@ -1460,7 +1543,8 @@
     "paperNet1Defaults": -18,
     "portfolioNet": 50,
     "portfolioCashed": 11,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nfl",
@@ -1477,7 +1561,8 @@
     "paperNet1Defaults": -20,
     "portfolioNet": -330,
     "portfolioCashed": 2,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -1494,7 +1579,8 @@
     "paperNet1Defaults": -20,
     "portfolioNet": -100,
     "portfolioCashed": 10,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -1511,7 +1597,8 @@
     "paperNet1Defaults": 10,
     "portfolioNet": -95,
     "portfolioCashed": 7,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -1528,7 +1615,8 @@
     "paperNet1Defaults": 10,
     "portfolioNet": -80,
     "portfolioCashed": 8,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -1545,7 +1633,8 @@
     "paperNet1Defaults": null,
     "portfolioNet": null,
     "portfolioCashed": null,
-    "portfolioN": null
+    "portfolioN": null,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -1562,7 +1651,8 @@
     "paperNet1Defaults": null,
     "portfolioNet": null,
     "portfolioCashed": null,
-    "portfolioN": null
+    "portfolioN": null,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -1579,7 +1669,8 @@
     "paperNet1Defaults": 12,
     "portfolioNet": -220,
     "portfolioCashed": 4,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": true
   },
   {
     "sport": "nhl",
@@ -1596,7 +1687,8 @@
     "paperNet1Defaults": -20,
     "portfolioNet": -300,
     "portfolioCashed": 3,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -1613,7 +1705,8 @@
     "paperNet1Defaults": null,
     "portfolioNet": null,
     "portfolioCashed": null,
-    "portfolioN": null
+    "portfolioN": null,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -1630,7 +1723,8 @@
     "paperNet1Defaults": -15,
     "portfolioNet": -235,
     "portfolioCashed": 2,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": true
   },
   {
     "sport": "nba",
@@ -1647,7 +1741,8 @@
     "paperNet1Defaults": null,
     "portfolioNet": null,
     "portfolioCashed": null,
-    "portfolioN": null
+    "portfolioN": null,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -1664,7 +1759,8 @@
     "paperNet1Defaults": -20,
     "portfolioNet": -90,
     "portfolioCashed": 10,
-    "portfolioN": 20
+    "portfolioN": 20,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -1681,7 +1777,8 @@
     "paperNet1Defaults": -15,
     "portfolioNet": null,
     "portfolioCashed": null,
-    "portfolioN": null
+    "portfolioN": null,
+    "observationOnly": false
   },
   {
     "sport": "nfl",
@@ -1698,7 +1795,8 @@
     "paperNet1Defaults": -20,
     "portfolioNet": null,
     "portfolioCashed": null,
-    "portfolioN": null
+    "portfolioN": null,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -1715,7 +1813,8 @@
     "paperNet1Defaults": null,
     "portfolioNet": null,
     "portfolioCashed": null,
-    "portfolioN": null
+    "portfolioN": null,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -1732,7 +1831,8 @@
     "paperNet1Defaults": -15,
     "portfolioNet": null,
     "portfolioCashed": null,
-    "portfolioN": null
+    "portfolioN": null,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -1749,7 +1849,8 @@
     "paperNet1Defaults": null,
     "portfolioNet": null,
     "portfolioCashed": null,
-    "portfolioN": null
+    "portfolioN": null,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -1761,13 +1862,14 @@
     "entries": 196,
     "winnerPoints": 207.2,
     "optimalPoints": 240.5,
-    "paperPoints": 166.4,
-    "paperPctile": 64.29,
+    "paperPoints": 153.4,
+    "paperPctile": 40.82,
     "paperNet1": null,
     "paperNet1Defaults": null,
     "portfolioNet": null,
     "portfolioCashed": null,
-    "portfolioN": null
+    "portfolioN": null,
+    "observationOnly": true
   },
   {
     "sport": "nhl",
@@ -1784,7 +1886,8 @@
     "paperNet1Defaults": 10,
     "portfolioNet": null,
     "portfolioCashed": null,
-    "portfolioN": null
+    "portfolioN": null,
+    "observationOnly": true
   },
   {
     "sport": "nba",
@@ -1801,7 +1904,8 @@
     "paperNet1Defaults": null,
     "portfolioNet": null,
     "portfolioCashed": null,
-    "portfolioN": null
+    "portfolioN": null,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -1818,7 +1922,8 @@
     "paperNet1Defaults": -15,
     "portfolioNet": null,
     "portfolioCashed": null,
-    "portfolioN": null
+    "portfolioN": null,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -1835,7 +1940,8 @@
     "paperNet1Defaults": null,
     "portfolioNet": null,
     "portfolioCashed": null,
-    "portfolioN": null
+    "portfolioN": null,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -1852,7 +1958,8 @@
     "paperNet1Defaults": null,
     "portfolioNet": null,
     "portfolioCashed": null,
-    "portfolioN": null
+    "portfolioN": null,
+    "observationOnly": false
   },
   {
     "sport": "nba",
@@ -1869,7 +1976,8 @@
     "paperNet1Defaults": null,
     "portfolioNet": null,
     "portfolioCashed": null,
-    "portfolioN": null
+    "portfolioN": null,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -1880,13 +1988,14 @@
     "entries": 7843,
     "winnerPoints": null,
     "optimalPoints": 257.1,
-    "paperPoints": 102.7,
-    "paperPctile": 73.43,
+    "paperPoints": 115,
+    "paperPctile": 87.05,
     "paperNet1": null,
     "paperNet1Defaults": null,
     "portfolioNet": null,
     "portfolioCashed": null,
-    "portfolioN": null
+    "portfolioN": null,
+    "observationOnly": false
   },
   {
     "sport": "nhl",
@@ -1903,7 +2012,8 @@
     "paperNet1Defaults": null,
     "portfolioNet": null,
     "portfolioCashed": null,
-    "portfolioN": null
+    "portfolioN": null,
+    "observationOnly": false
   },
   {
     "sport": "nfl",
@@ -1920,6 +2030,7 @@
     "paperNet1Defaults": null,
     "portfolioNet": null,
     "portfolioCashed": null,
-    "portfolioN": null
+    "portfolioN": null,
+    "observationOnly": false
   }
 ]

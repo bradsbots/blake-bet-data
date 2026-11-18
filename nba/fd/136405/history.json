@@ -8,7 +8,7 @@
     "label": "$50K Sun NBA Shot ($10K to 1st)",
     "entries": 6261
   },
-  "generatedAt": "2026-11-10T15:29:15.168Z",
+  "generatedAt": "2026-11-18T23:43:37.374Z",
   "winner": {
     "rank": 1,
     "name": "spagoni (1/1)",
@@ -321,6 +321,7 @@
       }
     }
   },
+  "observationOnly": false,
   "stacks": {
     "winner": {
       "teams": {

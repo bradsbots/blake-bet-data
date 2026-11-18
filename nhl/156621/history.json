@@ -7,7 +7,7 @@
     "label": "NHL $20K Overload [$5K to 1st]",
     "entries": 1016
   },
-  "generatedAt": "2026-11-17T09:40:27.973Z",
+  "generatedAt": "2026-11-18T23:43:37.374Z",
   "winner": {
     "rank": 1,
     "name": "Roach713 (2/3)",
@@ -320,6 +320,7 @@
       }
     }
   },
+  "observationOnly": true,
   "stacks": {
     "winner": {
       "teams": {

@@ -8,7 +8,7 @@
     "label": "$10K Fri NHL Breakaway ($2K to 1st)",
     "entries": 2681
   },
-  "generatedAt": "2026-11-14T12:09:23.990Z",
+  "generatedAt": "2026-11-18T23:43:37.374Z",
   "winner": {
     "rank": 1,
     "name": "lmfaoyourface (40/80)",
@@ -321,6 +321,7 @@
       }
     }
   },
+  "observationOnly": true,
   "stacks": {
     "winner": {
       "teams": {

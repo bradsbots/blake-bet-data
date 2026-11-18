@@ -8,7 +8,7 @@
     "label": "$200K Wed NBA Shot ($50K to 1st)",
     "entries": 39682
   },
-  "generatedAt": "2026-11-07T19:40:24.230Z",
+  "generatedAt": "2026-11-18T23:43:37.374Z",
   "winner": {
     "rank": 1,
     "name": "stoniner (62/150)",
@@ -321,6 +321,7 @@
       }
     }
   },
+  "observationOnly": false,
   "stacks": {
     "winner": {
       "teams": {

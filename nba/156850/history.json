@@ -7,7 +7,7 @@
     "label": "NBA $300K Fadeaway [$100K to 1st]",
     "entries": 23529
   },
-  "generatedAt": "2026-11-18T14:51:26.260Z",
+  "generatedAt": "2026-11-18T23:43:37.374Z",
   "winner": {
     "rank": 1,
     "name": "phils44 (89/100)",
@@ -290,6 +290,7 @@
       }
     }
   },
+  "observationOnly": false,
   "stacks": {
     "winner": {
       "teams": {

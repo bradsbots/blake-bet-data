@@ -8,7 +8,7 @@
     "label": "$1.1M NFL Sunday Million ($200K to 1st, Bonus Back Offer!)",
     "entries": 85536
   },
-  "generatedAt": "2026-11-09T15:29:17.196Z",
+  "generatedAt": "2026-11-18T23:43:37.374Z",
   "winner": null,
   "optimal": {
     "points": 248.96,
@@ -224,6 +224,7 @@
       }
     }
   },
+  "observationOnly": false,
   "stacks": {
     "winner": null,
     "optimal": {

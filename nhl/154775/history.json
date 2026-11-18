@@ -7,7 +7,7 @@
     "label": "NHL $35K Kick Save [$10K to 1st]",
     "entries": 2745
   },
-  "generatedAt": "2026-11-07T19:40:24.230Z",
+  "generatedAt": "2026-11-18T23:43:37.374Z",
   "winner": {
     "rank": 1,
     "name": "greenking23 (2/2)",
@@ -315,6 +315,7 @@
       "portfolio": null
     }
   },
+  "observationOnly": false,
   "stacks": {
     "winner": {
       "teams": {

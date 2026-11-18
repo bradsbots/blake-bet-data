@@ -8,7 +8,7 @@
     "label": "$1K Fri NHL Breakaway ($250 to 1st)",
     "entries": 196
   },
-  "generatedAt": "2026-11-07T19:40:24.230Z",
+  "generatedAt": "2026-11-18T23:43:37.374Z",
   "winner": {
     "rank": 1,
     "name": "homerhead007 (1/8)",
@@ -205,12 +205,12 @@
     "assumedZero": 20
   },
   "paper": {
-    "variant": "recommended",
-    "lineup": "recommended",
-    "finish": 71,
-    "pctile": 64.29,
-    "points": 166.4,
-    "salary": 55000,
+    "variant": "entered",
+    "lineup": "entered",
+    "finish": 108,
+    "pctile": 40.82,
+    "points": 153.4,
+    "salary": 54800,
     "players": [
       {
         "slot": "C",
@@ -224,12 +224,12 @@
       },
       {
         "slot": "C",
-        "id": 41390,
-        "name": "Elias Lindholm",
-        "team": "BOS",
+        "id": 183159,
+        "name": "Nikita Nesterenko",
+        "team": "ANA",
         "pos": "C",
-        "salary": 4900,
-        "fpts": 22.6,
+        "salary": 3300,
+        "fpts": 11.2,
         "own": 8.67
       },
       {
@@ -264,13 +264,13 @@
       },
       {
         "slot": "D",
-        "id": 42962,
-        "name": "Brett Kulak",
+        "id": 70199,
+        "name": "Devon Toews",
         "team": "COL",
         "pos": "D",
-        "salary": 3800,
-        "fpts": 6.4,
-        "own": 1.02
+        "salary": 5200,
+        "fpts": 4.8,
+        "own": 8.67
       },
       {
         "slot": "UTIL",
@@ -305,6 +305,7 @@
     ],
     "money": null
   },
+  "observationOnly": true,
   "stacks": {
     "winner": {
       "teams": {
@@ -376,9 +377,9 @@
     },
     "paper": {
       "teams": {
-        "BOS": 4,
-        "COL": 3,
-        "ANA": 2
+        "ANA": 3,
+        "BOS": 3,
+        "COL": 3
       },
       "games": {
         "BOS@ANA": 6,
@@ -386,11 +387,11 @@
       },
       "nGames": 2,
       "lines": {
-        "BOS f1": 3,
-        "ANA f2": 2
+        "ANA f2": 3,
+        "BOS f1": 3
       },
       "pp": {
-        "BOS pp1": 4,
+        "BOS pp1": 3,
         "ANA pp1": 2
       },
       "goalie": {
@@ -398,10 +399,10 @@
         "opposing": 0
       },
       "summary": [
-        "BOS 4 · COL 3 · ANA 2",
+        "ANA 3 · BOS 3 · COL 3",
+        "ANA f2 ×3",
         "BOS f1 ×3",
-        "ANA f2 ×2",
-        "BOS pp1 ×4",
+        "BOS pp1 ×3",
         "ANA pp1 ×2",
         "G COL",
         "2 games"
