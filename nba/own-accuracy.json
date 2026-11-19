@@ -2,6 +2,55 @@
  "sport": "nba",
  "slates": [
   {
+   "slate": "156831",
+   "date": "2026-11-18",
+   "label": "NBA $300K Zone Special [$100K to 1st]",
+   "entries": 70198,
+   "source": "live",
+   "model": "v2",
+   "predictedAt": "2026-11-18T23:45:09+00:00",
+   "lockAt": "2026-11-19T00:00:00+00:00",
+   "minutesBeforeLock": 15,
+   "n": 252,
+   "mae": 1.917,
+   "mae5": 5.887,
+   "chalkMae": 13.457,
+   "spearman": 0.9111,
+   "top10": 0.7,
+   "chalk": {
+    "n": 10,
+    "caught": 7
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Collin Murray-Boyles",
+     "pos": "ALL",
+     "team": "TOR",
+     "pred": 16.43,
+     "actual": 37.53
+    },
+    {
+     "name": "Immanuel Quickley",
+     "pos": "ALL",
+     "team": "TOR",
+     "pred": 32.76,
+     "actual": 52.63
+    },
+    {
+     "name": "Cam Spencer",
+     "pos": "ALL",
+     "team": "MEM",
+     "pred": 14.04,
+     "actual": 32.87
+    }
+   ],
+   "evenSplit": {
+    "mae": 4.148,
+    "chalkMae": 27.685
+   }
+  },
+  {
    "slate": "156850",
    "date": "2026-11-17",
    "label": "NBA $300K Fadeaway [$100K to 1st]",
@@ -886,18 +935,18 @@
  ],
  "recent": {
   "slates": 10,
-  "n": 1657,
-  "mae": 2.874,
-  "mae5": 7.563,
-  "chalkMae": 14.736,
+  "n": 1750,
+  "mae": 2.696,
+  "mae5": 7.188,
+  "chalkMae": 14.459,
   "chalk": {
-   "n": 119,
-   "caught": 81
+   "n": 113,
+   "caught": 78
   },
-  "falseChalk": 4,
+  "falseChalk": 3,
   "evenSplit": {
-   "mae": 6.261,
-   "chalkMae": 30.36
+   "mae": 5.904,
+   "chalkMae": 30.438
   }
  }
 }
