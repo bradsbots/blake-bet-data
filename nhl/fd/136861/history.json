@@ -1,0 +1,429 @@
+{
+  "sport": "nhl",
+  "site": "fd",
+  "slate": "136861",
+  "date": "2026-11-18",
+  "contest": {
+    "id": 281619180,
+    "label": "$20K Wed NHL Breakaway ($5K to 1st)",
+    "entries": 4370
+  },
+  "generatedAt": "2026-11-19T13:49:14.728Z",
+  "winner": {
+    "rank": 1,
+    "name": "asardinha (109/150)",
+    "points": 199.1,
+    "salary": 55000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 82006,
+        "name": "Nick Suzuki",
+        "team": "MTL",
+        "pos": "C",
+        "salary": 6200,
+        "fpts": 20.5,
+        "own": 30.16
+      },
+      {
+        "slot": "C",
+        "id": 65970,
+        "name": "Pavel Zacha",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 5500,
+        "fpts": 25.3,
+        "own": 19.66
+      },
+      {
+        "slot": "W",
+        "id": 82041,
+        "name": "Morgan Geekie",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 5200,
+        "fpts": 19.7,
+        "own": 15.74
+      },
+      {
+        "slot": "W",
+        "id": 59218,
+        "name": "David Pastrnak",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 7800,
+        "fpts": 31.7,
+        "own": 30.09
+      },
+      {
+        "slot": "D",
+        "id": 200513,
+        "name": "Lane Hutson",
+        "team": "MTL",
+        "pos": "D",
+        "salary": 6000,
+        "fpts": 29.3,
+        "own": 21.21
+      },
+      {
+        "slot": "D",
+        "id": 70912,
+        "name": "Charlie McAvoy",
+        "team": "BOS",
+        "pos": "D",
+        "salary": 4800,
+        "fpts": 3.2,
+        "own": 30.71
+      },
+      {
+        "slot": "UTIL",
+        "id": 70905,
+        "name": "Clayton Keller",
+        "team": "UTA",
+        "pos": "W",
+        "salary": 7600,
+        "fpts": 8.5,
+        "own": 26.29
+      },
+      {
+        "slot": "UTIL",
+        "id": 15283,
+        "name": "Vincent Trocheck",
+        "team": "UTA",
+        "pos": "W",
+        "salary": 4800,
+        "fpts": 28.9,
+        "own": 29.93
+      },
+      {
+        "slot": "G",
+        "id": 159805,
+        "name": "Sebastian Cossa",
+        "team": "UTA",
+        "pos": "G",
+        "salary": 7100,
+        "fpts": 32,
+        "own": 15.51
+      }
+    ]
+  },
+  "optimal": {
+    "points": 240.8,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 65970,
+        "name": "Pavel Zacha",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 5500,
+        "fpts": 25.3,
+        "own": 19.66
+      },
+      {
+        "slot": "C",
+        "id": 80443,
+        "name": "Kevin Stenlund",
+        "team": "UTA",
+        "pos": "C",
+        "salary": 3900,
+        "fpts": 23.2,
+        "own": 0.3
+      },
+      {
+        "slot": "W",
+        "id": 66690,
+        "name": "Timo Meier",
+        "team": "NJD",
+        "pos": "W",
+        "salary": 5800,
+        "fpts": 28,
+        "own": 13.59
+      },
+      {
+        "slot": "W",
+        "id": 82850,
+        "name": "Casey Mittelstadt",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 4900,
+        "fpts": 24.8,
+        "own": 2.56
+      },
+      {
+        "slot": "D",
+        "id": 185805,
+        "name": "Mason Lohrei",
+        "team": "BOS",
+        "pos": "D",
+        "salary": 4200,
+        "fpts": 17.6,
+        "own": 1.24
+      },
+      {
+        "slot": "D",
+        "id": 200513,
+        "name": "Lane Hutson",
+        "team": "MTL",
+        "pos": "D",
+        "salary": 6000,
+        "fpts": 29.3,
+        "own": 21.21
+      },
+      {
+        "slot": "UTIL",
+        "id": 15283,
+        "name": "Vincent Trocheck",
+        "team": "UTA",
+        "pos": "W",
+        "salary": 4800,
+        "fpts": 28.9,
+        "own": 29.93
+      },
+      {
+        "slot": "UTIL",
+        "id": 59218,
+        "name": "David Pastrnak",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 7800,
+        "fpts": 31.7,
+        "own": 30.09
+      },
+      {
+        "slot": "G",
+        "id": 159805,
+        "name": "Sebastian Cossa",
+        "team": "UTA",
+        "pos": "G",
+        "salary": 7100,
+        "fpts": 32,
+        "own": 15.51
+      }
+    ],
+    "assumedZero": 15
+  },
+  "paper": {
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 3730,
+    "pctile": 14.55,
+    "points": 66.6,
+    "salary": 55000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 190889,
+        "name": "Logan Cooley",
+        "team": "UTA",
+        "pos": "C",
+        "salary": 6800,
+        "fpts": 13.3,
+        "own": 28.03
+      },
+      {
+        "slot": "C",
+        "id": 111493,
+        "name": "Jack Hughes",
+        "team": "NJD",
+        "pos": "C",
+        "salary": 8000,
+        "fpts": 6.4,
+        "own": 45.47
+      },
+      {
+        "slot": "W",
+        "id": 82120,
+        "name": "Kailer Yamamoto",
+        "team": "UTA",
+        "pos": "W",
+        "salary": 4500,
+        "fpts": 11.2,
+        "own": 7.85
+      },
+      {
+        "slot": "W",
+        "id": 43022,
+        "name": "Connor Brown",
+        "team": "NJD",
+        "pos": "W",
+        "salary": 4700,
+        "fpts": 4.8,
+        "own": 8.7
+      },
+      {
+        "slot": "D",
+        "id": 113276,
+        "name": "Moritz Seider",
+        "team": "DET",
+        "pos": "D",
+        "salary": 5500,
+        "fpts": 3.2,
+        "own": 35.38
+      },
+      {
+        "slot": "D",
+        "id": 184996,
+        "name": "Luke Hughes",
+        "team": "NJD",
+        "pos": "D",
+        "salary": 5400,
+        "fpts": 1.6,
+        "own": 24.46
+      },
+      {
+        "slot": "UTIL",
+        "id": 70199,
+        "name": "Devon Toews",
+        "team": "COL",
+        "pos": "D",
+        "salary": 5600,
+        "fpts": 8,
+        "own": 19.5
+      },
+      {
+        "slot": "UTIL",
+        "id": 70905,
+        "name": "Clayton Keller",
+        "team": "UTA",
+        "pos": "W",
+        "salary": 7600,
+        "fpts": 8.5,
+        "own": 26.29
+      },
+      {
+        "slot": "G",
+        "id": 104028,
+        "name": "Daniil Tarasov",
+        "team": "DET",
+        "pos": "G",
+        "salary": 6900,
+        "fpts": 9.6,
+        "own": 17.07
+      }
+    ],
+    "money": {
+      "fee": 4.44,
+      "one": {
+        "won": 0,
+        "net": -4.44
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -4.44
+      },
+      "portfolio": {
+        "n": 6,
+        "won": 24,
+        "net": -2.64,
+        "cashed": 2
+      }
+    }
+  },
+  "observationOnly": true,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "BOS": 4,
+        "UTA": 3,
+        "MTL": 2
+      },
+      "games": {
+        "BOS@DET": 4,
+        "COL@UTA": 3,
+        "MTL@NJD": 2
+      },
+      "nGames": 3,
+      "lines": {
+        "BOS f1": 2,
+        "UTA f1": 2
+      },
+      "pp": {
+        "BOS pp1": 4,
+        "MTL pp1": 2,
+        "UTA pp1": 2
+      },
+      "goalie": {
+        "team": "UTA",
+        "opposing": 0
+      },
+      "summary": [
+        "BOS 4 · UTA 3 · MTL 2",
+        "BOS f1 ×2",
+        "UTA f1 ×2",
+        "BOS pp1 ×4",
+        "MTL pp1 ×2",
+        "UTA pp1 ×2",
+        "G UTA",
+        "3 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "BOS": 4,
+        "UTA": 3,
+        "MTL": 1,
+        "NJD": 1
+      },
+      "games": {
+        "BOS@DET": 4,
+        "COL@UTA": 3,
+        "MTL@NJD": 2
+      },
+      "nGames": 3,
+      "lines": {
+        "BOS f2": 2
+      },
+      "pp": {
+        "BOS pp1": 2,
+        "BOS pp2": 2
+      },
+      "goalie": {
+        "team": "UTA",
+        "opposing": 0
+      },
+      "summary": [
+        "BOS 4 · UTA 3",
+        "BOS f2 ×2",
+        "BOS pp1 ×2",
+        "BOS pp2 ×2",
+        "G UTA",
+        "3 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "NJD": 3,
+        "UTA": 3,
+        "DET": 2,
+        "COL": 1
+      },
+      "games": {
+        "COL@UTA": 4,
+        "MTL@NJD": 3,
+        "BOS@DET": 2
+      },
+      "nGames": 3,
+      "lines": {
+        "UTA f1": 2
+      },
+      "pp": {
+        "NJD pp1": 3,
+        "UTA pp1": 2
+      },
+      "goalie": {
+        "team": "DET",
+        "opposing": 0
+      },
+      "summary": [
+        "NJD 3 · UTA 3 · DET 2",
+        "UTA f1 ×2",
+        "NJD pp1 ×3",
+        "UTA pp1 ×2",
+        "G DET",
+        "3 games"
+      ]
+    }
+  }
+}
