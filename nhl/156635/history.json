@@ -1,0 +1,426 @@
+{
+  "sport": "nhl",
+  "slate": "156635",
+  "date": "2026-11-18",
+  "contest": {
+    "id": 197927924,
+    "label": "NHL $30K Overload [$10K to 1st]",
+    "entries": 1764
+  },
+  "generatedAt": "2026-11-19T09:40:30.785Z",
+  "winner": {
+    "rank": 1,
+    "name": "ckk-244ayk (51/52)",
+    "points": 130.5,
+    "salary": 48300,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44988153,
+        "name": "Pavel Zacha",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 5100,
+        "fpts": 18,
+        "own": 10.77
+      },
+      {
+        "slot": "C",
+        "id": 44988157,
+        "name": "Elias Lindholm",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 4100,
+        "fpts": 3,
+        "own": 13.72
+      },
+      {
+        "slot": "W",
+        "id": 44988195,
+        "name": "David Pastrnak",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 7700,
+        "fpts": 26.8,
+        "own": 28.69
+      },
+      {
+        "slot": "W",
+        "id": 44988225,
+        "name": "JJ Peterka",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 4600,
+        "fpts": 12.8,
+        "own": 6.86
+      },
+      {
+        "slot": "W",
+        "id": 44988229,
+        "name": "Morgan Geekie",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 4300,
+        "fpts": 13,
+        "own": 13.03
+      },
+      {
+        "slot": "D",
+        "id": 44988321,
+        "name": "Lane Hutson",
+        "team": "MTL",
+        "pos": "D",
+        "salary": 5700,
+        "fpts": 24.9,
+        "own": 13.72
+      },
+      {
+        "slot": "D",
+        "id": 44988331,
+        "name": "Noah Dobson",
+        "team": "MTL",
+        "pos": "D",
+        "salary": 4500,
+        "fpts": 5.6,
+        "own": 11
+      },
+      {
+        "slot": "G",
+        "id": 44988436,
+        "name": "Jeremy Swayman",
+        "team": "BOS",
+        "pos": "G",
+        "salary": 7500,
+        "fpts": 16.5,
+        "own": 23.07
+      },
+      {
+        "slot": "UTIL",
+        "id": 44988329,
+        "name": "Devon Toews",
+        "team": "COL",
+        "pos": "D",
+        "salary": 4800,
+        "fpts": 9.9,
+        "own": 20.86
+      }
+    ]
+  },
+  "optimal": {
+    "points": 185,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44988139,
+        "name": "Nick Suzuki",
+        "team": "MTL",
+        "pos": "C",
+        "salary": 6800,
+        "fpts": 19,
+        "own": 15.59
+      },
+      {
+        "slot": "C",
+        "id": 44988153,
+        "name": "Pavel Zacha",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 5100,
+        "fpts": 18,
+        "own": 10.77
+      },
+      {
+        "slot": "W",
+        "id": 44988195,
+        "name": "David Pastrnak",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 7700,
+        "fpts": 26.8,
+        "own": 28.69
+      },
+      {
+        "slot": "W",
+        "id": 44988211,
+        "name": "Timo Meier",
+        "team": "NJD",
+        "pos": "W",
+        "salary": 5600,
+        "fpts": 20.6,
+        "own": 14.74
+      },
+      {
+        "slot": "W",
+        "id": 44988251,
+        "name": "Casey Mittelstadt",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 3100,
+        "fpts": 17.6,
+        "own": 2.1
+      },
+      {
+        "slot": "D",
+        "id": 44988321,
+        "name": "Lane Hutson",
+        "team": "MTL",
+        "pos": "D",
+        "salary": 5700,
+        "fpts": 24.9,
+        "own": 13.72
+      },
+      {
+        "slot": "D",
+        "id": 44988363,
+        "name": "Dmitri Simashev",
+        "team": "UTA",
+        "pos": "D",
+        "salary": 2800,
+        "fpts": 13.3,
+        "own": 1.36
+      },
+      {
+        "slot": "G",
+        "id": 44988435,
+        "name": "Sebastian Cossa",
+        "team": "UTA",
+        "pos": "G",
+        "salary": 7600,
+        "fpts": 23.5,
+        "own": 11.62
+      },
+      {
+        "slot": "UTIL",
+        "id": 44988147,
+        "name": "Vincent Trocheck",
+        "team": "UTA",
+        "pos": "C",
+        "salary": 5500,
+        "fpts": 21.3,
+        "own": 19.96
+      }
+    ],
+    "assumedZero": 49
+  },
+  "paper": {
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 1161,
+    "pctile": 33.96,
+    "points": 69,
+    "salary": 49700,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44988137,
+        "name": "Jack Hughes",
+        "team": "NJD",
+        "pos": "C",
+        "salary": 8200,
+        "fpts": 6,
+        "own": 42.8
+      },
+      {
+        "slot": "C",
+        "id": 44988145,
+        "name": "Nazem Kadri",
+        "team": "COL",
+        "pos": "C",
+        "salary": 5600,
+        "fpts": 3,
+        "own": 23.63
+      },
+      {
+        "slot": "W",
+        "id": 44988195,
+        "name": "David Pastrnak",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 7700,
+        "fpts": 26.8,
+        "own": 28.69
+      },
+      {
+        "slot": "W",
+        "id": 44988227,
+        "name": "Arseny Gritsyuk",
+        "team": "NJD",
+        "pos": "W",
+        "salary": 4400,
+        "fpts": 7.3,
+        "own": 23.7
+      },
+      {
+        "slot": "W",
+        "id": 44988263,
+        "name": "Marco Kasper",
+        "team": "DET",
+        "pos": "W",
+        "salary": 2800,
+        "fpts": 6,
+        "own": 14.96
+      },
+      {
+        "slot": "D",
+        "id": 44988333,
+        "name": "Luke Hughes",
+        "team": "NJD",
+        "pos": "D",
+        "salary": 4400,
+        "fpts": 1.5,
+        "own": 25.17
+      },
+      {
+        "slot": "D",
+        "id": 44988329,
+        "name": "Devon Toews",
+        "team": "COL",
+        "pos": "D",
+        "salary": 4800,
+        "fpts": 9.9,
+        "own": 20.86
+      },
+      {
+        "slot": "G",
+        "id": 44988432,
+        "name": "MacKenzie Blackwood",
+        "team": "COL",
+        "pos": "G",
+        "salary": 7800,
+        "fpts": 7,
+        "own": 14.57
+      },
+      {
+        "slot": "UTIL",
+        "id": 44988235,
+        "name": "T.J. Hughes",
+        "team": "COL",
+        "pos": "W",
+        "salary": 4000,
+        "fpts": 1.5,
+        "own": 12.25
+      }
+    ],
+    "money": {
+      "fee": 20,
+      "one": {
+        "won": 0,
+        "net": -20
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -20
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 410,
+        "net": 10,
+        "cashed": 8
+      }
+    }
+  },
+  "observationOnly": true,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "BOS": 6,
+        "MTL": 2,
+        "COL": 1
+      },
+      "games": {
+        "BOS@DET": 6,
+        "MTL@NJD": 2,
+        "COL@UTA": 1
+      },
+      "nGames": 3,
+      "lines": {
+        "BOS f1": 3,
+        "BOS f2": 2
+      },
+      "pp": {
+        "BOS pp1": 4
+      },
+      "goalie": {
+        "team": "BOS",
+        "opposing": 0
+      },
+      "summary": [
+        "BOS 6 · MTL 2",
+        "BOS f1 ×3",
+        "BOS f2 ×2",
+        "BOS pp1 ×4",
+        "G BOS",
+        "3 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "BOS": 3,
+        "UTA": 3,
+        "MTL": 2,
+        "NJD": 1
+      },
+      "games": {
+        "BOS@DET": 3,
+        "COL@UTA": 3,
+        "MTL@NJD": 3
+      },
+      "nGames": 3,
+      "lines": {
+        "BOS f2": 2
+      },
+      "pp": {
+        "BOS pp1": 2,
+        "MTL pp1": 2
+      },
+      "goalie": {
+        "team": "UTA",
+        "opposing": 0
+      },
+      "summary": [
+        "BOS 3 · UTA 3 · MTL 2",
+        "BOS f2 ×2",
+        "BOS pp1 ×2",
+        "MTL pp1 ×2",
+        "G UTA",
+        "3 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "COL": 4,
+        "NJD": 3,
+        "BOS": 1,
+        "DET": 1
+      },
+      "games": {
+        "COL@UTA": 4,
+        "MTL@NJD": 3,
+        "BOS@DET": 2
+      },
+      "nGames": 3,
+      "lines": {
+        "COL f2": 2,
+        "NJD f1": 2
+      },
+      "pp": {
+        "COL pp1": 3,
+        "NJD pp1": 3
+      },
+      "goalie": {
+        "team": "COL",
+        "opposing": 0
+      },
+      "summary": [
+        "COL 4 · NJD 3",
+        "COL f2 ×2",
+        "NJD f1 ×2",
+        "COL pp1 ×3",
+        "NJD pp1 ×3",
+        "G COL",
+        "3 games"
+      ]
+    }
+  }
+}
