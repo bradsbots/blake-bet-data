@@ -2,6 +2,55 @@
  "sport": "nhl",
  "slates": [
   {
+   "slate": "156635",
+   "date": "2026-11-18",
+   "label": "NHL $30K Overload [$10K to 1st]",
+   "entries": 1764,
+   "source": "live",
+   "model": "v2",
+   "predictedAt": "2026-11-19T00:20:41+00:00",
+   "lockAt": "2026-11-19T00:30:00+00:00",
+   "minutesBeforeLock": 9,
+   "n": 138,
+   "mae": 2.113,
+   "mae5": 4.097,
+   "chalkMae": 6.175,
+   "spearman": 0.949,
+   "top10": 0.4,
+   "chalk": {
+    "n": 17,
+    "caught": 15
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Alex DeBrincat",
+     "pos": "W",
+     "team": "DET",
+     "pred": 11.4,
+     "actual": 32.71
+    },
+    {
+     "name": "Devon Toews",
+     "pos": "D",
+     "team": "COL",
+     "pred": 35.02,
+     "actual": 20.86
+    },
+    {
+     "name": "Lucas Raymond",
+     "pos": "W",
+     "team": "DET",
+     "pred": 12.13,
+     "actual": 26.02
+    }
+   ],
+   "evenSplit": {
+    "mae": 7.178,
+    "chalkMae": 19.141
+   }
+  },
+  {
    "slate": "156626",
    "date": "2026-11-17",
    "label": "NHL $60K Overload [$20K to 1st]",
@@ -1621,18 +1670,18 @@
  ],
  "recent": {
   "slates": 10,
-  "n": 3061,
-  "mae": 1.283,
-  "mae5": 3.996,
-  "chalkMae": 7.887,
+  "n": 3010,
+  "mae": 1.257,
+  "mae5": 3.926,
+  "chalkMae": 7.195,
   "chalk": {
-   "n": 71,
-   "caught": 56
+   "n": 79,
+   "caught": 66
   },
-  "falseChalk": 4,
+  "falseChalk": 3,
   "evenSplit": {
-   "mae": 3.264,
-   "chalkMae": 22.48
+   "mae": 3.333,
+   "chalkMae": 21.941
   }
  }
 }
