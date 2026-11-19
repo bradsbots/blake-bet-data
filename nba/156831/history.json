@@ -1,0 +1,356 @@
+{
+  "sport": "nba",
+  "slate": "156831",
+  "date": "2026-11-18",
+  "contest": {
+    "id": 197939237,
+    "label": "NBA $300K Zone Special [$100K to 1st]",
+    "entries": 70198
+  },
+  "generatedAt": "2026-11-19T09:40:18.679Z",
+  "winner": {
+    "rank": 1,
+    "name": "mbhabes (46/150)",
+    "points": 353.5,
+    "salary": 48900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44979615,
+        "name": "Josh Giddey",
+        "team": "CHI",
+        "pos": "PG",
+        "salary": 7400,
+        "fpts": 51,
+        "own": 2.06
+      },
+      {
+        "slot": "SG",
+        "id": 44980033,
+        "name": "Anfernee Simons",
+        "team": "PHI",
+        "pos": "PG",
+        "salary": 4100,
+        "fpts": 25,
+        "own": 21.03
+      },
+      {
+        "slot": "SF",
+        "id": 44979534,
+        "name": "Franz Wagner",
+        "team": "ORL",
+        "pos": "SF",
+        "salary": 9200,
+        "fpts": 63,
+        "own": 11.29
+      },
+      {
+        "slot": "PF",
+        "id": 44979750,
+        "name": "Matas Buzelis",
+        "team": "CHI",
+        "pos": "PF",
+        "salary": 6000,
+        "fpts": 44.75,
+        "own": 4.86
+      },
+      {
+        "slot": "C",
+        "id": 44979565,
+        "name": "Joel Embiid",
+        "team": "PHI",
+        "pos": "C",
+        "salary": 8300,
+        "fpts": 52.5,
+        "own": 16.44
+      },
+      {
+        "slot": "G",
+        "id": 44979979,
+        "name": "Egor Demin",
+        "team": "BKN",
+        "pos": "PG",
+        "salary": 4400,
+        "fpts": 39.5,
+        "own": 2.21
+      },
+      {
+        "slot": "F",
+        "id": 44979745,
+        "name": "AJ Dybantsa",
+        "team": "WAS",
+        "pos": "SF",
+        "salary": 6100,
+        "fpts": 43.5,
+        "own": 2.22
+      },
+      {
+        "slot": "UTIL",
+        "id": 44980219,
+        "name": "Javonte Green",
+        "team": "DET",
+        "pos": "PF",
+        "salary": 3400,
+        "fpts": 34.25,
+        "own": 4.12
+      }
+    ]
+  },
+  "optimal": {
+    "points": 370.25,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44979979,
+        "name": "Egor Demin",
+        "team": "BKN",
+        "pos": "PG",
+        "salary": 4400,
+        "fpts": 39.5,
+        "own": 2.21
+      },
+      {
+        "slot": "SG",
+        "id": 44979711,
+        "name": "VJ Edgecombe",
+        "team": "PHI",
+        "pos": "PG",
+        "salary": 6400,
+        "fpts": 47,
+        "own": 8.27
+      },
+      {
+        "slot": "SF",
+        "id": 44980078,
+        "name": "Kasparas Jakucionis",
+        "team": "MIL",
+        "pos": "PG",
+        "salary": 3900,
+        "fpts": 36.75,
+        "own": 3.93
+      },
+      {
+        "slot": "PF",
+        "id": 44979534,
+        "name": "Franz Wagner",
+        "team": "ORL",
+        "pos": "SF",
+        "salary": 9200,
+        "fpts": 63,
+        "own": 11.29
+      },
+      {
+        "slot": "C",
+        "id": 44979565,
+        "name": "Joel Embiid",
+        "team": "PHI",
+        "pos": "C",
+        "salary": 8300,
+        "fpts": 52.5,
+        "own": 16.44
+      },
+      {
+        "slot": "G",
+        "id": 44979615,
+        "name": "Josh Giddey",
+        "team": "CHI",
+        "pos": "PG",
+        "salary": 7400,
+        "fpts": 51,
+        "own": 2.06
+      },
+      {
+        "slot": "F",
+        "id": 44979750,
+        "name": "Matas Buzelis",
+        "team": "CHI",
+        "pos": "PF",
+        "salary": 6000,
+        "fpts": 44.75,
+        "own": 4.86
+      },
+      {
+        "slot": "UTIL",
+        "id": 44979989,
+        "name": "Jordan Poole",
+        "team": "NOP",
+        "pos": "PG",
+        "salary": 4300,
+        "fpts": 35.75,
+        "own": 1.03
+      }
+    ],
+    "assumedZero": 38
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 57610,
+    "pctile": 17.66,
+    "points": 216.75,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44979674,
+        "name": "Immanuel Quickley",
+        "team": "TOR",
+        "pos": "PG",
+        "salary": 6800,
+        "fpts": 38.75,
+        "own": 52.63
+      },
+      {
+        "slot": "SG",
+        "id": 44979878,
+        "name": "Kevin Huerter",
+        "team": "DET",
+        "pos": "SG",
+        "salary": 4900,
+        "fpts": 26.25,
+        "own": 29.31
+      },
+      {
+        "slot": "SF",
+        "id": 44979725,
+        "name": "Norman Powell",
+        "team": "CHI",
+        "pos": "SG",
+        "salary": 6200,
+        "fpts": 31.5,
+        "own": 29.95
+      },
+      {
+        "slot": "PF",
+        "id": 44979771,
+        "name": "Collin Murray-Boyles",
+        "team": "TOR",
+        "pos": "PF",
+        "salary": 5700,
+        "fpts": 5,
+        "own": 37.53
+      },
+      {
+        "slot": "C",
+        "id": 44979765,
+        "name": "Jalen Smith",
+        "team": "CHI",
+        "pos": "C",
+        "salary": 5900,
+        "fpts": 28,
+        "own": 23.08
+      },
+      {
+        "slot": "G",
+        "id": 44979721,
+        "name": "Daniss Jenkins",
+        "team": "DET",
+        "pos": "PG",
+        "salary": 6200,
+        "fpts": 35,
+        "own": 38.5
+      },
+      {
+        "slot": "F",
+        "id": 44979605,
+        "name": "Julius Randle",
+        "team": "BKN",
+        "pos": "PF",
+        "salary": 7600,
+        "fpts": 25.5,
+        "own": 19.26
+      },
+      {
+        "slot": "UTIL",
+        "id": 44979693,
+        "name": "Ausar Thompson",
+        "team": "DET",
+        "pos": "SF",
+        "salary": 6700,
+        "fpts": 26.75,
+        "own": 21.04
+      }
+    ],
+    "money": {
+      "fee": 5,
+      "one": {
+        "won": 0,
+        "net": -5
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -5
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 8,
+        "net": -92,
+        "cashed": 1
+      }
+    }
+  },
+  "observationOnly": false,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "CHI": 2,
+        "PHI": 2,
+        "BKN": 1,
+        "DET": 1,
+        "ORL": 1,
+        "WAS": 1
+      },
+      "games": {
+        "CHI@BKN": 3,
+        "PHI@ORL": 3,
+        "DET@NOP": 1,
+        "WAS@TOR": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "CHI 2 · PHI 2",
+        "4 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "CHI": 2,
+        "PHI": 2,
+        "BKN": 1,
+        "MIL": 1,
+        "NOP": 1,
+        "ORL": 1
+      },
+      "games": {
+        "CHI@BKN": 3,
+        "PHI@ORL": 3,
+        "DET@NOP": 1,
+        "MIL@MIA": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "CHI 2 · PHI 2",
+        "4 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "DET": 3,
+        "CHI": 2,
+        "TOR": 2,
+        "BKN": 1
+      },
+      "games": {
+        "CHI@BKN": 3,
+        "DET@NOP": 3,
+        "WAS@TOR": 2
+      },
+      "nGames": 3,
+      "summary": [
+        "DET 3 · CHI 2 · TOR 2",
+        "3 games"
+      ]
+    }
+  }
+}
