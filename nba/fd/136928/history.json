@@ -1,0 +1,384 @@
+{
+  "sport": "nba",
+  "site": "fd",
+  "slate": "136928",
+  "date": "2026-11-19",
+  "contest": {
+    "id": 281635231,
+    "label": "$100K Thu NBA Shot ($20K to 1st)",
+    "entries": 13227
+  },
+  "generatedAt": "2026-11-20T20:09:27.032Z",
+  "winner": {
+    "rank": 1,
+    "name": "erik5858 (20/150)",
+    "points": 384.8,
+    "salary": 59900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 9663,
+        "name": "Jrue Holiday",
+        "team": "POR",
+        "pos": "SG/PG",
+        "salary": 5000,
+        "fpts": 42.9,
+        "own": 47.25
+      },
+      {
+        "slot": "SG",
+        "id": 203723,
+        "name": "Stephon Castle",
+        "team": "SAS",
+        "pos": "SG/PG",
+        "salary": 6700,
+        "fpts": 50.2,
+        "own": 46.92
+      },
+      {
+        "slot": "SF",
+        "id": 228127,
+        "name": "Cedric Coward",
+        "team": "MEM",
+        "pos": "SG/SF",
+        "salary": 7100,
+        "fpts": 34.8,
+        "own": 24.35
+      },
+      {
+        "slot": "PF",
+        "id": 188447,
+        "name": "Toumani Camara",
+        "team": "POR",
+        "pos": "SF/PF",
+        "salary": 4400,
+        "fpts": 44.2,
+        "own": 32.71
+      },
+      {
+        "slot": "C",
+        "id": 188414,
+        "name": "Victor Wembanyama",
+        "team": "SAS",
+        "pos": "C",
+        "salary": 12600,
+        "fpts": 52.7,
+        "own": 59.93
+      },
+      {
+        "slot": "G/F",
+        "id": 188428,
+        "name": "Scoot Henderson",
+        "team": "POR",
+        "pos": "PG",
+        "salary": 3900,
+        "fpts": 42.9,
+        "own": 5.16
+      },
+      {
+        "slot": "F/C",
+        "id": 58462,
+        "name": "Karl-Anthony Towns",
+        "team": "NYK",
+        "pos": "C",
+        "salary": 9100,
+        "fpts": 47.4,
+        "own": 46.91
+      },
+      {
+        "slot": "UTIL",
+        "id": 157842,
+        "name": "Charles Bassey",
+        "team": "GSW",
+        "pos": "C",
+        "salary": 4100,
+        "fpts": 40.1,
+        "own": 31.92
+      },
+      {
+        "slot": "UTIL",
+        "id": 203714,
+        "name": "Donovan Clingan",
+        "team": "POR",
+        "pos": "C",
+        "salary": 7000,
+        "fpts": 29.6,
+        "own": 67.01
+      }
+    ]
+  },
+  "optimal": {
+    "points": 396.1,
+    "salary": 58800,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 188428,
+        "name": "Scoot Henderson",
+        "team": "POR",
+        "pos": "PG",
+        "salary": 3900,
+        "fpts": 42.9,
+        "own": 5.16
+      },
+      {
+        "slot": "SG",
+        "id": 203723,
+        "name": "Stephon Castle",
+        "team": "SAS",
+        "pos": "SG/PG",
+        "salary": 6700,
+        "fpts": 50.2,
+        "own": 46.92
+      },
+      {
+        "slot": "SF",
+        "id": 145324,
+        "name": "Devin Vassell",
+        "team": "SAS",
+        "pos": "SF",
+        "salary": 4800,
+        "fpts": 36.8,
+        "own": 14.79
+      },
+      {
+        "slot": "PF",
+        "id": 188447,
+        "name": "Toumani Camara",
+        "team": "POR",
+        "pos": "SF/PF",
+        "salary": 4400,
+        "fpts": 44.2,
+        "own": 32.71
+      },
+      {
+        "slot": "C",
+        "id": 188414,
+        "name": "Victor Wembanyama",
+        "team": "SAS",
+        "pos": "C",
+        "salary": 12600,
+        "fpts": 52.7,
+        "own": 59.93
+      },
+      {
+        "slot": "G/F",
+        "id": 84690,
+        "name": "Jalen Brunson",
+        "team": "NYK",
+        "pos": "PG",
+        "salary": 8200,
+        "fpts": 38.9,
+        "own": 35.31
+      },
+      {
+        "slot": "F/C",
+        "id": 157842,
+        "name": "Charles Bassey",
+        "team": "GSW",
+        "pos": "C",
+        "salary": 4100,
+        "fpts": 40.1,
+        "own": 31.92
+      },
+      {
+        "slot": "UTIL",
+        "id": 9663,
+        "name": "Jrue Holiday",
+        "team": "POR",
+        "pos": "SG/PG",
+        "salary": 5000,
+        "fpts": 42.9,
+        "own": 47.25
+      },
+      {
+        "slot": "UTIL",
+        "id": 58462,
+        "name": "Karl-Anthony Towns",
+        "team": "NYK",
+        "pos": "C",
+        "salary": 9100,
+        "fpts": 47.4,
+        "own": 46.91
+      }
+    ],
+    "assumedZero": 44
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 3498,
+    "pctile": 73.39,
+    "points": 324.1,
+    "salary": 60000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 80810,
+        "name": "De'Aaron Fox",
+        "team": "SAS",
+        "pos": "PG",
+        "salary": 6000,
+        "fpts": 18.9,
+        "own": 31.66
+      },
+      {
+        "slot": "SG",
+        "id": 203723,
+        "name": "Stephon Castle",
+        "team": "SAS",
+        "pos": "SG/PG",
+        "salary": 6700,
+        "fpts": 50.2,
+        "own": 46.92
+      },
+      {
+        "slot": "SF",
+        "id": 40562,
+        "name": "Josh Hart",
+        "team": "NYK",
+        "pos": "SF/PF",
+        "salary": 4500,
+        "fpts": 19.2,
+        "own": 11.1
+      },
+      {
+        "slot": "PF",
+        "id": 188447,
+        "name": "Toumani Camara",
+        "team": "POR",
+        "pos": "SF/PF",
+        "salary": 4400,
+        "fpts": 44.2,
+        "own": 32.71
+      },
+      {
+        "slot": "C",
+        "id": 203730,
+        "name": "Kel'el Ware",
+        "team": "MIL",
+        "pos": "C",
+        "salary": 4700,
+        "fpts": 19,
+        "own": 42.74
+      },
+      {
+        "slot": "G/F",
+        "id": 9663,
+        "name": "Jrue Holiday",
+        "team": "POR",
+        "pos": "SG/PG",
+        "salary": 5000,
+        "fpts": 42.9,
+        "own": 47.25
+      },
+      {
+        "slot": "F/C",
+        "id": 203714,
+        "name": "Donovan Clingan",
+        "team": "POR",
+        "pos": "C",
+        "salary": 7000,
+        "fpts": 29.6,
+        "own": 67.01
+      },
+      {
+        "slot": "UTIL",
+        "id": 58462,
+        "name": "Karl-Anthony Towns",
+        "team": "NYK",
+        "pos": "C",
+        "salary": 9100,
+        "fpts": 47.4,
+        "own": 46.91
+      },
+      {
+        "slot": "UTIL",
+        "id": 188414,
+        "name": "Victor Wembanyama",
+        "team": "SAS",
+        "pos": "C",
+        "salary": 12600,
+        "fpts": 52.7,
+        "own": 59.93
+      }
+    ],
+    "money": {
+      "fee": 9,
+      "one": {
+        "won": 0,
+        "net": -9
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -9
+      },
+      "portfolio": {
+        "n": 3,
+        "won": 0,
+        "net": -27,
+        "cashed": 0
+      }
+    }
+  },
+  "observationOnly": false,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "POR": 4,
+        "SAS": 2,
+        "GSW": 1,
+        "MEM": 1,
+        "NYK": 1
+      },
+      "games": {
+        "POR@MIL": 4,
+        "GSW@MEM": 2,
+        "LAC@SAS": 2,
+        "NYK@MIN": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "POR 4 · SAS 2",
+        "4 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "POR": 3,
+        "SAS": 3,
+        "NYK": 2,
+        "GSW": 1
+      },
+      "games": {
+        "LAC@SAS": 3,
+        "POR@MIL": 3,
+        "NYK@MIN": 2,
+        "GSW@MEM": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "POR 3 · SAS 3 · NYK 2",
+        "4 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "POR": 3,
+        "SAS": 3,
+        "NYK": 2,
+        "MIL": 1
+      },
+      "games": {
+        "POR@MIL": 4,
+        "LAC@SAS": 3,
+        "NYK@MIN": 2
+      },
+      "nGames": 3,
+      "summary": [
+        "POR 3 · SAS 3 · NYK 2",
+        "3 games"
+      ]
+    }
+  }
+}

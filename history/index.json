@@ -1,6 +1,25 @@
 [
   {
     "sport": "nba",
+    "site": "fd",
+    "slate": "136928",
+    "date": "2026-11-19",
+    "label": "$100K Thu NBA Shot ($20K to 1st)",
+    "contestId": 281635231,
+    "entries": 13227,
+    "winnerPoints": 384.8,
+    "optimalPoints": 396.1,
+    "paperPoints": 324.1,
+    "paperPctile": 73.39,
+    "paperNet1": -9,
+    "paperNet1Defaults": -9,
+    "portfolioNet": -27,
+    "portfolioCashed": 0,
+    "portfolioN": 3,
+    "observationOnly": false
+  },
+  {
+    "sport": "nba",
     "slate": "157035",
     "date": "2026-11-19",
     "label": "NBA $200K Fadeaway [$50K to 1st]",
