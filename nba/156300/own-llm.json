@@ -1,0 +1,72 @@
+{
+ "sport": "nba",
+ "slate": "156300",
+ "llm": "gpt-oss:20b",
+ "promptVersion": 3,
+ "mode": "search",
+ "calledAt": "2026-11-20T15:15:02+00:00",
+ "finishedAt": "2026-11-20T15:15:26+00:00",
+ "lockAt": "2026-11-21T00:00:00+00:00",
+ "minutesBeforeLock": 525,
+ "slateExportedAt": "2026-11-20T15:00:35.264919+00:00",
+ "modelCall": {
+  "model": "v2",
+  "predictedAt": "2026-11-20T15:00:36+00:00"
+ },
+ "cap": 70.0,
+ "complete": true,
+ "seconds": 23.8,
+ "asked": 30,
+ "kept": 29,
+ "echo": 29,
+ "searches": [
+  "DraftKings NBA classic slate 156300 ownership talk November 20 2026",
+  "Jalen Smith DraftKings ownership November 20 2026",
+  "slate 156300 DraftKings ownership"
+ ],
+ "searchBackends": [
+  "tavily",
+  "tavily",
+  "tavily"
+ ],
+ "keyedSearch": true,
+ "refusedSearches": [],
+ "availabilityCut": 0.02,
+ "dropped": [
+  {
+   "id": "45020673",
+   "why": "missing"
+  }
+ ],
+ "players": {
+  "45020853": {"name": "Tre Jones", "pos": "PG", "team": "CHI", "model": 37.72, "llm": 37.72, "reason": "Model aligns with expected ownership"},
+  "45020663": {"name": "AJ Dybantsa", "pos": "SF", "team": "WAS", "model": 22.99, "llm": 22.99, "reason": "Model aligns with expected ownership"},
+  "45020661": {"name": "Jarrett Allen", "pos": "C", "team": "CLE", "model": 22.12, "llm": 22.12, "reason": "Model aligns with expected ownership"},
+  "45020642": {"name": "Norman Powell", "pos": "SG", "team": "CHI", "model": 21.14, "llm": 21.14, "reason": "Model aligns with expected ownership"},
+  "45020524": {"name": "Scottie Barnes", "pos": "PG", "team": "TOR", "model": 20.78, "llm": 20.78, "reason": "Model aligns with expected ownership"},
+  "45020657": {"name": "Anthony Black", "pos": "PG", "team": "ORL", "model": 20.7, "llm": 20.7, "reason": "Model aligns with expected ownership"},
+  "45020583": {"name": "Nickeil Alexander-Walker", "pos": "PG", "team": "ATL", "model": 19.55, "llm": 19.55, "reason": "Model aligns with expected ownership"},
+  "45020529": {"name": "Donovan Mitchell", "pos": "SG", "team": "CLE", "model": 17.05, "llm": 17.05, "reason": "Model aligns with expected ownership"},
+  "45020723": {"name": "Jalen Suggs", "pos": "PG", "team": "ORL", "model": 16.98, "llm": 16.98, "reason": "Model aligns with expected ownership"},
+  "45020636": {"name": "Onyeka Okongwu", "pos": "C", "team": "ATL", "model": 16.15, "llm": 16.15, "reason": "Model match"},
+  "45020633": {"name": "Kyshawn George", "pos": "SG", "team": "WAS", "model": 15.93, "llm": 15.93, "reason": "Model match"},
+  "45020709": {"name": "Jakob Poeltl", "pos": "C", "team": "TOR", "model": 15.77, "llm": 15.77, "reason": "Model match"},
+  "45020518": {"name": "Anthony Davis", "pos": "PF", "team": "WAS", "model": 15.59, "llm": 15.59, "reason": "Model match"},
+  "45020686": {"name": "Alexandre Sarr", "pos": "C", "team": "WAS", "model": 15.19, "llm": 15.19, "reason": "Model match"},
+  "45020566": {"name": "Julius Randle", "pos": "PF", "team": "BKN", "model": 14.34, "llm": 14.34, "reason": "Model match"},
+  "45020738": {"name": "Kevin Huerter", "pos": "SG", "team": "DET", "model": 13.96, "llm": 13.96, "reason": "Model match"},
+  "45020546": {"name": "Trae Young", "pos": "PG", "team": "WAS", "model": 13.69, "llm": 13.69, "reason": "Model match"},
+  "45020679": {"name": "Moussa Diabate", "pos": "C", "team": "CHA", "model": 13.6, "llm": 13.6, "reason": "Model match"},
+  "45020614": {"name": "Isaiah Hartenstein", "pos": "C", "team": "OKC", "model": 13.26, "llm": 13.26, "reason": "Model match"},
+  "45020552": {"name": "James Harden", "pos": "PG", "team": "CLE", "model": 12.83, "llm": 12.83, "reason": "Model aligns with slate expectations"},
+  "45020572": {"name": "Zion Williamson", "pos": "PF", "team": "NOP", "model": 12.8, "llm": 12.8, "reason": "Model aligns with slate expectations"},
+  "45020578": {"name": "Michael Porter Jr.", "pos": "SG", "team": "BKN", "model": 12.76, "llm": 12.76, "reason": "Model aligns with slate expectations"},
+  "45020511": {"name": "Franz Wagner", "pos": "SF", "team": "ORL", "model": 12.45, "llm": 12.45, "reason": "Model aligns with slate expectations"},
+  "45020535": {"name": "Pascal Siakam", "pos": "PF", "team": "IND", "model": 12.43, "llm": 12.43, "reason": "Model aligns with slate expectations"},
+  "45020616": {"name": "Desmond Bane", "pos": "SG", "team": "ORL", "model": 12.39, "llm": 12.39, "reason": "Model aligns with slate expectations"},
+  "45020603": {"name": "Dyson Daniels", "pos": "PG", "team": "ATL", "model": 12.35, "llm": 12.35, "reason": "Model aligns with slate expectations"},
+  "45020555": {"name": "Naz Reid", "pos": "PF", "team": "CHA", "model": 12.29, "llm": 12.29, "reason": "Model aligns with slate expectations"},
+  "45020515": {"name": "Jalen Johnson", "pos": "PF", "team": "ATL", "model": 10.7, "llm": 10.7, "reason": "Model aligns with slate expectations"},
+  "45020549": {"name": "Josh Giddey", "pos": "PG", "team": "CHI", "model": 10.7, "llm": 10.7, "reason": "Model aligns with slate expectations"}
+ }
+}
