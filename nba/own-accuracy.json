@@ -2,6 +2,55 @@
  "sport": "nba",
  "slates": [
   {
+   "slate": "157035",
+   "date": "2026-11-19",
+   "label": "NBA $200K Fadeaway [$50K to 1st]",
+   "entries": 13071,
+   "source": "live",
+   "model": "v2",
+   "predictedAt": "2026-11-20T00:00:08+00:00",
+   "lockAt": "2026-11-20T01:00:00+00:00",
+   "minutesBeforeLock": 60,
+   "n": 114,
+   "mae": 4.048,
+   "mae5": 8.473,
+   "chalkMae": 12.355,
+   "spearman": 0.8488,
+   "top10": 0.8,
+   "chalk": {
+    "n": 14,
+    "caught": 12
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Taylor Hendricks",
+     "pos": "ALL",
+     "team": "MEM",
+     "pred": 2.72,
+     "actual": 38.21
+    },
+    {
+     "name": "Jrue Holiday",
+     "pos": "ALL",
+     "team": "POR",
+     "pred": 16.35,
+     "actual": 42.86
+    },
+    {
+     "name": "Damian Lillard",
+     "pos": "ALL",
+     "team": "POR",
+     "pred": 24.82,
+     "actual": 48.15
+    }
+   ],
+   "evenSplit": {
+    "mae": 8.972,
+    "chalkMae": 29.98
+   }
+  },
+  {
    "slate": "156831",
    "date": "2026-11-18",
    "label": "NBA $300K Zone Special [$100K to 1st]",
@@ -935,18 +984,18 @@
  ],
  "recent": {
   "slates": 10,
-  "n": 1750,
-  "mae": 2.696,
-  "mae5": 7.188,
-  "chalkMae": 14.459,
+  "n": 1661,
+  "mae": 2.815,
+  "mae5": 7.332,
+  "chalkMae": 14.258,
   "chalk": {
-   "n": 113,
-   "caught": 78
+   "n": 118,
+   "caught": 82
   },
   "falseChalk": 3,
   "evenSplit": {
-   "mae": 5.904,
-   "chalkMae": 30.438
+   "mae": 6.204,
+   "chalkMae": 29.942
   }
  }
 }
