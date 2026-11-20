@@ -1,0 +1,429 @@
+{
+  "sport": "nhl",
+  "slate": "156935",
+  "date": "2026-11-19",
+  "contest": {
+    "id": 197951024,
+    "label": "NHL $35K Overload [$10K to 1st]",
+    "entries": 2058
+  },
+  "generatedAt": "2026-11-20T09:40:31.952Z",
+  "winner": {
+    "rank": 1,
+    "name": "prettihunter3",
+    "points": 177,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44999638,
+        "name": "Joel Eriksson Ek",
+        "team": "MIN",
+        "pos": "C",
+        "salary": 5800,
+        "fpts": 17.8,
+        "own": 17.01
+      },
+      {
+        "slot": "C",
+        "id": 44999656,
+        "name": "Robert Thomas",
+        "team": "STL",
+        "pos": "C",
+        "salary": 5100,
+        "fpts": 21,
+        "own": 5.79
+      },
+      {
+        "slot": "W",
+        "id": 44999892,
+        "name": "Kirill Kaprizov",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 8100,
+        "fpts": 24.3,
+        "own": 21.28
+      },
+      {
+        "slot": "W",
+        "id": 44999896,
+        "name": "Matt Boldy",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 7800,
+        "fpts": 27.3,
+        "own": 19.53
+      },
+      {
+        "slot": "W",
+        "id": 45000058,
+        "name": "Jake Neighbours",
+        "team": "STL",
+        "pos": "W",
+        "salary": 3700,
+        "fpts": 16,
+        "own": 5.69
+      },
+      {
+        "slot": "D",
+        "id": 45000526,
+        "name": "Erik Gustafsson",
+        "team": "LAK",
+        "pos": "D",
+        "salary": 3400,
+        "fpts": 7.6,
+        "own": 3.11
+      },
+      {
+        "slot": "D",
+        "id": 45000542,
+        "name": "Jamie Drysdale",
+        "team": "PHI",
+        "pos": "D",
+        "salary": 3200,
+        "fpts": 25.6,
+        "own": 2.87
+      },
+      {
+        "slot": "G",
+        "id": 45000873,
+        "name": "Jake Oettinger",
+        "team": "DAL",
+        "pos": "G",
+        "salary": 7500,
+        "fpts": 14.4,
+        "own": 7
+      },
+      {
+        "slot": "UTIL",
+        "id": 44999950,
+        "name": "Jimmy Snuggerud",
+        "team": "STL",
+        "pos": "W",
+        "salary": 5400,
+        "fpts": 23,
+        "own": 5.01
+      }
+    ]
+  },
+  "optimal": {
+    "points": 266.6,
+    "salary": 43000,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44999650,
+        "name": "Brock Nelson",
+        "team": "COL",
+        "pos": "C",
+        "salary": 5400,
+        "fpts": 30.6,
+        "own": 2.18
+      },
+      {
+        "slot": "C",
+        "id": 44999696,
+        "name": "Berkly Catton",
+        "team": "SEA",
+        "pos": "C",
+        "salary": 3800,
+        "fpts": 37.5,
+        "own": 5.69
+      },
+      {
+        "slot": "W",
+        "id": 44999938,
+        "name": "Rickard Rakell",
+        "team": "PIT",
+        "pos": "W",
+        "salary": 5800,
+        "fpts": 30.5,
+        "own": 3.45
+      },
+      {
+        "slot": "W",
+        "id": 44999966,
+        "name": "Jack Quinn",
+        "team": "BUF",
+        "pos": "W",
+        "salary": 5200,
+        "fpts": 29.5,
+        "own": 2.28
+      },
+      {
+        "slot": "W",
+        "id": 45000010,
+        "name": "Travis Konecny",
+        "team": "PHI",
+        "pos": "W",
+        "salary": 4200,
+        "fpts": 29.5,
+        "own": 0.93
+      },
+      {
+        "slot": "D",
+        "id": 45000542,
+        "name": "Jamie Drysdale",
+        "team": "PHI",
+        "pos": "D",
+        "salary": 3200,
+        "fpts": 25.6,
+        "own": 2.87
+      },
+      {
+        "slot": "D",
+        "id": 45000556,
+        "name": "Cam York",
+        "team": "PHI",
+        "pos": "D",
+        "salary": 3100,
+        "fpts": 28.4,
+        "own": 0.05
+      },
+      {
+        "slot": "G",
+        "id": 45000850,
+        "name": "Scott Wedgewood",
+        "team": "COL",
+        "pos": "G",
+        "salary": 8100,
+        "fpts": 27.5,
+        "own": 0.63
+      },
+      {
+        "slot": "UTIL",
+        "id": 45000020,
+        "name": "Matthew Knies",
+        "team": "CBJ",
+        "pos": "W",
+        "salary": 4200,
+        "fpts": 27.5,
+        "own": 7.92
+      }
+    ],
+    "assumedZero": 264
+  },
+  "paper": {
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 1153,
+    "pctile": 44.02,
+    "points": 95,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "C",
+        "id": 44999622,
+        "name": "Mark Scheifele",
+        "team": "WPG",
+        "pos": "C",
+        "salary": 6700,
+        "fpts": 20.8,
+        "own": 10.45
+      },
+      {
+        "slot": "C",
+        "id": 44999626,
+        "name": "Bo Horvat",
+        "team": "NYI",
+        "pos": "C",
+        "salary": 6500,
+        "fpts": 0,
+        "own": 3.64
+      },
+      {
+        "slot": "W",
+        "id": 44999894,
+        "name": "Kyle Connor",
+        "team": "WPG",
+        "pos": "W",
+        "salary": 7900,
+        "fpts": 17.8,
+        "own": 13.26
+      },
+      {
+        "slot": "W",
+        "id": 45000092,
+        "name": "Matias Maccelli",
+        "team": "NYI",
+        "pos": "W",
+        "salary": 3200,
+        "fpts": 1.5,
+        "own": 3.3
+      },
+      {
+        "slot": "W",
+        "id": 45000166,
+        "name": "Alexandre Texier",
+        "team": "MTL",
+        "pos": "W",
+        "salary": 2700,
+        "fpts": 4.3,
+        "own": 1.21
+      },
+      {
+        "slot": "D",
+        "id": 45000418,
+        "name": "Matthew Schaefer",
+        "team": "NYI",
+        "pos": "D",
+        "salary": 7000,
+        "fpts": 8.6,
+        "own": 9.81
+      },
+      {
+        "slot": "D",
+        "id": 45000460,
+        "name": "Neal Pionk",
+        "team": "WPG",
+        "pos": "D",
+        "salary": 4600,
+        "fpts": 1.3,
+        "own": 0.29
+      },
+      {
+        "slot": "G",
+        "id": 45000852,
+        "name": "Cam Talbot",
+        "team": "CBJ",
+        "pos": "G",
+        "salary": 8100,
+        "fpts": 15.1,
+        "own": 2.53
+      },
+      {
+        "slot": "UTIL",
+        "id": 45000542,
+        "name": "Jamie Drysdale",
+        "team": "PHI",
+        "pos": "D",
+        "salary": 3200,
+        "fpts": 25.6,
+        "own": 2.87
+      }
+    ],
+    "money": {
+      "fee": 20,
+      "one": {
+        "won": 0,
+        "net": -20
+      },
+      "oneDefaults": {
+        "won": 30,
+        "net": 10
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 170,
+        "net": -230,
+        "cashed": 5
+      }
+    }
+  },
+  "observationOnly": false,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "MIN": 3,
+        "STL": 3,
+        "DAL": 1,
+        "LAK": 1,
+        "PHI": 1
+      },
+      "games": {
+        "MIN@CGY": 3,
+        "STL@PIT": 3,
+        "DAL@VGK": 1,
+        "LAK@TOR": 1,
+        "PHI@OTT": 1
+      },
+      "nGames": 5,
+      "lines": {
+        "MIN f1": 3,
+        "STL f1": 3
+      },
+      "pp": {
+        "MIN pp1": 3,
+        "STL pp1": 3
+      },
+      "goalie": {
+        "team": "DAL",
+        "opposing": 0
+      },
+      "summary": [
+        "MIN 3 · STL 3",
+        "MIN f1 ×3",
+        "STL f1 ×3",
+        "MIN pp1 ×3",
+        "STL pp1 ×3",
+        "G DAL",
+        "5 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "PHI": 3,
+        "COL": 2,
+        "BUF": 1,
+        "CBJ": 1,
+        "PIT": 1,
+        "SEA": 1
+      },
+      "games": {
+        "PHI@OTT": 3,
+        "ANA@COL": 2,
+        "BUF@WSH": 1,
+        "CBJ@CHI": 1,
+        "STL@PIT": 1,
+        "VAN@SEA": 1
+      },
+      "nGames": 6,
+      "lines": {},
+      "pp": {},
+      "goalie": {
+        "team": "COL",
+        "opposing": 0
+      },
+      "summary": [
+        "PHI 3 · COL 2",
+        "G COL",
+        "6 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "NYI": 3,
+        "WPG": 3,
+        "CBJ": 1,
+        "MTL": 1,
+        "PHI": 1
+      },
+      "games": {
+        "NYI@WPG": 6,
+        "CBJ@CHI": 1,
+        "MTL@CAR": 1,
+        "PHI@OTT": 1
+      },
+      "nGames": 4,
+      "lines": {
+        "WPG f1": 2
+      },
+      "pp": {
+        "NYI pp1": 3,
+        "WPG pp1": 2
+      },
+      "goalie": {
+        "team": "CBJ",
+        "opposing": 0
+      },
+      "summary": [
+        "NYI 3 · WPG 3",
+        "WPG f1 ×2",
+        "NYI pp1 ×3",
+        "WPG pp1 ×2",
+        "G CBJ",
+        "4 games"
+      ]
+    }
+  }
+}
