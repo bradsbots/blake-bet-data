@@ -1,0 +1,354 @@
+{
+  "sport": "nba",
+  "slate": "157035",
+  "date": "2026-11-19",
+  "contest": {
+    "id": 197973226,
+    "label": "NBA $200K Fadeaway [$50K to 1st]",
+    "entries": 13071
+  },
+  "generatedAt": "2026-11-20T09:40:16.693Z",
+  "winner": {
+    "rank": 1,
+    "name": "bkreider (132/150)",
+    "points": 330.5,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44998169,
+        "name": "Scoot Henderson",
+        "team": "POR",
+        "pos": "PG",
+        "salary": 4500,
+        "fpts": 45.25,
+        "own": 14.71
+      },
+      {
+        "slot": "SG",
+        "id": 44998033,
+        "name": "Stephon Castle",
+        "team": "SAS",
+        "pos": "SG",
+        "salary": 7200,
+        "fpts": 53,
+        "own": 37.15
+      },
+      {
+        "slot": "SF",
+        "id": 44998199,
+        "name": "Sidy Cissoko",
+        "team": "POR",
+        "pos": "SG",
+        "salary": 4200,
+        "fpts": 30.25,
+        "own": 15.52
+      },
+      {
+        "slot": "PF",
+        "id": 44997977,
+        "name": "Karl-Anthony Towns",
+        "team": "NYK",
+        "pos": "PF",
+        "salary": 9600,
+        "fpts": 49.5,
+        "own": 25.85
+      },
+      {
+        "slot": "C",
+        "id": 44998212,
+        "name": "Charles Bassey",
+        "team": "GSW",
+        "pos": "C",
+        "salary": 4100,
+        "fpts": 40.25,
+        "own": 38.02
+      },
+      {
+        "slot": "G",
+        "id": 44998025,
+        "name": "Damian Lillard",
+        "team": "POR",
+        "pos": "PG",
+        "salary": 7600,
+        "fpts": 41,
+        "own": 48.15
+      },
+      {
+        "slot": "F",
+        "id": 44998076,
+        "name": "Jrue Holiday",
+        "team": "POR",
+        "pos": "PG",
+        "salary": 5900,
+        "fpts": 42,
+        "own": 42.86
+      },
+      {
+        "slot": "UTIL",
+        "id": 44998040,
+        "name": "Donovan Clingan",
+        "team": "POR",
+        "pos": "C",
+        "salary": 6900,
+        "fpts": 29.25,
+        "own": 60.67
+      }
+    ]
+  },
+  "optimal": {
+    "points": 348.25,
+    "salary": 49500,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44998121,
+        "name": "Ryan Rollins",
+        "team": "MIL",
+        "pos": "PG",
+        "salary": 5100,
+        "fpts": 34.75,
+        "own": 18.79
+      },
+      {
+        "slot": "SG",
+        "id": 44998169,
+        "name": "Scoot Henderson",
+        "team": "POR",
+        "pos": "PG",
+        "salary": 4500,
+        "fpts": 45.25,
+        "own": 14.71
+      },
+      {
+        "slot": "SF",
+        "id": 44998090,
+        "name": "Toumani Camara",
+        "team": "POR",
+        "pos": "SF",
+        "salary": 5500,
+        "fpts": 42.5,
+        "own": 16.64
+      },
+      {
+        "slot": "PF",
+        "id": 44997977,
+        "name": "Karl-Anthony Towns",
+        "team": "NYK",
+        "pos": "PF",
+        "salary": 9600,
+        "fpts": 49.5,
+        "own": 25.85
+      },
+      {
+        "slot": "C",
+        "id": 44998212,
+        "name": "Charles Bassey",
+        "team": "GSW",
+        "pos": "C",
+        "salary": 4100,
+        "fpts": 40.25,
+        "own": 38.02
+      },
+      {
+        "slot": "G",
+        "id": 44998033,
+        "name": "Stephon Castle",
+        "team": "SAS",
+        "pos": "SG",
+        "salary": 7200,
+        "fpts": 53,
+        "own": 37.15
+      },
+      {
+        "slot": "F",
+        "id": 44998076,
+        "name": "Jrue Holiday",
+        "team": "POR",
+        "pos": "PG",
+        "salary": 5900,
+        "fpts": 42,
+        "own": 42.86
+      },
+      {
+        "slot": "UTIL",
+        "id": 44998025,
+        "name": "Damian Lillard",
+        "team": "POR",
+        "pos": "PG",
+        "salary": 7600,
+        "fpts": 41,
+        "own": 48.15
+      }
+    ],
+    "assumedZero": 42
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 10203,
+    "pctile": 21.54,
+    "points": 241,
+    "salary": 49800,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 44998042,
+        "name": "De'Aaron Fox",
+        "team": "SAS",
+        "pos": "PG",
+        "salary": 6800,
+        "fpts": 20,
+        "own": 17.91
+      },
+      {
+        "slot": "SG",
+        "id": 44998033,
+        "name": "Stephon Castle",
+        "team": "SAS",
+        "pos": "SG",
+        "salary": 7200,
+        "fpts": 53,
+        "own": 37.15
+      },
+      {
+        "slot": "SF",
+        "id": 44998068,
+        "name": "Cam Spencer",
+        "team": "MEM",
+        "pos": "SG",
+        "salary": 6000,
+        "fpts": 30,
+        "own": 38.59
+      },
+      {
+        "slot": "PF",
+        "id": 44998129,
+        "name": "Kel'el Ware",
+        "team": "MIL",
+        "pos": "PF",
+        "salary": 5000,
+        "fpts": 20.25,
+        "own": 47.83
+      },
+      {
+        "slot": "C",
+        "id": 44998271,
+        "name": "Al Horford",
+        "team": "GSW",
+        "pos": "C",
+        "salary": 3500,
+        "fpts": 11.5,
+        "own": 6.55
+      },
+      {
+        "slot": "G",
+        "id": 44998025,
+        "name": "Damian Lillard",
+        "team": "POR",
+        "pos": "PG",
+        "salary": 7600,
+        "fpts": 41,
+        "own": 48.15
+      },
+      {
+        "slot": "F",
+        "id": 44998045,
+        "name": "Cedric Coward",
+        "team": "MEM",
+        "pos": "SG",
+        "salary": 6800,
+        "fpts": 36,
+        "own": 33.52
+      },
+      {
+        "slot": "UTIL",
+        "id": 44998040,
+        "name": "Donovan Clingan",
+        "team": "POR",
+        "pos": "C",
+        "salary": 6900,
+        "fpts": 29.25,
+        "own": 60.67
+      }
+    ],
+    "money": {
+      "fee": 18,
+      "one": {
+        "won": 0,
+        "net": -18
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -18
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 206.9,
+        "net": -153.1,
+        "cashed": 5
+      }
+    }
+  },
+  "observationOnly": false,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "POR": 5,
+        "GSW": 1,
+        "NYK": 1,
+        "SAS": 1
+      },
+      "games": {
+        "POR@MIL": 5,
+        "GSW@MEM": 1,
+        "LAC@SAS": 1,
+        "NYK@MIN": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "POR 5",
+        "4 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "POR": 4,
+        "GSW": 1,
+        "MIL": 1,
+        "NYK": 1,
+        "SAS": 1
+      },
+      "games": {
+        "POR@MIL": 5,
+        "GSW@MEM": 1,
+        "LAC@SAS": 1,
+        "NYK@MIN": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "POR 4",
+        "4 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "MEM": 2,
+        "POR": 2,
+        "SAS": 2,
+        "GSW": 1,
+        "MIL": 1
+      },
+      "games": {
+        "GSW@MEM": 3,
+        "POR@MIL": 3,
+        "LAC@SAS": 2
+      },
+      "nGames": 3,
+      "summary": [
+        "MEM 2 · POR 2 · SAS 2",
+        "3 games"
+      ]
+    }
+  }
+}
