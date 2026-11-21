@@ -1,0 +1,362 @@
+{
+  "sport": "nba",
+  "slate": "156300",
+  "date": "2026-11-20",
+  "contest": {
+    "id": 198005552,
+    "label": "NBA $300K Friday 8's [$100K to 1st]",
+    "entries": 42277
+  },
+  "generatedAt": "2026-11-21T09:40:26.745Z",
+  "winner": {
+    "rank": 1,
+    "name": "judsotron (102/150)",
+    "points": 352,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 45020552,
+        "name": "James Harden",
+        "team": "CLE",
+        "pos": "PG",
+        "salary": 7500,
+        "fpts": 72,
+        "own": 6.39
+      },
+      {
+        "slot": "SG",
+        "id": 45020657,
+        "name": "Anthony Black",
+        "team": "ORL",
+        "pos": "PG",
+        "salary": 6400,
+        "fpts": 39.25,
+        "own": 30.56
+      },
+      {
+        "slot": "SF",
+        "id": 45020663,
+        "name": "AJ Dybantsa",
+        "team": "WAS",
+        "pos": "SF",
+        "salary": 6300,
+        "fpts": 48.5,
+        "own": 38.4
+      },
+      {
+        "slot": "PF",
+        "id": 45020705,
+        "name": "Aday Mara",
+        "team": "OKC",
+        "pos": "PF",
+        "salary": 5500,
+        "fpts": 50,
+        "own": 24.9
+      },
+      {
+        "slot": "C",
+        "id": 45020709,
+        "name": "Jakob Poeltl",
+        "team": "TOR",
+        "pos": "C",
+        "salary": 5500,
+        "fpts": 29.75,
+        "own": 10.69
+      },
+      {
+        "slot": "G",
+        "id": 45020738,
+        "name": "Kevin Huerter",
+        "team": "DET",
+        "pos": "SG",
+        "salary": 5200,
+        "fpts": 31.25,
+        "own": 13.86
+      },
+      {
+        "slot": "F",
+        "id": 45020511,
+        "name": "Franz Wagner",
+        "team": "ORL",
+        "pos": "SF",
+        "salary": 9700,
+        "fpts": 53.75,
+        "own": 13.87
+      },
+      {
+        "slot": "UTIL",
+        "id": 45020884,
+        "name": "Bennett Stirtz",
+        "team": "OKC",
+        "pos": "PG",
+        "salary": 3900,
+        "fpts": 27.5,
+        "own": 0.43
+      }
+    ]
+  },
+  "optimal": {
+    "points": 395.75,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 45020603,
+        "name": "Dyson Daniels",
+        "team": "ATL",
+        "pos": "PG",
+        "salary": 6800,
+        "fpts": 45,
+        "own": 10.8
+      },
+      {
+        "slot": "SG",
+        "id": 45020657,
+        "name": "Anthony Black",
+        "team": "ORL",
+        "pos": "PG",
+        "salary": 6400,
+        "fpts": 39.25,
+        "own": 30.56
+      },
+      {
+        "slot": "SF",
+        "id": 45020849,
+        "name": "Allen Graves",
+        "team": "TOR",
+        "pos": "SF",
+        "salary": 4200,
+        "fpts": 44.5,
+        "own": 1.65
+      },
+      {
+        "slot": "PF",
+        "id": 45020566,
+        "name": "Julius Randle",
+        "team": "BKN",
+        "pos": "PF",
+        "salary": 7300,
+        "fpts": 52.25,
+        "own": 8.78
+      },
+      {
+        "slot": "C",
+        "id": 45020679,
+        "name": "Moussa Diabate",
+        "team": "CHA",
+        "pos": "C",
+        "salary": 6000,
+        "fpts": 44.25,
+        "own": 4.72
+      },
+      {
+        "slot": "G",
+        "id": 45020552,
+        "name": "James Harden",
+        "team": "CLE",
+        "pos": "PG",
+        "salary": 7500,
+        "fpts": 72,
+        "own": 6.39
+      },
+      {
+        "slot": "F",
+        "id": 45020705,
+        "name": "Aday Mara",
+        "team": "OKC",
+        "pos": "PF",
+        "salary": 5500,
+        "fpts": 50,
+        "own": 24.9
+      },
+      {
+        "slot": "UTIL",
+        "id": 45020663,
+        "name": "AJ Dybantsa",
+        "team": "WAS",
+        "pos": "SF",
+        "salary": 6300,
+        "fpts": 48.5,
+        "own": 38.4
+      }
+    ],
+    "assumedZero": 36
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 25880,
+    "pctile": 38.45,
+    "points": 239.25,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 45020853,
+        "name": "Tre Jones",
+        "team": "CHI",
+        "pos": "PG",
+        "salary": 4200,
+        "fpts": 25.75,
+        "own": 31.95
+      },
+      {
+        "slot": "SG",
+        "id": 45020657,
+        "name": "Anthony Black",
+        "team": "ORL",
+        "pos": "PG",
+        "salary": 6400,
+        "fpts": 39.25,
+        "own": 30.56
+      },
+      {
+        "slot": "SF",
+        "id": 45020738,
+        "name": "Kevin Huerter",
+        "team": "DET",
+        "pos": "SG",
+        "salary": 5200,
+        "fpts": 31.25,
+        "own": 13.86
+      },
+      {
+        "slot": "PF",
+        "id": 45020666,
+        "name": "Matas Buzelis",
+        "team": "CHI",
+        "pos": "PF",
+        "salary": 6200,
+        "fpts": 17.75,
+        "own": 30.16
+      },
+      {
+        "slot": "C",
+        "id": 45020751,
+        "name": "Nic Claxton",
+        "team": "CHI",
+        "pos": "C",
+        "salary": 5200,
+        "fpts": 23.75,
+        "own": 10.36
+      },
+      {
+        "slot": "G",
+        "id": 45020642,
+        "name": "Norman Powell",
+        "team": "CHI",
+        "pos": "SG",
+        "salary": 6500,
+        "fpts": 24.75,
+        "own": 36.67
+      },
+      {
+        "slot": "F",
+        "id": 45020524,
+        "name": "Scottie Barnes",
+        "team": "TOR",
+        "pos": "PG",
+        "salary": 8600,
+        "fpts": 43.25,
+        "own": 20.77
+      },
+      {
+        "slot": "UTIL",
+        "id": 45020546,
+        "name": "Trae Young",
+        "team": "WAS",
+        "pos": "PG",
+        "salary": 7700,
+        "fpts": 33.5,
+        "own": 9.49
+      }
+    ],
+    "money": {
+      "fee": 8,
+      "one": {
+        "won": 0,
+        "net": -8
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -8
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 188,
+        "net": 28,
+        "cashed": 6
+      }
+    }
+  },
+  "observationOnly": false,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "OKC": 2,
+        "ORL": 2,
+        "CLE": 1,
+        "DET": 1,
+        "TOR": 1,
+        "WAS": 1
+      },
+      "games": {
+        "NOP@OKC": 2,
+        "ORL@BKN": 2,
+        "TOR@DET": 2,
+        "IND@CLE": 1,
+        "WAS@CHI": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "OKC 2 · ORL 2",
+        "5 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "ATL": 1,
+        "BKN": 1,
+        "CHA": 1,
+        "CLE": 1,
+        "OKC": 1,
+        "ORL": 1,
+        "TOR": 1,
+        "WAS": 1
+      },
+      "games": {
+        "CHA@ATL": 2,
+        "ORL@BKN": 2,
+        "IND@CLE": 1,
+        "NOP@OKC": 1,
+        "TOR@DET": 1,
+        "WAS@CHI": 1
+      },
+      "nGames": 6,
+      "summary": [
+        "no team stack",
+        "6 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "CHI": 4,
+        "DET": 1,
+        "ORL": 1,
+        "TOR": 1,
+        "WAS": 1
+      },
+      "games": {
+        "WAS@CHI": 5,
+        "TOR@DET": 2,
+        "ORL@BKN": 1
+      },
+      "nGames": 3,
+      "summary": [
+        "CHI 4",
+        "3 games"
+      ]
+    }
+  }
+}
