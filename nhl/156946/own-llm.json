@@ -4,27 +4,29 @@
  "llm": "gpt-oss:20b",
  "promptVersion": 3,
  "mode": "search",
- "calledAt": "2026-11-21T20:15:02+00:00",
- "finishedAt": "2026-11-21T20:15:28+00:00",
+ "calledAt": "2026-11-21T21:45:02+00:00",
+ "finishedAt": "2026-11-21T21:45:25+00:00",
  "lockAt": "2026-11-21T23:00:00+00:00",
- "minutesBeforeLock": 165,
- "slateExportedAt": "2026-11-21T20:00:24.344277+00:00",
+ "minutesBeforeLock": 75,
+ "slateExportedAt": "2026-11-21T21:00:40.210493+00:00",
  "modelCall": {
   "model": "v3",
-  "predictedAt": "2026-11-21T20:00:25+00:00"
+  "predictedAt": "2026-11-21T21:00:41+00:00"
  },
  "cap": 100.0,
  "complete": true,
- "seconds": 26.0,
+ "seconds": 22.9,
  "asked": 30,
- "kept": 10,
- "echo": 8,
+ "kept": 20,
+ "echo": 20,
  "searches": [
   "DraftKings NHL classic slate 156946 ownership talk",
-  "DraftKings NHL classic slate 156946 ownership projections"
+  "\"slate 156946\" DraftKings ownership",
+  "Matt Boldy DraftKings ownership"
  ],
  "searchBackends": [
   "cache:tavily",
+  "tavily",
   "tavily"
  ],
  "keyedSearch": true,
@@ -36,15 +38,19 @@
    "why": "missing"
   },
   {
-   "id": "45025476",
-   "why": "missing"
-  },
-  {
    "id": "45024514",
    "why": "missing"
   },
   {
+   "id": "45025476",
+   "why": "missing"
+  },
+  {
    "id": "45024636",
+   "why": "missing"
+  },
+  {
+   "id": "45025068",
    "why": "missing"
   },
   {
@@ -56,7 +62,7 @@
    "why": "missing"
   },
   {
-   "id": "45025068",
+   "id": "45024246",
    "why": "missing"
   },
   {
@@ -64,64 +70,30 @@
    "why": "missing"
   },
   {
-   "id": "45024246",
-   "why": "missing"
-  },
-  {
    "id": "45024252",
-   "why": "missing"
-  },
-  {
-   "id": "45025495",
-   "why": "missing"
-  },
-  {
-   "id": "45024626",
-   "why": "missing"
-  },
-  {
-   "id": "45024524",
-   "why": "missing"
-  },
-  {
-   "id": "45024508",
-   "why": "missing"
-  },
-  {
-   "id": "45024536",
-   "why": "missing"
-  },
-  {
-   "id": "45025052",
-   "why": "missing"
-  },
-  {
-   "id": "45024550",
-   "why": "missing"
-  },
-  {
-   "id": "45024250",
-   "why": "missing"
-  },
-  {
-   "id": "45024244",
-   "why": "missing"
-  },
-  {
-   "id": "45024268",
    "why": "missing"
   }
  ],
  "players": {
-  "45024516": {"name": "Matt Boldy", "pos": "W", "team": "MIN", "model": 22.11, "llm": 24.0, "reason": "Minor stack bump for MIN forwards"},
-  "45024510": {"name": "Kirill Kaprizov", "pos": "W", "team": "MIN", "model": 20.32, "llm": 21.0, "reason": "Small stack lift with Boldy"},
-  "45024266": {"name": "Joel Eriksson Ek", "pos": "C", "team": "MIN", "model": 18.25, "llm": 18.25, "reason": "Model baseline"},
-  "45025088": {"name": "Brock Faber", "pos": "D", "team": "MIN", "model": 18.03, "llm": 18.03, "reason": "Model baseline"},
-  "45025036": {"name": "Mikhail Sergachev", "pos": "D", "team": "UTA", "model": 15.53, "llm": 15.53, "reason": "Model baseline"},
-  "45024546": {"name": "Logan Cooley", "pos": "W", "team": "UTA", "model": 15.39, "llm": 15.39, "reason": "Model baseline"},
-  "45024242": {"name": "Macklin Celebrini", "pos": "C", "team": "SJS", "model": 14.79, "llm": 14.79, "reason": "Model baseline"},
-  "45024272": {"name": "Vincent Trocheck", "pos": "C", "team": "UTA", "model": 14.1, "llm": 14.1, "reason": "Model baseline"},
-  "45025032": {"name": "Roman Josi", "pos": "D", "team": "NSH", "model": 11.83, "llm": 11.83, "reason": "Model baseline"},
-  "45024520": {"name": "Clayton Keller", "pos": "W", "team": "UTA", "model": 11.01, "llm": 11.01, "reason": "Model baseline"}
+  "45024516": {"name": "Matt Boldy", "pos": "W", "team": "MIN", "model": 22.59, "llm": 22.59, "reason": "Model value"},
+  "45024510": {"name": "Kirill Kaprizov", "pos": "W", "team": "MIN", "model": 20.55, "llm": 20.55, "reason": "Model value"},
+  "45024266": {"name": "Joel Eriksson Ek", "pos": "C", "team": "MIN", "model": 17.77, "llm": 17.77, "reason": "Model value"},
+  "45025088": {"name": "Brock Faber", "pos": "D", "team": "MIN", "model": 17.68, "llm": 17.68, "reason": "Model value"},
+  "45025036": {"name": "Mikhail Sergachev", "pos": "D", "team": "UTA", "model": 15.94, "llm": 15.94, "reason": "Model value"},
+  "45024546": {"name": "Logan Cooley", "pos": "W", "team": "UTA", "model": 15.91, "llm": 15.91, "reason": "Model value"},
+  "45024242": {"name": "Macklin Celebrini", "pos": "C", "team": "SJS", "model": 14.29, "llm": 14.29, "reason": "Model value"},
+  "45024272": {"name": "Vincent Trocheck", "pos": "C", "team": "UTA", "model": 14.0, "llm": 14.0, "reason": "Model value"},
+  "45025032": {"name": "Roman Josi", "pos": "D", "team": "NSH", "model": 11.88, "llm": 11.88, "reason": "Model value"},
+  "45024520": {"name": "Clayton Keller", "pos": "W", "team": "UTA", "model": 11.21, "llm": 11.21, "reason": "Model value"},
+  "45025495": {"name": "Anthony Stolarz", "pos": "G", "team": "TOR", "model": 7.9, "llm": 7.9, "reason": "Model confidence"},
+  "45024626": {"name": "Morgan Geekie", "pos": "W", "team": "BOS", "model": 7.39, "llm": 7.39, "reason": "Model confidence"},
+  "45024524": {"name": "Cole Caufield", "pos": "W", "team": "MTL", "model": 7.13, "llm": 7.13, "reason": "Model confidence"},
+  "45024282": {"name": "Adam Fantilli", "pos": "C", "team": "CBJ", "model": 6.8, "llm": 6.8, "reason": "Model confidence"},
+  "45024308": {"name": "Charlie Coyle", "pos": "C", "team": "CBJ", "model": 6.72, "llm": 6.72, "reason": "Model confidence"},
+  "45024536": {"name": "Filip Forsberg", "pos": "W", "team": "NSH", "model": 6.71, "llm": 6.71, "reason": "Model confidence"},
+  "45024250": {"name": "Mark Scheifele", "pos": "C", "team": "WPG", "model": 6.65, "llm": 6.65, "reason": "Model confidence"},
+  "45024550": {"name": "Steven Stamkos", "pos": "W", "team": "NSH", "model": 6.62, "llm": 6.62, "reason": "Model confidence"},
+  "45024508": {"name": "Cutter Gauthier", "pos": "W", "team": "ANA", "model": 6.57, "llm": 6.57, "reason": "Model confidence"},
+  "45025052": {"name": "Moritz Seider", "pos": "D", "team": "DET", "model": 6.56, "llm": 6.56, "reason": "Model confidence"}
  }
 }
