@@ -1,0 +1,111 @@
+{
+ "archivedAt": "2026-11-21T00:00:30+00:00",
+ "days": 3,
+ "bytes": 1361173,
+ "removed": [
+  {
+   "path": "snapshots/20261116T140005Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261116T150015Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261116T160006Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261116T170014Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261116T180015Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261116T190007Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261116T200021Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261116T210019Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261116T220018Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261116T230023Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261117T000006Z.json",
+   "bytes": 59
+  },
+  {
+   "path": "snapshots/20261117T010023Z.json",
+   "bytes": 85173
+  },
+  {
+   "path": "snapshots/20261117T020015Z.json",
+   "bytes": 85048
+  },
+  {
+   "path": "snapshots/20261117T030012Z.json",
+   "bytes": 85506
+  },
+  {
+   "path": "snapshots/20261117T040012Z.json",
+   "bytes": 85428
+  },
+  {
+   "path": "snapshots/20261117T140014Z.json",
+   "bytes": 85503
+  },
+  {
+   "path": "snapshots/20261117T150023Z.json",
+   "bytes": 101996
+  },
+  {
+   "path": "snapshots/20261117T160019Z.json",
+   "bytes": 101950
+  },
+  {
+   "path": "snapshots/20261117T170019Z.json",
+   "bytes": 101665
+  },
+  {
+   "path": "snapshots/20261117T180019Z.json",
+   "bytes": 101861
+  },
+  {
+   "path": "snapshots/20261117T190018Z.json",
+   "bytes": 101581
+  },
+  {
+   "path": "snapshots/20261117T200016Z.json",
+   "bytes": 105692
+  },
+  {
+   "path": "snapshots/20261117T210020Z.json",
+   "bytes": 105692
+  },
+  {
+   "path": "snapshots/20261117T220020Z.json",
+   "bytes": 105767
+  },
+  {
+   "path": "snapshots/20261117T230029Z.json",
+   "bytes": 105733
+  },
+  {
+   "path": "timeline.json",
+   "bytes": 1929
+  }
+ ]
+}
