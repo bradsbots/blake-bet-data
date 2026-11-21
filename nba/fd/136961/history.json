@@ -1,0 +1,397 @@
+{
+  "sport": "nba",
+  "site": "fd",
+  "slate": "136961",
+  "date": "2026-11-20",
+  "contest": {
+    "id": 281643511,
+    "label": "$175K Fri NBA Shot ($50K to 1st)",
+    "entries": 30370
+  },
+  "generatedAt": "2026-11-21T14:49:13.481Z",
+  "winner": {
+    "rank": 1,
+    "name": "aaroncosta (137/150)",
+    "points": 403.8,
+    "salary": 60000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 84680,
+        "name": "Shai Gilgeous-Alexander",
+        "team": "OKC",
+        "pos": "PG",
+        "salary": 10600,
+        "fpts": 55.6,
+        "own": 16.06
+      },
+      {
+        "slot": "SG",
+        "id": 203722,
+        "name": "Kyshawn George",
+        "team": "WAS",
+        "pos": "SG",
+        "salary": 6300,
+        "fpts": 32.9,
+        "own": 23.52
+      },
+      {
+        "slot": "SF",
+        "id": 171784,
+        "name": "Dyson Daniels",
+        "team": "ATL",
+        "pos": "SF/SG",
+        "salary": 7000,
+        "fpts": 45.6,
+        "own": 15.66
+      },
+      {
+        "slot": "PF",
+        "id": 171765,
+        "name": "Moussa Diabate",
+        "team": "CHA",
+        "pos": "C/PF",
+        "salary": 5500,
+        "fpts": 41,
+        "own": 18.23
+      },
+      {
+        "slot": "C",
+        "id": 58378,
+        "name": "Jakob Poeltl",
+        "team": "TOR",
+        "pos": "C",
+        "salary": 4900,
+        "fpts": 31.3,
+        "own": 26.25
+      },
+      {
+        "slot": "G/F",
+        "id": 15755,
+        "name": "Anthony Davis",
+        "team": "WAS",
+        "pos": "PF/C",
+        "salary": 10000,
+        "fpts": 50.7,
+        "own": 21.67
+      },
+      {
+        "slot": "F/C",
+        "id": 248959,
+        "name": "Allen Graves",
+        "team": "TOR",
+        "pos": "PF/SF",
+        "salary": 3700,
+        "fpts": 45.5,
+        "own": 1.01
+      },
+      {
+        "slot": "UTIL",
+        "id": 248962,
+        "name": "Aday Mara",
+        "team": "OKC",
+        "pos": "C",
+        "salary": 5400,
+        "fpts": 49.2,
+        "own": 18.32
+      },
+      {
+        "slot": "UTIL",
+        "id": 248938,
+        "name": "Darryn Peterson",
+        "team": "UTA",
+        "pos": "SG",
+        "salary": 6600,
+        "fpts": 52,
+        "own": 9.45
+      }
+    ]
+  },
+  "optimal": {
+    "points": 460.8,
+    "salary": 59700,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 84680,
+        "name": "Shai Gilgeous-Alexander",
+        "team": "OKC",
+        "pos": "PG",
+        "salary": 10600,
+        "fpts": 55.6,
+        "own": 16.06
+      },
+      {
+        "slot": "SG",
+        "id": 248938,
+        "name": "Darryn Peterson",
+        "team": "UTA",
+        "pos": "SG",
+        "salary": 6600,
+        "fpts": 52,
+        "own": 9.45
+      },
+      {
+        "slot": "SF",
+        "id": 248945,
+        "name": "AJ Dybantsa",
+        "team": "WAS",
+        "pos": "SF",
+        "salary": 5900,
+        "fpts": 47,
+        "own": 45.67
+      },
+      {
+        "slot": "PF",
+        "id": 248959,
+        "name": "Allen Graves",
+        "team": "TOR",
+        "pos": "PF/SF",
+        "salary": 3700,
+        "fpts": 45.5,
+        "own": 1.01
+      },
+      {
+        "slot": "C",
+        "id": 248962,
+        "name": "Aday Mara",
+        "team": "OKC",
+        "pos": "C",
+        "salary": 5400,
+        "fpts": 49.2,
+        "own": 18.32
+      },
+      {
+        "slot": "G/F",
+        "id": 145334,
+        "name": "Desmond Bane",
+        "team": "ORL",
+        "pos": "SG",
+        "salary": 6200,
+        "fpts": 44.9,
+        "own": 9.26
+      },
+      {
+        "slot": "F/C",
+        "id": 171784,
+        "name": "Dyson Daniels",
+        "team": "ATL",
+        "pos": "SF/SG",
+        "salary": 7000,
+        "fpts": 45.6,
+        "own": 15.66
+      },
+      {
+        "slot": "UTIL",
+        "id": 9644,
+        "name": "James Harden",
+        "team": "CLE",
+        "pos": "PG",
+        "salary": 7300,
+        "fpts": 68.2,
+        "own": 5.8
+      },
+      {
+        "slot": "UTIL",
+        "id": 42669,
+        "name": "Julius Randle",
+        "team": "BKN",
+        "pos": "PF",
+        "salary": 7000,
+        "fpts": 52.8,
+        "own": 10.71
+      }
+    ],
+    "assumedZero": 84
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 27144,
+    "pctile": 10.54,
+    "points": 252.7,
+    "salary": 59900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 203808,
+        "name": "Ajay Mitchell",
+        "team": "OKC",
+        "pos": "SG/PG",
+        "salary": 6000,
+        "fpts": 16.4,
+        "own": 22.25
+      },
+      {
+        "slot": "SG",
+        "id": 66113,
+        "name": "Donovan Mitchell",
+        "team": "CLE",
+        "pos": "SG",
+        "salary": 8500,
+        "fpts": 26.1,
+        "own": 26.17
+      },
+      {
+        "slot": "SF",
+        "id": 188419,
+        "name": "Brandon Miller",
+        "team": "CHA",
+        "pos": "SF",
+        "salary": 6700,
+        "fpts": 33.1,
+        "own": 17.06
+      },
+      {
+        "slot": "PF",
+        "id": 157822,
+        "name": "Scottie Barnes",
+        "team": "TOR",
+        "pos": "PF",
+        "salary": 9200,
+        "fpts": 42.5,
+        "own": 24.7
+      },
+      {
+        "slot": "C",
+        "id": 110995,
+        "name": "Naz Reid",
+        "team": "CHA",
+        "pos": "PF/C",
+        "salary": 7100,
+        "fpts": 25.5,
+        "own": 31.49
+      },
+      {
+        "slot": "G/F",
+        "id": 145323,
+        "name": "Tre Jones",
+        "team": "CHI",
+        "pos": "PG/SG",
+        "salary": 4200,
+        "fpts": 26.7,
+        "own": 6.66
+      },
+      {
+        "slot": "F/C",
+        "id": 110354,
+        "name": "Nic Claxton",
+        "team": "CHI",
+        "pos": "C",
+        "salary": 4600,
+        "fpts": 23.9,
+        "own": 20.05
+      },
+      {
+        "slot": "UTIL",
+        "id": 16293,
+        "name": "Norman Powell",
+        "team": "CHI",
+        "pos": "SG",
+        "salary": 6400,
+        "fpts": 24.6,
+        "own": 23.47
+      },
+      {
+        "slot": "UTIL",
+        "id": 84671,
+        "name": "Trae Young",
+        "team": "WAS",
+        "pos": "PG",
+        "salary": 7200,
+        "fpts": 33.9,
+        "own": 15.44
+      }
+    ],
+    "money": {
+      "fee": 6,
+      "one": {
+        "won": 0,
+        "net": -6
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -6
+      },
+      "portfolio": {
+        "n": 3,
+        "won": 22,
+        "net": 4,
+        "cashed": 2
+      }
+    }
+  },
+  "observationOnly": false,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "OKC": 2,
+        "TOR": 2,
+        "WAS": 2,
+        "ATL": 1,
+        "CHA": 1,
+        "UTA": 1
+      },
+      "games": {
+        "CHA@ATL": 2,
+        "NOP@OKC": 2,
+        "TOR@DET": 2,
+        "WAS@CHI": 2,
+        "PHX@UTA": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "OKC 2 · TOR 2 · WAS 2",
+        "5 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "OKC": 2,
+        "ATL": 1,
+        "BKN": 1,
+        "CLE": 1,
+        "ORL": 1,
+        "TOR": 1,
+        "UTA": 1,
+        "WAS": 1
+      },
+      "games": {
+        "NOP@OKC": 2,
+        "ORL@BKN": 2,
+        "CHA@ATL": 1,
+        "IND@CLE": 1,
+        "PHX@UTA": 1,
+        "TOR@DET": 1,
+        "WAS@CHI": 1
+      },
+      "nGames": 7,
+      "summary": [
+        "OKC 2",
+        "7 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "CHI": 3,
+        "CHA": 2,
+        "CLE": 1,
+        "OKC": 1,
+        "TOR": 1,
+        "WAS": 1
+      },
+      "games": {
+        "WAS@CHI": 4,
+        "CHA@ATL": 2,
+        "IND@CLE": 1,
+        "NOP@OKC": 1,
+        "TOR@DET": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "CHI 3 · CHA 2",
+        "5 games"
+      ]
+    }
+  }
+}
