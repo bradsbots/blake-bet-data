@@ -4,98 +4,65 @@
  "llm": "gpt-oss:20b",
  "promptVersion": 3,
  "mode": "search",
- "calledAt": "2026-11-21T20:15:29+00:00",
- "finishedAt": "2026-11-21T20:16:15+00:00",
+ "calledAt": "2026-11-21T23:15:03+00:00",
+ "finishedAt": "2026-11-21T23:15:28+00:00",
  "lockAt": "2026-11-22T00:30:00+00:00",
- "minutesBeforeLock": 254,
- "slateExportedAt": "2026-11-21T20:00:32.215781+00:00",
+ "minutesBeforeLock": 75,
+ "slateExportedAt": "2026-11-21T23:00:06.404530+00:00",
  "modelCall": {
   "model": "v4",
-  "predictedAt": "2026-11-21T20:00:33+00:00"
+  "predictedAt": "2026-11-21T23:00:08+00:00"
  },
  "cap": 70.0,
  "complete": true,
- "seconds": 45.6,
+ "seconds": 25.0,
  "asked": 30,
- "kept": 20,
- "echo": 7,
+ "kept": 30,
+ "echo": 16,
  "searches": [
   "DraftKings NBA classic slate 157174 ownership talk",
-  "Max Strus DraftKings ownership November 21 2026",
-  "DraftKings NBA classic slate 157174 ownership analysis",
-  "Max Strus ownership 66% DraftKings"
+  "NBA classic slate 157174 DraftKings ownership",
+  "\"slate 157174\" DraftKings"
  ],
  "searchBackends": [
+  "cache:tavily",
   "tavily",
-  "tavily",
-  "tavily",
-  "tavily"
+  "cache:tavily"
  ],
  "keyedSearch": true,
  "refusedSearches": [],
  "availabilityCut": 0.02,
- "dropped": [
-  {
-   "id": "45043135",
-   "why": "missing"
-  },
-  {
-   "id": "45042962",
-   "why": "missing"
-  },
-  {
-   "id": "45043097",
-   "why": "missing"
-  },
-  {
-   "id": "45042999",
-   "why": "missing"
-  },
-  {
-   "id": "45043027",
-   "why": "missing"
-  },
-  {
-   "id": "45042979",
-   "why": "missing"
-  },
-  {
-   "id": "45042968",
-   "why": "missing"
-  },
-  {
-   "id": "45043122",
-   "why": "missing"
-  },
-  {
-   "id": "45043003",
-   "why": "missing"
-  },
-  {
-   "id": "45043102",
-   "why": "missing"
-  }
- ],
+ "dropped": [],
  "players": {
-  "45043164": {"name": "Taylor Hendricks", "pos": "PF", "team": "MEM", "model": 16.89, "llm": 18.0, "reason": "Stacked with MEM backcourt"},
-  "45043195": {"name": "Herbert Jones", "pos": "SF", "team": "NOP", "model": 16.61, "llm": 20.0, "reason": "Primary scorer on NOP, stacked with Fox"},
-  "45043092": {"name": "Julian Champagnie", "pos": "SG", "team": "SAS", "model": 15.74, "llm": 16.0, "reason": "Bench role, low stack"},
-  "45043024": {"name": "Jeremiah Fears", "pos": "PG", "team": "NOP", "model": 15.44, "llm": 15.0, "reason": "High usage but not heavily stacked"},
-  "45042996": {"name": "Darius Garland", "pos": "PG", "team": "LAC", "model": 15.08, "llm": 18.0, "reason": "LAC guard, likely stacked with Kyrie"},
-  "45043133": {"name": "Daniel Gafford", "pos": "C", "team": "DAL", "model": 14.33, "llm": 18.0, "reason": "Primary scorer on DAL, stacked with Kyrie"},
-  "45043081": {"name": "Devin Vassell", "pos": "SF", "team": "SAS", "model": 14.06, "llm": 17.0, "reason": "SAS primary scorer, stacked with Fox"},
-  "45042985": {"name": "LaMelo Ball", "pos": "PG", "team": "MIN", "model": 13.79, "llm": 14.0, "reason": "Limited stack potential"},
-  "45043079": {"name": "Brook Lopez", "pos": "C", "team": "LAC", "model": 13.19, "llm": 13.0, "reason": "Center role, low stack"},
-  "45043095": {"name": "Yves Missi", "pos": "C", "team": "NOP", "model": 13.11, "llm": 13.0, "reason": "Bench role, low stack"},
-  "45043068": {"name": "Rudy Gobert", "pos": "C", "team": "MIN", "model": 12.89, "llm": 12.0, "reason": "Model aligns with low public ownership"},
-  "45043011": {"name": "Jaden McDaniels", "pos": "SF", "team": "MIN", "model": 12.74, "llm": 13.0, "reason": "Jaden McDaniels slightly higher usage in MIN vs MEM"},
-  "45043017": {"name": "Zion Williamson", "pos": "PF", "team": "NOP", "model": 12.29, "llm": 14.0, "reason": "Zion likely more stacked on NOP side of slate"},
-  "45043032": {"name": "De'Aaron Fox", "pos": "PG", "team": "SAS", "model": 12.19, "llm": 15.0, "reason": "De'Aaron Fox often stacked with NOP center, modest bump"},
-  "45043015": {"name": "Donovan Clingan", "pos": "C", "team": "POR", "model": 12.18, "llm": 12.0, "reason": "Model reflects low public ownership for Clingan"},
-  "45043044": {"name": "Saddiq Bey", "pos": "SF", "team": "NOP", "model": 11.67, "llm": 13.0, "reason": "Saddiq Bey slightly higher usage on NOP side"},
-  "45043020": {"name": "Ayo Dosunmu", "pos": "PG", "team": "MIN", "model": 11.54, "llm": 11.0, "reason": "Model already low; no significant stack"},
-  "45043085": {"name": "Rui Hachimura", "pos": "PF", "team": "LAC", "model": 10.89, "llm": 10.0, "reason": "Rui Hachimura low public ownership, keep model"},
-  "45042988": {"name": "Ty Jerome", "pos": "PG", "team": "MEM", "model": 10.56, "llm": 12.0, "reason": "Ty Jerome modest usage, model stays"},
-  "45043146": {"name": "Terrence Shannon Jr.", "pos": "SG", "team": "MIN", "model": 10.4, "llm": 9.0, "reason": "Terrence Shannon Jr. bench role keeps ownership low"}
+  "45043227": {"name": "Andre Drummond", "pos": "C", "team": "NYK", "model": 70.0, "llm": 70.0, "reason": "Model already at max"},
+  "45043097": {"name": "Josh Hart", "pos": "SG", "team": "NYK", "model": 40.4, "llm": 40.4, "reason": "No public data to alter"},
+  "45043135": {"name": "Max Strus", "pos": "SF", "team": "LAC", "model": 39.88, "llm": 39.88, "reason": "No public data to alter"},
+  "45043210": {"name": "Landry Shamet", "pos": "PF", "team": "NYK", "model": 34.49, "llm": 34.49, "reason": "No public data to alter"},
+  "45042999": {"name": "Kyrie Irving", "pos": "PG", "team": "DAL", "model": 29.82, "llm": 29.82, "reason": "No public data to alter"},
+  "45043102": {"name": "Naji Marshall", "pos": "SF", "team": "DAL", "model": 27.35, "llm": 27.35, "reason": "Bench player, model reflects low ownership"},
+  "45043027": {"name": "Cedric Coward", "pos": "SG", "team": "MEM", "model": 21.34, "llm": 21.34, "reason": "No public data to alter"},
+  "45042979": {"name": "Jalen Brunson", "pos": "PG", "team": "NYK", "model": 20.1, "llm": 20.1, "reason": "No public data to alter"},
+  "45042968": {"name": "Cooper Flagg", "pos": "SF", "team": "DAL", "model": 19.46, "llm": 19.46, "reason": "High salary, model reflects low ownership"},
+  "45043003": {"name": "Stephon Castle", "pos": "SG", "team": "SAS", "model": 19.22, "llm": 19.22, "reason": "No public data to alter"},
+  "45042962": {"name": "Victor Wembanyama", "pos": "C", "team": "SAS", "model": 18.9, "llm": 20.0, "reason": "Wembanyama\u2019s high upside and low salary justify a slight bump"},
+  "45043122": {"name": "Mikal Bridges", "pos": "SF", "team": "NYK", "model": 17.78, "llm": 18.5, "reason": "Bridges is a solid starter with good value"},
+  "45043024": {"name": "Jeremiah Fears", "pos": "PG", "team": "NOP", "model": 15.96, "llm": 16.5, "reason": "Fears has decent upside but modest ownership"},
+  "45043106": {"name": "Derik Queen", "pos": "PF", "team": "NOP", "model": 15.79, "llm": 14.0, "reason": "Bench player, keep low ownership"},
+  "45042996": {"name": "Darius Garland", "pos": "PG", "team": "LAC", "model": 14.9, "llm": 13.5, "reason": "Garland\u2019s value is high; reduce ownership to avoid over\u2011drafting"},
+  "45042985": {"name": "LaMelo Ball", "pos": "PG", "team": "MIN", "model": 14.31, "llm": 12.5, "reason": "Ball\u2019s upside is limited; lower ownership"},
+  "45043017": {"name": "Zion Williamson", "pos": "PF", "team": "NOP", "model": 14.02, "llm": 13.5, "reason": "Zion\u2019s salary is low, but keep ownership modest"},
+  "45043133": {"name": "Daniel Gafford", "pos": "C", "team": "DAL", "model": 13.49, "llm": 12.5, "reason": "Gafford is a bench option; reduce ownership"},
+  "45043164": {"name": "Taylor Hendricks", "pos": "PF", "team": "MEM", "model": 13.32, "llm": 11.5, "reason": "Hendricks is a low\u2011risk bench player"},
+  "45043079": {"name": "Brook Lopez", "pos": "C", "team": "LAC", "model": 13.09, "llm": 12.0, "reason": "Lopez\u2019s value is good but keep ownership moderate"},
+  "45043068": {"name": "Rudy Gobert", "pos": "C", "team": "MIN", "model": 12.91, "llm": 13.0, "reason": "Model low, but Gobert is a lock on the floor"},
+  "45043020": {"name": "Ayo Dosunmu", "pos": "PG", "team": "MIN", "model": 12.66, "llm": 13.0, "reason": "Dosunmu projected high, model conservative"},
+  "45043195": {"name": "Herbert Jones", "pos": "SF", "team": "NOP", "model": 12.65, "llm": 13.0, "reason": "Jones solid starter, bump ownership"},
+  "45043081": {"name": "Devin Vassell", "pos": "SF", "team": "SAS", "model": 12.1, "llm": 12.0, "reason": "Vassell good upside, modest increase"},
+  "45043085": {"name": "Rui Hachimura", "pos": "PF", "team": "LAC", "model": 11.74, "llm": 12.0, "reason": "Hachimura a key piece for LAC, raise slightly"},
+  "45043011": {"name": "Jaden McDaniels", "pos": "SF", "team": "MIN", "model": 11.72, "llm": 15.0, "reason": "McDaniels high proj, deserves higher ownership"},
+  "45043044": {"name": "Saddiq Bey", "pos": "SF", "team": "NOP", "model": 11.48, "llm": 12.0, "reason": "Bey solid starter, bump from model"},
+  "45043146": {"name": "Terrence Shannon Jr.", "pos": "SG", "team": "MIN", "model": 11.45, "llm": 10.0, "reason": "Bench player, keep low"},
+  "45042988": {"name": "Ty Jerome", "pos": "PG", "team": "MEM", "model": 10.51, "llm": 11.0, "reason": "Jerome a strong PG, modest increase"},
+  "45043170": {"name": "Jaylen Wells", "pos": "SF", "team": "MEM", "model": 10.04, "llm": 9.0, "reason": "Wells bench, keep low"}
  }
 }
