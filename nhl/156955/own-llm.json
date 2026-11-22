@@ -4,98 +4,67 @@
  "llm": "gpt-oss:20b",
  "promptVersion": 3,
  "mode": "search",
- "calledAt": "2026-11-22T20:00:02+00:00",
- "finishedAt": "2026-11-22T20:00:39+00:00",
+ "calledAt": "2026-11-22T20:45:02+00:00",
+ "finishedAt": "2026-11-22T20:45:28+00:00",
  "lockAt": "2026-11-22T22:00:00+00:00",
- "minutesBeforeLock": 119,
- "slateExportedAt": "2026-11-22T19:40:16.064435+00:00",
+ "minutesBeforeLock": 75,
+ "slateExportedAt": "2026-11-22T20:00:19.950239+00:00",
  "modelCall": {
   "model": "v3",
-  "predictedAt": "2026-11-22T19:40:17+00:00"
+  "predictedAt": "2026-11-22T20:00:20+00:00"
  },
  "cap": 100.0,
  "complete": true,
- "seconds": 36.6,
+ "seconds": 26.4,
  "asked": 30,
- "kept": 20,
- "echo": 1,
+ "kept": 30,
+ "echo": 30,
  "searches": [
   "DraftKings NHL classic slate 156955 ownership talk November 22 2026",
-  "DraftKings NHL classic slate 156955 ownership projections November 22 2026\"",
-  "\"slate 156955\" DraftKings",
-  "156955 NHL classic"
+  "\"slate 156955\" DraftKings ownership",
+  "Cover The Slate DraftKings NHL classic slate 156955",
+  "\"156955\" DraftKings NHL"
  ],
  "searchBackends": [
   "cache:tavily",
   "tavily",
   "tavily",
-  "tavily"
+  "cache:tavily"
  ],
  "keyedSearch": true,
  "refusedSearches": [],
  "availabilityCut": 0.05,
- "dropped": [
-  {
-   "id": "45048237",
-   "why": "missing"
-  },
-  {
-   "id": "45048421",
-   "why": "missing"
-  },
-  {
-   "id": "45048135",
-   "why": "missing"
-  },
-  {
-   "id": "45048249",
-   "why": "missing"
-  },
-  {
-   "id": "45048235",
-   "why": "missing"
-  },
-  {
-   "id": "45048253",
-   "why": "missing"
-  },
-  {
-   "id": "45048399",
-   "why": "missing"
-  },
-  {
-   "id": "45048385",
-   "why": "missing"
-  },
-  {
-   "id": "45048537",
-   "why": "missing"
-  },
-  {
-   "id": "45048405",
-   "why": "missing"
-  }
- ],
+ "dropped": [],
  "players": {
-  "45048403": {"name": "Sam Rinzel", "pos": "D", "team": "CHI", "model": 49.97, "llm": 49.97, "reason": "Model aligns with current field; no public ownership signal."},
-  "45048219": {"name": "Nikita Kucherov", "pos": "W", "team": "TBL", "model": 33.93, "llm": 40.0, "reason": "Kucherov likely over\u2011owned on low\u2011total slate; bump from model."},
-  "45048543": {"name": "Joel Hofer", "pos": "G", "team": "STL", "model": 30.64, "llm": 38.0, "reason": "Hofer expected to be chalked; increase above model."},
-  "45048145": {"name": "Frank Nazar", "pos": "C", "team": "CHI", "model": 28.87, "llm": 20.0, "reason": "Low\u2011priced center, field seeks value; reduce from model."},
-  "45048225": {"name": "Jake Guentzel", "pos": "W", "team": "TBL", "model": 26.61, "llm": 22.0, "reason": "Winger on low total, moderate ownership; lower slightly."},
-  "45048127": {"name": "Wyatt Johnston", "pos": "C", "team": "DAL", "model": 26.57, "llm": 18.0, "reason": "Center with high salary, likely under\u2011owned; cut from model."},
-  "45048133": {"name": "Brayden Point", "pos": "C", "team": "TBL", "model": 25.04, "llm": 20.0, "reason": "Center on low total, field prefers wingers; reduce."},
-  "45048391": {"name": "John Carlson", "pos": "D", "team": "TBL", "model": 25.04, "llm": 22.0, "reason": "Defender on low total, moderate ownership; slight reduction."},
-  "45048229": {"name": "Mikko Rantanen", "pos": "W", "team": "DAL", "model": 23.66, "llm": 18.0, "reason": "Winger with high salary, likely under\u2011owned; cut from model."},
-  "45048529": {"name": "Jake Oettinger", "pos": "G", "team": "DAL", "model": 23.09, "llm": 20.0, "reason": "Goalie on low total, field seeks value; reduce from model."},
-  "45048251": {"name": "Patrick Kane", "pos": "W", "team": "CHI", "model": 20.36, "llm": 22.0, "reason": "Slightly higher than model due to low total and Kane\u2019s consistent production"},
-  "45048259": {"name": "Tyler Bertuzzi", "pos": "W", "team": "CHI", "model": 19.84, "llm": 21.0, "reason": "Model close; modest bump for Bertuzzi\u2019s value in a tight slate"},
-  "45048227": {"name": "Jason Robertson", "pos": "W", "team": "DAL", "model": 19.34, "llm": 18.0, "reason": "High salary, likely under\u2011owned relative to projection"},
-  "45048397": {"name": "Miro Heiskanen", "pos": "D", "team": "DAL", "model": 16.76, "llm": 15.0, "reason": "Model suggests moderate ownership; slight dip for defensive role"},
-  "45048123": {"name": "Leon Draisaitl", "pos": "C", "team": "EDM", "model": 16.23, "llm": 14.0, "reason": "Center with high salary, expected lower ownership in low\u2011total slate"},
-  "45048239": {"name": "Brock Boeser", "pos": "W", "team": "VAN", "model": 16.14, "llm": 15.0, "reason": "Moderate value winger, model near target"},
-  "45048263": {"name": "Jake Neighbours", "pos": "W", "team": "STL", "model": 15.97, "llm": 13.0, "reason": "Low\u2011priced winger; model overestimates slightly"},
-  "45048159": {"name": "Sam O'Reilly", "pos": "C", "team": "TBL", "model": 15.71, "llm": 12.0, "reason": "Center with modest projection, likely under\u2011owned in tight slate"},
-  "45048143": {"name": "Roope Hintz", "pos": "C", "team": "DAL", "model": 15.65, "llm": 13.0, "reason": "Model close; slight dip for center in low total game"},
-  "45048121": {"name": "Connor McDavid", "pos": "C", "team": "EDM", "model": 15.15, "llm": 10.0, "reason": "High salary center, expected to be under\u2011owned"}
+  "45048403": {"name": "Sam Rinzel", "pos": "D", "team": "CHI", "model": 49.98, "llm": 49.98, "reason": "model"},
+  "45048219": {"name": "Nikita Kucherov", "pos": "W", "team": "TBL", "model": 33.24, "llm": 33.24, "reason": "model"},
+  "45048543": {"name": "Joel Hofer", "pos": "G", "team": "STL", "model": 31.78, "llm": 31.78, "reason": "model"},
+  "45048145": {"name": "Frank Nazar", "pos": "C", "team": "CHI", "model": 28.9, "llm": 28.9, "reason": "model"},
+  "45048127": {"name": "Wyatt Johnston", "pos": "C", "team": "DAL", "model": 26.91, "llm": 26.91, "reason": "model"},
+  "45048225": {"name": "Jake Guentzel", "pos": "W", "team": "TBL", "model": 26.26, "llm": 26.26, "reason": "model"},
+  "45048391": {"name": "John Carlson", "pos": "D", "team": "TBL", "model": 24.64, "llm": 24.64, "reason": "model"},
+  "45048133": {"name": "Brayden Point", "pos": "C", "team": "TBL", "model": 24.58, "llm": 24.58, "reason": "model"},
+  "45048229": {"name": "Mikko Rantanen", "pos": "W", "team": "DAL", "model": 23.95, "llm": 23.95, "reason": "model"},
+  "45048529": {"name": "Jake Oettinger", "pos": "G", "team": "DAL", "model": 22.28, "llm": 22.28, "reason": "model"},
+  "45048251": {"name": "Patrick Kane", "pos": "W", "team": "CHI", "model": 20.44, "llm": 20.44, "reason": "Model aligns with typical ownership"},
+  "45048259": {"name": "Tyler Bertuzzi", "pos": "W", "team": "CHI", "model": 19.75, "llm": 19.75, "reason": "Model aligns with typical ownership"},
+  "45048227": {"name": "Jason Robertson", "pos": "W", "team": "DAL", "model": 19.69, "llm": 19.69, "reason": "Model aligns with typical ownership"},
+  "45048397": {"name": "Miro Heiskanen", "pos": "D", "team": "DAL", "model": 17.0, "llm": 17.0, "reason": "Model aligns with typical ownership"},
+  "45048123": {"name": "Leon Draisaitl", "pos": "C", "team": "EDM", "model": 16.43, "llm": 16.43, "reason": "Model aligns with typical ownership"},
+  "45048263": {"name": "Jake Neighbours", "pos": "W", "team": "STL", "model": 16.24, "llm": 16.24, "reason": "Model aligns with typical ownership"},
+  "45048239": {"name": "Brock Boeser", "pos": "W", "team": "VAN", "model": 16.08, "llm": 16.08, "reason": "Model aligns with typical ownership"},
+  "45048143": {"name": "Roope Hintz", "pos": "C", "team": "DAL", "model": 15.87, "llm": 15.87, "reason": "Model aligns with typical ownership"},
+  "45048159": {"name": "Sam O'Reilly", "pos": "C", "team": "TBL", "model": 15.41, "llm": 15.41, "reason": "Model aligns with typical ownership"},
+  "45048121": {"name": "Connor McDavid", "pos": "C", "team": "EDM", "model": 14.97, "llm": 14.97, "reason": "Model aligns with typical ownership"},
+  "45048237": {"name": "Jimmy Snuggerud", "pos": "W", "team": "STL", "model": 14.79, "llm": 14.79, "reason": "Model aligns with expected ownership"},
+  "45048421": {"name": "Logan Mailloux", "pos": "D", "team": "STL", "model": 14.65, "llm": 14.65, "reason": "Model aligns with expected ownership"},
+  "45048135": {"name": "Robert Thomas", "pos": "C", "team": "STL", "model": 14.4, "llm": 14.4, "reason": "Model aligns with expected ownership"},
+  "45048249": {"name": "Jake DeBrusk", "pos": "W", "team": "VAN", "model": 13.56, "llm": 13.56, "reason": "Model aligns with expected ownership"},
+  "45048235": {"name": "Roman Kantserov", "pos": "W", "team": "CHI", "model": 12.69, "llm": 12.69, "reason": "Model aligns with expected ownership"},
+  "45048253": {"name": "Vasily Podkolzin", "pos": "W", "team": "EDM", "model": 12.54, "llm": 12.54, "reason": "Model aligns with expected ownership"},
+  "45048399": {"name": "Philip Broberg", "pos": "D", "team": "STL", "model": 11.97, "llm": 11.97, "reason": "Model aligns with expected ownership"},
+  "45048385": {"name": "Evan Bouchard", "pos": "D", "team": "EDM", "model": 11.32, "llm": 11.32, "reason": "Model aligns with expected ownership"},
+  "45048537": {"name": "Drew Commesso", "pos": "G", "team": "CHI", "model": 11.03, "llm": 11.03, "reason": "Model aligns with expected ownership"},
+  "45048405": {"name": "Charle-Edouard D'Astous", "pos": "D", "team": "TBL", "model": 10.67, "llm": 10.67, "reason": "Model aligns with expected ownership"}
  }
 }
