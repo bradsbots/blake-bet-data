@@ -1,0 +1,356 @@
+{
+  "sport": "nba",
+  "slate": "157174",
+  "date": "2026-11-21",
+  "contest": {
+    "id": 198031042,
+    "label": "NBA $150K Fadeaway [$50K to 1st]",
+    "entries": 9803
+  },
+  "generatedAt": "2026-11-22T09:40:16.859Z",
+  "winner": {
+    "rank": 1,
+    "name": "ImnotNavT (58/150)",
+    "points": 338.25,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 45043186,
+        "name": "Jordan Poole",
+        "team": "NOP",
+        "pos": "PG",
+        "salary": 4100,
+        "fpts": 32.25,
+        "own": 27.26
+      },
+      {
+        "slot": "SG",
+        "id": 45042999,
+        "name": "Kyrie Irving",
+        "team": "DAL",
+        "pos": "PG",
+        "salary": 7800,
+        "fpts": 40,
+        "own": 41.53
+      },
+      {
+        "slot": "SF",
+        "id": 45043027,
+        "name": "Cedric Coward",
+        "team": "MEM",
+        "pos": "SG",
+        "salary": 7000,
+        "fpts": 41.75,
+        "own": 23.42
+      },
+      {
+        "slot": "PF",
+        "id": 45043210,
+        "name": "Landry Shamet",
+        "team": "NYK",
+        "pos": "PF",
+        "salary": 3900,
+        "fpts": 28.75,
+        "own": 23.51
+      },
+      {
+        "slot": "C",
+        "id": 45043227,
+        "name": "Andre Drummond",
+        "team": "NYK",
+        "pos": "C",
+        "salary": 3800,
+        "fpts": 32.25,
+        "own": 78.41
+      },
+      {
+        "slot": "G",
+        "id": 45043024,
+        "name": "Jeremiah Fears",
+        "team": "NOP",
+        "pos": "PG",
+        "salary": 7000,
+        "fpts": 43.75,
+        "own": 23.09
+      },
+      {
+        "slot": "F",
+        "id": 45043173,
+        "name": "Zaccharie Risacher",
+        "team": "DAL",
+        "pos": "SF",
+        "salary": 4200,
+        "fpts": 23.75,
+        "own": 4.33
+      },
+      {
+        "slot": "UTIL",
+        "id": 45042962,
+        "name": "Victor Wembanyama",
+        "team": "SAS",
+        "pos": "C",
+        "salary": 12200,
+        "fpts": 95.75,
+        "own": 38.65
+      }
+    ]
+  },
+  "optimal": {
+    "points": 355.75,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 45043186,
+        "name": "Jordan Poole",
+        "team": "NOP",
+        "pos": "PG",
+        "salary": 4100,
+        "fpts": 32.25,
+        "own": 27.26
+      },
+      {
+        "slot": "SG",
+        "id": 45043252,
+        "name": "Max Christie",
+        "team": "DAL",
+        "pos": "SG",
+        "salary": 3500,
+        "fpts": 27,
+        "own": 0.14
+      },
+      {
+        "slot": "SF",
+        "id": 45043027,
+        "name": "Cedric Coward",
+        "team": "MEM",
+        "pos": "SG",
+        "salary": 7000,
+        "fpts": 41.75,
+        "own": 23.42
+      },
+      {
+        "slot": "PF",
+        "id": 45043210,
+        "name": "Landry Shamet",
+        "team": "NYK",
+        "pos": "PF",
+        "salary": 3900,
+        "fpts": 28.75,
+        "own": 23.51
+      },
+      {
+        "slot": "C",
+        "id": 45043015,
+        "name": "Donovan Clingan",
+        "team": "POR",
+        "pos": "C",
+        "salary": 7200,
+        "fpts": 50.75,
+        "own": 3.39
+      },
+      {
+        "slot": "G",
+        "id": 45043024,
+        "name": "Jeremiah Fears",
+        "team": "NOP",
+        "pos": "PG",
+        "salary": 7000,
+        "fpts": 43.75,
+        "own": 23.09
+      },
+      {
+        "slot": "F",
+        "id": 45043106,
+        "name": "Derik Queen",
+        "team": "NOP",
+        "pos": "PF",
+        "salary": 5000,
+        "fpts": 35.75,
+        "own": 45.8
+      },
+      {
+        "slot": "UTIL",
+        "id": 45042962,
+        "name": "Victor Wembanyama",
+        "team": "SAS",
+        "pos": "C",
+        "salary": 12200,
+        "fpts": 95.75,
+        "own": 38.65
+      }
+    ],
+    "assumedZero": 46
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 4529,
+    "pctile": 53.39,
+    "points": 261.75,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 45042979,
+        "name": "Jalen Brunson",
+        "team": "NYK",
+        "pos": "PG",
+        "salary": 9100,
+        "fpts": 47.75,
+        "own": 31.36
+      },
+      {
+        "slot": "SG",
+        "id": 45043097,
+        "name": "Josh Hart",
+        "team": "NYK",
+        "pos": "SG",
+        "salary": 5200,
+        "fpts": 22.5,
+        "own": 50.51
+      },
+      {
+        "slot": "SF",
+        "id": 45043135,
+        "name": "Max Strus",
+        "team": "LAC",
+        "pos": "SF",
+        "salary": 4700,
+        "fpts": 17,
+        "own": 34.78
+      },
+      {
+        "slot": "PF",
+        "id": 45043210,
+        "name": "Landry Shamet",
+        "team": "NYK",
+        "pos": "PF",
+        "salary": 3900,
+        "fpts": 28.75,
+        "own": 23.51
+      },
+      {
+        "slot": "C",
+        "id": 45043227,
+        "name": "Andre Drummond",
+        "team": "NYK",
+        "pos": "C",
+        "salary": 3800,
+        "fpts": 32.25,
+        "own": 78.41
+      },
+      {
+        "slot": "G",
+        "id": 45042999,
+        "name": "Kyrie Irving",
+        "team": "DAL",
+        "pos": "PG",
+        "salary": 7800,
+        "fpts": 40,
+        "own": 41.53
+      },
+      {
+        "slot": "F",
+        "id": 45043027,
+        "name": "Cedric Coward",
+        "team": "MEM",
+        "pos": "SG",
+        "salary": 7000,
+        "fpts": 41.75,
+        "own": 23.42
+      },
+      {
+        "slot": "UTIL",
+        "id": 45042985,
+        "name": "LaMelo Ball",
+        "team": "MIN",
+        "pos": "PG",
+        "salary": 8500,
+        "fpts": 31.75,
+        "own": 17.6
+      }
+    ],
+    "money": {
+      "fee": 18,
+      "one": {
+        "won": 0,
+        "net": -18
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -18
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 0,
+        "net": -360,
+        "cashed": 0
+      }
+    }
+  },
+  "observationOnly": false,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "DAL": 2,
+        "NOP": 2,
+        "NYK": 2,
+        "MEM": 1,
+        "SAS": 1
+      },
+      "games": {
+        "NOP@SAS": 3,
+        "LAC@DAL": 2,
+        "POR@NYK": 2,
+        "MEM@MIN": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "DAL 2 · NOP 2 · NYK 2",
+        "4 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "NOP": 3,
+        "DAL": 1,
+        "MEM": 1,
+        "NYK": 1,
+        "POR": 1,
+        "SAS": 1
+      },
+      "games": {
+        "NOP@SAS": 4,
+        "POR@NYK": 2,
+        "LAC@DAL": 1,
+        "MEM@MIN": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "NOP 3",
+        "4 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "NYK": 4,
+        "DAL": 1,
+        "LAC": 1,
+        "MEM": 1,
+        "MIN": 1
+      },
+      "games": {
+        "POR@NYK": 4,
+        "LAC@DAL": 2,
+        "MEM@MIN": 2
+      },
+      "nGames": 3,
+      "summary": [
+        "NYK 4",
+        "3 games"
+      ]
+    }
+  }
+}
