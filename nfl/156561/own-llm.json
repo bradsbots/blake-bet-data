@@ -1,0 +1,101 @@
+{
+ "sport": "nfl",
+ "slate": "156561",
+ "llm": "gpt-oss:20b",
+ "promptVersion": 3,
+ "mode": "search",
+ "calledAt": "2026-11-22T14:00:44+00:00",
+ "finishedAt": "2026-11-22T14:01:10+00:00",
+ "lockAt": "2026-11-22T18:00:00+00:00",
+ "minutesBeforeLock": 239,
+ "slateExportedAt": "2026-11-22T14:00:22.958584+00:00",
+ "modelCall": {
+  "model": "v3",
+  "predictedAt": "2026-11-22T14:00:25+00:00"
+ },
+ "cap": 75.0,
+ "complete": true,
+ "seconds": 26.2,
+ "asked": 30,
+ "kept": 20,
+ "echo": 1,
+ "searches": [
+  "DraftKings NFL classic slate 156561 ownership talk",
+  "DraftKings NFL classic slate ownership breakdown",
+  "slate 156561 DraftKings",
+  "Emmett Johnson DraftKings ownership"
+ ],
+ "searchBackends": [
+  "tavily",
+  "tavily",
+  "tavily",
+  "tavily"
+ ],
+ "keyedSearch": true,
+ "refusedSearches": [],
+ "availabilityCut": 0.05,
+ "dropped": [
+  {
+   "id": "44944020",
+   "why": "missing"
+  },
+  {
+   "id": "44944545",
+   "why": "missing"
+  },
+  {
+   "id": "44943700",
+   "why": "missing"
+  },
+  {
+   "id": "44943708",
+   "why": "missing"
+  },
+  {
+   "id": "44943696",
+   "why": "missing"
+  },
+  {
+   "id": "44943702",
+   "why": "missing"
+  },
+  {
+   "id": "44943632",
+   "why": "missing"
+  },
+  {
+   "id": "44944336",
+   "why": "missing"
+  },
+  {
+   "id": "44943972",
+   "why": "missing"
+  },
+  {
+   "id": "44944532",
+   "why": "missing"
+  }
+ ],
+ "players": {
+  "44943722": {"name": "Emmett Johnson", "pos": "RB", "team": "KC", "model": 60.55, "llm": 55.0, "reason": "High usage but KC strong defense"},
+  "44943942": {"name": "George Pickens", "pos": "WR", "team": "DAL", "model": 30.43, "llm": 38.0, "reason": "Top WR in a high\u2011scoring game"},
+  "44944030": {"name": "Elic Ayomanor", "pos": "WR", "team": "TEN", "model": 30.07, "llm": 25.0, "reason": "Low projected points and depth chart"},
+  "44943962": {"name": "Carnell Tate", "pos": "WR", "team": "TEN", "model": 26.37, "llm": 20.0, "reason": "Marked DK status Q, low public interest"},
+  "44943930": {"name": "CeeDee Lamb", "pos": "WR", "team": "DAL", "model": 21.53, "llm": 32.0, "reason": "Key target for TEN, but TE1 spot limited"},
+  "44943716": {"name": "Tony Pollard", "pos": "RB", "team": "TEN", "model": 20.54, "llm": 28.0, "reason": "Strong RB1 role in a high\u2011scoring game"},
+  "44943718": {"name": "Jonah Coleman", "pos": "RB", "team": "DEN", "model": 15.91, "llm": 15.0, "reason": "Limited upside vs strong LV defense"},
+  "44943970": {"name": "Jordyn Tyson", "pos": "WR", "team": "NO", "model": 15.82, "llm": 10.0, "reason": "Low usage and depth chart position"},
+  "44944330": {"name": "Mark Andrews", "pos": "TE", "team": "BAL", "model": 15.49, "llm": 22.0, "reason": "TE1 spot but low projected points"},
+  "44943932": {"name": "Amon-Ra St. Brown", "pos": "WR", "team": "DET", "model": 15.08, "llm": 35.0, "reason": "High volume WR1 in a high\u2011scoring matchup"},
+  "44944002": {"name": "Caleb Douglas", "pos": "WR", "team": "MIA", "model": 14.58, "llm": 12.0, "reason": "Model 14.6% \u2013 no recent buzz, WR2 depth"},
+  "44943704": {"name": "Javonte Williams", "pos": "RB", "team": "DAL", "model": 14.24, "llm": 13.0, "reason": "Model 14.2% \u2013 RB1 but low public interest"},
+  "44943629": {"name": "Dak Prescott", "pos": "QB", "team": "DAL", "model": 12.54, "llm": 11.0, "reason": "Model 12.5% \u2013 QB1 but high ownership already in GPP"},
+  "44944540": {"name": "Jets", "pos": "DST", "team": "NYJ", "model": 12.5, "llm": 10.0, "reason": "Model 12.5% \u2013 DST with modest projection, low stack potential"},
+  "44944528": {"name": "Chiefs", "pos": "DST", "team": "KC", "model": 12.34, "llm": 9.0, "reason": "Model 12.3% \u2013 DST with higher projection but still low public interest"},
+  "44943950": {"name": "Luther Burden III", "pos": "WR", "team": "CHI", "model": 12.14, "llm": 11.0, "reason": "Model 12.1% \u2013 WR1 depth, no stack talk"},
+  "44944534": {"name": "Steelers", "pos": "DST", "team": "PIT", "model": 11.18, "llm": 10.0, "reason": "Model 11.2% \u2013 DST with moderate projection, low ownership"},
+  "44944310": {"name": "Colston Loveland", "pos": "TE", "team": "CHI", "model": 11.16, "llm": 9.0, "reason": "Model 11.2% \u2013 TE1 depth, no stack potential"},
+  "44943948": {"name": "Garrett Wilson", "pos": "WR", "team": "NYJ", "model": 10.81, "llm": 12.0, "reason": "Model 10.8% \u2013 WR1 depth, modest public interest"},
+  "44943994": {"name": "Rome Odunze", "pos": "WR", "team": "CHI", "model": 10.43, "llm": 10.0, "reason": "Model 10.4% \u2013 WR2 depth, low ownership"}
+ }
+}
