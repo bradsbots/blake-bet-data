@@ -1,0 +1,390 @@
+{
+  "sport": "nba",
+  "site": "fd",
+  "slate": "137016",
+  "date": "2026-11-21",
+  "contest": {
+    "id": 281660722,
+    "label": "$100K Sat NBA Shot ($20K to 1st)",
+    "entries": 13227
+  },
+  "generatedAt": "2026-11-22T14:49:25.453Z",
+  "winner": {
+    "rank": 1,
+    "name": "thekid128 (37/150)",
+    "points": 400.1,
+    "salary": 60000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 84690,
+        "name": "Jalen Brunson",
+        "team": "NYK",
+        "pos": "PG",
+        "salary": 8100,
+        "fpts": 42.9,
+        "own": 50.56
+      },
+      {
+        "slot": "SG",
+        "id": 145335,
+        "name": "Payton Pritchard",
+        "team": "BOS",
+        "pos": "PG/SG",
+        "salary": 4900,
+        "fpts": 28.2,
+        "own": 68.84
+      },
+      {
+        "slot": "SF",
+        "id": 12341,
+        "name": "Paul George",
+        "team": "BOS",
+        "pos": "SF",
+        "salary": 7100,
+        "fpts": 48.1,
+        "own": 66.3
+      },
+      {
+        "slot": "PF",
+        "id": 171787,
+        "name": "Keegan Murray",
+        "team": "SAC",
+        "pos": "PF/SF",
+        "salary": 4600,
+        "fpts": 28.4,
+        "own": 6.14
+      },
+      {
+        "slot": "C",
+        "id": 15557,
+        "name": "Andre Drummond",
+        "team": "NYK",
+        "pos": "C",
+        "salary": 3900,
+        "fpts": 34.1,
+        "own": 57.4
+      },
+      {
+        "slot": "G/F",
+        "id": 14498,
+        "name": "Kyrie Irving",
+        "team": "DAL",
+        "pos": "PG",
+        "salary": 7300,
+        "fpts": 38.2,
+        "own": 31.82
+      },
+      {
+        "slot": "F/C",
+        "id": 203714,
+        "name": "Donovan Clingan",
+        "team": "POR",
+        "pos": "C",
+        "salary": 7400,
+        "fpts": 48.6,
+        "own": 6.43
+      },
+      {
+        "slot": "UTIL",
+        "id": 188414,
+        "name": "Victor Wembanyama",
+        "team": "SAS",
+        "pos": "C",
+        "salary": 12700,
+        "fpts": 97.1,
+        "own": 66.82
+      },
+      {
+        "slot": "UTIL",
+        "id": 110325,
+        "name": "Daniel Gafford",
+        "team": "DAL",
+        "pos": "C",
+        "salary": 4000,
+        "fpts": 34.5,
+        "own": 10.7
+      }
+    ]
+  },
+  "optimal": {
+    "points": 416.8,
+    "salary": 59500,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 228131,
+        "name": "Jeremiah Fears",
+        "team": "NOP",
+        "pos": "PG",
+        "salary": 6800,
+        "fpts": 42,
+        "own": 11.59
+      },
+      {
+        "slot": "SG",
+        "id": 228127,
+        "name": "Cedric Coward",
+        "team": "MEM",
+        "pos": "SG/SF",
+        "salary": 7100,
+        "fpts": 40.4,
+        "own": 11.75
+      },
+      {
+        "slot": "SF",
+        "id": 12341,
+        "name": "Paul George",
+        "team": "BOS",
+        "pos": "SF",
+        "salary": 7100,
+        "fpts": 48.1,
+        "own": 66.3
+      },
+      {
+        "slot": "PF",
+        "id": 228132,
+        "name": "Derik Queen",
+        "team": "NOP",
+        "pos": "PF/C",
+        "salary": 5000,
+        "fpts": 33,
+        "own": 22.16
+      },
+      {
+        "slot": "C",
+        "id": 203714,
+        "name": "Donovan Clingan",
+        "team": "POR",
+        "pos": "C",
+        "salary": 7400,
+        "fpts": 48.6,
+        "own": 6.43
+      },
+      {
+        "slot": "G/F",
+        "id": 9663,
+        "name": "Jrue Holiday",
+        "team": "POR",
+        "pos": "SG/PG",
+        "salary": 5900,
+        "fpts": 38.3,
+        "own": 5.26
+      },
+      {
+        "slot": "F/C",
+        "id": 188414,
+        "name": "Victor Wembanyama",
+        "team": "SAS",
+        "pos": "C",
+        "salary": 12700,
+        "fpts": 97.1,
+        "own": 66.82
+      },
+      {
+        "slot": "UTIL",
+        "id": 9575,
+        "name": "Mike Conley",
+        "team": "BOS",
+        "pos": "PG",
+        "salary": 3500,
+        "fpts": 34.8,
+        "own": 0.01
+      },
+      {
+        "slot": "UTIL",
+        "id": 110325,
+        "name": "Daniel Gafford",
+        "team": "DAL",
+        "pos": "C",
+        "salary": 4000,
+        "fpts": 34.5,
+        "own": 10.7
+      }
+    ],
+    "assumedZero": 60
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 6891,
+    "pctile": 47.84,
+    "points": 335.5,
+    "salary": 59700,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 84690,
+        "name": "Jalen Brunson",
+        "team": "NYK",
+        "pos": "PG",
+        "salary": 8100,
+        "fpts": 42.9,
+        "own": 50.56
+      },
+      {
+        "slot": "SG",
+        "id": 203723,
+        "name": "Stephon Castle",
+        "team": "SAS",
+        "pos": "SG/PG",
+        "salary": 7000,
+        "fpts": 29.6,
+        "own": 32.39
+      },
+      {
+        "slot": "SF",
+        "id": 145324,
+        "name": "Devin Vassell",
+        "team": "SAS",
+        "pos": "SF",
+        "salary": 5000,
+        "fpts": 22.8,
+        "own": 6.46
+      },
+      {
+        "slot": "PF",
+        "id": 40562,
+        "name": "Josh Hart",
+        "team": "NYK",
+        "pos": "SF/PF",
+        "salary": 4200,
+        "fpts": 23.6,
+        "own": 44.11
+      },
+      {
+        "slot": "C",
+        "id": 15557,
+        "name": "Andre Drummond",
+        "team": "NYK",
+        "pos": "C",
+        "salary": 3900,
+        "fpts": 34.1,
+        "own": 57.4
+      },
+      {
+        "slot": "G/F",
+        "id": 145485,
+        "name": "LaMelo Ball",
+        "team": "MIN",
+        "pos": "PG",
+        "salary": 7500,
+        "fpts": 31.5,
+        "own": 25.02
+      },
+      {
+        "slot": "F/C",
+        "id": 188414,
+        "name": "Victor Wembanyama",
+        "team": "SAS",
+        "pos": "C",
+        "salary": 12700,
+        "fpts": 97.1,
+        "own": 66.82
+      },
+      {
+        "slot": "UTIL",
+        "id": 14498,
+        "name": "Kyrie Irving",
+        "team": "DAL",
+        "pos": "PG",
+        "salary": 7300,
+        "fpts": 38.2,
+        "own": 31.82
+      },
+      {
+        "slot": "UTIL",
+        "id": 112708,
+        "name": "Max Strus",
+        "team": "LAC",
+        "pos": "SG/SF",
+        "salary": 4000,
+        "fpts": 15.7,
+        "own": 13.56
+      }
+    ],
+    "money": {
+      "fee": 9,
+      "one": {
+        "won": 0,
+        "net": -9
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -9
+      },
+      "portfolio": {
+        "n": 3,
+        "won": 0,
+        "net": -27,
+        "cashed": 0
+      }
+    }
+  },
+  "observationOnly": false,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "BOS": 2,
+        "DAL": 2,
+        "NYK": 2,
+        "POR": 1,
+        "SAC": 1,
+        "SAS": 1
+      },
+      "games": {
+        "BOS@SAC": 3,
+        "POR@NYK": 3,
+        "LAC@DAL": 2,
+        "NOP@SAS": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "BOS 2 · DAL 2 · NYK 2",
+        "4 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "BOS": 2,
+        "NOP": 2,
+        "POR": 2,
+        "DAL": 1,
+        "MEM": 1,
+        "SAS": 1
+      },
+      "games": {
+        "NOP@SAS": 3,
+        "BOS@SAC": 2,
+        "POR@NYK": 2,
+        "LAC@DAL": 1,
+        "MEM@MIN": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "BOS 2 · NOP 2 · POR 2",
+        "5 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "NYK": 3,
+        "SAS": 3,
+        "DAL": 1,
+        "LAC": 1,
+        "MIN": 1
+      },
+      "games": {
+        "NOP@SAS": 3,
+        "POR@NYK": 3,
+        "LAC@DAL": 2,
+        "MEM@MIN": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "NYK 3 · SAS 3",
+        "4 games"
+      ]
+    }
+  }
+}

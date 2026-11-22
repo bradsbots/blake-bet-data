@@ -1,6 +1,25 @@
 [
   {
     "sport": "nba",
+    "site": "fd",
+    "slate": "137016",
+    "date": "2026-11-21",
+    "label": "$100K Sat NBA Shot ($20K to 1st)",
+    "contestId": 281660722,
+    "entries": 13227,
+    "winnerPoints": 400.1,
+    "optimalPoints": 416.8,
+    "paperPoints": 335.5,
+    "paperPctile": 47.84,
+    "paperNet1": -9,
+    "paperNet1Defaults": -9,
+    "portfolioNet": -27,
+    "portfolioCashed": 0,
+    "portfolioN": 3,
+    "observationOnly": false
+  },
+  {
+    "sport": "nba",
     "slate": "157174",
     "date": "2026-11-21",
     "label": "NBA $150K Fadeaway [$50K to 1st]",
