@@ -1,0 +1,433 @@
+{
+  "sport": "nhl",
+  "slate": "156946",
+  "date": "2026-11-21",
+  "contest": {
+    "id": 197993103,
+    "label": "NHL $30K Overload [$10K to 1st]",
+    "entries": 1764
+  },
+  "generatedAt": "2026-11-22T09:40:28.067Z",
+  "winner": {
+    "rank": 1,
+    "name": "ewsams (26/52)",
+    "points": 235,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "C",
+        "id": 45024258,
+        "name": "Tim Stuetzle",
+        "team": "OTT",
+        "pos": "C",
+        "salary": 6300,
+        "fpts": 29.3,
+        "own": 6.12
+      },
+      {
+        "slot": "C",
+        "id": 45024318,
+        "name": "Sam Bennett",
+        "team": "FLA",
+        "pos": "C",
+        "salary": 4100,
+        "fpts": 44.5,
+        "own": 8.45
+      },
+      {
+        "slot": "W",
+        "id": 45024514,
+        "name": "David Pastrnak",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 7800,
+        "fpts": 27.5,
+        "own": 14
+      },
+      {
+        "slot": "W",
+        "id": 45024544,
+        "name": "Matthew Tkachuk",
+        "team": "FLA",
+        "pos": "W",
+        "salary": 6100,
+        "fpts": 14.8,
+        "own": 10.82
+      },
+      {
+        "slot": "W",
+        "id": 45024626,
+        "name": "Morgan Geekie",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 4400,
+        "fpts": 23.8,
+        "own": 14.29
+      },
+      {
+        "slot": "D",
+        "id": 45025054,
+        "name": "Jake Sanderson",
+        "team": "OTT",
+        "pos": "D",
+        "salary": 5300,
+        "fpts": 18.2,
+        "own": 7.65
+      },
+      {
+        "slot": "D",
+        "id": 45025068,
+        "name": "Charlie McAvoy",
+        "team": "BOS",
+        "pos": "D",
+        "salary": 4800,
+        "fpts": 19.3,
+        "own": 7.43
+      },
+      {
+        "slot": "G",
+        "id": 45025522,
+        "name": "Ville Husso",
+        "team": "ANA",
+        "pos": "G",
+        "salary": 7100,
+        "fpts": -0.7,
+        "own": 2.61
+      },
+      {
+        "slot": "UTIL",
+        "id": 45024322,
+        "name": "Elias Lindholm",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 4000,
+        "fpts": 58.3,
+        "own": 14.34
+      }
+    ]
+  },
+  "optimal": {
+    "points": 296.1,
+    "salary": 48200,
+    "players": [
+      {
+        "slot": "C",
+        "id": 45024318,
+        "name": "Sam Bennett",
+        "team": "FLA",
+        "pos": "C",
+        "salary": 4100,
+        "fpts": 44.5,
+        "own": 8.45
+      },
+      {
+        "slot": "C",
+        "id": 45024258,
+        "name": "Tim Stuetzle",
+        "team": "OTT",
+        "pos": "C",
+        "salary": 6300,
+        "fpts": 29.3,
+        "own": 6.12
+      },
+      {
+        "slot": "W",
+        "id": 45024514,
+        "name": "David Pastrnak",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 7800,
+        "fpts": 27.5,
+        "own": 14
+      },
+      {
+        "slot": "W",
+        "id": 45024688,
+        "name": "Jake Neighbours",
+        "team": "STL",
+        "pos": "W",
+        "salary": 3600,
+        "fpts": 28,
+        "own": 3.63
+      },
+      {
+        "slot": "W",
+        "id": 45024962,
+        "name": "Ondrej Palat",
+        "team": "NYI",
+        "pos": "W",
+        "salary": 2500,
+        "fpts": 28.8,
+        "own": 0.23
+      },
+      {
+        "slot": "D",
+        "id": 45025028,
+        "name": "Zach Werenski",
+        "team": "CBJ",
+        "pos": "D",
+        "salary": 7100,
+        "fpts": 29,
+        "own": 8.61
+      },
+      {
+        "slot": "D",
+        "id": 45025076,
+        "name": "Philip Broberg",
+        "team": "STL",
+        "pos": "D",
+        "salary": 4500,
+        "fpts": 31.4,
+        "own": 2.21
+      },
+      {
+        "slot": "G",
+        "id": 45025475,
+        "name": "Sebastian Cossa",
+        "team": "UTA",
+        "pos": "G",
+        "salary": 8300,
+        "fpts": 19.3,
+        "own": 0.51
+      },
+      {
+        "slot": "UTIL",
+        "id": 45024322,
+        "name": "Elias Lindholm",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 4000,
+        "fpts": 58.3,
+        "own": 14.34
+      }
+    ],
+    "assumedZero": 282
+  },
+  "paper": {
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 1409,
+    "pctile": 20.12,
+    "points": 71.6,
+    "salary": 49700,
+    "players": [
+      {
+        "slot": "C",
+        "id": 45024288,
+        "name": "Alex Laferriere",
+        "team": "LAK",
+        "pos": "C",
+        "salary": 5100,
+        "fpts": 4.3,
+        "own": 0.96
+      },
+      {
+        "slot": "C",
+        "id": 45024308,
+        "name": "Charlie Coyle",
+        "team": "CBJ",
+        "pos": "C",
+        "salary": 4300,
+        "fpts": 2.8,
+        "own": 5.84
+      },
+      {
+        "slot": "W",
+        "id": 45024618,
+        "name": "Kent Johnson",
+        "team": "CBJ",
+        "pos": "W",
+        "salary": 4500,
+        "fpts": 9.5,
+        "own": 7.03
+      },
+      {
+        "slot": "W",
+        "id": 45024802,
+        "name": "Alexandre Texier",
+        "team": "MTL",
+        "pos": "W",
+        "salary": 2700,
+        "fpts": 6,
+        "own": 9.07
+      },
+      {
+        "slot": "W",
+        "id": 45024520,
+        "name": "Clayton Keller",
+        "team": "UTA",
+        "pos": "W",
+        "salary": 7400,
+        "fpts": 0,
+        "own": 3.46
+      },
+      {
+        "slot": "D",
+        "id": 45025028,
+        "name": "Zach Werenski",
+        "team": "CBJ",
+        "pos": "D",
+        "salary": 7100,
+        "fpts": 29,
+        "own": 8.61
+      },
+      {
+        "slot": "D",
+        "id": 45025036,
+        "name": "Mikhail Sergachev",
+        "team": "UTA",
+        "pos": "D",
+        "salary": 6300,
+        "fpts": 6.9,
+        "own": 9.98
+      },
+      {
+        "slot": "G",
+        "id": 45025502,
+        "name": "Ilya Sorokin",
+        "team": "NYI",
+        "pos": "G",
+        "salary": 7600,
+        "fpts": 11.6,
+        "own": 18.2
+      },
+      {
+        "slot": "UTIL",
+        "id": 45024608,
+        "name": "Kailer Yamamoto",
+        "team": "UTA",
+        "pos": "W",
+        "salary": 4700,
+        "fpts": 1.5,
+        "own": 3.97
+      }
+    ],
+    "money": {
+      "fee": 20,
+      "one": {
+        "won": 0,
+        "net": -20
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -20
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 395,
+        "net": -5,
+        "cashed": 10
+      }
+    }
+  },
+  "observationOnly": false,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "BOS": 4,
+        "FLA": 2,
+        "OTT": 2,
+        "ANA": 1
+      },
+      "games": {
+        "WSH@BOS": 4,
+        "BUF@FLA": 2,
+        "LAK@OTT": 2,
+        "ANA@UTA": 1
+      },
+      "nGames": 4,
+      "lines": {
+        "BOS f1": 3
+      },
+      "pp": {
+        "BOS pp1": 4,
+        "OTT pp1": 2
+      },
+      "goalie": {
+        "team": "ANA",
+        "opposing": 0
+      },
+      "summary": [
+        "BOS 4 · FLA 2 · OTT 2",
+        "BOS f1 ×3",
+        "BOS pp1 ×4",
+        "OTT pp1 ×2",
+        "G ANA",
+        "4 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "BOS": 2,
+        "STL": 2,
+        "CBJ": 1,
+        "FLA": 1,
+        "NYI": 1,
+        "OTT": 1,
+        "UTA": 1
+      },
+      "games": {
+        "NJD@STL": 2,
+        "WSH@BOS": 2,
+        "ANA@UTA": 1,
+        "BUF@FLA": 1,
+        "CBJ@TOR": 1,
+        "LAK@OTT": 1,
+        "NYI@DET": 1
+      },
+      "nGames": 7,
+      "lines": {
+        "BOS f1": 2
+      },
+      "pp": {
+        "BOS pp1": 2,
+        "STL pp1": 2
+      },
+      "goalie": {
+        "team": "UTA",
+        "opposing": 0
+      },
+      "summary": [
+        "BOS 2 · STL 2",
+        "BOS f1 ×2",
+        "BOS pp1 ×2",
+        "STL pp1 ×2",
+        "G UTA",
+        "7 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "CBJ": 3,
+        "UTA": 3,
+        "LAK": 1,
+        "MTL": 1,
+        "NYI": 1
+      },
+      "games": {
+        "ANA@UTA": 3,
+        "CBJ@TOR": 3,
+        "LAK@OTT": 1,
+        "NYI@DET": 1,
+        "PHI@MTL": 1
+      },
+      "nGames": 5,
+      "lines": {},
+      "pp": {
+        "CBJ pp1": 3,
+        "UTA pp1": 3
+      },
+      "goalie": {
+        "team": "NYI",
+        "opposing": 0
+      },
+      "summary": [
+        "CBJ 3 · UTA 3",
+        "CBJ pp1 ×3",
+        "UTA pp1 ×3",
+        "G NYI",
+        "5 games"
+      ]
+    }
+  }
+}
