@@ -2,6 +2,55 @@
  "sport": "nhl",
  "slates": [
   {
+   "slate": "156946",
+   "date": "2026-11-21",
+   "label": "NHL $30K Overload [$10K to 1st]",
+   "entries": 1764,
+   "source": "live",
+   "model": "v3",
+   "predictedAt": "2026-11-21T22:40:22+00:00",
+   "lockAt": "2026-11-21T23:00:00+00:00",
+   "minutesBeforeLock": 20,
+   "n": 595,
+   "mae": 0.635,
+   "mae5": 3.481,
+   "chalkMae": 7.708,
+   "spearman": 0.9146,
+   "top10": 0.6,
+   "chalk": {
+    "n": 5,
+    "caught": 4
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Brock Faber",
+     "pos": "D",
+     "team": "MIN",
+     "pred": 17.91,
+     "actual": 34.98
+    },
+    {
+     "name": "Jordan Binnington",
+     "pos": "G",
+     "team": "STL",
+     "pred": 0.03,
+     "actual": 9.92
+    },
+    {
+     "name": "Roman Josi",
+     "pos": "D",
+     "team": "NSH",
+     "pred": 11.71,
+     "actual": 3.74
+    }
+   ],
+   "evenSplit": {
+    "mae": 1.832,
+    "chalkMae": 24.797
+   }
+  },
+  {
    "slate": "156935",
    "date": "2026-11-19",
    "label": "NHL $35K Overload [$10K to 1st]",
@@ -1719,18 +1768,18 @@
  ],
  "recent": {
   "slates": 10,
-  "n": 3469,
-  "mae": 1.116,
-  "mae5": 3.769,
-  "chalkMae": 7.302,
+  "n": 3716,
+  "mae": 1.036,
+  "mae5": 3.811,
+  "chalkMae": 7.403,
   "chalk": {
-   "n": 71,
-   "caught": 57
+   "n": 75,
+   "caught": 60
   },
   "falseChalk": 2,
   "evenSplit": {
-   "mae": 2.937,
-   "chalkMae": 21.469
+   "mae": 2.773,
+   "chalkMae": 21.746
   }
  }
 }
