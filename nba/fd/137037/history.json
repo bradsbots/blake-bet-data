@@ -1,0 +1,389 @@
+{
+  "sport": "nba",
+  "site": "fd",
+  "slate": "137037",
+  "date": "2026-11-22",
+  "contest": {
+    "id": 281670011,
+    "label": "$40K Sun NBA Shot ($10K to 1st)",
+    "entries": 5291
+  },
+  "generatedAt": "2026-11-23T13:49:27.464Z",
+  "winner": {
+    "rank": 1,
+    "name": "denssity (121/150)",
+    "points": 468,
+    "salary": 59800,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 203808,
+        "name": "Ajay Mitchell",
+        "team": "OKC",
+        "pos": "SG/PG",
+        "salary": 6100,
+        "fpts": 27.1,
+        "own": 76.92
+      },
+      {
+        "slot": "SG",
+        "id": 203731,
+        "name": "Jared McCain",
+        "team": "OKC",
+        "pos": "SG/SF",
+        "salary": 4700,
+        "fpts": 25.9,
+        "own": 60.05
+      },
+      {
+        "slot": "SF",
+        "id": 228119,
+        "name": "Ace Bailey",
+        "team": "UTA",
+        "pos": "SF/SG",
+        "salary": 5100,
+        "fpts": 31,
+        "own": 5.31
+      },
+      {
+        "slot": "PF",
+        "id": 40562,
+        "name": "Josh Hart",
+        "team": "NYK",
+        "pos": "SF/PF",
+        "salary": 4600,
+        "fpts": 38.2,
+        "own": 35.25
+      },
+      {
+        "slot": "C",
+        "id": 80817,
+        "name": "Bam Adebayo",
+        "team": "MIA",
+        "pos": "C",
+        "salary": 8100,
+        "fpts": 72,
+        "own": 44.15
+      },
+      {
+        "slot": "G/F",
+        "id": 66108,
+        "name": "Jamal Murray",
+        "team": "DEN",
+        "pos": "PG",
+        "salary": 8500,
+        "fpts": 74.5,
+        "own": 19.05
+      },
+      {
+        "slot": "F/C",
+        "id": 55062,
+        "name": "Nikola Jokic",
+        "team": "DEN",
+        "pos": "C",
+        "salary": 11900,
+        "fpts": 78.1,
+        "own": 62.29
+      },
+      {
+        "slot": "UTIL",
+        "id": 23665,
+        "name": "Buddy Hield",
+        "team": "CHI",
+        "pos": "SG",
+        "salary": 3900,
+        "fpts": 50.4,
+        "own": 10.81
+      },
+      {
+        "slot": "UTIL",
+        "id": 157905,
+        "name": "Josh Giddey",
+        "team": "CHI",
+        "pos": "PG",
+        "salary": 6900,
+        "fpts": 70.8,
+        "own": 11.96
+      }
+    ]
+  },
+  "optimal": {
+    "points": 518.4,
+    "salary": 59900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 157905,
+        "name": "Josh Giddey",
+        "team": "CHI",
+        "pos": "PG",
+        "salary": 6900,
+        "fpts": 70.8,
+        "own": 11.96
+      },
+      {
+        "slot": "SG",
+        "id": 84713,
+        "name": "Svi Mykhailiuk",
+        "team": "UTA",
+        "pos": "SG",
+        "salary": 3900,
+        "fpts": 46.5,
+        "own": 0.09
+      },
+      {
+        "slot": "SF",
+        "id": 84724,
+        "name": "Landry Shamet",
+        "team": "NYK",
+        "pos": "SG/SF",
+        "salary": 3800,
+        "fpts": 26.9,
+        "own": 3.82
+      },
+      {
+        "slot": "PF",
+        "id": 171792,
+        "name": "Nikola Jovic",
+        "team": "MIA",
+        "pos": "PF",
+        "salary": 3600,
+        "fpts": 32.1,
+        "own": 0.06
+      },
+      {
+        "slot": "C",
+        "id": 80817,
+        "name": "Bam Adebayo",
+        "team": "MIA",
+        "pos": "C",
+        "salary": 8100,
+        "fpts": 72,
+        "own": 44.15
+      },
+      {
+        "slot": "G/F",
+        "id": 66108,
+        "name": "Jamal Murray",
+        "team": "DEN",
+        "pos": "PG",
+        "salary": 8500,
+        "fpts": 74.5,
+        "own": 19.05
+      },
+      {
+        "slot": "F/C",
+        "id": 58462,
+        "name": "Karl-Anthony Towns",
+        "team": "NYK",
+        "pos": "C",
+        "salary": 9300,
+        "fpts": 67.1,
+        "own": 8.6
+      },
+      {
+        "slot": "UTIL",
+        "id": 23665,
+        "name": "Buddy Hield",
+        "team": "CHI",
+        "pos": "SG",
+        "salary": 3900,
+        "fpts": 50.4,
+        "own": 10.81
+      },
+      {
+        "slot": "UTIL",
+        "id": 55062,
+        "name": "Nikola Jokic",
+        "team": "DEN",
+        "pos": "C",
+        "salary": 11900,
+        "fpts": 78.1,
+        "own": 62.29
+      }
+    ],
+    "assumedZero": 92
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 3963,
+    "pctile": 25,
+    "points": 291.3,
+    "salary": 60000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 188408,
+        "name": "Anthony Black",
+        "team": "ORL",
+        "pos": "PG/SG",
+        "salary": 7100,
+        "fpts": 27,
+        "own": 10.51
+      },
+      {
+        "slot": "SG",
+        "id": 248938,
+        "name": "Darryn Peterson",
+        "team": "UTA",
+        "pos": "SG",
+        "salary": 6700,
+        "fpts": 13.1,
+        "own": 24.49
+      },
+      {
+        "slot": "SF",
+        "id": 171744,
+        "name": "Christian Braun",
+        "team": "DEN",
+        "pos": "SG/SF",
+        "salary": 5400,
+        "fpts": 37.1,
+        "own": 7.81
+      },
+      {
+        "slot": "PF",
+        "id": 40562,
+        "name": "Josh Hart",
+        "team": "NYK",
+        "pos": "SF/PF",
+        "salary": 4600,
+        "fpts": 38.2,
+        "own": 35.25
+      },
+      {
+        "slot": "C",
+        "id": 55062,
+        "name": "Nikola Jokic",
+        "team": "DEN",
+        "pos": "C",
+        "salary": 11900,
+        "fpts": 78.1,
+        "own": 62.29
+      },
+      {
+        "slot": "G/F",
+        "id": 145323,
+        "name": "Tre Jones",
+        "team": "CHI",
+        "pos": "PG/SG",
+        "salary": 4200,
+        "fpts": 17.4,
+        "own": 19.35
+      },
+      {
+        "slot": "F/C",
+        "id": 84670,
+        "name": "Mikal Bridges",
+        "team": "NYK",
+        "pos": "SF/SG",
+        "salary": 4500,
+        "fpts": 14.1,
+        "own": 5.42
+      },
+      {
+        "slot": "UTIL",
+        "id": 84690,
+        "name": "Jalen Brunson",
+        "team": "NYK",
+        "pos": "PG",
+        "salary": 8200,
+        "fpts": 35.1,
+        "own": 27.08
+      },
+      {
+        "slot": "UTIL",
+        "id": 14498,
+        "name": "Kyrie Irving",
+        "team": "DAL",
+        "pos": "PG",
+        "salary": 7400,
+        "fpts": 31.2,
+        "own": 21.79
+      }
+    ],
+    "money": {
+      "fee": 9,
+      "one": {
+        "won": 0,
+        "net": -9
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -9
+      },
+      "portfolio": {
+        "n": 3,
+        "won": 0,
+        "net": -27,
+        "cashed": 0
+      }
+    }
+  },
+  "observationOnly": false,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "CHI": 2,
+        "DEN": 2,
+        "OKC": 2,
+        "MIA": 1,
+        "NYK": 1,
+        "UTA": 1
+      },
+      "games": {
+        "DEN@CHI": 4,
+        "OKC@MIA": 3,
+        "DAL@UTA": 1,
+        "IND@NYK": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "CHI 2 · DEN 2 · OKC 2",
+        "4 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "CHI": 2,
+        "DEN": 2,
+        "MIA": 2,
+        "NYK": 2,
+        "UTA": 1
+      },
+      "games": {
+        "DEN@CHI": 4,
+        "IND@NYK": 2,
+        "OKC@MIA": 2,
+        "DAL@UTA": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "CHI 2 · DEN 2 · MIA 2 · NYK 2",
+        "4 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "NYK": 3,
+        "DEN": 2,
+        "CHI": 1,
+        "DAL": 1,
+        "ORL": 1,
+        "UTA": 1
+      },
+      "games": {
+        "DEN@CHI": 3,
+        "IND@NYK": 3,
+        "DAL@UTA": 2,
+        "ORL@WAS": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "NYK 3 · DEN 2",
+        "4 games"
+      ]
+    }
+  }
+}
