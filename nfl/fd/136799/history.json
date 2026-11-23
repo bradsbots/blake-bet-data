@@ -1,0 +1,291 @@
+{
+  "sport": "nfl",
+  "site": "fd",
+  "slate": "136799",
+  "date": "2026-11-22",
+  "contest": {
+    "id": 281589264,
+    "label": "$1M Sun NFL Sunday Million ($200K to 1st, Bonus Back Offer!)",
+    "entries": 79365
+  },
+  "generatedAt": "2026-11-23T13:49:18.482Z",
+  "winner": null,
+  "optimal": {
+    "points": 238.7,
+    "salary": 59200,
+    "players": [
+      {
+        "slot": "QB",
+        "id": 31716,
+        "name": "Dak Prescott",
+        "team": "DAL",
+        "pos": "QB",
+        "salary": 8200,
+        "fpts": 38.9,
+        "own": 29.74
+      },
+      {
+        "slot": "RB",
+        "id": 167031,
+        "name": "Ashton Jeanty",
+        "team": "LV",
+        "pos": "RB",
+        "salary": 5800,
+        "fpts": 25.4,
+        "own": 1.1
+      },
+      {
+        "slot": "RB",
+        "id": 167622,
+        "name": "Jonah Coleman",
+        "team": "DEN",
+        "pos": "RB",
+        "salary": 6500,
+        "fpts": 35.9,
+        "own": 39.07
+      },
+      {
+        "slot": "WR",
+        "id": 86631,
+        "name": "CeeDee Lamb",
+        "team": "DAL",
+        "pos": "WR",
+        "salary": 9100,
+        "fpts": 27.7,
+        "own": 47.98
+      },
+      {
+        "slot": "WR",
+        "id": 110246,
+        "name": "George Pickens",
+        "team": "DAL",
+        "pos": "WR",
+        "salary": 7500,
+        "fpts": 23.3,
+        "own": 30.84
+      },
+      {
+        "slot": "WR",
+        "id": 206341,
+        "name": "Ted Hurst III",
+        "team": "TB",
+        "pos": "WR",
+        "salary": 4600,
+        "fpts": 20.1,
+        "own": 0.01
+      },
+      {
+        "slot": "TE",
+        "id": 33076,
+        "name": "Travis Kelce",
+        "team": "KC",
+        "pos": "TE",
+        "salary": 5400,
+        "fpts": 22.4,
+        "own": 12.15
+      },
+      {
+        "slot": "FLEX",
+        "id": 87467,
+        "name": "Chuba Hubbard",
+        "team": "CAR",
+        "pos": "RB",
+        "salary": 7900,
+        "fpts": 29,
+        "own": 15.91
+      },
+      {
+        "slot": "DEF",
+        "id": 12527,
+        "name": "Chicago Bears",
+        "team": "CHI",
+        "pos": "DST",
+        "salary": 4200,
+        "fpts": 16,
+        "own": 11.35
+      }
+    ],
+    "assumedZero": 198
+  },
+  "paper": {
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 6714,
+    "pctile": 91.48,
+    "points": 177.8,
+    "salary": 59800,
+    "players": [
+      {
+        "slot": "QB",
+        "id": 31716,
+        "name": "Dak Prescott",
+        "team": "DAL",
+        "pos": "QB",
+        "salary": 8200,
+        "fpts": 38.9,
+        "own": 29.74
+      },
+      {
+        "slot": "RB",
+        "id": 63759,
+        "name": "Tony Pollard",
+        "team": "TEN",
+        "pos": "RB",
+        "salary": 6800,
+        "fpts": 14,
+        "own": 39.78
+      },
+      {
+        "slot": "RB",
+        "id": 166860,
+        "name": "Emmett Johnson",
+        "team": "KC",
+        "pos": "RB",
+        "salary": 6200,
+        "fpts": 25.3,
+        "own": 74.87
+      },
+      {
+        "slot": "WR",
+        "id": 86631,
+        "name": "CeeDee Lamb",
+        "team": "DAL",
+        "pos": "WR",
+        "salary": 9100,
+        "fpts": 27.7,
+        "own": 47.98
+      },
+      {
+        "slot": "WR",
+        "id": 110246,
+        "name": "George Pickens",
+        "team": "DAL",
+        "pos": "WR",
+        "salary": 7500,
+        "fpts": 23.3,
+        "own": 30.84
+      },
+      {
+        "slot": "WR",
+        "id": 166092,
+        "name": "Luther Burden III",
+        "team": "CHI",
+        "pos": "WR",
+        "salary": 6400,
+        "fpts": 2.3,
+        "own": 27.24
+      },
+      {
+        "slot": "TE",
+        "id": 166588,
+        "name": "Colston Loveland",
+        "team": "CHI",
+        "pos": "TE",
+        "salary": 5700,
+        "fpts": 10.4,
+        "own": 26.21
+      },
+      {
+        "slot": "FLEX",
+        "id": 167622,
+        "name": "Jonah Coleman",
+        "team": "DEN",
+        "pos": "RB",
+        "salary": 6500,
+        "fpts": 35.9,
+        "own": 39.07
+      },
+      {
+        "slot": "DEF",
+        "id": 12551,
+        "name": "Tampa Bay Buccaneers",
+        "team": "TB",
+        "pos": "DST",
+        "salary": 3400,
+        "fpts": 0,
+        "own": 3.29
+      }
+    ],
+    "money": {
+      "fee": 15,
+      "one": {
+        "won": 35,
+        "net": 20
+      },
+      "oneDefaults": {
+        "won": 35,
+        "net": 20
+      },
+      "portfolio": {
+        "n": 6,
+        "won": 70,
+        "net": -20,
+        "cashed": 2
+      }
+    }
+  },
+  "observationOnly": false,
+  "stacks": {
+    "winner": null,
+    "optimal": {
+      "teams": {
+        "DAL": 3,
+        "CAR": 1,
+        "CHI": 1,
+        "DEN": 1,
+        "KC": 1,
+        "LV": 1,
+        "TB": 1
+      },
+      "games": {
+        "TEN@DAL": 3,
+        "LV@DEN": 2,
+        "ARI@KC": 1,
+        "BAL@CAR": 1,
+        "NO@CHI": 1,
+        "TB@DET": 1
+      },
+      "nGames": 6,
+      "qb": {
+        "team": "DAL",
+        "catchers": 2,
+        "bringBack": 0
+      },
+      "rbDst": [],
+      "summary": [
+        "QB DAL + 2",
+        "DAL 3",
+        "6 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "DAL": 3,
+        "CHI": 2,
+        "DEN": 1,
+        "KC": 1,
+        "TB": 1,
+        "TEN": 1
+      },
+      "games": {
+        "TEN@DAL": 4,
+        "NO@CHI": 2,
+        "ARI@KC": 1,
+        "LV@DEN": 1,
+        "TB@DET": 1
+      },
+      "nGames": 5,
+      "qb": {
+        "team": "DAL",
+        "catchers": 2,
+        "bringBack": 1
+      },
+      "rbDst": [],
+      "summary": [
+        "QB DAL + 2 · bring-back 1",
+        "DAL 3 · CHI 2",
+        "5 games"
+      ]
+    }
+  }
+}
