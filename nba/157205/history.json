@@ -1,0 +1,354 @@
+{
+  "sport": "nba",
+  "slate": "157205",
+  "date": "2026-11-22",
+  "contest": {
+    "id": 198058078,
+    "label": "NBA $70K Fadeaway [$20K to 1st]",
+    "entries": 5490
+  },
+  "generatedAt": "2026-11-23T09:40:15.948Z",
+  "winner": {
+    "rank": 1,
+    "name": "bgreseth (2/150)",
+    "points": 398,
+    "salary": 49700,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 45050886,
+        "name": "Josh Giddey",
+        "team": "CHI",
+        "pos": "PG",
+        "salary": 7800,
+        "fpts": 78.5,
+        "own": 7.44
+      },
+      {
+        "slot": "SG",
+        "id": 45051127,
+        "name": "Buddy Hield",
+        "team": "CHI",
+        "pos": "SG",
+        "salary": 3800,
+        "fpts": 54.75,
+        "own": 66.28
+      },
+      {
+        "slot": "SF",
+        "id": 45050989,
+        "name": "Josh Hart",
+        "team": "NYK",
+        "pos": "SG",
+        "salary": 5300,
+        "fpts": 43.75,
+        "own": 41.17
+      },
+      {
+        "slot": "PF",
+        "id": 45050847,
+        "name": "Karl-Anthony Towns",
+        "team": "NYK",
+        "pos": "PF",
+        "salary": 9600,
+        "fpts": 66.75,
+        "own": 12.04
+      },
+      {
+        "slot": "C",
+        "id": 45050953,
+        "name": "Jalen Smith",
+        "team": "CHI",
+        "pos": "C",
+        "salary": 6100,
+        "fpts": 43,
+        "own": 28.07
+      },
+      {
+        "slot": "G",
+        "id": 45050857,
+        "name": "Jamal Murray",
+        "team": "DEN",
+        "pos": "PG",
+        "salary": 8900,
+        "fpts": 73.75,
+        "own": 13.44
+      },
+      {
+        "slot": "F",
+        "id": 45051042,
+        "name": "Kelly Oubre Jr.",
+        "team": "IND",
+        "pos": "SG",
+        "salary": 4600,
+        "fpts": 21.25,
+        "own": 18.5
+      },
+      {
+        "slot": "UTIL",
+        "id": 45051158,
+        "name": "Al Horford",
+        "team": "GSW",
+        "pos": "C",
+        "salary": 3600,
+        "fpts": 16.25,
+        "own": 0.64
+      }
+    ]
+  },
+  "optimal": {
+    "points": 449.75,
+    "salary": 49800,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 45050886,
+        "name": "Josh Giddey",
+        "team": "CHI",
+        "pos": "PG",
+        "salary": 7800,
+        "fpts": 78.5,
+        "own": 7.44
+      },
+      {
+        "slot": "SG",
+        "id": 45051127,
+        "name": "Buddy Hield",
+        "team": "CHI",
+        "pos": "SG",
+        "salary": 3800,
+        "fpts": 54.75,
+        "own": 66.28
+      },
+      {
+        "slot": "SF",
+        "id": 45051079,
+        "name": "Caleb Martin",
+        "team": "DAL",
+        "pos": "SG",
+        "salary": 4300,
+        "fpts": 36,
+        "own": 1.12
+      },
+      {
+        "slot": "PF",
+        "id": 45050847,
+        "name": "Karl-Anthony Towns",
+        "team": "NYK",
+        "pos": "PF",
+        "salary": 9600,
+        "fpts": 66.75,
+        "own": 12.04
+      },
+      {
+        "slot": "C",
+        "id": 45050953,
+        "name": "Jalen Smith",
+        "team": "CHI",
+        "pos": "C",
+        "salary": 6100,
+        "fpts": 43,
+        "own": 28.07
+      },
+      {
+        "slot": "G",
+        "id": 45051100,
+        "name": "Svi Mykhailiuk",
+        "team": "UTA",
+        "pos": "SG",
+        "salary": 4000,
+        "fpts": 53.25,
+        "own": 2.29
+      },
+      {
+        "slot": "F",
+        "id": 45050989,
+        "name": "Josh Hart",
+        "team": "NYK",
+        "pos": "SG",
+        "salary": 5300,
+        "fpts": 43.75,
+        "own": 41.17
+      },
+      {
+        "slot": "UTIL",
+        "id": 45050857,
+        "name": "Jamal Murray",
+        "team": "DEN",
+        "pos": "PG",
+        "salary": 8900,
+        "fpts": 73.75,
+        "own": 13.44
+      }
+    ],
+    "assumedZero": 49
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 4867,
+    "pctile": 11.29,
+    "points": 225.25,
+    "salary": 49800,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 45050931,
+        "name": "Anthony Black",
+        "team": "ORL",
+        "pos": "PG",
+        "salary": 6600,
+        "fpts": 27.25,
+        "own": 34.17
+      },
+      {
+        "slot": "SG",
+        "id": 45051032,
+        "name": "Tre Jones",
+        "team": "CHI",
+        "pos": "PG",
+        "salary": 4600,
+        "fpts": 17.5,
+        "own": 42.64
+      },
+      {
+        "slot": "SF",
+        "id": 45050926,
+        "name": "Desmond Bane",
+        "team": "ORL",
+        "pos": "SG",
+        "salary": 6700,
+        "fpts": 28.75,
+        "own": 22.94
+      },
+      {
+        "slot": "PF",
+        "id": 45051191,
+        "name": "Patrick Williams",
+        "team": "CHI",
+        "pos": "SF",
+        "salary": 3300,
+        "fpts": 6,
+        "own": 24.48
+      },
+      {
+        "slot": "C",
+        "id": 45050968,
+        "name": "Alexandre Sarr",
+        "team": "WAS",
+        "pos": "C",
+        "salary": 5700,
+        "fpts": 31.25,
+        "own": 1.24
+      },
+      {
+        "slot": "G",
+        "id": 45050882,
+        "name": "Kyrie Irving",
+        "team": "DAL",
+        "pos": "PG",
+        "salary": 7900,
+        "fpts": 32.75,
+        "own": 19
+      },
+      {
+        "slot": "F",
+        "id": 45050843,
+        "name": "Franz Wagner",
+        "team": "ORL",
+        "pos": "SF",
+        "salary": 9700,
+        "fpts": 38,
+        "own": 27.85
+      },
+      {
+        "slot": "UTIL",
+        "id": 45050989,
+        "name": "Josh Hart",
+        "team": "NYK",
+        "pos": "SG",
+        "salary": 5300,
+        "fpts": 43.75,
+        "own": 41.17
+      }
+    ],
+    "money": {
+      "fee": 15,
+      "one": {
+        "won": 0,
+        "net": -15
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -15
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 0,
+        "net": -300,
+        "cashed": 0
+      }
+    }
+  },
+  "observationOnly": false,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "CHI": 3,
+        "NYK": 2,
+        "DEN": 1,
+        "GSW": 1,
+        "IND": 1
+      },
+      "games": {
+        "DEN@CHI": 4,
+        "IND@NYK": 3,
+        "BOS@GSW": 1
+      },
+      "nGames": 3,
+      "summary": [
+        "CHI 3 · NYK 2",
+        "3 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "CHI": 3,
+        "NYK": 2,
+        "DAL": 1,
+        "DEN": 1,
+        "UTA": 1
+      },
+      "games": {
+        "DEN@CHI": 4,
+        "DAL@UTA": 2,
+        "IND@NYK": 2
+      },
+      "nGames": 3,
+      "summary": [
+        "CHI 3 · NYK 2",
+        "3 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "ORL": 3,
+        "CHI": 2,
+        "DAL": 1,
+        "NYK": 1,
+        "WAS": 1
+      },
+      "games": {
+        "ORL@WAS": 4,
+        "DEN@CHI": 2,
+        "DAL@UTA": 1,
+        "IND@NYK": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "ORL 3 · CHI 2",
+        "4 games"
+      ]
+    }
+  }
+}
