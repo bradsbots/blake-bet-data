@@ -2,6 +2,55 @@
  "sport": "nfl",
  "slates": [
   {
+   "slate": "156561",
+   "date": "2026-11-22",
+   "label": "NFL $2.5M Fantasy Football Millionaire [$1M to 1st]",
+   "entries": 147058,
+   "source": "live",
+   "model": "v3",
+   "predictedAt": "2026-11-22T17:30:47+00:00",
+   "lockAt": "2026-11-22T18:00:00+00:00",
+   "minutesBeforeLock": 29,
+   "n": 432,
+   "mae": 0.891,
+   "mae5": 3.684,
+   "chalkMae": 11.178,
+   "spearman": 0.8786,
+   "top10": 0.8,
+   "chalk": {
+    "n": 8,
+    "caught": 5
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Jonah Coleman",
+     "pos": "RB",
+     "team": "DEN",
+     "pred": 14.88,
+     "actual": 34.51
+    },
+    {
+     "name": "CeeDee Lamb",
+     "pos": "WR",
+     "team": "DAL",
+     "pred": 19.78,
+     "actual": 34.71
+    },
+    {
+     "name": "Tony Pollard",
+     "pos": "RB",
+     "team": "TEN",
+     "pred": 20.92,
+     "actual": 35.43
+    }
+   ],
+   "evenSplit": {
+    "mae": 2.954,
+    "chalkMae": 31.276
+   }
+  },
+  {
    "slate": "156416",
    "date": "2026-11-15",
    "label": "NFL $2.5M Fantasy Football Millionaire [$1M to 1st]",
@@ -248,19 +297,19 @@
   }
  ],
  "recent": {
-  "slates": 5,
-  "n": 2177,
-  "mae": 1.06,
-  "mae5": 4.626,
-  "chalkMae": 10.947,
+  "slates": 6,
+  "n": 2609,
+  "mae": 1.032,
+  "mae5": 4.465,
+  "chalkMae": 10.983,
   "chalk": {
-   "n": 44,
-   "caught": 22
+   "n": 52,
+   "caught": 27
   },
   "falseChalk": 1,
   "evenSplit": {
-   "mae": 2.892,
-   "chalkMae": 25.759
+   "mae": 2.902,
+   "chalkMae": 26.608
   }
  }
 }
