@@ -18,6 +18,24 @@
     "observationOnly": false
   },
   {
+    "sport": "nfl",
+    "slate": "156561",
+    "date": "2026-11-22",
+    "label": "NFL $2.5M Fantasy Football Millionaire [$1M to 1st]",
+    "contestId": 197882014,
+    "entries": 147058,
+    "winnerPoints": 219.3,
+    "optimalPoints": 253.7,
+    "paperPoints": 175.2,
+    "paperPctile": 93.86,
+    "paperNet1": 20,
+    "paperNet1Defaults": 20,
+    "portfolioNet": -180,
+    "portfolioCashed": 7,
+    "portfolioN": 20,
+    "observationOnly": false
+  },
+  {
     "sport": "nba",
     "site": "fd",
     "slate": "137016",

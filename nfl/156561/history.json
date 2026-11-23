@@ -1,0 +1,418 @@
+{
+  "sport": "nfl",
+  "slate": "156561",
+  "date": "2026-11-22",
+  "contest": {
+    "id": 197882014,
+    "label": "NFL $2.5M Fantasy Football Millionaire [$1M to 1st]",
+    "entries": 147058
+  },
+  "generatedAt": "2026-11-23T09:40:31.409Z",
+  "winner": {
+    "rank": 1,
+    "name": "narnaj85 (15/20)",
+    "points": 219.3,
+    "salary": 49600,
+    "players": [
+      {
+        "slot": "QB",
+        "id": 44943629,
+        "name": "Dak Prescott",
+        "team": "DAL",
+        "pos": "QB",
+        "salary": 6700,
+        "fpts": 38.9,
+        "own": 21.72
+      },
+      {
+        "slot": "RB",
+        "id": 44943722,
+        "name": "Emmett Johnson",
+        "team": "KC",
+        "pos": "RB",
+        "salary": 6000,
+        "fpts": 27.3,
+        "own": 70.68
+      },
+      {
+        "slot": "RB",
+        "id": 44943724,
+        "name": "Breece Hall",
+        "team": "NYJ",
+        "pos": "RB",
+        "salary": 5900,
+        "fpts": 19,
+        "own": 3.23
+      },
+      {
+        "slot": "WR",
+        "id": 44943930,
+        "name": "CeeDee Lamb",
+        "team": "DAL",
+        "pos": "WR",
+        "salary": 8800,
+        "fpts": 33.2,
+        "own": 34.71
+      },
+      {
+        "slot": "WR",
+        "id": 44943974,
+        "name": "Khalil Shakir",
+        "team": "BUF",
+        "pos": "WR",
+        "salary": 5100,
+        "fpts": 18.3,
+        "own": 2.3
+      },
+      {
+        "slot": "WR",
+        "id": 44944038,
+        "name": "Chimere Dike",
+        "team": "TEN",
+        "pos": "WR",
+        "salary": 3500,
+        "fpts": 13.3,
+        "own": 3.76
+      },
+      {
+        "slot": "TE",
+        "id": 44944314,
+        "name": "Travis Kelce",
+        "team": "KC",
+        "pos": "TE",
+        "salary": 4700,
+        "fpts": 25.4,
+        "own": 7.87
+      },
+      {
+        "slot": "FLEX",
+        "id": 44943718,
+        "name": "Jonah Coleman",
+        "team": "DEN",
+        "pos": "RB",
+        "salary": 6300,
+        "fpts": 37.9,
+        "own": 34.51
+      },
+      {
+        "slot": "DST",
+        "id": 44944540,
+        "name": "Jets",
+        "team": "NYJ",
+        "pos": "DST",
+        "salary": 2600,
+        "fpts": 6,
+        "own": 10.31
+      }
+    ]
+  },
+  "optimal": {
+    "points": 253.7,
+    "salary": 49200,
+    "players": [
+      {
+        "slot": "QB",
+        "id": 44943629,
+        "name": "Dak Prescott",
+        "team": "DAL",
+        "pos": "QB",
+        "salary": 6700,
+        "fpts": 38.9,
+        "own": 21.72
+      },
+      {
+        "slot": "RB",
+        "id": 44943702,
+        "name": "Chuba Hubbard",
+        "team": "CAR",
+        "pos": "RB",
+        "salary": 7500,
+        "fpts": 29,
+        "own": 8.57
+      },
+      {
+        "slot": "RB",
+        "id": 44943718,
+        "name": "Jonah Coleman",
+        "team": "DEN",
+        "pos": "RB",
+        "salary": 6300,
+        "fpts": 37.9,
+        "own": 34.51
+      },
+      {
+        "slot": "WR",
+        "id": 44943930,
+        "name": "CeeDee Lamb",
+        "team": "DAL",
+        "pos": "WR",
+        "salary": 8800,
+        "fpts": 33.2,
+        "own": 34.71
+      },
+      {
+        "slot": "WR",
+        "id": 44944264,
+        "name": "Ted Hurst III",
+        "team": "TB",
+        "pos": "WR",
+        "salary": 3000,
+        "fpts": 22.6,
+        "own": 0.04
+      },
+      {
+        "slot": "WR",
+        "id": 44944148,
+        "name": "Jack Bech",
+        "team": "LV",
+        "pos": "WR",
+        "salary": 3000,
+        "fpts": 22.8,
+        "own": 0.28
+      },
+      {
+        "slot": "TE",
+        "id": 44944314,
+        "name": "Travis Kelce",
+        "team": "KC",
+        "pos": "TE",
+        "salary": 4700,
+        "fpts": 25.4,
+        "own": 7.87
+      },
+      {
+        "slot": "FLEX",
+        "id": 44943730,
+        "name": "Ashton Jeanty",
+        "team": "LV",
+        "pos": "RB",
+        "salary": 5500,
+        "fpts": 27.9,
+        "own": 1.92
+      },
+      {
+        "slot": "DST",
+        "id": 44944530,
+        "name": "Bears",
+        "team": "CHI",
+        "pos": "DST",
+        "salary": 3700,
+        "fpts": 16,
+        "own": 4.82
+      }
+    ],
+    "assumedZero": 208
+  },
+  "paper": {
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 8773,
+    "pctile": 93.86,
+    "points": 175.2,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "QB",
+        "id": 44943629,
+        "name": "Dak Prescott",
+        "team": "DAL",
+        "pos": "QB",
+        "salary": 6700,
+        "fpts": 38.9,
+        "own": 21.72
+      },
+      {
+        "slot": "RB",
+        "id": 44943716,
+        "name": "Tony Pollard",
+        "team": "TEN",
+        "pos": "RB",
+        "salary": 6500,
+        "fpts": 14,
+        "own": 35.43
+      },
+      {
+        "slot": "RB",
+        "id": 44943722,
+        "name": "Emmett Johnson",
+        "team": "KC",
+        "pos": "RB",
+        "salary": 6000,
+        "fpts": 27.3,
+        "own": 70.68
+      },
+      {
+        "slot": "WR",
+        "id": 44943930,
+        "name": "CeeDee Lamb",
+        "team": "DAL",
+        "pos": "WR",
+        "salary": 8800,
+        "fpts": 33.2,
+        "own": 34.71
+      },
+      {
+        "slot": "WR",
+        "id": 44943962,
+        "name": "Carnell Tate",
+        "team": "TEN",
+        "pos": "WR",
+        "salary": 5500,
+        "fpts": 13.8,
+        "own": 23.06
+      },
+      {
+        "slot": "WR",
+        "id": 44944030,
+        "name": "Elic Ayomanor",
+        "team": "TEN",
+        "pos": "WR",
+        "salary": 3700,
+        "fpts": 5.7,
+        "own": 19.95
+      },
+      {
+        "slot": "TE",
+        "id": 44944330,
+        "name": "Mark Andrews",
+        "team": "BAL",
+        "pos": "TE",
+        "salary": 3500,
+        "fpts": 3.4,
+        "own": 20.85
+      },
+      {
+        "slot": "FLEX",
+        "id": 44943718,
+        "name": "Jonah Coleman",
+        "team": "DEN",
+        "pos": "RB",
+        "salary": 6300,
+        "fpts": 37.9,
+        "own": 34.51
+      },
+      {
+        "slot": "DST",
+        "id": 44944536,
+        "name": "Chargers",
+        "team": "LAC",
+        "pos": "DST",
+        "salary": 3000,
+        "fpts": 1,
+        "own": 7.71
+      }
+    ],
+    "money": {
+      "fee": 20,
+      "one": {
+        "won": 40,
+        "net": 20
+      },
+      "oneDefaults": {
+        "won": 40,
+        "net": 20
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 220,
+        "net": -180,
+        "cashed": 7
+      }
+    }
+  },
+  "observationOnly": false,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "DAL": 2,
+        "KC": 2,
+        "NYJ": 2,
+        "BUF": 1,
+        "DEN": 1,
+        "TEN": 1
+      },
+      "games": {
+        "TEN@DAL": 3,
+        "ARI@KC": 2,
+        "NYJ@LAC": 2,
+        "LV@DEN": 1,
+        "MIA@BUF": 1
+      },
+      "nGames": 5,
+      "qb": {
+        "team": "DAL",
+        "catchers": 1,
+        "bringBack": 1
+      },
+      "rbDst": [
+        "NYJ"
+      ],
+      "summary": [
+        "QB DAL + 1 · bring-back 1",
+        "RB+DST NYJ",
+        "DAL 2 · KC 2 · NYJ 2",
+        "5 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "DAL": 2,
+        "LV": 2,
+        "CAR": 1,
+        "CHI": 1,
+        "DEN": 1,
+        "KC": 1,
+        "TB": 1
+      },
+      "games": {
+        "LV@DEN": 3,
+        "TEN@DAL": 2,
+        "ARI@KC": 1,
+        "BAL@CAR": 1,
+        "NO@CHI": 1,
+        "TB@DET": 1
+      },
+      "nGames": 6,
+      "qb": {
+        "team": "DAL",
+        "catchers": 1,
+        "bringBack": 0
+      },
+      "rbDst": [],
+      "summary": [
+        "QB DAL + 1",
+        "DAL 2 · LV 2",
+        "6 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "TEN": 3,
+        "DAL": 2,
+        "BAL": 1,
+        "DEN": 1,
+        "KC": 1,
+        "LAC": 1
+      },
+      "games": {
+        "TEN@DAL": 5,
+        "ARI@KC": 1,
+        "BAL@CAR": 1,
+        "LV@DEN": 1,
+        "NYJ@LAC": 1
+      },
+      "nGames": 5,
+      "qb": {
+        "team": "DAL",
+        "catchers": 1,
+        "bringBack": 3
+      },
+      "rbDst": [],
+      "summary": [
+        "QB DAL + 1 · bring-back 3",
+        "TEN 3 · DAL 2",
+        "5 games"
+      ]
+    }
+  }
+}
