@@ -2,6 +2,55 @@
  "sport": "nba",
  "slates": [
   {
+   "slate": "157216",
+   "date": "2026-11-23",
+   "label": "NBA $200K Fadeaway [$50K to 1st]",
+   "entries": 12011,
+   "source": "live",
+   "model": "v4",
+   "predictedAt": "2026-11-23T23:45:26+00:00",
+   "lockAt": "2026-11-24T00:00:00+00:00",
+   "minutesBeforeLock": 15,
+   "n": 236,
+   "mae": 1.906,
+   "mae5": 5.374,
+   "chalkMae": 10.402,
+   "spearman": 0.9071,
+   "top10": 0.8,
+   "chalk": {
+    "n": 11,
+    "caught": 5
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Scottie Barnes",
+     "pos": "ALL",
+     "team": "TOR",
+     "pred": 19.48,
+     "actual": 38.61
+    },
+    {
+     "name": "Jarrett Allen",
+     "pos": "ALL",
+     "team": "CLE",
+     "pred": 17.44,
+     "actual": 34.91
+    },
+    {
+     "name": "Josh Giddey",
+     "pos": "ALL",
+     "team": "CHI",
+     "pred": 14.03,
+     "actual": 29.53
+    }
+   ],
+   "evenSplit": {
+    "mae": 4.524,
+    "chalkMae": 28.023
+   }
+  },
+  {
    "slate": "157205",
    "date": "2026-11-22",
    "label": "NBA $70K Fadeaway [$20K to 1st]",
@@ -1131,18 +1180,18 @@
  ],
  "recent": {
   "slates": 10,
-  "n": 1598,
-  "mae": 2.854,
-  "mae5": 7.076,
-  "chalkMae": 14.317,
+  "n": 1657,
+  "mae": 2.76,
+  "mae5": 6.957,
+  "chalkMae": 14.048,
   "chalk": {
    "n": 117,
-   "caught": 87
+   "caught": 83
   },
   "falseChalk": 2,
   "evenSplit": {
-   "mae": 6.325,
-   "chalkMae": 29.93
+   "mae": 6.134,
+   "chalkMae": 29.867
   }
  }
 }
