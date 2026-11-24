@@ -1,0 +1,434 @@
+{
+  "sport": "nhl",
+  "slate": "156962",
+  "date": "2026-11-23",
+  "contest": {
+    "id": 198023469,
+    "label": "NHL $30K Overload [$10K to 1st]",
+    "entries": 1764
+  },
+  "generatedAt": "2026-11-24T09:40:32.446Z",
+  "winner": {
+    "rank": 1,
+    "name": "kodyray91 (8/15)",
+    "points": 163.3,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "C",
+        "id": 45053467,
+        "name": "Joel Eriksson Ek",
+        "team": "MIN",
+        "pos": "C",
+        "salary": 6500,
+        "fpts": 31,
+        "own": 14.79
+      },
+      {
+        "slot": "C",
+        "id": 45053481,
+        "name": "John Tavares",
+        "team": "TOR",
+        "pos": "C",
+        "salary": 5000,
+        "fpts": 6,
+        "own": 4.93
+      },
+      {
+        "slot": "W",
+        "id": 45053591,
+        "name": "Kirill Kaprizov",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 8800,
+        "fpts": 28,
+        "own": 20.41
+      },
+      {
+        "slot": "W",
+        "id": 45053595,
+        "name": "Matt Boldy",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 8300,
+        "fpts": 28.5,
+        "own": 18.83
+      },
+      {
+        "slot": "W",
+        "id": 45053731,
+        "name": "Nick Paul",
+        "team": "TOR",
+        "pos": "W",
+        "salary": 2800,
+        "fpts": 14.3,
+        "own": 3.57
+      },
+      {
+        "slot": "D",
+        "id": 45053919,
+        "name": "Morgan Rielly",
+        "team": "TOR",
+        "pos": "D",
+        "salary": 3500,
+        "fpts": 11,
+        "own": 1.19
+      },
+      {
+        "slot": "D",
+        "id": 45053969,
+        "name": "Jordan Spence",
+        "team": "OTT",
+        "pos": "D",
+        "salary": 2800,
+        "fpts": 1.5,
+        "own": 2.6
+      },
+      {
+        "slot": "G",
+        "id": 45054087,
+        "name": "Linus Ullmark",
+        "team": "OTT",
+        "pos": "G",
+        "salary": 8400,
+        "fpts": 30,
+        "own": 19.1
+      },
+      {
+        "slot": "UTIL",
+        "id": 45053673,
+        "name": "Gavin McKenna",
+        "team": "TOR",
+        "pos": "W",
+        "salary": 3800,
+        "fpts": 13,
+        "own": 3.68
+      }
+    ]
+  },
+  "optimal": {
+    "points": 232.6,
+    "salary": 49500,
+    "players": [
+      {
+        "slot": "C",
+        "id": 45053483,
+        "name": "Alex Laferriere",
+        "team": "LAK",
+        "pos": "C",
+        "salary": 4900,
+        "fpts": 21.4,
+        "own": 10.32
+      },
+      {
+        "slot": "C",
+        "id": 45053467,
+        "name": "Joel Eriksson Ek",
+        "team": "MIN",
+        "pos": "C",
+        "salary": 6500,
+        "fpts": 31,
+        "own": 14.79
+      },
+      {
+        "slot": "W",
+        "id": 45053629,
+        "name": "Gabriel Vilardi",
+        "team": "WPG",
+        "pos": "W",
+        "salary": 5200,
+        "fpts": 36,
+        "own": 14.12
+      },
+      {
+        "slot": "W",
+        "id": 45053633,
+        "name": "Matt Coronato",
+        "team": "CGY",
+        "pos": "W",
+        "salary": 5000,
+        "fpts": 22,
+        "own": 1.19
+      },
+      {
+        "slot": "W",
+        "id": 45053717,
+        "name": "Trevor Moore",
+        "team": "LAK",
+        "pos": "W",
+        "salary": 3100,
+        "fpts": 21.8,
+        "own": 0.06
+      },
+      {
+        "slot": "D",
+        "id": 45053879,
+        "name": "Darren Raddysh",
+        "team": "TOR",
+        "pos": "D",
+        "salary": 5600,
+        "fpts": 23.5,
+        "own": 5.28
+      },
+      {
+        "slot": "D",
+        "id": 45054011,
+        "name": "Matthew Kessel",
+        "team": "NYI",
+        "pos": "D",
+        "salary": 2500,
+        "fpts": 18.4,
+        "own": 0.17
+      },
+      {
+        "slot": "G",
+        "id": 45054087,
+        "name": "Linus Ullmark",
+        "team": "OTT",
+        "pos": "G",
+        "salary": 8400,
+        "fpts": 30,
+        "own": 19.1
+      },
+      {
+        "slot": "UTIL",
+        "id": 45053595,
+        "name": "Matt Boldy",
+        "team": "MIN",
+        "pos": "W",
+        "salary": 8300,
+        "fpts": 28.5,
+        "own": 18.83
+      }
+    ],
+    "assumedZero": 133
+  },
+  "paper": {
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 290,
+    "pctile": 83.62,
+    "points": 118.9,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "C",
+        "id": 45053483,
+        "name": "Alex Laferriere",
+        "team": "LAK",
+        "pos": "C",
+        "salary": 4900,
+        "fpts": 21.4,
+        "own": 10.32
+      },
+      {
+        "slot": "C",
+        "id": 45053513,
+        "name": "Ridly Greig",
+        "team": "OTT",
+        "pos": "C",
+        "salary": 3200,
+        "fpts": 3,
+        "own": 9.98
+      },
+      {
+        "slot": "W",
+        "id": 45053597,
+        "name": "Kyle Connor",
+        "team": "WPG",
+        "pos": "W",
+        "salary": 7600,
+        "fpts": 13,
+        "own": 21.99
+      },
+      {
+        "slot": "W",
+        "id": 45053629,
+        "name": "Gabriel Vilardi",
+        "team": "WPG",
+        "pos": "W",
+        "salary": 5200,
+        "fpts": 36,
+        "own": 14.12
+      },
+      {
+        "slot": "W",
+        "id": 45053653,
+        "name": "Dylan Cozens",
+        "team": "OTT",
+        "pos": "W",
+        "salary": 4200,
+        "fpts": 3,
+        "own": 14.96
+      },
+      {
+        "slot": "D",
+        "id": 45053867,
+        "name": "Matthew Schaefer",
+        "team": "NYI",
+        "pos": "D",
+        "salary": 7200,
+        "fpts": 1.5,
+        "own": 26.65
+      },
+      {
+        "slot": "D",
+        "id": 45053885,
+        "name": "Josh Morrissey",
+        "team": "WPG",
+        "pos": "D",
+        "salary": 5300,
+        "fpts": 5,
+        "own": 14.46
+      },
+      {
+        "slot": "G",
+        "id": 45054087,
+        "name": "Linus Ullmark",
+        "team": "OTT",
+        "pos": "G",
+        "salary": 8400,
+        "fpts": 30,
+        "own": 19.1
+      },
+      {
+        "slot": "UTIL",
+        "id": 45053667,
+        "name": "Fabian Zetterlund",
+        "team": "OTT",
+        "pos": "W",
+        "salary": 3900,
+        "fpts": 6,
+        "own": 6.13
+      }
+    ],
+    "money": {
+      "fee": 20,
+      "one": {
+        "won": 30,
+        "net": 10
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -20
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 0,
+        "net": -400,
+        "cashed": 0
+      }
+    }
+  },
+  "observationOnly": false,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "TOR": 4,
+        "MIN": 3,
+        "OTT": 2
+      },
+      "games": {
+        "TOR@NYI": 4,
+        "MIN@SJS": 3,
+        "CGY@OTT": 2
+      },
+      "nGames": 3,
+      "lines": {
+        "MIN f1": 3,
+        "TOR f2": 2
+      },
+      "pp": {
+        "MIN pp1": 3,
+        "TOR pp1": 2,
+        "TOR pp2": 2
+      },
+      "goalie": {
+        "team": "OTT",
+        "opposing": 0
+      },
+      "summary": [
+        "TOR 4 · MIN 3 · OTT 2",
+        "MIN f1 ×3",
+        "TOR f2 ×2",
+        "MIN pp1 ×3",
+        "TOR pp1 ×2",
+        "TOR pp2 ×2",
+        "G OTT",
+        "3 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "LAK": 2,
+        "MIN": 2,
+        "CGY": 1,
+        "NYI": 1,
+        "OTT": 1,
+        "TOR": 1,
+        "WPG": 1
+      },
+      "games": {
+        "CGY@OTT": 2,
+        "LAK@MTL": 2,
+        "MIN@SJS": 2,
+        "TOR@NYI": 2,
+        "UTA@WPG": 1
+      },
+      "nGames": 5,
+      "lines": {
+        "MIN f1": 2
+      },
+      "pp": {
+        "MIN pp1": 2
+      },
+      "goalie": {
+        "team": "OTT",
+        "opposing": 1
+      },
+      "summary": [
+        "LAK 2 · MIN 2",
+        "MIN f1 ×2",
+        "MIN pp1 ×2",
+        "G OTT · 1 skater vs G",
+        "5 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "OTT": 4,
+        "WPG": 3,
+        "LAK": 1,
+        "NYI": 1
+      },
+      "games": {
+        "CGY@OTT": 4,
+        "UTA@WPG": 3,
+        "LAK@MTL": 1,
+        "TOR@NYI": 1
+      },
+      "nGames": 4,
+      "lines": {
+        "OTT f1": 2,
+        "WPG f1": 2
+      },
+      "pp": {
+        "WPG pp1": 3,
+        "OTT pp2": 2
+      },
+      "goalie": {
+        "team": "OTT",
+        "opposing": 0
+      },
+      "summary": [
+        "OTT 4 · WPG 3",
+        "OTT f1 ×2",
+        "WPG f1 ×2",
+        "WPG pp1 ×3",
+        "OTT pp2 ×2",
+        "G OTT",
+        "4 games"
+      ]
+    }
+  }
+}

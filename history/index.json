@@ -18,6 +18,24 @@
     "observationOnly": false
   },
   {
+    "sport": "nhl",
+    "slate": "156962",
+    "date": "2026-11-23",
+    "label": "NHL $30K Overload [$10K to 1st]",
+    "contestId": 198023469,
+    "entries": 1764,
+    "winnerPoints": 163.3,
+    "optimalPoints": 232.6,
+    "paperPoints": 118.9,
+    "paperPctile": 83.62,
+    "paperNet1": 10,
+    "paperNet1Defaults": -20,
+    "portfolioNet": -400,
+    "portfolioCashed": 0,
+    "portfolioN": 20,
+    "observationOnly": false
+  },
+  {
     "sport": "nba",
     "site": "fd",
     "slate": "137037",
