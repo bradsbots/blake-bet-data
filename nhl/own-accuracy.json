@@ -2,6 +2,55 @@
  "sport": "nhl",
  "slates": [
   {
+   "slate": "156962",
+   "date": "2026-11-23",
+   "label": "NHL $30K Overload [$10K to 1st]",
+   "entries": 1764,
+   "source": "live",
+   "model": "v3",
+   "predictedAt": "2026-11-24T00:21:09+00:00",
+   "lockAt": "2026-11-24T00:30:00+00:00",
+   "minutesBeforeLock": 9,
+   "n": 299,
+   "mae": 1.074,
+   "mae5": 3.142,
+   "chalkMae": 3.568,
+   "spearman": 0.9322,
+   "top10": 0.7,
+   "chalk": {
+    "n": 4,
+    "caught": 4
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Brock Faber",
+     "pos": "D",
+     "team": "MIN",
+     "pred": 37.01,
+     "actual": 14.52
+    },
+    {
+     "name": "Dylan Cozens",
+     "pos": "W",
+     "team": "OTT",
+     "pred": 6.22,
+     "actual": 14.96
+    },
+    {
+     "name": "Ivar Stenberg",
+     "pos": "W",
+     "team": "SJS",
+     "pred": 12.55,
+     "actual": 5.78
+    }
+   ],
+   "evenSplit": {
+    "mae": 3.5,
+    "chalkMae": 19.536
+   }
+  },
+  {
    "slate": "156955",
    "date": "2026-11-22",
    "label": "NHL $15K Overload  [$5K to 1st]",
@@ -1817,18 +1866,18 @@
  ],
  "recent": {
   "slates": 10,
-  "n": 3613,
-  "mae": 1.027,
-  "mae5": 3.78,
-  "chalkMae": 7.289,
+  "n": 3422,
+  "mae": 1.055,
+  "mae5": 3.789,
+  "chalkMae": 6.952,
   "chalk": {
-   "n": 84,
-   "caught": 70
+   "n": 87,
+   "caught": 74
   },
   "falseChalk": 2,
   "evenSplit": {
-   "mae": 2.894,
-   "chalkMae": 22.326
+   "mae": 3.053,
+   "chalkMae": 22.15
   }
  }
 }
