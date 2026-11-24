@@ -1,0 +1,399 @@
+{
+  "sport": "nba",
+  "site": "fd",
+  "slate": "137108",
+  "date": "2026-11-23",
+  "contest": {
+    "id": 281693155,
+    "label": "$100K Mon NBA Shot ($20K to 1st)",
+    "entries": 12594
+  },
+  "generatedAt": "2026-11-24T15:09:23.720Z",
+  "winner": {
+    "rank": 1,
+    "name": "oakwalds3 (11/12)",
+    "points": 398.1,
+    "salary": 59900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 84680,
+        "name": "Shai Gilgeous-Alexander",
+        "team": "OKC",
+        "pos": "PG",
+        "salary": 10800,
+        "fpts": 55.5,
+        "own": 21.68
+      },
+      {
+        "slot": "SG",
+        "id": 110331,
+        "name": "Ty Jerome",
+        "team": "MEM",
+        "pos": "PG/SG",
+        "salary": 6800,
+        "fpts": 39.3,
+        "own": 31.68
+      },
+      {
+        "slot": "SF",
+        "id": 85305,
+        "name": "Kenrich Williams",
+        "team": "OKC",
+        "pos": "SF/PF",
+        "salary": 4300,
+        "fpts": 39.8,
+        "own": 2.64
+      },
+      {
+        "slot": "PF",
+        "id": 145319,
+        "name": "Jaden McDaniels",
+        "team": "MIN",
+        "pos": "PF",
+        "salary": 6900,
+        "fpts": 60,
+        "own": 8.76
+      },
+      {
+        "slot": "C",
+        "id": 171765,
+        "name": "Moussa Diabate",
+        "team": "CHA",
+        "pos": "C/PF",
+        "salary": 5700,
+        "fpts": 37.5,
+        "own": 15.32
+      },
+      {
+        "slot": "G/F",
+        "id": 228131,
+        "name": "Jeremiah Fears",
+        "team": "NOP",
+        "pos": "PG",
+        "salary": 6900,
+        "fpts": 41.9,
+        "own": 15.71
+      },
+      {
+        "slot": "F/C",
+        "id": 157822,
+        "name": "Scottie Barnes",
+        "team": "TOR",
+        "pos": "PF",
+        "salary": 9300,
+        "fpts": 65,
+        "own": 41.44
+      },
+      {
+        "slot": "UTIL",
+        "id": 110326,
+        "name": "Coby White",
+        "team": "CHA",
+        "pos": "PG",
+        "salary": 5300,
+        "fpts": 28.6,
+        "own": 7.65
+      },
+      {
+        "slot": "UTIL",
+        "id": 248957,
+        "name": "Mikel Brown",
+        "team": "BKN",
+        "pos": "PG",
+        "salary": 3900,
+        "fpts": 30.5,
+        "own": 29.21
+      }
+    ]
+  },
+  "optimal": {
+    "points": 455.8,
+    "salary": 59400,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 110312,
+        "name": "Tyler Herro",
+        "team": "MIL",
+        "pos": "SG/PG",
+        "salary": 6800,
+        "fpts": 54.2,
+        "own": 8.45
+      },
+      {
+        "slot": "SG",
+        "id": 248946,
+        "name": "Brayden Burries",
+        "team": "MIL",
+        "pos": "SG/PG",
+        "salary": 5200,
+        "fpts": 40,
+        "own": 3.21
+      },
+      {
+        "slot": "SF",
+        "id": 188449,
+        "name": "Jalen Slawson",
+        "team": "IND",
+        "pos": "SF",
+        "salary": 3800,
+        "fpts": 45,
+        "own": 0.52
+      },
+      {
+        "slot": "PF",
+        "id": 157822,
+        "name": "Scottie Barnes",
+        "team": "TOR",
+        "pos": "PF",
+        "salary": 9300,
+        "fpts": 65,
+        "own": 41.44
+      },
+      {
+        "slot": "C",
+        "id": 203714,
+        "name": "Donovan Clingan",
+        "team": "POR",
+        "pos": "C",
+        "salary": 7300,
+        "fpts": 49.1,
+        "own": 16.93
+      },
+      {
+        "slot": "G/F",
+        "id": 58460,
+        "name": "Devin Booker",
+        "team": "PHX",
+        "pos": "PG",
+        "salary": 7900,
+        "fpts": 49,
+        "own": 16.63
+      },
+      {
+        "slot": "F/C",
+        "id": 145319,
+        "name": "Jaden McDaniels",
+        "team": "MIN",
+        "pos": "PF",
+        "salary": 6900,
+        "fpts": 60,
+        "own": 8.76
+      },
+      {
+        "slot": "UTIL",
+        "id": 9646,
+        "name": "Kevin Durant",
+        "team": "HOU",
+        "pos": "SF",
+        "salary": 7100,
+        "fpts": 49.8,
+        "own": 10.41
+      },
+      {
+        "slot": "UTIL",
+        "id": 58253,
+        "name": "Myles Turner",
+        "team": "MIL",
+        "pos": "C",
+        "salary": 5100,
+        "fpts": 43.7,
+        "own": 0.82
+      }
+    ],
+    "assumedZero": 112
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 6089,
+    "pctile": 51.48,
+    "points": 312,
+    "salary": 60000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 248957,
+        "name": "Mikel Brown",
+        "team": "BKN",
+        "pos": "PG",
+        "salary": 3900,
+        "fpts": 30.5,
+        "own": 29.21
+      },
+      {
+        "slot": "SG",
+        "id": 110331,
+        "name": "Ty Jerome",
+        "team": "MEM",
+        "pos": "PG/SG",
+        "salary": 6800,
+        "fpts": 39.3,
+        "own": 31.68
+      },
+      {
+        "slot": "SF",
+        "id": 188419,
+        "name": "Brandon Miller",
+        "team": "CHA",
+        "pos": "SF",
+        "salary": 6600,
+        "fpts": 35.1,
+        "own": 30.86
+      },
+      {
+        "slot": "PF",
+        "id": 145539,
+        "name": "Deni Avdija",
+        "team": "POR",
+        "pos": "PF/SF",
+        "salary": 8800,
+        "fpts": 43.1,
+        "own": 25.05
+      },
+      {
+        "slot": "C",
+        "id": 40203,
+        "name": "Rudy Gobert",
+        "team": "MIN",
+        "pos": "C",
+        "salary": 5400,
+        "fpts": 31.7,
+        "own": 13.95
+      },
+      {
+        "slot": "G/F",
+        "id": 145348,
+        "name": "Immanuel Quickley",
+        "team": "TOR",
+        "pos": "PG",
+        "salary": 6600,
+        "fpts": 22.6,
+        "own": 39.19
+      },
+      {
+        "slot": "F/C",
+        "id": 42669,
+        "name": "Julius Randle",
+        "team": "BKN",
+        "pos": "PF",
+        "salary": 7300,
+        "fpts": 34.8,
+        "own": 11.37
+      },
+      {
+        "slot": "UTIL",
+        "id": 58460,
+        "name": "Devin Booker",
+        "team": "PHX",
+        "pos": "PG",
+        "salary": 7900,
+        "fpts": 49,
+        "own": 16.63
+      },
+      {
+        "slot": "UTIL",
+        "id": 157905,
+        "name": "Josh Giddey",
+        "team": "CHI",
+        "pos": "PG",
+        "salary": 6700,
+        "fpts": 25.9,
+        "own": 41.63
+      }
+    ],
+    "money": {
+      "fee": 9,
+      "one": {
+        "won": 0,
+        "net": -9
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -9
+      },
+      "portfolio": {
+        "n": 3,
+        "won": 0,
+        "net": -27,
+        "cashed": 0
+      }
+    }
+  },
+  "observationOnly": false,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "CHA": 2,
+        "OKC": 2,
+        "BKN": 1,
+        "MEM": 1,
+        "MIN": 1,
+        "NOP": 1,
+        "TOR": 1
+      },
+      "games": {
+        "MEM@CHA": 3,
+        "BKN@MIN": 2,
+        "OKC@IND": 2,
+        "MIL@TOR": 1,
+        "PHX@NOP": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "CHA 2 · OKC 2",
+        "5 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "MIL": 3,
+        "HOU": 1,
+        "IND": 1,
+        "MIN": 1,
+        "PHX": 1,
+        "POR": 1,
+        "TOR": 1
+      },
+      "games": {
+        "MIL@TOR": 4,
+        "BKN@MIN": 1,
+        "LAC@HOU": 1,
+        "OKC@IND": 1,
+        "PHX@NOP": 1,
+        "POR@PHI": 1
+      },
+      "nGames": 6,
+      "summary": [
+        "MIL 3",
+        "6 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "BKN": 2,
+        "CHA": 1,
+        "CHI": 1,
+        "MEM": 1,
+        "MIN": 1,
+        "PHX": 1,
+        "POR": 1,
+        "TOR": 1
+      },
+      "games": {
+        "BKN@MIN": 3,
+        "MEM@CHA": 2,
+        "CLE@CHI": 1,
+        "MIL@TOR": 1,
+        "PHX@NOP": 1,
+        "POR@PHI": 1
+      },
+      "nGames": 6,
+      "summary": [
+        "BKN 2",
+        "6 games"
+      ]
+    }
+  }
+}
