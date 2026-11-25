@@ -1,0 +1,351 @@
+{
+  "sport": "nba",
+  "slate": "156301",
+  "date": "2026-11-24",
+  "contest": {
+    "id": 198143794,
+    "label": "NBA $300K Fadeaway [$100K to 1st]",
+    "entries": 19607
+  },
+  "generatedAt": "2026-11-25T09:40:20.643Z",
+  "winner": {
+    "rank": 1,
+    "name": "Black_Mamba91",
+    "points": 335.75,
+    "salary": 49800,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 45062624,
+        "name": "Daniss Jenkins",
+        "team": "DET",
+        "pos": "PG",
+        "salary": 6100,
+        "fpts": 38.5,
+        "own": 60.28
+      },
+      {
+        "slot": "SG",
+        "id": 45062726,
+        "name": "Isaiah Joe",
+        "team": "DET",
+        "pos": "SG",
+        "salary": 3800,
+        "fpts": 29.5,
+        "own": 64.94
+      },
+      {
+        "slot": "SF",
+        "id": 45062566,
+        "name": "Jayson Tatum",
+        "team": "BOS",
+        "pos": "SF",
+        "salary": 9700,
+        "fpts": 68,
+        "own": 28.51
+      },
+      {
+        "slot": "PF",
+        "id": 45062593,
+        "name": "Paul George",
+        "team": "BOS",
+        "pos": "PF",
+        "salary": 7800,
+        "fpts": 51,
+        "own": 12.94
+      },
+      {
+        "slot": "C",
+        "id": 45062657,
+        "name": "Neemias Queta",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 5100,
+        "fpts": 35.25,
+        "own": 44.67
+      },
+      {
+        "slot": "G",
+        "id": 45062614,
+        "name": "Kyshawn George",
+        "team": "WAS",
+        "pos": "SG",
+        "salary": 6400,
+        "fpts": 43.25,
+        "own": 16.32
+      },
+      {
+        "slot": "F",
+        "id": 45062688,
+        "name": "Zaccharie Risacher",
+        "team": "DAL",
+        "pos": "SF",
+        "salary": 4300,
+        "fpts": 25,
+        "own": 7.6
+      },
+      {
+        "slot": "UTIL",
+        "id": 45062607,
+        "name": "AJ Dybantsa",
+        "team": "WAS",
+        "pos": "SF",
+        "salary": 6600,
+        "fpts": 45.25,
+        "own": 18.77
+      }
+    ]
+  },
+  "optimal": {
+    "points": 349.75,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 45062624,
+        "name": "Daniss Jenkins",
+        "team": "DET",
+        "pos": "PG",
+        "salary": 6100,
+        "fpts": 38.5,
+        "own": 60.28
+      },
+      {
+        "slot": "SG",
+        "id": 45062726,
+        "name": "Isaiah Joe",
+        "team": "DET",
+        "pos": "SG",
+        "salary": 3800,
+        "fpts": 29.5,
+        "own": 64.94
+      },
+      {
+        "slot": "SF",
+        "id": 45062607,
+        "name": "AJ Dybantsa",
+        "team": "WAS",
+        "pos": "SF",
+        "salary": 6600,
+        "fpts": 45.25,
+        "own": 18.77
+      },
+      {
+        "slot": "PF",
+        "id": 45062593,
+        "name": "Paul George",
+        "team": "BOS",
+        "pos": "PF",
+        "salary": 7800,
+        "fpts": 51,
+        "own": 12.94
+      },
+      {
+        "slot": "C",
+        "id": 45062657,
+        "name": "Neemias Queta",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 5100,
+        "fpts": 35.25,
+        "own": 44.67
+      },
+      {
+        "slot": "G",
+        "id": 45062614,
+        "name": "Kyshawn George",
+        "team": "WAS",
+        "pos": "SG",
+        "salary": 6400,
+        "fpts": 43.25,
+        "own": 16.32
+      },
+      {
+        "slot": "F",
+        "id": 45062566,
+        "name": "Jayson Tatum",
+        "team": "BOS",
+        "pos": "SF",
+        "salary": 9700,
+        "fpts": 68,
+        "own": 28.51
+      },
+      {
+        "slot": "UTIL",
+        "id": 45062683,
+        "name": "Caleb Martin",
+        "team": "DAL",
+        "pos": "SG",
+        "salary": 4400,
+        "fpts": 39,
+        "own": 8.17
+      }
+    ],
+    "assumedZero": 10
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 18349,
+    "pctile": 6.32,
+    "points": 213.25,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 45062589,
+        "name": "Kyrie Irving",
+        "team": "DAL",
+        "pos": "PG",
+        "salary": 7900,
+        "fpts": 30.25,
+        "own": 21.33
+      },
+      {
+        "slot": "SG",
+        "id": 45062624,
+        "name": "Daniss Jenkins",
+        "team": "DET",
+        "pos": "PG",
+        "salary": 6100,
+        "fpts": 38.5,
+        "own": 60.28
+      },
+      {
+        "slot": "SF",
+        "id": 45062617,
+        "name": "Desmond Bane",
+        "team": "ORL",
+        "pos": "SG",
+        "salary": 6300,
+        "fpts": 31.75,
+        "own": 24.15
+      },
+      {
+        "slot": "PF",
+        "id": 45062653,
+        "name": "Aaron Gordon",
+        "team": "DEN",
+        "pos": "PF",
+        "salary": 5200,
+        "fpts": 11.25,
+        "own": 33.79
+      },
+      {
+        "slot": "C",
+        "id": 45062651,
+        "name": "Alexandre Sarr",
+        "team": "WAS",
+        "pos": "C",
+        "salary": 5300,
+        "fpts": 12,
+        "own": 5.32
+      },
+      {
+        "slot": "G",
+        "id": 45062583,
+        "name": "Jamal Murray",
+        "team": "DEN",
+        "pos": "PG",
+        "salary": 8800,
+        "fpts": 31,
+        "own": 27.4
+      },
+      {
+        "slot": "F",
+        "id": 45062633,
+        "name": "Christian Braun",
+        "team": "DEN",
+        "pos": "SG",
+        "salary": 5800,
+        "fpts": 28.5,
+        "own": 20
+      },
+      {
+        "slot": "UTIL",
+        "id": 45062677,
+        "name": "Daniel Gafford",
+        "team": "DAL",
+        "pos": "C",
+        "salary": 4600,
+        "fpts": 30,
+        "own": 25.92
+      }
+    ],
+    "money": {
+      "fee": 18,
+      "one": {
+        "won": 0,
+        "net": -18
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -18
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 0,
+        "net": -360,
+        "cashed": 0
+      }
+    }
+  },
+  "observationOnly": true,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "BOS": 3,
+        "DET": 2,
+        "WAS": 2,
+        "DAL": 1
+      },
+      "games": {
+        "BOS@WAS": 5,
+        "DET@ORL": 2,
+        "DAL@DEN": 1
+      },
+      "nGames": 3,
+      "summary": [
+        "BOS 3 · DET 2 · WAS 2",
+        "3 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "BOS": 3,
+        "DET": 2,
+        "WAS": 2,
+        "DAL": 1
+      },
+      "games": {
+        "BOS@WAS": 5,
+        "DET@ORL": 2,
+        "DAL@DEN": 1
+      },
+      "nGames": 3,
+      "summary": [
+        "BOS 3 · DET 2 · WAS 2",
+        "3 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "DEN": 3,
+        "DAL": 2,
+        "DET": 1,
+        "ORL": 1,
+        "WAS": 1
+      },
+      "games": {
+        "DAL@DEN": 5,
+        "DET@ORL": 2,
+        "BOS@WAS": 1
+      },
+      "nGames": 3,
+      "summary": [
+        "DEN 3 · DAL 2",
+        "3 games"
+      ]
+    }
+  }
+}
