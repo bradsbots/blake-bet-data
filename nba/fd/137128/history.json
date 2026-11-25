@@ -1,0 +1,381 @@
+{
+  "sport": "nba",
+  "site": "fd",
+  "slate": "137128",
+  "date": "2026-11-24",
+  "contest": {
+    "id": 281706353,
+    "label": "$175K Tue NBA Shot ($40K to 1st)",
+    "entries": 30360
+  },
+  "generatedAt": "2026-11-25T15:49:16.151Z",
+  "winner": {
+    "rank": 1,
+    "name": "time2eat (3/8)",
+    "points": 395.1,
+    "salary": 59900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 203812,
+        "name": "Daniss Jenkins",
+        "team": "DET",
+        "pos": "PG/SG",
+        "salary": 5200,
+        "fpts": 35.8,
+        "own": 70.92
+      },
+      {
+        "slot": "SG",
+        "id": 49675,
+        "name": "Derrick White",
+        "team": "BOS",
+        "pos": "PG/SG",
+        "salary": 5300,
+        "fpts": 24.9,
+        "own": 39.6
+      },
+      {
+        "slot": "SF",
+        "id": 12341,
+        "name": "Paul George",
+        "team": "BOS",
+        "pos": "SF",
+        "salary": 7300,
+        "fpts": 48.3,
+        "own": 33.76
+      },
+      {
+        "slot": "PF",
+        "id": 80808,
+        "name": "Jayson Tatum",
+        "team": "BOS",
+        "pos": "PF/SF",
+        "salary": 9600,
+        "fpts": 66.2,
+        "own": 49.8
+      },
+      {
+        "slot": "C",
+        "id": 157811,
+        "name": "Neemias Queta",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 5000,
+        "fpts": 37,
+        "own": 48.45
+      },
+      {
+        "slot": "G/F",
+        "id": 203722,
+        "name": "Kyshawn George",
+        "team": "WAS",
+        "pos": "SG/SF",
+        "salary": 6800,
+        "fpts": 41.3,
+        "own": 13.13
+      },
+      {
+        "slot": "F/C",
+        "id": 15755,
+        "name": "Anthony Davis",
+        "team": "WAS",
+        "pos": "PF/C",
+        "salary": 9900,
+        "fpts": 57.1,
+        "own": 17.08
+      },
+      {
+        "slot": "UTIL",
+        "id": 248945,
+        "name": "AJ Dybantsa",
+        "team": "WAS",
+        "pos": "SF/PF",
+        "salary": 6900,
+        "fpts": 40.7,
+        "own": 23.1
+      },
+      {
+        "slot": "UTIL",
+        "id": 113267,
+        "name": "Caleb Martin",
+        "team": "DAL",
+        "pos": "SG",
+        "salary": 3900,
+        "fpts": 43.8,
+        "own": 6.55
+      }
+    ]
+  },
+  "optimal": {
+    "points": 402.7,
+    "salary": 59700,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 203812,
+        "name": "Daniss Jenkins",
+        "team": "DET",
+        "pos": "PG/SG",
+        "salary": 5200,
+        "fpts": 35.8,
+        "own": 70.92
+      },
+      {
+        "slot": "SG",
+        "id": 188426,
+        "name": "Ausar Thompson",
+        "team": "DET",
+        "pos": "SF/SG",
+        "salary": 7600,
+        "fpts": 41.5,
+        "own": 36.85
+      },
+      {
+        "slot": "SF",
+        "id": 203722,
+        "name": "Kyshawn George",
+        "team": "WAS",
+        "pos": "SG/SF",
+        "salary": 6800,
+        "fpts": 41.3,
+        "own": 13.13
+      },
+      {
+        "slot": "PF",
+        "id": 80808,
+        "name": "Jayson Tatum",
+        "team": "BOS",
+        "pos": "PF/SF",
+        "salary": 9600,
+        "fpts": 66.2,
+        "own": 49.8
+      },
+      {
+        "slot": "C",
+        "id": 157811,
+        "name": "Neemias Queta",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 5000,
+        "fpts": 37,
+        "own": 48.45
+      },
+      {
+        "slot": "G/F",
+        "id": 113267,
+        "name": "Caleb Martin",
+        "team": "DAL",
+        "pos": "SG",
+        "salary": 3900,
+        "fpts": 43.8,
+        "own": 6.55
+      },
+      {
+        "slot": "F/C",
+        "id": 110325,
+        "name": "Daniel Gafford",
+        "team": "DAL",
+        "pos": "C",
+        "salary": 4400,
+        "fpts": 31.7,
+        "own": 33.28
+      },
+      {
+        "slot": "UTIL",
+        "id": 12341,
+        "name": "Paul George",
+        "team": "BOS",
+        "pos": "SF",
+        "salary": 7300,
+        "fpts": 48.3,
+        "own": 33.76
+      },
+      {
+        "slot": "UTIL",
+        "id": 15755,
+        "name": "Anthony Davis",
+        "team": "WAS",
+        "pos": "PF/C",
+        "salary": 9900,
+        "fpts": 57.1,
+        "own": 17.08
+      }
+    ],
+    "assumedZero": 18
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 13713,
+    "pctile": 54.48,
+    "points": 305,
+    "salary": 59900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 49675,
+        "name": "Derrick White",
+        "team": "BOS",
+        "pos": "PG/SG",
+        "salary": 5300,
+        "fpts": 24.9,
+        "own": 39.6
+      },
+      {
+        "slot": "SG",
+        "id": 203812,
+        "name": "Daniss Jenkins",
+        "team": "DET",
+        "pos": "PG/SG",
+        "salary": 5200,
+        "fpts": 35.8,
+        "own": 70.92
+      },
+      {
+        "slot": "SF",
+        "id": 84704,
+        "name": "Kevin Huerter",
+        "team": "DET",
+        "pos": "SG/SF",
+        "salary": 4700,
+        "fpts": 29.7,
+        "own": 39.67
+      },
+      {
+        "slot": "PF",
+        "id": 80808,
+        "name": "Jayson Tatum",
+        "team": "BOS",
+        "pos": "PF/SF",
+        "salary": 9600,
+        "fpts": 66.2,
+        "own": 49.8
+      },
+      {
+        "slot": "C",
+        "id": 157811,
+        "name": "Neemias Queta",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 5000,
+        "fpts": 37,
+        "own": 48.45
+      },
+      {
+        "slot": "G/F",
+        "id": 66108,
+        "name": "Jamal Murray",
+        "team": "DEN",
+        "pos": "PG",
+        "salary": 9000,
+        "fpts": 30.9,
+        "own": 35.97
+      },
+      {
+        "slot": "F/C",
+        "id": 110325,
+        "name": "Daniel Gafford",
+        "team": "DAL",
+        "pos": "C",
+        "salary": 4400,
+        "fpts": 31.7,
+        "own": 33.28
+      },
+      {
+        "slot": "UTIL",
+        "id": 41594,
+        "name": "Aaron Gordon",
+        "team": "DEN",
+        "pos": "PF",
+        "salary": 4800,
+        "fpts": 12.1,
+        "own": 40.17
+      },
+      {
+        "slot": "UTIL",
+        "id": 55062,
+        "name": "Nikola Jokic",
+        "team": "DEN",
+        "pos": "C",
+        "salary": 11900,
+        "fpts": 36.7,
+        "own": 61.81
+      }
+    ],
+    "money": {
+      "fee": 6,
+      "one": {
+        "won": 0,
+        "net": -6
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -6
+      },
+      "portfolio": {
+        "n": 3,
+        "won": 0,
+        "net": -18,
+        "cashed": 0
+      }
+    }
+  },
+  "observationOnly": true,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "BOS": 4,
+        "WAS": 3,
+        "DAL": 1,
+        "DET": 1
+      },
+      "games": {
+        "BOS@WAS": 7,
+        "DAL@DEN": 1,
+        "DET@ORL": 1
+      },
+      "nGames": 3,
+      "summary": [
+        "BOS 4 · WAS 3",
+        "3 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "BOS": 3,
+        "DAL": 2,
+        "DET": 2,
+        "WAS": 2
+      },
+      "games": {
+        "BOS@WAS": 5,
+        "DAL@DEN": 2,
+        "DET@ORL": 2
+      },
+      "nGames": 3,
+      "summary": [
+        "BOS 3 · DAL 2 · DET 2 · WAS 2",
+        "3 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "BOS": 3,
+        "DEN": 3,
+        "DET": 2,
+        "DAL": 1
+      },
+      "games": {
+        "DAL@DEN": 4,
+        "BOS@WAS": 3,
+        "DET@ORL": 2
+      },
+      "nGames": 3,
+      "summary": [
+        "BOS 3 · DEN 3 · DET 2",
+        "3 games"
+      ]
+    }
+  }
+}

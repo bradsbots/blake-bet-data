@@ -1,6 +1,25 @@
 [
   {
     "sport": "nba",
+    "site": "fd",
+    "slate": "137128",
+    "date": "2026-11-24",
+    "label": "$175K Tue NBA Shot ($40K to 1st)",
+    "contestId": 281706353,
+    "entries": 30360,
+    "winnerPoints": 395.1,
+    "optimalPoints": 402.7,
+    "paperPoints": 305,
+    "paperPctile": 54.48,
+    "paperNet1": -6,
+    "paperNet1Defaults": -6,
+    "portfolioNet": -18,
+    "portfolioCashed": 0,
+    "portfolioN": 3,
+    "observationOnly": true
+  },
+  {
+    "sport": "nba",
     "slate": "156301",
     "date": "2026-11-24",
     "label": "NBA $300K Fadeaway [$100K to 1st]",
