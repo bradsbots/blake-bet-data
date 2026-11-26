@@ -1,0 +1,361 @@
+{
+  "sport": "nba",
+  "slate": "156302",
+  "date": "2026-11-25",
+  "contest": {
+    "id": 198179305,
+    "label": "NBA $150K Fadeaway [$50K to 1st]",
+    "entries": 11764
+  },
+  "generatedAt": "2026-11-26T09:40:18.927Z",
+  "winner": {
+    "rank": 1,
+    "name": "fjbourne (89/150)",
+    "points": 322.25,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 45085119,
+        "name": "Coby White",
+        "team": "CHA",
+        "pos": "PG",
+        "salary": 5900,
+        "fpts": 30.25,
+        "own": 42.52
+      },
+      {
+        "slot": "SG",
+        "id": 45085198,
+        "name": "Tre Jones",
+        "team": "CHI",
+        "pos": "PG",
+        "salary": 4800,
+        "fpts": 28.5,
+        "own": 16.01
+      },
+      {
+        "slot": "SF",
+        "id": 45085014,
+        "name": "Jaden McDaniels",
+        "team": "MIN",
+        "pos": "SF",
+        "salary": 7600,
+        "fpts": 59.5,
+        "own": 8.28
+      },
+      {
+        "slot": "PF",
+        "id": 45084970,
+        "name": "Alperen Sengun",
+        "team": "HOU",
+        "pos": "PF",
+        "salary": 9500,
+        "fpts": 57.75,
+        "own": 14.98
+      },
+      {
+        "slot": "C",
+        "id": 45085114,
+        "name": "Moussa Diabate",
+        "team": "CHA",
+        "pos": "C",
+        "salary": 6000,
+        "fpts": 37,
+        "own": 31.51
+      },
+      {
+        "slot": "G",
+        "id": 45085205,
+        "name": "Mikel Brown Jr.",
+        "team": "BKN",
+        "pos": "PG",
+        "salary": 4800,
+        "fpts": 12.5,
+        "own": 57.04
+      },
+      {
+        "slot": "F",
+        "id": 45085132,
+        "name": "Josh Hart",
+        "team": "NYK",
+        "pos": "SG",
+        "salary": 5700,
+        "fpts": 48.75,
+        "own": 19.42
+      },
+      {
+        "slot": "UTIL",
+        "id": 45085130,
+        "name": "Day'Ron Sharpe",
+        "team": "BKN",
+        "pos": "C",
+        "salary": 5700,
+        "fpts": 48,
+        "own": 26.73
+      }
+    ]
+  },
+  "optimal": {
+    "points": 370,
+    "salary": 49600,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 45085395,
+        "name": "Jose Alvarado",
+        "team": "NYK",
+        "pos": "PG",
+        "salary": 3400,
+        "fpts": 32.75,
+        "own": 6.82
+      },
+      {
+        "slot": "SG",
+        "id": 45085029,
+        "name": "Brandon Miller",
+        "team": "CHA",
+        "pos": "SG",
+        "salary": 7400,
+        "fpts": 46.25,
+        "own": 29.29
+      },
+      {
+        "slot": "SF",
+        "id": 45085014,
+        "name": "Jaden McDaniels",
+        "team": "MIN",
+        "pos": "SF",
+        "salary": 7600,
+        "fpts": 59.5,
+        "own": 8.28
+      },
+      {
+        "slot": "PF",
+        "id": 45085173,
+        "name": "Kel'el Ware",
+        "team": "MIL",
+        "pos": "PF",
+        "salary": 5000,
+        "fpts": 39,
+        "own": 2.98
+      },
+      {
+        "slot": "C",
+        "id": 45085130,
+        "name": "Day'Ron Sharpe",
+        "team": "BKN",
+        "pos": "C",
+        "salary": 5700,
+        "fpts": 48,
+        "own": 26.73
+      },
+      {
+        "slot": "G",
+        "id": 45085132,
+        "name": "Josh Hart",
+        "team": "NYK",
+        "pos": "SG",
+        "salary": 5700,
+        "fpts": 48.75,
+        "own": 19.42
+      },
+      {
+        "slot": "F",
+        "id": 45085150,
+        "name": "Rui Hachimura",
+        "team": "LAC",
+        "pos": "PF",
+        "salary": 5300,
+        "fpts": 38,
+        "own": 3.7
+      },
+      {
+        "slot": "UTIL",
+        "id": 45084970,
+        "name": "Alperen Sengun",
+        "team": "HOU",
+        "pos": "PF",
+        "salary": 9500,
+        "fpts": 57.75,
+        "own": 14.98
+      }
+    ],
+    "assumedZero": 70
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 6979,
+    "pctile": 40.34,
+    "points": 236,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 45085119,
+        "name": "Coby White",
+        "team": "CHA",
+        "pos": "PG",
+        "salary": 5900,
+        "fpts": 30.25,
+        "own": 42.52
+      },
+      {
+        "slot": "SG",
+        "id": 45085198,
+        "name": "Tre Jones",
+        "team": "CHI",
+        "pos": "PG",
+        "salary": 4800,
+        "fpts": 28.5,
+        "own": 16.01
+      },
+      {
+        "slot": "SF",
+        "id": 45085157,
+        "name": "Kyle Kuzma",
+        "team": "MIL",
+        "pos": "SF",
+        "salary": 5200,
+        "fpts": 20.75,
+        "own": 20.99
+      },
+      {
+        "slot": "PF",
+        "id": 45084966,
+        "name": "Karl-Anthony Towns",
+        "team": "NYK",
+        "pos": "PF",
+        "salary": 9700,
+        "fpts": 44,
+        "own": 21.88
+      },
+      {
+        "slot": "C",
+        "id": 45085213,
+        "name": "Nic Claxton",
+        "team": "CHI",
+        "pos": "C",
+        "salary": 4800,
+        "fpts": 21.5,
+        "own": 21.7
+      },
+      {
+        "slot": "G",
+        "id": 45085205,
+        "name": "Mikel Brown Jr.",
+        "team": "BKN",
+        "pos": "PG",
+        "salary": 4800,
+        "fpts": 12.5,
+        "own": 57.04
+      },
+      {
+        "slot": "F",
+        "id": 45085038,
+        "name": "Michael Porter Jr.",
+        "team": "BKN",
+        "pos": "SG",
+        "salary": 7200,
+        "fpts": 35.75,
+        "own": 27.66
+      },
+      {
+        "slot": "UTIL",
+        "id": 45085021,
+        "name": "Julius Randle",
+        "team": "BKN",
+        "pos": "PF",
+        "salary": 7500,
+        "fpts": 42.75,
+        "own": 37.55
+      }
+    ],
+    "money": {
+      "fee": 15,
+      "one": {
+        "won": 0,
+        "net": -15
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -15
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 155,
+        "net": -145,
+        "cashed": 5
+      }
+    }
+  },
+  "observationOnly": false,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "BKN": 2,
+        "CHA": 2,
+        "CHI": 1,
+        "HOU": 1,
+        "MIN": 1,
+        "NYK": 1
+      },
+      "games": {
+        "CHI@CHA": 3,
+        "BKN@MIL": 2,
+        "CLE@NYK": 1,
+        "MIN@OKC": 1,
+        "PHX@HOU": 1
+      },
+      "nGames": 5,
+      "summary": [
+        "BKN 2 · CHA 2",
+        "5 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "NYK": 2,
+        "BKN": 1,
+        "CHA": 1,
+        "HOU": 1,
+        "LAC": 1,
+        "MIL": 1,
+        "MIN": 1
+      },
+      "games": {
+        "BKN@MIL": 2,
+        "CLE@NYK": 2,
+        "CHI@CHA": 1,
+        "LAC@MEM": 1,
+        "MIN@OKC": 1,
+        "PHX@HOU": 1
+      },
+      "nGames": 6,
+      "summary": [
+        "NYK 2",
+        "6 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "BKN": 3,
+        "CHI": 2,
+        "CHA": 1,
+        "MIL": 1,
+        "NYK": 1
+      },
+      "games": {
+        "BKN@MIL": 4,
+        "CHI@CHA": 3,
+        "CLE@NYK": 1
+      },
+      "nGames": 3,
+      "summary": [
+        "BKN 3 · CHI 2",
+        "3 games"
+      ]
+    }
+  }
+}
