@@ -2,6 +2,55 @@
  "sport": "nba",
  "slates": [
   {
+   "slate": "156302",
+   "date": "2026-11-25",
+   "label": "NBA $150K Fadeaway [$50K to 1st]",
+   "entries": 11764,
+   "source": "live",
+   "model": "v4",
+   "predictedAt": "2026-11-25T23:45:36+00:00",
+   "lockAt": "2026-11-26T00:00:00+00:00",
+   "minutesBeforeLock": 14,
+   "n": 181,
+   "mae": 2.242,
+   "mae5": 5.112,
+   "chalkMae": 9.743,
+   "spearman": 0.9157,
+   "top10": 0.7,
+   "chalk": {
+    "n": 15,
+    "caught": 12
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Moussa Diabate",
+     "pos": "ALL",
+     "team": "CHA",
+     "pred": 15.07,
+     "actual": 31.51
+    },
+    {
+     "name": "Coby White",
+     "pos": "ALL",
+     "team": "CHA",
+     "pred": 26.38,
+     "actual": 42.52
+    },
+    {
+     "name": "Mikel Brown Jr.",
+     "pos": "ALL",
+     "team": "BKN",
+     "pred": 42.42,
+     "actual": 57.04
+    }
+   ],
+   "evenSplit": {
+    "mae": 5.771,
+    "chalkMae": 25.104
+   }
+  },
+  {
    "slate": "156301",
    "date": "2026-11-24",
    "label": "NBA $300K Fadeaway [$100K to 1st]",
@@ -1229,18 +1278,18 @@
  ],
  "recent": {
   "slates": 10,
-  "n": 1599,
-  "mae": 2.669,
-  "mae5": 6.599,
-  "chalkMae": 12.574,
+  "n": 1634,
+  "mae": 2.579,
+  "mae5": 6.325,
+  "chalkMae": 12.124,
   "chalk": {
-   "n": 123,
-   "caught": 95
+   "n": 125,
+   "caught": 98
   },
   "falseChalk": 1,
   "evenSplit": {
-   "mae": 6.259,
-   "chalkMae": 28.479
+   "mae": 6.138,
+   "chalkMae": 28.072
   }
  }
 }
