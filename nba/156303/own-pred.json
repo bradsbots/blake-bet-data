@@ -3,8 +3,8 @@
   "slate": "156303",
   "model": "v4",
   "modelFile": "/blake-bet/pipeline/models/ownership_nba_v4.json",
-  "predictedAt": "2026-11-26T16:00:33+00:00",
-  "slateExportedAt": "2026-11-26T16:00:32.791807+00:00",
+  "predictedAt": "2026-11-26T17:00:07+00:00",
+  "slateExportedAt": "2026-11-26T17:00:06.704477+00:00",
   "lockAt": "2026-11-28T00:00:00+00:00",
   "budgets": {
     "ALL": 800.0
@@ -14,7 +14,7 @@
   "ownCap": 70.0,
   "memory": {
     "baseSha": "f857fdc68654ccad",
-    "asof": "2026-11-26T16:00:33.906477+00:00",
+    "asof": "2026-11-26T17:00:07.938743+00:00",
     "priorSlates": 40,
     "applied": true
   },
