@@ -1,0 +1,428 @@
+{
+  "sport": "nhl",
+  "slate": "156971",
+  "date": "2026-11-25",
+  "contest": {
+    "id": 198165050,
+    "label": "NHL $30K Overload [$10K to 1st]",
+    "entries": 1764
+  },
+  "generatedAt": "2026-11-26T09:40:30.861Z",
+  "winner": {
+    "rank": 1,
+    "name": "kodyray91 (34/52)",
+    "points": 171.8,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "C",
+        "id": 45088484,
+        "name": "Mikael Granlund",
+        "team": "ANA",
+        "pos": "C",
+        "salary": 5400,
+        "fpts": 24,
+        "own": 13.21
+      },
+      {
+        "slot": "C",
+        "id": 45088496,
+        "name": "Brock Nelson",
+        "team": "COL",
+        "pos": "C",
+        "salary": 5100,
+        "fpts": 21.8,
+        "own": 1.64
+      },
+      {
+        "slot": "W",
+        "id": 45088784,
+        "name": "Martin Necas",
+        "team": "COL",
+        "pos": "W",
+        "salary": 6700,
+        "fpts": 32,
+        "own": 2.32
+      },
+      {
+        "slot": "W",
+        "id": 45088808,
+        "name": "Artturi Lehkonen",
+        "team": "COL",
+        "pos": "W",
+        "salary": 5900,
+        "fpts": 17.8,
+        "own": 1.25
+      },
+      {
+        "slot": "W",
+        "id": 45088904,
+        "name": "Troy Terry",
+        "team": "ANA",
+        "pos": "W",
+        "salary": 4100,
+        "fpts": 3,
+        "own": 12.87
+      },
+      {
+        "slot": "D",
+        "id": 45089370,
+        "name": "Cale Makar",
+        "team": "COL",
+        "pos": "D",
+        "salary": 6800,
+        "fpts": 24,
+        "own": 4.82
+      },
+      {
+        "slot": "D",
+        "id": 45089382,
+        "name": "Lane Hutson",
+        "team": "MTL",
+        "pos": "D",
+        "salary": 5700,
+        "fpts": 11.2,
+        "own": 3.18
+      },
+      {
+        "slot": "G",
+        "id": 45089927,
+        "name": "Juuse Saros",
+        "team": "NSH",
+        "pos": "G",
+        "salary": 7200,
+        "fpts": 16.5,
+        "own": 2.21
+      },
+      {
+        "slot": "UTIL",
+        "id": 45089044,
+        "name": "Alex Killorn",
+        "team": "ANA",
+        "pos": "W",
+        "salary": 3000,
+        "fpts": 21.5,
+        "own": 3.63
+      }
+    ]
+  },
+  "optimal": {
+    "points": 246.1,
+    "salary": 48400,
+    "players": [
+      {
+        "slot": "C",
+        "id": 45088514,
+        "name": "Emmitt Finnie",
+        "team": "DET",
+        "pos": "C",
+        "salary": 4600,
+        "fpts": 29.3,
+        "own": 7.82
+      },
+      {
+        "slot": "C",
+        "id": 45088484,
+        "name": "Mikael Granlund",
+        "team": "ANA",
+        "pos": "C",
+        "salary": 5400,
+        "fpts": 24,
+        "own": 13.21
+      },
+      {
+        "slot": "W",
+        "id": 45088818,
+        "name": "Rickard Rakell",
+        "team": "PIT",
+        "pos": "W",
+        "salary": 5700,
+        "fpts": 26.6,
+        "own": 12.93
+      },
+      {
+        "slot": "W",
+        "id": 45088832,
+        "name": "Alex Tuch",
+        "team": "WSH",
+        "pos": "W",
+        "salary": 5400,
+        "fpts": 25.8,
+        "own": 6.18
+      },
+      {
+        "slot": "W",
+        "id": 45088870,
+        "name": "Brad Marchand",
+        "team": "FLA",
+        "pos": "W",
+        "salary": 4600,
+        "fpts": 30,
+        "own": 0.11
+      },
+      {
+        "slot": "D",
+        "id": 45089554,
+        "name": "Matt Roy",
+        "team": "WSH",
+        "pos": "D",
+        "salary": 2900,
+        "fpts": 24.7,
+        "own": 1.02
+      },
+      {
+        "slot": "D",
+        "id": 45089402,
+        "name": "Devon Toews",
+        "team": "COL",
+        "pos": "D",
+        "salary": 5000,
+        "fpts": 24.1,
+        "own": 0.74
+      },
+      {
+        "slot": "G",
+        "id": 45089878,
+        "name": "MacKenzie Blackwood",
+        "team": "COL",
+        "pos": "G",
+        "salary": 8100,
+        "fpts": 29.6,
+        "own": 0.85
+      },
+      {
+        "slot": "UTIL",
+        "id": 45088784,
+        "name": "Martin Necas",
+        "team": "COL",
+        "pos": "W",
+        "salary": 6700,
+        "fpts": 32,
+        "own": 2.32
+      }
+    ],
+    "assumedZero": 356
+  },
+  "paper": {
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 1581,
+    "pctile": 10.37,
+    "points": 52.4,
+    "salary": 49700,
+    "players": [
+      {
+        "slot": "C",
+        "id": 45088500,
+        "name": "Robert Thomas",
+        "team": "STL",
+        "pos": "C",
+        "salary": 5000,
+        "fpts": 9.3,
+        "own": 6.97
+      },
+      {
+        "slot": "C",
+        "id": 45088502,
+        "name": "Mathew Barzal",
+        "team": "NYI",
+        "pos": "C",
+        "salary": 5000,
+        "fpts": 6,
+        "own": 5.39
+      },
+      {
+        "slot": "W",
+        "id": 45088764,
+        "name": "David Pastrnak",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 8100,
+        "fpts": 6.5,
+        "own": 14.63
+      },
+      {
+        "slot": "W",
+        "id": 45088882,
+        "name": "Kent Johnson",
+        "team": "CBJ",
+        "pos": "W",
+        "salary": 4400,
+        "fpts": 12.1,
+        "own": 3
+      },
+      {
+        "slot": "W",
+        "id": 45088892,
+        "name": "Charlie Coyle",
+        "team": "CBJ",
+        "pos": "W",
+        "salary": 4200,
+        "fpts": 5.6,
+        "own": 3.63
+      },
+      {
+        "slot": "D",
+        "id": 45089366,
+        "name": "Zach Werenski",
+        "team": "CBJ",
+        "pos": "D",
+        "salary": 7000,
+        "fpts": 4.3,
+        "own": 14.57
+      },
+      {
+        "slot": "D",
+        "id": 45089434,
+        "name": "Philip Broberg",
+        "team": "STL",
+        "pos": "D",
+        "salary": 4200,
+        "fpts": 9.9,
+        "own": 6.41
+      },
+      {
+        "slot": "G",
+        "id": 45089880,
+        "name": "Jesper Wallstedt",
+        "team": "MIN",
+        "pos": "G",
+        "salary": 8100,
+        "fpts": -2.8,
+        "own": 6.63
+      },
+      {
+        "slot": "UTIL",
+        "id": 45088950,
+        "name": "Jake Neighbours",
+        "team": "STL",
+        "pos": "W",
+        "salary": 3700,
+        "fpts": 1.5,
+        "own": 5.62
+      }
+    ],
+    "money": {
+      "fee": 20,
+      "one": {
+        "won": 0,
+        "net": -20
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -20
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 255,
+        "net": -145,
+        "cashed": 7
+      }
+    }
+  },
+  "observationOnly": false,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "COL": 4,
+        "ANA": 3,
+        "MTL": 1,
+        "NSH": 1
+      },
+      "games": {
+        "MTL@COL": 5,
+        "SJS@ANA": 3,
+        "NSH@DAL": 1
+      },
+      "nGames": 3,
+      "lines": {
+        "ANA f1": 3,
+        "COL f1": 3
+      },
+      "pp": {
+        "ANA pp1": 2,
+        "COL pp1": 2,
+        "COL pp2": 2
+      },
+      "goalie": {
+        "team": "NSH",
+        "opposing": 0
+      },
+      "summary": [
+        "COL 4 · ANA 3",
+        "ANA f1 ×3",
+        "COL f1 ×3",
+        "ANA pp1 ×2",
+        "COL pp1 ×2",
+        "COL pp2 ×2",
+        "G NSH",
+        "3 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "COL": 3,
+        "WSH": 2,
+        "ANA": 1,
+        "DET": 1,
+        "FLA": 1,
+        "PIT": 1
+      },
+      "games": {
+        "MTL@COL": 3,
+        "PHI@WSH": 2,
+        "CGY@PIT": 1,
+        "OTT@FLA": 1,
+        "SJS@ANA": 1,
+        "VAN@DET": 1
+      },
+      "nGames": 6,
+      "lines": {},
+      "pp": {},
+      "goalie": {
+        "team": "COL",
+        "opposing": 0
+      },
+      "summary": [
+        "COL 3 · WSH 2",
+        "G COL",
+        "6 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "CBJ": 3,
+        "STL": 3,
+        "BOS": 1,
+        "MIN": 1,
+        "NYI": 1
+      },
+      "games": {
+        "STL@NYI": 4,
+        "NJD@CBJ": 3,
+        "UTA@MIN": 1,
+        "WPG@BOS": 1
+      },
+      "nGames": 4,
+      "lines": {
+        "STL f1": 2
+      },
+      "pp": {
+        "CBJ pp1": 3,
+        "STL pp1": 3
+      },
+      "goalie": {
+        "team": "MIN",
+        "opposing": 0
+      },
+      "summary": [
+        "CBJ 3 · STL 3",
+        "STL f1 ×2",
+        "CBJ pp1 ×3",
+        "STL pp1 ×3",
+        "G MIN",
+        "4 games"
+      ]
+    }
+  }
+}
