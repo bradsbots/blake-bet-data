@@ -1,0 +1,427 @@
+{
+  "sport": "nhl",
+  "site": "fd",
+  "slate": "137187",
+  "date": "2026-11-25",
+  "contest": {
+    "id": 281741615,
+    "label": "$15K Wed NHL Breakaway ($3K to 1st)",
+    "entries": 4021
+  },
+  "generatedAt": "2026-11-27T19:29:15.997Z",
+  "winner": {
+    "rank": 1,
+    "name": "nfllovers83 (3/13)",
+    "points": 232.6,
+    "salary": 54700,
+    "players": [
+      {
+        "slot": "C",
+        "id": 23041,
+        "name": "Mikael Granlund",
+        "team": "ANA",
+        "pos": "C",
+        "salary": 6700,
+        "fpts": 30.9,
+        "own": 11.71
+      },
+      {
+        "slot": "C",
+        "id": 70901,
+        "name": "Pierre-Luc Dubois",
+        "team": "WSH",
+        "pos": "C",
+        "salary": 5300,
+        "fpts": 4.8,
+        "own": 1.32
+      },
+      {
+        "slot": "W",
+        "id": 70168,
+        "name": "Alex Tuch",
+        "team": "WSH",
+        "pos": "W",
+        "salary": 6700,
+        "fpts": 33.3,
+        "own": 2.09
+      },
+      {
+        "slot": "W",
+        "id": 222905,
+        "name": "Ryan Leonard",
+        "team": "WSH",
+        "pos": "W",
+        "salary": 6100,
+        "fpts": 28.5,
+        "own": 1.44
+      },
+      {
+        "slot": "D",
+        "id": 113276,
+        "name": "Moritz Seider",
+        "team": "DET",
+        "pos": "D",
+        "salary": 6100,
+        "fpts": 19.7,
+        "own": 13.48
+      },
+      {
+        "slot": "D",
+        "id": 203918,
+        "name": "Cole Hutson",
+        "team": "WSH",
+        "pos": "D",
+        "salary": 6000,
+        "fpts": 18.9,
+        "own": 0.9
+      },
+      {
+        "slot": "UTIL",
+        "id": 59207,
+        "name": "Viktor Arvidsson",
+        "team": "DET",
+        "pos": "W",
+        "salary": 5700,
+        "fpts": 31.7,
+        "own": 7.91
+      },
+      {
+        "slot": "UTIL",
+        "id": 195210,
+        "name": "Emmitt Finnie",
+        "team": "DET",
+        "pos": "W",
+        "salary": 5000,
+        "fpts": 36.8,
+        "own": 2.91
+      },
+      {
+        "slot": "G",
+        "id": 104028,
+        "name": "Daniil Tarasov",
+        "team": "DET",
+        "pos": "G",
+        "salary": 7100,
+        "fpts": 28,
+        "own": 14.23
+      }
+    ]
+  },
+  "optimal": {
+    "points": 301.1,
+    "salary": 53700,
+    "players": [
+      {
+        "slot": "C",
+        "id": 23041,
+        "name": "Mikael Granlund",
+        "team": "ANA",
+        "pos": "C",
+        "salary": 6700,
+        "fpts": 30.9,
+        "own": 11.71
+      },
+      {
+        "slot": "C",
+        "id": 152882,
+        "name": "Anton Lundell",
+        "team": "FLA",
+        "pos": "C",
+        "salary": 5200,
+        "fpts": 26.9,
+        "own": 0.7
+      },
+      {
+        "slot": "W",
+        "id": 82045,
+        "name": "Martin Necas",
+        "team": "COL",
+        "pos": "W",
+        "salary": 6600,
+        "fpts": 36.5,
+        "own": 3.58
+      },
+      {
+        "slot": "W",
+        "id": 195210,
+        "name": "Emmitt Finnie",
+        "team": "DET",
+        "pos": "W",
+        "salary": 5000,
+        "fpts": 36.8,
+        "own": 2.91
+      },
+      {
+        "slot": "D",
+        "id": 70199,
+        "name": "Devon Toews",
+        "team": "COL",
+        "pos": "D",
+        "salary": 6200,
+        "fpts": 32.5,
+        "own": 0.42
+      },
+      {
+        "slot": "D",
+        "id": 79865,
+        "name": "Matt Roy",
+        "team": "WSH",
+        "pos": "D",
+        "salary": 3900,
+        "fpts": 29.6,
+        "own": 1.14
+      },
+      {
+        "slot": "UTIL",
+        "id": 15269,
+        "name": "Rickard Rakell",
+        "team": "PIT",
+        "pos": "W",
+        "salary": 5600,
+        "fpts": 32.2,
+        "own": 14.82
+      },
+      {
+        "slot": "UTIL",
+        "id": 70168,
+        "name": "Alex Tuch",
+        "team": "WSH",
+        "pos": "W",
+        "salary": 6700,
+        "fpts": 33.3,
+        "own": 2.09
+      },
+      {
+        "slot": "G",
+        "id": 66744,
+        "name": "Mackenzie Blackwood",
+        "team": "COL",
+        "pos": "G",
+        "salary": 7800,
+        "fpts": 42.4,
+        "own": 1.22
+      }
+    ],
+    "assumedZero": 163
+  },
+  "paper": {
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 1910,
+    "pctile": 52.52,
+    "points": 99.8,
+    "salary": 54600,
+    "players": [
+      {
+        "slot": "C",
+        "id": 8594,
+        "name": "Sidney Crosby",
+        "team": "PIT",
+        "pos": "C",
+        "salary": 5400,
+        "fpts": 4.8,
+        "own": 19.97
+      },
+      {
+        "slot": "C",
+        "id": 8595,
+        "name": "Evgeni Malkin",
+        "team": "PIT",
+        "pos": "C",
+        "salary": 5500,
+        "fpts": 24.2,
+        "own": 14.37
+      },
+      {
+        "slot": "W",
+        "id": 59218,
+        "name": "David Pastrnak",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 7700,
+        "fpts": 10.1,
+        "own": 17.56
+      },
+      {
+        "slot": "W",
+        "id": 82041,
+        "name": "Morgan Geekie",
+        "team": "BOS",
+        "pos": "W",
+        "salary": 5300,
+        "fpts": 15.7,
+        "own": 12.48
+      },
+      {
+        "slot": "D",
+        "id": 70912,
+        "name": "Charlie McAvoy",
+        "team": "BOS",
+        "pos": "D",
+        "salary": 4500,
+        "fpts": 1.6,
+        "own": 21.59
+      },
+      {
+        "slot": "D",
+        "id": 232128,
+        "name": "Matthew Schaefer",
+        "team": "NYI",
+        "pos": "D",
+        "salary": 7200,
+        "fpts": 11.2,
+        "own": 10.27
+      },
+      {
+        "slot": "UTIL",
+        "id": 73885,
+        "name": "Alex DeBrincat",
+        "team": "DET",
+        "pos": "W",
+        "salary": 6400,
+        "fpts": 3.2,
+        "own": 26.16
+      },
+      {
+        "slot": "UTIL",
+        "id": 15269,
+        "name": "Rickard Rakell",
+        "team": "PIT",
+        "pos": "W",
+        "salary": 5600,
+        "fpts": 32.2,
+        "own": 14.82
+      },
+      {
+        "slot": "G",
+        "id": 116948,
+        "name": "Arturs Silovs",
+        "team": "PIT",
+        "pos": "G",
+        "salary": 7000,
+        "fpts": -3.2,
+        "own": 16.99
+      }
+    ],
+    "money": {
+      "fee": 4.44,
+      "one": {
+        "won": 0,
+        "net": -4.44
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -4.44
+      },
+      "portfolio": {
+        "n": 6,
+        "won": null,
+        "net": null,
+        "cashed": null
+      }
+    }
+  },
+  "observationOnly": false,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "DET": 4,
+        "WSH": 4,
+        "ANA": 1
+      },
+      "games": {
+        "PHI@WSH": 4,
+        "VAN@DET": 4,
+        "SJS@ANA": 1
+      },
+      "nGames": 3,
+      "lines": {
+        "DET f2": 2,
+        "WSH f2": 2
+      },
+      "pp": {
+        "WSH pp2": 4,
+        "DET pp1": 3
+      },
+      "goalie": {
+        "team": "DET",
+        "opposing": 0
+      },
+      "summary": [
+        "DET 4 · WSH 4",
+        "DET f2 ×2",
+        "WSH f2 ×2",
+        "WSH pp2 ×4",
+        "DET pp1 ×3",
+        "G DET",
+        "3 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "COL": 3,
+        "WSH": 2,
+        "ANA": 1,
+        "DET": 1,
+        "FLA": 1,
+        "PIT": 1
+      },
+      "games": {
+        "MTL@COL": 3,
+        "PHI@WSH": 2,
+        "CGY@PIT": 1,
+        "OTT@FLA": 1,
+        "SJS@ANA": 1,
+        "VAN@DET": 1
+      },
+      "nGames": 6,
+      "lines": {},
+      "pp": {},
+      "goalie": {
+        "team": "COL",
+        "opposing": 0
+      },
+      "summary": [
+        "COL 3 · WSH 2",
+        "G COL",
+        "6 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "PIT": 4,
+        "BOS": 3,
+        "DET": 1,
+        "NYI": 1
+      },
+      "games": {
+        "CGY@PIT": 4,
+        "WPG@BOS": 3,
+        "STL@NYI": 1,
+        "VAN@DET": 1
+      },
+      "nGames": 4,
+      "lines": {
+        "PIT f1": 3,
+        "BOS f1": 2
+      },
+      "pp": {
+        "BOS pp1": 3,
+        "PIT pp1": 3
+      },
+      "goalie": {
+        "team": "PIT",
+        "opposing": 0
+      },
+      "summary": [
+        "PIT 4 · BOS 3",
+        "PIT f1 ×3",
+        "BOS f1 ×2",
+        "BOS pp1 ×3",
+        "PIT pp1 ×3",
+        "G PIT",
+        "4 games"
+      ]
+    }
+  }
+}
