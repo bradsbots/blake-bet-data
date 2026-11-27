@@ -4,26 +4,26 @@
  "llm": "gpt-oss:20b",
  "promptVersion": 3,
  "mode": "search",
- "calledAt": "2026-11-27T20:15:02+00:00",
- "finishedAt": "2026-11-27T20:15:30+00:00",
+ "calledAt": "2026-11-27T22:45:03+00:00",
+ "finishedAt": "2026-11-27T22:45:48+00:00",
  "lockAt": "2026-11-28T00:00:00+00:00",
- "minutesBeforeLock": 224,
- "slateExportedAt": "2026-11-27T20:00:10.164735+00:00",
+ "minutesBeforeLock": 74,
+ "slateExportedAt": "2026-11-27T22:30:57.228916+00:00",
  "modelCall": {
   "model": "v4",
-  "predictedAt": "2026-11-27T20:00:11+00:00"
+  "predictedAt": "2026-11-27T22:30:58+00:00"
  },
  "cap": 70.0,
  "complete": true,
- "seconds": 27.9,
+ "seconds": 45.2,
  "asked": 30,
- "kept": 20,
- "echo": 20,
+ "kept": 30,
+ "echo": 7,
  "searches": [
   "DraftKings NBA classic slate 156303 ownership talk",
-  "DraftKings NBA classic slate 156303 ownership projections",
-  "\"156303\" DraftKings slate",
-  "DraftKings NBA classic slate ownership"
+  "slate 156303 DraftKings ownership",
+  "Bones Hyland ownership DraftKings 156303",
+  "156303 DraftKings ownership"
  ],
  "searchBackends": [
   "cache:tavily",
@@ -34,68 +34,37 @@
  "keyedSearch": true,
  "refusedSearches": [],
  "availabilityCut": 0.02,
- "dropped": [
-  {
-   "id": "45109409",
-   "why": "missing"
-  },
-  {
-   "id": "45109202",
-   "why": "missing"
-  },
-  {
-   "id": "45109392",
-   "why": "missing"
-  },
-  {
-   "id": "45109234",
-   "why": "missing"
-  },
-  {
-   "id": "45109332",
-   "why": "missing"
-  },
-  {
-   "id": "45109399",
-   "why": "missing"
-  },
-  {
-   "id": "45109338",
-   "why": "missing"
-  },
-  {
-   "id": "45109361",
-   "why": "missing"
-  },
-  {
-   "id": "45109303",
-   "why": "missing"
-  },
-  {
-   "id": "45109187",
-   "why": "missing"
-  }
- ],
+ "dropped": [],
  "players": {
-  "45109258": {"name": "Daniss Jenkins", "pos": "PG", "team": "DET", "model": 70.0, "llm": 70.0, "reason": "Model already at max"},
-  "45109432": {"name": "Isaiah Joe", "pos": "SG", "team": "DET", "model": 54.91, "llm": 54.91, "reason": "No public chatter to adjust"},
-  "45109158": {"name": "Scottie Barnes", "pos": "PG", "team": "TOR", "model": 36.38, "llm": 36.38, "reason": "No stack signals"},
-  "45109313": {"name": "Josh Hart", "pos": "SG", "team": "NYK", "model": 34.12, "llm": 34.12, "reason": "No stack signals"},
-  "45109324": {"name": "Day'Ron Sharpe", "pos": "C", "team": "BKN", "model": 30.74, "llm": 30.74, "reason": "No stack signals"},
-  "45109237": {"name": "Ausar Thompson", "pos": "PF", "team": "DET", "model": 29.41, "llm": 29.41, "reason": "No stack signals"},
-  "45109273": {"name": "VJ Edgecombe", "pos": "PG", "team": "PHI", "model": 24.47, "llm": 24.47, "reason": "No stack signals"},
-  "45109220": {"name": "Julius Randle", "pos": "PF", "team": "BKN", "model": 20.56, "llm": 20.56, "reason": "No stack signals"},
-  "45109322": {"name": "Paul Reed", "pos": "C", "team": "DET", "model": 17.38, "llm": 17.38, "reason": "Bench player, low ownership"},
-  "45109133": {"name": "Jayson Tatum", "pos": "SF", "team": "BOS", "model": 17.01, "llm": 17.01, "reason": "High value but no stack signals"},
-  "45109223": {"name": "Immanuel Quickley", "pos": "PG", "team": "TOR", "model": 9.56, "llm": 9.56, "reason": "Model value"},
-  "45109142": {"name": "Karl-Anthony Towns", "pos": "PF", "team": "NYK", "model": 9.13, "llm": 9.13, "reason": "Model value"},
-  "45109245": {"name": "Ayo Dosunmu", "pos": "PG", "team": "MIN", "model": 8.36, "llm": 8.36, "reason": "Model value"},
-  "45109137": {"name": "Cooper Flagg", "pos": "PG", "team": "DAL", "model": 8.01, "llm": 8.01, "reason": "Model value"},
-  "45109326": {"name": "Jakob Poeltl", "pos": "C", "team": "TOR", "model": 7.79, "llm": 7.79, "reason": "Model value"},
-  "45109146": {"name": "Jalen Brunson", "pos": "PG", "team": "NYK", "model": 7.67, "llm": 7.67, "reason": "Model value"},
-  "45109262": {"name": "Andrew Nembhard", "pos": "PG", "team": "IND", "model": 7.62, "llm": 7.62, "reason": "Model value"},
-  "45109229": {"name": "Dyson Daniels", "pos": "SG", "team": "ATL", "model": 7.12, "llm": 7.12, "reason": "Model value"},
-  "45109213": {"name": "Tyler Herro", "pos": "PG", "team": "MIL", "model": 6.83, "llm": 6.83, "reason": "Model value"},
-  "45109190": {"name": "Ty Jerome", "pos": "PG", "team": "MEM", "model": 6.79, "llm": 6.79, "reason": "Model value"}
+  "45109509": {"name": "Bones Hyland", "pos": "PG", "team": "MIN", "model": 70.0, "llm": 70.0, "reason": "High ownership target, capped at model max"},
+  "45109258": {"name": "Daniss Jenkins", "pos": "PG", "team": "DET", "model": 47.61, "llm": 45.0, "reason": "Potential over\u2011owned due to rotation shift"},
+  "45109399": {"name": "Terrence Shannon Jr.", "pos": "SG", "team": "MIN", "model": 38.38, "llm": 42.0, "reason": "Stack with Murray likely boosts ownership"},
+  "45109432": {"name": "Isaiah Joe", "pos": "SG", "team": "DET", "model": 29.62, "llm": 30.0, "reason": "Low\u2011ownership sleeper, keep modest"},
+  "45109324": {"name": "Day'Ron Sharpe", "pos": "C", "team": "BKN", "model": 24.75, "llm": 28.0, "reason": "Under\u2011owned option, slight bump"},
+  "45109158": {"name": "Scottie Barnes", "pos": "PG", "team": "TOR", "model": 22.58, "llm": 26.0, "reason": "Stack potential with Herro/Green raises ownership"},
+  "45109237": {"name": "Ausar Thompson", "pos": "PF", "team": "DET", "model": 20.72, "llm": 21.0, "reason": "Cautious on upside, stay near model"},
+  "45109313": {"name": "Josh Hart", "pos": "SG", "team": "NYK", "model": 19.33, "llm": 23.0, "reason": "Knicks guard stack may lift ownership"},
+  "45109392": {"name": "Daniel Gafford", "pos": "C", "team": "DAL", "model": 17.3, "llm": 17.0, "reason": "Low\u2011ownership option stays low"},
+  "45109273": {"name": "VJ Edgecombe", "pos": "PG", "team": "PHI", "model": 17.12, "llm": 20.0, "reason": "Increased usage could push ownership up"},
+  "45109404": {"name": "Pelle Larsson", "pos": "SG", "team": "MIA", "model": 14.08, "llm": 18.0, "reason": "Under\u2011owned sleeper, efficient shooting"},
+  "45109133": {"name": "Jayson Tatum", "pos": "SF", "team": "BOS", "model": 13.69, "llm": 15.0, "reason": "Stack bump with Boston core"},
+  "45109220": {"name": "Julius Randle", "pos": "PF", "team": "BKN", "model": 12.84, "llm": 13.0, "reason": "Lever piece but high salary keeps moderate"},
+  "45109322": {"name": "Paul Reed", "pos": "C", "team": "DET", "model": 12.3, "llm": 14.0, "reason": "Rotation shift gives slight ownership boost"},
+  "45109332": {"name": "Neemias Queta", "pos": "C", "team": "BOS", "model": 11.22, "llm": 12.0, "reason": "Under\u2011owned, limited minutes on BOS"},
+  "45109202": {"name": "Pascal Siakam", "pos": "PF", "team": "IND", "model": 11.17, "llm": 13.0, "reason": "Stack bump with Philadelphia core"},
+  "45109234": {"name": "Cedric Coward", "pos": "SG", "team": "MEM", "model": 11.01, "llm": 12.0, "reason": "No specific stack or over\u2011ownership signal"},
+  "45109245": {"name": "Ayo Dosunmu", "pos": "PG", "team": "MIN", "model": 10.73, "llm": 10.0, "reason": "Neutral, no stack mention"},
+  "45109137": {"name": "Cooper Flagg", "pos": "PG", "team": "DAL", "model": 10.19, "llm": 10.0, "reason": "Neutral, no stack mention"},
+  "45109338": {"name": "Jalen Green", "pos": "SG", "team": "PHX", "model": 9.77, "llm": 9.5, "reason": "Neutral, no stack mention"},
+  "45109187": {"name": "LeBron James", "pos": "PF", "team": "PHI", "model": 9.71, "llm": 32.0, "reason": "LeBron is a top\u2011tier pick and will likely be heavily owned"},
+  "45109303": {"name": "Kevin Huerter", "pos": "SG", "team": "DET", "model": 9.5, "llm": 12.0, "reason": "Huerter has moderate upside but not high ownership"},
+  "45109361": {"name": "Kyle Kuzma", "pos": "SF", "team": "MIL", "model": 9.35, "llm": 10.0, "reason": "Kuzma is a role player with low ownership expectation"},
+  "45109409": {"name": "Mikel Brown Jr.", "pos": "PG", "team": "BKN", "model": 9.15, "llm": 8.0, "reason": "Brown Jr. is an underdog starter, low ownership"},
+  "45109370": {"name": "Kel'el Ware", "pos": "PF", "team": "MIL", "model": 8.91, "llm": 6.0, "reason": "Ware is bench and unlikely to be owned heavily"},
+  "45109421": {"name": "Naji Marshall", "pos": "SF", "team": "DAL", "model": 8.65, "llm": 7.0, "reason": "Marshall is a bench player with minimal ownership"},
+  "45109223": {"name": "Immanuel Quickley", "pos": "PG", "team": "TOR", "model": 8.37, "llm": 15.0, "reason": "Quickley is a starter but not a top pick, moderate ownership"},
+  "45109142": {"name": "Karl-Anthony Towns", "pos": "PF", "team": "NYK", "model": 8.05, "llm": 25.0, "reason": "Towns is marked DK status Q and will likely see higher ownership"},
+  "45109198": {"name": "Jaden McDaniels", "pos": "SF", "team": "MIN", "model": 7.98, "llm": 12.0, "reason": "McDaniels is a starter with modest ownership expectation"},
+  "45109229": {"name": "Dyson Daniels", "pos": "SG", "team": "ATL", "model": 7.26, "llm": 10.0, "reason": "Dyson Daniels is a starter but not a high\u2011ownership target"}
  }
 }
