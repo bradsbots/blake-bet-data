@@ -2,6 +2,55 @@
  "sport": "nba",
  "slates": [
   {
+   "slate": "156303",
+   "date": "2026-11-27",
+   "label": "NBA $200K Fadeaway [$50K to 1st]",
+   "entries": 13071,
+   "source": "live",
+   "model": "v4",
+   "predictedAt": "2026-11-27T23:45:30+00:00",
+   "lockAt": "2026-11-28T00:00:00+00:00",
+   "minutesBeforeLock": 14,
+   "n": 203,
+   "mae": 1.673,
+   "mae5": 4.816,
+   "chalkMae": 8.644,
+   "spearman": 0.9237,
+   "top10": 0.9,
+   "chalk": {
+    "n": 11,
+    "caught": 9
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Bones Hyland",
+     "pos": "ALL",
+     "team": "MIN",
+     "pred": 70.0,
+     "actual": 53.7
+    },
+    {
+     "name": "Bam Adebayo",
+     "pos": "ALL",
+     "team": "MIA",
+     "pred": 15.84,
+     "actual": 1.95
+    },
+    {
+     "name": "Isaiah Joe",
+     "pos": "ALL",
+     "team": "DET",
+     "pred": 33.98,
+     "actual": 47.76
+    }
+   ],
+   "evenSplit": {
+    "mae": 5.162,
+    "chalkMae": 32.415
+   }
+  },
+  {
    "slate": "156302",
    "date": "2026-11-25",
    "label": "NBA $150K Fadeaway [$50K to 1st]",
@@ -1278,18 +1327,18 @@
  ],
  "recent": {
   "slates": 10,
-  "n": 1634,
-  "mae": 2.579,
-  "mae5": 6.325,
-  "chalkMae": 12.124,
+  "n": 1638,
+  "mae": 2.486,
+  "mae5": 6.162,
+  "chalkMae": 11.548,
   "chalk": {
-   "n": 125,
-   "caught": 98
+   "n": 126,
+   "caught": 101
   },
   "falseChalk": 1,
   "evenSplit": {
-   "mae": 6.138,
-   "chalkMae": 28.072
+   "mae": 6.118,
+   "chalkMae": 27.894
   }
  }
 }
