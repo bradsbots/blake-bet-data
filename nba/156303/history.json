@@ -1,0 +1,364 @@
+{
+  "sport": "nba",
+  "slate": "156303",
+  "date": "2026-11-27",
+  "contest": {
+    "id": 198233333,
+    "label": "NBA $200K Fadeaway [$50K to 1st]",
+    "entries": 13071
+  },
+  "generatedAt": "2026-11-28T09:40:20.021Z",
+  "winner": {
+    "rank": 1,
+    "points": 353,
+    "salary": 50000,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 45109223,
+        "name": "Immanuel Quickley",
+        "team": "TOR",
+        "pos": "PG",
+        "salary": 7500,
+        "fpts": 65.5,
+        "own": 5.97
+      },
+      {
+        "slot": "SG",
+        "id": 45109409,
+        "name": "Mikel Brown Jr.",
+        "team": "BKN",
+        "pos": "PG",
+        "salary": 4800,
+        "fpts": 30.5,
+        "own": 7.23
+      },
+      {
+        "slot": "SF",
+        "id": 45109432,
+        "name": "Isaiah Joe",
+        "team": "DET",
+        "pos": "SG",
+        "salary": 4700,
+        "fpts": 32.25,
+        "own": 47.76
+      },
+      {
+        "slot": "PF",
+        "id": 45109187,
+        "name": "LeBron James",
+        "team": "PHI",
+        "pos": "PF",
+        "salary": 8100,
+        "fpts": 41.25,
+        "own": 13.65
+      },
+      {
+        "slot": "C",
+        "id": 45109326,
+        "name": "Jakob Poeltl",
+        "team": "TOR",
+        "pos": "C",
+        "salary": 5600,
+        "fpts": 37.25,
+        "own": 5.37
+      },
+      {
+        "slot": "G",
+        "id": 45109509,
+        "name": "Bones Hyland",
+        "team": "MIN",
+        "pos": "PG",
+        "salary": 4100,
+        "fpts": 27,
+        "own": 53.7
+      },
+      {
+        "slot": "F",
+        "id": 45109137,
+        "name": "Cooper Flagg",
+        "team": "DAL",
+        "pos": "PG",
+        "salary": 9700,
+        "fpts": 72.25,
+        "own": 19.04
+      },
+      {
+        "slot": "UTIL",
+        "id": 45109332,
+        "name": "Neemias Queta",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 5500,
+        "fpts": 47,
+        "own": 21.5
+      }
+    ]
+  },
+  "optimal": {
+    "points": 383.5,
+    "salary": 48500,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 45109663,
+        "name": "EJ Harkless",
+        "team": "DET",
+        "pos": "PG",
+        "salary": 3400,
+        "fpts": 36,
+        "own": 0.1
+      },
+      {
+        "slot": "SG",
+        "id": 45109285,
+        "name": "Cam Spencer",
+        "team": "MEM",
+        "pos": "PG",
+        "salary": 6000,
+        "fpts": 39.5,
+        "own": 0.42
+      },
+      {
+        "slot": "SF",
+        "id": 45109298,
+        "name": "Jaime Jaquez Jr.",
+        "team": "MIL",
+        "pos": "SG",
+        "salary": 5700,
+        "fpts": 39.25,
+        "own": 1.26
+      },
+      {
+        "slot": "PF",
+        "id": 45109597,
+        "name": "Dominick Barlow",
+        "team": "PHI",
+        "pos": "PF",
+        "salary": 3700,
+        "fpts": 31.5,
+        "own": 2.93
+      },
+      {
+        "slot": "C",
+        "id": 45109332,
+        "name": "Neemias Queta",
+        "team": "BOS",
+        "pos": "C",
+        "salary": 5500,
+        "fpts": 47,
+        "own": 21.5
+      },
+      {
+        "slot": "G",
+        "id": 45109223,
+        "name": "Immanuel Quickley",
+        "team": "TOR",
+        "pos": "PG",
+        "salary": 7500,
+        "fpts": 65.5,
+        "own": 5.97
+      },
+      {
+        "slot": "F",
+        "id": 45109137,
+        "name": "Cooper Flagg",
+        "team": "DAL",
+        "pos": "PG",
+        "salary": 9700,
+        "fpts": 72.25,
+        "own": 19.04
+      },
+      {
+        "slot": "UTIL",
+        "id": 45109245,
+        "name": "Ayo Dosunmu",
+        "team": "MIN",
+        "pos": "PG",
+        "salary": 7000,
+        "fpts": 52.5,
+        "own": 21.09
+      }
+    ],
+    "assumedZero": 91
+  },
+  "paper": {
+    "variant": "defaults",
+    "lineup": 1,
+    "finish": 9633,
+    "pctile": 26,
+    "points": 223,
+    "salary": 49900,
+    "players": [
+      {
+        "slot": "PG",
+        "id": 45109158,
+        "name": "Scottie Barnes",
+        "team": "TOR",
+        "pos": "PG",
+        "salary": 9100,
+        "fpts": 48.25,
+        "own": 34.77
+      },
+      {
+        "slot": "SG",
+        "id": 45109258,
+        "name": "Daniss Jenkins",
+        "team": "DET",
+        "pos": "PG",
+        "salary": 6600,
+        "fpts": 24,
+        "own": 65.39
+      },
+      {
+        "slot": "SF",
+        "id": 45109432,
+        "name": "Isaiah Joe",
+        "team": "DET",
+        "pos": "SG",
+        "salary": 4700,
+        "fpts": 32.25,
+        "own": 47.76
+      },
+      {
+        "slot": "PF",
+        "id": 45109237,
+        "name": "Ausar Thompson",
+        "team": "DET",
+        "pos": "PF",
+        "salary": 7100,
+        "fpts": 27,
+        "own": 31.93
+      },
+      {
+        "slot": "C",
+        "id": 45109324,
+        "name": "Day'Ron Sharpe",
+        "team": "BKN",
+        "pos": "C",
+        "salary": 5800,
+        "fpts": 20,
+        "own": 24.74
+      },
+      {
+        "slot": "G",
+        "id": 45109509,
+        "name": "Bones Hyland",
+        "team": "MIN",
+        "pos": "PG",
+        "salary": 4100,
+        "fpts": 27,
+        "own": 53.7
+      },
+      {
+        "slot": "F",
+        "id": 45109202,
+        "name": "Pascal Siakam",
+        "team": "IND",
+        "pos": "PF",
+        "salary": 7700,
+        "fpts": 18,
+        "own": 11.28
+      },
+      {
+        "slot": "UTIL",
+        "id": 45109399,
+        "name": "Terrence Shannon Jr.",
+        "team": "MIN",
+        "pos": "SG",
+        "salary": 4800,
+        "fpts": 26.5,
+        "own": 43.06
+      }
+    ],
+    "money": {
+      "fee": 18,
+      "one": {
+        "won": 0,
+        "net": -18
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -18
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 30,
+        "net": -330,
+        "cashed": 1
+      }
+    }
+  },
+  "observationOnly": false,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "TOR": 2,
+        "BKN": 1,
+        "BOS": 1,
+        "DAL": 1,
+        "DET": 1,
+        "MIN": 1,
+        "PHI": 1
+      },
+      "games": {
+        "BKN@TOR": 3,
+        "ATL@BOS": 1,
+        "DAL@PHX": 1,
+        "MEM@MIN": 1,
+        "MIL@DET": 1,
+        "PHI@IND": 1
+      },
+      "nGames": 6,
+      "summary": [
+        "TOR 2",
+        "6 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "BOS": 1,
+        "DAL": 1,
+        "DET": 1,
+        "MEM": 1,
+        "MIL": 1,
+        "MIN": 1,
+        "PHI": 1,
+        "TOR": 1
+      },
+      "games": {
+        "MEM@MIN": 2,
+        "MIL@DET": 2,
+        "ATL@BOS": 1,
+        "BKN@TOR": 1,
+        "DAL@PHX": 1,
+        "PHI@IND": 1
+      },
+      "nGames": 6,
+      "summary": [
+        "no team stack",
+        "6 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "DET": 3,
+        "MIN": 2,
+        "BKN": 1,
+        "IND": 1,
+        "TOR": 1
+      },
+      "games": {
+        "MIL@DET": 3,
+        "BKN@TOR": 2,
+        "MEM@MIN": 2,
+        "PHI@IND": 1
+      },
+      "nGames": 4,
+      "summary": [
+        "DET 3 · MIN 2",
+        "4 games"
+      ]
+    }
+  }
+}
