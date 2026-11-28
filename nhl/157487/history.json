@@ -1,0 +1,433 @@
+{
+  "sport": "nhl",
+  "slate": "157487",
+  "date": "2026-11-27",
+  "contest": {
+    "id": 198220814,
+    "label": "NHL $20K Overload [$5K to 1st]",
+    "entries": 1176
+  },
+  "generatedAt": "2026-11-28T09:40:31.905Z",
+  "winner": {
+    "rank": 1,
+    "points": 162.6,
+    "salary": 49600,
+    "players": [
+      {
+        "slot": "C",
+        "id": 45128900,
+        "name": "Mikael Granlund",
+        "team": "ANA",
+        "pos": "C",
+        "salary": 5600,
+        "fpts": 12.8,
+        "own": 8.67
+      },
+      {
+        "slot": "C",
+        "id": 45128910,
+        "name": "Brock Nelson",
+        "team": "COL",
+        "pos": "C",
+        "salary": 4900,
+        "fpts": 9.3,
+        "own": 3.32
+      },
+      {
+        "slot": "W",
+        "id": 45129046,
+        "name": "Kyle Connor",
+        "team": "WPG",
+        "pos": "W",
+        "salary": 7800,
+        "fpts": 41.5,
+        "own": 14.46
+      },
+      {
+        "slot": "W",
+        "id": 45129070,
+        "name": "Artturi Lehkonen",
+        "team": "COL",
+        "pos": "W",
+        "salary": 5600,
+        "fpts": 25.3,
+        "own": 2.64
+      },
+      {
+        "slot": "W",
+        "id": 45129132,
+        "name": "T.J. Hughes",
+        "team": "COL",
+        "pos": "W",
+        "salary": 3700,
+        "fpts": 25.5,
+        "own": 1.03
+      },
+      {
+        "slot": "D",
+        "id": 45129366,
+        "name": "Josh Morrissey",
+        "team": "WPG",
+        "pos": "D",
+        "salary": 5500,
+        "fpts": 12.8,
+        "own": 7.4
+      },
+      {
+        "slot": "D",
+        "id": 45129460,
+        "name": "Artyom Levshunov",
+        "team": "CHI",
+        "pos": "D",
+        "salary": 2800,
+        "fpts": 4.1,
+        "own": 0.77
+      },
+      {
+        "slot": "G",
+        "id": 45129628,
+        "name": "Stuart Skinner",
+        "team": "WPG",
+        "pos": "G",
+        "salary": 7300,
+        "fpts": 20.7,
+        "own": 8.5
+      },
+      {
+        "slot": "UTIL",
+        "id": 45128892,
+        "name": "Mark Scheifele",
+        "team": "WPG",
+        "pos": "C",
+        "salary": 6400,
+        "fpts": 10.6,
+        "own": 11.48
+      }
+    ]
+  },
+  "optimal": {
+    "points": 239.3,
+    "salary": 46800,
+    "players": [
+      {
+        "slot": "C",
+        "id": 45128888,
+        "name": "Joel Eriksson Ek",
+        "team": "MIN",
+        "pos": "C",
+        "salary": 6600,
+        "fpts": 28.8,
+        "own": 10.71
+      },
+      {
+        "slot": "C",
+        "id": 45128916,
+        "name": "Matty Beniers",
+        "team": "SEA",
+        "pos": "C",
+        "salary": 4400,
+        "fpts": 21.8,
+        "own": 1.54
+      },
+      {
+        "slot": "W",
+        "id": 45129070,
+        "name": "Artturi Lehkonen",
+        "team": "COL",
+        "pos": "W",
+        "salary": 5600,
+        "fpts": 25.3,
+        "own": 2.64
+      },
+      {
+        "slot": "W",
+        "id": 45129132,
+        "name": "T.J. Hughes",
+        "team": "COL",
+        "pos": "W",
+        "salary": 3700,
+        "fpts": 25.5,
+        "own": 1.03
+      },
+      {
+        "slot": "W",
+        "id": 45129046,
+        "name": "Kyle Connor",
+        "team": "WPG",
+        "pos": "W",
+        "salary": 7800,
+        "fpts": 41.5,
+        "own": 14.46
+      },
+      {
+        "slot": "D",
+        "id": 45129478,
+        "name": "Stian Solberg",
+        "team": "ANA",
+        "pos": "D",
+        "salary": 2700,
+        "fpts": 29.9,
+        "own": 3.83
+      },
+      {
+        "slot": "D",
+        "id": 45129380,
+        "name": "Vince Dunn",
+        "team": "SEA",
+        "pos": "D",
+        "salary": 4600,
+        "fpts": 19,
+        "own": 1.11
+      },
+      {
+        "slot": "G",
+        "id": 45129630,
+        "name": "Spencer Knight",
+        "team": "CHI",
+        "pos": "G",
+        "salary": 7200,
+        "fpts": 23.5,
+        "own": 5.87
+      },
+      {
+        "slot": "UTIL",
+        "id": 45128920,
+        "name": "Ben Kindel",
+        "team": "PIT",
+        "pos": "C",
+        "salary": 4200,
+        "fpts": 24,
+        "own": 1.36
+      }
+    ],
+    "assumedZero": 159
+  },
+  "paper": {
+    "variant": "stack",
+    "lineup": 4,
+    "finish": 408,
+    "pctile": 65.39,
+    "points": 87.9,
+    "salary": 49800,
+    "players": [
+      {
+        "slot": "C",
+        "id": 45128900,
+        "name": "Mikael Granlund",
+        "team": "ANA",
+        "pos": "C",
+        "salary": 5600,
+        "fpts": 12.8,
+        "own": 8.67
+      },
+      {
+        "slot": "C",
+        "id": 45128880,
+        "name": "Leon Draisaitl",
+        "team": "EDM",
+        "pos": "C",
+        "salary": 8500,
+        "fpts": 14.5,
+        "own": 26.45
+      },
+      {
+        "slot": "W",
+        "id": 45129172,
+        "name": "Alex Killorn",
+        "team": "ANA",
+        "pos": "W",
+        "salary": 3100,
+        "fpts": 5,
+        "own": 7.65
+      },
+      {
+        "slot": "W",
+        "id": 45129074,
+        "name": "Jack Quinn",
+        "team": "BUF",
+        "pos": "W",
+        "salary": 5500,
+        "fpts": 11,
+        "own": 12.67
+      },
+      {
+        "slot": "W",
+        "id": 45129174,
+        "name": "Josh Doan",
+        "team": "BUF",
+        "pos": "W",
+        "salary": 3100,
+        "fpts": 8,
+        "own": 29.08
+      },
+      {
+        "slot": "D",
+        "id": 45129370,
+        "name": "Jackson LaCombe",
+        "team": "ANA",
+        "pos": "D",
+        "salary": 5100,
+        "fpts": 8,
+        "own": 8.76
+      },
+      {
+        "slot": "D",
+        "id": 45129354,
+        "name": "Evan Bouchard",
+        "team": "EDM",
+        "pos": "D",
+        "salary": 7400,
+        "fpts": 8,
+        "own": 15.31
+      },
+      {
+        "slot": "G",
+        "id": 45129601,
+        "name": "Tristan Jarry",
+        "team": "EDM",
+        "pos": "G",
+        "salary": 8400,
+        "fpts": 9.1,
+        "own": 6.55
+      },
+      {
+        "slot": "UTIL",
+        "id": 45128938,
+        "name": "Jiri Kulich",
+        "team": "BUF",
+        "pos": "C",
+        "salary": 3100,
+        "fpts": 11.5,
+        "own": 35.72
+      }
+    ],
+    "money": {
+      "fee": 20,
+      "one": {
+        "won": 0,
+        "net": -20
+      },
+      "oneDefaults": {
+        "won": 0,
+        "net": -20
+      },
+      "portfolio": {
+        "n": 20,
+        "won": 60,
+        "net": -340,
+        "cashed": 2
+      }
+    }
+  },
+  "observationOnly": false,
+  "stacks": {
+    "winner": {
+      "teams": {
+        "WPG": 4,
+        "COL": 3,
+        "ANA": 1,
+        "CHI": 1
+      },
+      "games": {
+        "WPG@NYI": 4,
+        "COL@MIN": 3,
+        "LAK@ANA": 1,
+        "NYR@CHI": 1
+      },
+      "nGames": 4,
+      "lines": {
+        "COL f1": 2,
+        "WPG f1": 2
+      },
+      "pp": {
+        "COL pp2": 3,
+        "WPG pp1": 3
+      },
+      "goalie": {
+        "team": "WPG",
+        "opposing": 0
+      },
+      "summary": [
+        "WPG 4 · COL 3",
+        "COL f1 ×2",
+        "WPG f1 ×2",
+        "COL pp2 ×3",
+        "WPG pp1 ×3",
+        "G WPG",
+        "4 games"
+      ]
+    },
+    "optimal": {
+      "teams": {
+        "COL": 2,
+        "SEA": 2,
+        "ANA": 1,
+        "CHI": 1,
+        "MIN": 1,
+        "PIT": 1,
+        "WPG": 1
+      },
+      "games": {
+        "COL@MIN": 3,
+        "SEA@EDM": 2,
+        "LAK@ANA": 1,
+        "NYR@CHI": 1,
+        "PIT@BUF": 1,
+        "WPG@NYI": 1
+      },
+      "nGames": 6,
+      "lines": {},
+      "pp": {
+        "COL pp2": 2,
+        "SEA pp1": 2
+      },
+      "goalie": {
+        "team": "CHI",
+        "opposing": 0
+      },
+      "summary": [
+        "COL 2 · SEA 2",
+        "COL pp2 ×2",
+        "SEA pp1 ×2",
+        "G CHI",
+        "6 games"
+      ]
+    },
+    "paper": {
+      "teams": {
+        "ANA": 3,
+        "BUF": 3,
+        "EDM": 3
+      },
+      "games": {
+        "LAK@ANA": 3,
+        "PIT@BUF": 3,
+        "SEA@EDM": 3
+      },
+      "nGames": 3,
+      "lines": {
+        "ANA f1": 2,
+        "BUF f1": 2
+      },
+      "pp": {
+        "ANA pp1": 3,
+        "BUF pp1": 3,
+        "EDM pp1": 2
+      },
+      "goalie": {
+        "team": "EDM",
+        "opposing": 0
+      },
+      "summary": [
+        "ANA 3 · BUF 3 · EDM 3",
+        "ANA f1 ×2",
+        "BUF f1 ×2",
+        "ANA pp1 ×3",
+        "BUF pp1 ×3",
+        "EDM pp1 ×2",
+        "G EDM",
+        "3 games"
+      ]
+    }
+  }
+}
