@@ -1,0 +1,131 @@
+{
+ "archivedAt": "2026-11-28T00:00:12+00:00",
+ "days": 3,
+ "bytes": 623228,
+ "removed": [
+  {
+   "path": "snapshots/20261124T150008Z.json",
+   "bytes": 9053
+  },
+  {
+   "path": "snapshots/20261124T160024Z.json",
+   "bytes": 9053
+  },
+  {
+   "path": "snapshots/20261124T170022Z.json",
+   "bytes": 9441
+  },
+  {
+   "path": "snapshots/20261124T180005Z.json",
+   "bytes": 9627
+  },
+  {
+   "path": "snapshots/20261124T190035Z.json",
+   "bytes": 9626
+  },
+  {
+   "path": "snapshots/20261124T200004Z.json",
+   "bytes": 9630
+  },
+  {
+   "path": "snapshots/20261124T210006Z.json",
+   "bytes": 9629
+  },
+  {
+   "path": "snapshots/20261124T220040Z.json",
+   "bytes": 9631
+  },
+  {
+   "path": "snapshots/20261124T221505Z.json",
+   "bytes": 9633
+  },
+  {
+   "path": "snapshots/20261124T223047Z.json",
+   "bytes": 9634
+  },
+  {
+   "path": "snapshots/20261124T224505Z.json",
+   "bytes": 9634
+  },
+  {
+   "path": "snapshots/20261124T230100Z.json",
+   "bytes": 9636
+  },
+  {
+   "path": "snapshots/20261124T231526Z.json",
+   "bytes": 9632
+  },
+  {
+   "path": "snapshots/20261124T233029Z.json",
+   "bytes": 9629
+  },
+  {
+   "path": "snapshots/20261124T234526Z.json",
+   "bytes": 6363
+  },
+  {
+   "path": "sportsline/20261124T150009Z.json",
+   "bytes": 32148
+  },
+  {
+   "path": "sportsline/20261124T160026Z.json",
+   "bytes": 32152
+  },
+  {
+   "path": "sportsline/20261124T170024Z.json",
+   "bytes": 32152
+  },
+  {
+   "path": "sportsline/20261124T180007Z.json",
+   "bytes": 32148
+  },
+  {
+   "path": "sportsline/20261124T190037Z.json",
+   "bytes": 32148
+  },
+  {
+   "path": "sportsline/20261124T200006Z.json",
+   "bytes": 32149
+  },
+  {
+   "path": "sportsline/20261124T210008Z.json",
+   "bytes": 32149
+  },
+  {
+   "path": "sportsline/20261124T220041Z.json",
+   "bytes": 32149
+  },
+  {
+   "path": "sportsline/20261124T221506Z.json",
+   "bytes": 32147
+  },
+  {
+   "path": "sportsline/20261124T223048Z.json",
+   "bytes": 32147
+  },
+  {
+   "path": "sportsline/20261124T224506Z.json",
+   "bytes": 32147
+  },
+  {
+   "path": "sportsline/20261124T230101Z.json",
+   "bytes": 32147
+  },
+  {
+   "path": "sportsline/20261124T231527Z.json",
+   "bytes": 32146
+  },
+  {
+   "path": "sportsline/20261124T233030Z.json",
+   "bytes": 32146
+  },
+  {
+   "path": "sportsline/20261124T234527Z.json",
+   "bytes": 32146
+  },
+  {
+   "path": "timeline.json",
+   "bytes": 1156
+  }
+ ]
+}
