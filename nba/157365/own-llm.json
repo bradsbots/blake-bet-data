@@ -1,0 +1,127 @@
+{
+ "sport": "nba",
+ "slate": "157365",
+ "llm": "gpt-oss:20b",
+ "promptVersion": 3,
+ "mode": "search",
+ "calledAt": "2026-11-28T14:00:38+00:00",
+ "finishedAt": "2026-11-28T14:00:50+00:00",
+ "lockAt": "2026-11-28T22:00:00+00:00",
+ "minutesBeforeLock": 479,
+ "slateExportedAt": "2026-11-28T00:00:10.518723+00:00",
+ "modelCall": {
+  "model": "v4",
+  "predictedAt": "2026-11-28T00:00:12+00:00"
+ },
+ "cap": 70.0,
+ "complete": true,
+ "seconds": 12.0,
+ "asked": 30,
+ "kept": 10,
+ "echo": 10,
+ "searches": [
+  "DraftKings NBA classic slate 157365 ownership talk",
+  "Shai Gilgeous-Alexander DraftKings ownership November 28 2026"
+ ],
+ "searchBackends": [
+  "tavily",
+  "tavily"
+ ],
+ "keyedSearch": true,
+ "refusedSearches": [],
+ "availabilityCut": 0.02,
+ "dropped": [
+  {
+   "id": "45135196",
+   "why": "missing"
+  },
+  {
+   "id": "45135203",
+   "why": "missing"
+  },
+  {
+   "id": "45135199",
+   "why": "missing"
+  },
+  {
+   "id": "45135207",
+   "why": "missing"
+  },
+  {
+   "id": "45135225",
+   "why": "missing"
+  },
+  {
+   "id": "45135219",
+   "why": "missing"
+  },
+  {
+   "id": "45135211",
+   "why": "missing"
+  },
+  {
+   "id": "45135239",
+   "why": "missing"
+  },
+  {
+   "id": "45135236",
+   "why": "missing"
+  },
+  {
+   "id": "45135232",
+   "why": "missing"
+  },
+  {
+   "id": "45135250",
+   "why": "missing"
+  },
+  {
+   "id": "45135289",
+   "why": "missing"
+  },
+  {
+   "id": "45135229",
+   "why": "missing"
+  },
+  {
+   "id": "45135255",
+   "why": "missing"
+  },
+  {
+   "id": "45135270",
+   "why": "missing"
+  },
+  {
+   "id": "45135247",
+   "why": "missing"
+  },
+  {
+   "id": "45135323",
+   "why": "missing"
+  },
+  {
+   "id": "45135304",
+   "why": "missing"
+  },
+  {
+   "id": "45135300",
+   "why": "missing"
+  },
+  {
+   "id": "45135260",
+   "why": "missing"
+  }
+ ],
+ "players": {
+  "45135326": {"name": "Moussa Diabate", "pos": "C", "team": "CHA", "model": 9.21, "llm": 9.21, "reason": "Model aligns with no public data"},
+  "45135400": {"name": "Kelly Oubre Jr.", "pos": "SG", "team": "IND", "model": 9.18, "llm": 9.18, "reason": "Model aligns with no public data"},
+  "45135345": {"name": "Day'Ron Sharpe", "pos": "C", "team": "BKN", "model": 8.74, "llm": 8.74, "reason": "Model aligns with no public data"},
+  "45135292": {"name": "Ajay Mitchell", "pos": "PG", "team": "OKC", "model": 8.71, "llm": 8.71, "reason": "Model aligns with no public data"},
+  "45135336": {"name": "Coby White", "pos": "PG", "team": "CHA", "model": 8.7, "llm": 8.7, "reason": "Model aligns with no public data"},
+  "45135278": {"name": "Andrew Nembhard", "pos": "PG", "team": "IND", "model": 8.67, "llm": 8.67, "reason": "Model aligns with no public data"},
+  "45135347": {"name": "Brayden Burries", "pos": "PG", "team": "MIL", "model": 8.58, "llm": 8.58, "reason": "Model aligns with no public data"},
+  "45135287": {"name": "Isaiah Hartenstein", "pos": "C", "team": "OKC", "model": 8.25, "llm": 8.25, "reason": "Model aligns with no public data"},
+  "45135263": {"name": "Amen Thompson", "pos": "PG", "team": "HOU", "model": 8.15, "llm": 8.15, "reason": "Model aligns with no public data"},
+  "45135358": {"name": "Jalen Suggs", "pos": "PG", "team": "ORL", "model": 7.91, "llm": 7.91, "reason": "Model aligns with no public data"}
+ }
+}
