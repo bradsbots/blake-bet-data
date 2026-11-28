@@ -2,6 +2,55 @@
  "sport": "nhl",
  "slates": [
   {
+   "slate": "157487",
+   "date": "2026-11-27",
+   "label": "NHL $20K Overload [$5K to 1st]",
+   "entries": 1176,
+   "source": "live",
+   "model": "v3",
+   "predictedAt": "2026-11-27T20:00:42+00:00",
+   "lockAt": "2026-11-27T21:00:00+00:00",
+   "minutesBeforeLock": 59,
+   "n": 345,
+   "mae": 1.077,
+   "mae5": 3.476,
+   "chalkMae": 10.982,
+   "spearman": 0.9175,
+   "top10": 0.6,
+   "chalk": {
+    "n": 6,
+    "caught": 3
+   },
+   "falseChalk": 0,
+   "misses": [
+    {
+     "name": "Josh Doan",
+     "pos": "W",
+     "team": "BUF",
+     "pred": 9.06,
+     "actual": 29.08
+    },
+    {
+     "name": "Jiri Kulich",
+     "pos": "C",
+     "team": "BUF",
+     "pred": 19.07,
+     "actual": 35.72
+    },
+    {
+     "name": "Tage Thompson",
+     "pos": "W",
+     "team": "BUF",
+     "pred": 11.39,
+     "actual": 26.19
+    }
+   ],
+   "evenSplit": {
+    "mae": 3.106,
+    "chalkMae": 25.027
+   }
+  },
+  {
    "slate": "156971",
    "date": "2026-11-25",
    "label": "NHL $30K Overload [$10K to 1st]",
@@ -1915,18 +1964,18 @@
  ],
  "recent": {
   "slates": 10,
-  "n": 4014,
-  "mae": 0.919,
-  "mae5": 3.562,
-  "chalkMae": 6.608,
+  "n": 3774,
+  "mae": 0.952,
+  "mae5": 3.534,
+  "chalkMae": 6.922,
   "chalk": {
-   "n": 67,
-   "caught": 55
+   "n": 72,
+   "caught": 58
   },
   "falseChalk": 1,
   "evenSplit": {
-   "mae": 2.64,
-   "chalkMae": 22.222
+   "mae": 2.808,
+   "chalkMae": 22.481
   }
  }
 }
