@@ -1,6 +1,25 @@
 [
   {
     "sport": "nba",
+    "site": "fd",
+    "slate": "137257",
+    "date": "2026-11-27",
+    "label": "$111K Fri NBA Shot ($20K to 1st)",
+    "contestId": 281757881,
+    "entries": 13959,
+    "winnerPoints": 418.2,
+    "optimalPoints": 452.3,
+    "paperPoints": 305.9,
+    "paperPctile": 54.64,
+    "paperNet1": -9,
+    "paperNet1Defaults": -9,
+    "portfolioNet": -11,
+    "portfolioCashed": 1,
+    "portfolioN": 3,
+    "observationOnly": false
+  },
+  {
+    "sport": "nba",
     "slate": "156303",
     "date": "2026-11-27",
     "label": "NBA $200K Fadeaway [$50K to 1st]",
